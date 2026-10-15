@@ -517,13 +517,15 @@ tbody tr:hover td.stick { background: var(--surface-2); }
     if (h) return `${h} ч ${mm} мин`;
     return `${mm} мин`;
   }
+  // живой таймер: время конца берётся из API (абсолютное), отсчёт идёт по часам зрителя
+  const cd = (ms) => `<span class="cd" data-until="${ms}">${left(ms - Date.now())}</span>`;
   function nameChips(list, max = 14) {
     const chip = (x) => `<a class="nchip" href="#p-${tagId(x.p.tag)}">${esc(dn(x.p))}${x.note ? ` <span>${x.note}</span>` : ""}</a>`;
     return `<div class="nchips">${list.map(chip).join("")}</div>`;
   }
   function whoList(title, list, cls) {
     if (!list.length) return "";
-    return `<details class="who ${cls || ""}"${list.length <= 12 ? " open" : ""}><summary>${title} <b>${list.length}</b></summary>${nameChips(list)}</details>`;
+    return `<details class="who ${cls || ""}" data-k="${esc(title)}"><summary>${title} <b>${list.length}</b></summary>${nameChips(list)}</details>`;
   }
   function warCard() {
     const now = Date.now();
@@ -533,8 +535,8 @@ tbody tr:hover td.stick { background: var(--surface-2); }
     if (!w) return `<div class="lcard"><div class="lhead"><span class="lk">Война</span></div><p class="lempty">Сейчас войны нет. Как только клан начнёт КВ или ЛВК, здесь появится счёт.</p></div>`;
     const kind = w.type === "cwl" ? `ЛВК · день ${w.round}` : "КВ";
     let status, when;
-    if (w.state === "preparation") { status = '<span class="chip neutral">Подготовка</span>'; when = `бой через ${left(t(w.start) - now)}`; }
-    else if (w.state === "inWar") { status = '<span class="chip warn">Идёт бой</span>'; when = `до конца ${left(t(w.end) - now)}`; }
+    if (w.state === "preparation") { status = '<span class="chip neutral">Подготовка</span>'; when = `бой через ${cd(t(w.start))}`; }
+    else if (w.state === "inWar") { status = '<span class="chip warn">Идёт бой</span>'; when = `до конца ${cd(t(w.end))}`; }
     else { status = resultChip(w); when = `закончилась ${fmtDT(w.end)}`; }
     const max = (w.teamSize || w.members.length) * w.apm;
     const fight = w.state !== "preparation";
@@ -585,7 +587,7 @@ tbody tr:hover td.stick { background: var(--surface-2); }
       const canLeft = notYet.length * 5 + r.members.reduce((a, m) => a + Math.max(0, m.lim - m.a), 0);
       return `<div class="lcard">
         <div class="lhead"><span class="lk">Рейды</span><span class="chip warn">Идут</span><a class="lmore" href="#r-${r.id}">Подробнее</a></div>
-        <div class="lwhen">до конца ${left(t(r.end) - now)}</div>
+        <div class="lwhen">до конца ${cd(t(r.end))}</div>
         <div class="rbig">${n0(r.loot)} <small>золота</small></div>
         <div class="rstats">
           <span><b>${r.members.length}</b> из ${ms.length} атаковали</span>
@@ -600,7 +602,7 @@ tbody tr:hover td.stick { background: var(--surface-2); }
     const absent = last ? raidAbsent(last) : null;
     return `<div class="lcard">
       <div class="lhead"><span class="lk">Рейды</span><span class="chip neutral">Пауза</span>${last ? `<a class="lmore" href="#r-${last.id}">Прошлые</a>` : ""}</div>
-      <div class="lwhen">начнутся ${fmtDT(new Date(nextRaidStart(now)).toISOString())} · через ${left(nextRaidStart(now) - now)}</div>
+      <div class="lwhen">начнутся ${fmtDT(new Date(nextRaidStart(now)).toISOString())} · через ${cd(nextRaidStart(now))}</div>
       ${last ? `<div class="rbig">${n0(last.loot)} <small>золота за прошлые выходные</small></div>
         <div class="rstats"><span><b>${last.members.length}</b> атаковали</span><span><b>${last.attacks}</b> атак</span><span><b>${last.raids}</b> ${plural(last.raids, "столица", "столицы", "столиц")} захвачено</span></div>
         ${absent && absent.length ? whoList("Пропустили прошлые", absent.filter((p) => p.inClan).map((p) => ({ p })), "bad") : ""}` : '<p class="lempty">Данных о рейдах пока нет.</p>'}
@@ -952,6 +954,37 @@ tbody tr:hover td.stick { background: var(--surface-2); }
     const [clan, players, wars, raids, cwl] = await Promise.all(["clan.json", "players.json", "wars.json", "raids.json", "cwl.json"].map(get));
     return { clan, players, wars, raids, cwl };
   }
+  // таймеры тикают раз в 30 секунд; данные перезагружаются каждые 5 минут
+  setInterval(() => {
+    let expired = false;
+    document.querySelectorAll(".cd").forEach((el) => {
+      const ms = Number(el.dataset.until) - Date.now();
+      if (ms <= 0) expired = true;
+      el.textContent = left(ms);
+    });
+    if (expired) refresh();
+  }, 30000);
+  let refreshing = false, lastRefresh = Date.now();
+  async function refresh() {
+    if (refreshing || window.__CLAN_DATA__ || Date.now() - lastRefresh < 60000) return;
+    refreshing = true;
+    try {
+      const data = await load();
+      if (data.clan.updated !== D.clan.updated) {
+        const open = [...document.querySelectorAll("details[open][data-k]")].map((d) => d.dataset.k);
+        const y = window.scrollY;
+        D = data;
+        route();
+        open.forEach((k) => document.querySelectorAll("details[data-k]").forEach((d) => { if (d.dataset.k === k) d.open = true; }));
+        window.scrollTo(0, y);
+      }
+    } catch (e) { /* сеть пропала — попробуем позже */ }
+    lastRefresh = Date.now();
+    refreshing = false;
+  }
+  setInterval(() => { if (!document.hidden) refresh(); }, 5 * 60000);
+  document.addEventListener("visibilitychange", () => { if (!document.hidden && Date.now() - lastRefresh > 5 * 60000) refresh(); });
+
   load().then((data) => {
     D = data;
     NOW = Math.max(Date.now(), t(D.clan.updated));
