@@ -44,7 +44,7 @@ def strip(o):
 
 def signature():
     h = hashlib.sha256()
-    for f in sorted(DATA.glob("*.json")):
+    for f in sorted(DATA.rglob("*.json")):
         try:
             h.update(json.dumps(strip(json.loads(f.read_text("utf-8"))), sort_keys=True).encode())
         except Exception:

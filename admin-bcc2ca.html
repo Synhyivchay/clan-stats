@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Управление кланами</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600;700&family=Russo+One&display=swap">
+<style>
+/* Layout: тёмная шапка → форма добавления → карточки кланов сеткой. Те же токены, что у сайта статистики. */
+:root {
+  --bg: #eceff3; --surface: #ffffff; --surface-2: #f5f7fa; --ink: #141c26; --muted: #5b6878; --line: #d6dde6;
+  --accent: #b06d00; --accent-ink: #ffffff; --band: #18222f; --band-ink: #f2f5f9; --band-muted: #a3b0c1;
+  --good: #1e8a4c; --good-soft: #dcf3e5; --bad: #c43a3a; --bad-soft: #fbe2e2; --warn: #a66a00; --warn-soft: #fdf0d3;
+  --font-display: "Russo One", "Arial Black", system-ui, sans-serif;
+  --font-body: "Golos Text", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --r: 10px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e141c; --surface: #161f2a; --surface-2: #1b2532; --ink: #e6ecf3; --muted: #8e9bad; --line: #273445;
+    --accent: #f0b43c; --accent-ink: #1b1405; --band: #0a0f15; --band-ink: #f2f5f9; --band-muted: #8e9bad;
+    --good: #4cc27b; --good-soft: #15301f; --bad: #ff7070; --bad-soft: #3a1b1d; --warn: #f0b43c; --warn-soft: #3a2f17;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e141c; --surface: #161f2a; --surface-2: #1b2532; --ink: #e6ecf3; --muted: #8e9bad; --line: #273445;
+  --accent: #f0b43c; --accent-ink: #1b1405; --band: #0a0f15; --band-ink: #f2f5f9; --band-muted: #8e9bad;
+  --good: #4cc27b; --good-soft: #15301f; --bad: #ff7070; --bad-soft: #3a1b1d; --warn: #f0b43c; --warn-soft: #3a2f17;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body { background: var(--bg); color: var(--ink); font: 15px/1.45 var(--font-body); -webkit-font-smoothing: antialiased; }
+a { color: inherit; }
+button, input { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+.wrap { max-width: 1100px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.band { background: var(--band); color: var(--band-ink); }
+.band .wrap { padding-block: 22px; display: flex; gap: 12px 20px; align-items: center; flex-wrap: wrap; }
+h1 { font-family: var(--font-display); font-weight: 400; font-size: 26px; margin: 0; }
+.band p { margin: 0; color: var(--band-muted); font-size: 13px; }
+.band .grow { flex: 1 1 260px; min-width: 0; }
+main.wrap { padding-block: 22px 60px; display: grid; gap: 18px; }
+h2 { font-family: var(--font-display); font-weight: 400; font-size: 19px; margin: 0; }
+.sub { color: var(--muted); font-size: 13px; margin: 0; max-width: 72ch; }
+
+.add { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 14px 16px; display: grid; gap: 10px; }
+.add form { display: flex; gap: 8px; flex-wrap: wrap; }
+.add input { flex: 1 1 220px; min-width: 0; max-width: 340px; background: var(--surface-2); border: 1px solid var(--line); border-radius: 8px; padding: 9px 12px; font-size: 15px; text-transform: uppercase; }
+.btn { appearance: none; border: 1px solid var(--line); background: var(--surface); border-radius: 8px; padding: 8px 14px; font-weight: 600; font-size: 14px; cursor: pointer; text-decoration: none; display: inline-flex; align-items: center; gap: 6px; }
+.btn:hover { border-color: var(--accent); }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.btn.small { padding: 5px 10px; font-size: 13px; }
+.err { color: var(--bad); font-size: 13px; margin: 0; }
+
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 12px; }
+.clan { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 14px 16px; display: grid; gap: 10px; align-content: start; min-width: 0; }
+.clan.off { opacity: .75; }
+.chead { display: flex; gap: 12px; align-items: center; min-width: 0; }
+.chead img, .chead .ph { width: 44px; height: 44px; flex: none; object-fit: contain; border-radius: 8px; }
+.chead .ph { background: var(--surface-2); border: 1px solid var(--line); display: grid; place-items: center; font-family: var(--font-display); color: var(--muted); }
+.cname { font-weight: 700; font-size: 16px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.ctag { color: var(--muted); font-size: 13px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { display: inline-block; font-size: 12px; font-weight: 700; padding: 2px 9px; border-radius: 99px; }
+.chip.good { background: var(--good-soft); color: var(--good); }
+.chip.bad { background: var(--bad-soft); color: var(--bad); }
+.chip.warn { background: var(--warn-soft); color: var(--warn); }
+.chip.neutral { background: var(--surface-2); color: var(--muted); border: 1px solid var(--line); }
+.facts { display: grid; grid-template-columns: auto 1fr; gap: 3px 12px; font-size: 13px; font-variant-numeric: tabular-nums; }
+.facts dt { color: var(--muted); }
+.facts dd { margin: 0; font-weight: 600; text-align: right; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.acts { display: flex; flex-wrap: wrap; gap: 6px; border-top: 1px solid var(--line); padding-top: 10px; }
+.acts .open { margin-left: auto; }
+.empty { color: var(--muted); padding: 24px; text-align: center; background: var(--surface); border: 1px dashed var(--line); border-radius: var(--r); }
+
+/* подсказка, что нажать на GitHub */
+.howto { position: fixed; left: 0; right: 0; bottom: 0; z-index: 10; background: var(--band); color: var(--band-ink); border-top: 2px solid var(--accent);
+  padding-block: 14px calc(14px + env(safe-area-inset-bottom, 0px)); }
+.howto .wrap { display: grid; gap: 8px; }
+.howto ol { margin: 0; padding-left: 20px; font-size: 14px; display: grid; gap: 2px; }
+.howto code { background: rgba(255,255,255,.1); padding: 1px 6px; border-radius: 5px; font-size: 13px; }
+.howto .row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.howto .x { margin-left: auto; color: var(--band-ink); background: transparent; border-color: rgba(255,255,255,.2); }
+.note { font-size: 12px; color: var(--muted); }
+@media (max-width: 560px) { .grid { grid-template-columns: 1fr; } .acts .open { margin-left: 0; } }
+</style>
+</head>
+<body>
+<header class="band"><div class="wrap">
+  <div class="grow"><h1>Управление кланами</h1><p>Страница не связана с сайтом ссылками и скрыта от поисковиков. Изменения подтверждаются на GitHub — сделать их можешь только ты.</p></div>
+  <button class="btn small" type="button" id="reload" style="color:var(--band-ink);background:transparent;border-color:rgba(255,255,255,.25)">Обновить</button>
+</div></header>
+<main class="wrap">
+  <section class="add" aria-labelledby="add-h">
+    <h2 id="add-h">Добавить клан</h2>
+    <form id="add-form" autocomplete="off">
+      <input id="add-tag" placeholder="#280L809U9" aria-label="Тег клана" maxlength="13">
+      <button class="btn primary" type="submit">Добавить</button>
+    </form>
+    <p class="err" id="add-err" hidden></p>
+    <p class="sub">Тег есть в профиле клана в игре, под названием. Новый клан появится на сайте через 5–10 минут; статистика войн копится с момента добавления, рейды подтянутся сразу.</p>
+  </section>
+  <section aria-labelledby="list-h" style="display:grid;gap:12px">
+    <h2 id="list-h">Кланы</h2>
+    <div class="grid" id="list"><div class="empty">Загружаю список…</div></div>
+  </section>
+</main>
+<div class="howto" id="howto" hidden><div class="wrap"></div></div>
+
+<script>
+(function () {
+  "use strict";
+  // ссылка на запуск «Управление кланами» в репозитории
+  const REPO = (() => {
+    const m = location.hostname.match(/^([^.]+)\.github\.io$/);
+    const repo = location.pathname.split("/").filter(Boolean)[0];
+    return m && repo ? `https://github.com/${m[1]}/${repo}` : "https://github.com/Synhyivchay/clan-stats";
+  })();
+  const WF = `${REPO}/actions/workflows/manage.yml`;
+  const ACTION_RU = {
+    add: "добавить клан", "collect-off": "остановить сбор", "collect-on": "включить сбор",
+    hide: "скрыть страницу", show: "показать страницу", remove: "убрать из списка", default: "сделать основным",
+  };
+
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const t = (s) => (s ? Date.parse(s) : 0);
+  const n0 = (x) => (x == null ? "—" : Math.round(x).toLocaleString("ru-RU"));
+  const ago = (s) => {
+    if (!s) return "—";
+    const m = Math.round((Date.now() - t(s)) / 6e4);
+    if (m < 1) return "только что";
+    if (m < 60) return `${m} мин назад`;
+    if (m < 1440) return `${Math.floor(m / 60)} ч назад`;
+    return new Date(s).toLocaleDateString("ru-RU", { day: "numeric", month: "short" });
+  };
+  const normTag = (s) => {
+    let v = String(s || "").trim().toUpperCase().replace(/O/g, "0").replace(/\s/g, "");
+    if (!v.startsWith("#")) v = "#" + v;
+    return /^#[0289PYLQGRJCUV]{3,12}$/.test(v) ? v : null;
+  };
+  const getJ = (p) => fetch(`${p}?v=${Math.floor(Date.now() / 6e4)}`).then((r) => (r.ok ? r.json() : null)).catch(() => null);
+
+  async function render() {
+    const list = document.getElementById("list");
+    const reg = await getJ("data/clans.json");
+    if (!reg) { list.innerHTML = '<div class="empty">Список кланов ещё не создан. Он появится после первого запуска нового сборщика.</div>'; return; }
+    const cards = await Promise.all(reg.clans.map(async (c) => {
+      const base = `data/${c.tag.slice(1)}/`;
+      const [m, wars, raids] = await Promise.all([getJ(base + "clan.json"), getJ(base + "wars.json"), getJ(base + "raids.json")]);
+      return card(c, m, wars || [], raids || [], reg.default === c.tag);
+    }));
+    list.innerHTML = cards.join("") || '<div class="empty">Кланов нет. Добавь первый тег выше.</div>';
+  }
+
+  function card(c, m, wars, raids, isDefault) {
+    const tag = c.tag;
+    const on = c.collect !== false, vis = c.show !== false;
+    const w = wars.find((x) => x.state === "inWar" || x.state === "preparation") || wars[0];
+    const r = raids.find((x) => x.state === "ongoing");
+    let war = "нет данных";
+    if (w) {
+      const kind = w.type === "cwl" ? "ЛВК" : "КВ";
+      if (w.state === "preparation") war = `${kind}: подготовка`;
+      else if (w.state === "inWar") {
+        const left = w.members.filter((x) => x.attacks.length < w.apm).length;
+        war = `${kind}: ${w.us.stars} : ${w.them.stars}, не атаковали ${left}`;
+      } else war = `${kind}: ${({ win: "победа", lose: "поражение", tie: "ничья" })[w.result] || "закончилась"} ${w.us.stars} : ${w.them.stars}`;
+    }
+    const raid = r ? `идут, ${n0(r.loot)} золота` : raids[0] ? `пауза, прошлые ${n0(raids[0].loot)}` : "нет данных";
+    const errs = (m && m.errors) || [];
+    const img = c.badge || (m && m.badge);
+    const name = (m && m.name) || c.name || "Без названия";
+    const link = `./?c=${tag.slice(1)}`;
+    const btn = (action, label) => `<a class="btn small" href="${WF}" target="_blank" rel="noopener" data-act="${action}" data-tag="${esc(tag)}">${label}</a>`;
+    return `<article class="clan${on && vis ? "" : " off"}">
+      <div class="chead">${img ? `<img src="${esc(img)}" alt="">` : `<span class="ph">${esc(name.slice(0, 1))}</span>`}
+        <div style="min-width:0"><div class="cname">${esc(name)}</div><div class="ctag">${esc(tag)}${m && m.level ? ` · уровень ${m.level}` : ""}</div></div></div>
+      <div class="chips">
+        ${on ? '<span class="chip good">Сбор идёт</span>' : '<span class="chip bad">Сбор остановлен</span>'}
+        ${vis ? '<span class="chip good">Страница видна</span>' : '<span class="chip neutral">Страница скрыта</span>'}
+        ${isDefault ? '<span class="chip warn">Основной</span>' : ""}
+        ${errs.length ? `<span class="chip bad" title="${esc(errs.join("; "))}">Есть ошибки</span>` : ""}
+      </div>
+      <dl class="facts">
+        <dt>Обновлено</dt><dd>${m ? ago(m.updated) : "ещё не собирался"}</dd>
+        <dt>Участников</dt><dd>${m && m.members != null ? `${m.members}/50` : "—"}</dd>
+        <dt>Война</dt><dd>${esc(war)}</dd>
+        <dt>Рейды</dt><dd>${esc(raid)}</dd>
+      </dl>
+      <div class="acts">
+        ${on ? btn("collect-off", "Остановить сбор") : btn("collect-on", "Включить сбор")}
+        ${vis ? btn("hide", "Скрыть") : btn("show", "Показать")}
+        ${isDefault ? "" : btn("default", "Сделать основным")}
+        ${isDefault ? "" : btn("remove", "Убрать")}
+        ${vis && m ? `<a class="btn small open" href="${esc(link)}" target="_blank" rel="noopener">Статистика →</a>` : ""}
+      </div>
+    </article>`;
+  }
+
+  // GitHub не даёт заполнить форму запуска по ссылке, поэтому копируем тег и показываем, что выбрать
+  function howto(action, tag) {
+    // копируем прямо в обработчике клика, иначе браузер не разрешит
+    let copied = true;
+    try { navigator.clipboard.writeText(tag).catch(() => {}); } catch (_) { copied = false; }
+    const box = document.getElementById("howto");
+    box.querySelector(".wrap").innerHTML = `
+      <div class="row"><b>${esc(ACTION_RU[action][0].toUpperCase() + ACTION_RU[action].slice(1))}: ${esc(tag)}</b><button class="btn small x" type="button" id="howto-x">Закрыть</button></div>
+      <ol>
+        <li>На открывшейся странице GitHub нажми <b>Run workflow</b> справа.</li>
+        <li>В поле «Что сделать» выбери <code>${esc(action)}</code>.</li>
+        <li>В поле «Тег клана» вставь <code>${esc(tag)}</code>${copied ? " (я скопировал его в буфер обмена)" : ""}.</li>
+        <li>Нажми зелёную <b>Run workflow</b>. Через минуту нажми «Обновить» на этой странице.</li>
+      </ol>
+      <div class="row"><a class="btn small primary" href="${WF}" target="_blank" rel="noopener">Открыть GitHub снова</a></div>`;
+    box.hidden = false;
+  }
+
+  document.addEventListener("click", (e) => {
+    const b = e.target.closest("[data-act]");
+    if (b) { howto(b.dataset.act, b.dataset.tag); return; }
+    if (e.target.id === "howto-x") document.getElementById("howto").hidden = true;
+    if (e.target.id === "reload") render();
+  });
+  document.getElementById("add-form").addEventListener("submit", (e) => {
+    e.preventDefault();
+    const err = document.getElementById("add-err");
+    const tag = normTag(document.getElementById("add-tag").value);
+    if (!tag) { err.textContent = "Тег выглядит неправильно. Он начинается с # и состоит из символов 0289PYLQGRJCUV, например #280L809U9."; err.hidden = false; return; }
+    err.hidden = true;
+    howto("add", tag);
+    window.open(WF, "_blank", "noopener");
+  });
+  render();
+})();
+</script>
+</body>
+</html>

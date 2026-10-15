@@ -1099,10 +1099,22 @@ tbody tr:hover td.stick { background: var(--surface-2); }
   window.addEventListener("hashchange", () => { route(); window.scrollTo(0, 0); });
 
   // ───────── загрузка ─────────
+  // какой клан показывать: ?c=ТЕГ (без #), иначе основной из data/clans.json
+  const WANT = (new URLSearchParams(location.search).get("c") || "").toUpperCase().replace(/^#/, "");
+  class Hidden extends Error {}
   async function load() {
     if (window.__CLAN_DATA__) return window.__CLAN_DATA__;
-    const get = (f) => fetch(`data/${f}?v=${Math.floor(Date.now() / 6e4)}`).then((r) => { if (!r.ok) throw new Error(f + ": " + r.status); return r.json(); });
-    const [clan, players, wars, raids, cwl] = await Promise.all(["clan.json", "players.json", "wars.json", "raids.json", "cwl.json"].map(get));
+    const v = Math.floor(Date.now() / 6e4);
+    const getJ = (p) => fetch(`${p}?v=${v}`).then((r) => { if (!r.ok) throw new Error(p + ": " + r.status); return r.json(); });
+    let base = "data/";
+    const reg = await getJ("data/clans.json").catch(() => null);
+    if (reg) {
+      const tag = WANT ? "#" + WANT : reg.default;
+      const c = (reg.clans || []).find((x) => x.tag === tag);
+      if (!c || c.show === false) throw new Hidden();
+      base = `data/${c.tag.slice(1)}/`;
+    }
+    const [clan, players, wars, raids, cwl] = await Promise.all(["clan.json", "players.json", "wars.json", "raids.json", "cwl.json"].map((f) => getJ(base + f)));
     return { clan, players, wars, raids, cwl };
   }
   // таймеры тикают раз в 30 секунд; данные перезагружаются каждые 5 минут
@@ -1143,7 +1155,9 @@ tbody tr:hover td.stick { background: var(--surface-2); }
     document.title = (D.clan.name || "Клан") + " — статистика";
     route();
   }).catch((err) => {
-    document.getElementById("app").innerHTML = `<p class="loading">Данных пока нет. Как только сборщик отработает первый раз, здесь появится статистика.<br><small>${esc(err.message)}</small></p>`;
+    document.getElementById("app").innerHTML = err instanceof Hidden
+      ? `<p class="loading">Статистика этого клана сейчас недоступна.</p>`
+      : `<p class="loading">Данных пока нет. Как только сборщик отработает первый раз, здесь появится статистика.<br><small>${esc(err.message)}</small></p>`;
   });
 })();
 </script>

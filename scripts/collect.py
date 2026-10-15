@@ -14,7 +14,8 @@
 
 Переменные окружения:
   COC_TOKEN   — ключ API с developer.clashofclans.com (обязательно)
-  CLAN_TAG    — тег клана, по умолчанию #280L809U9
+  CLAN_TAG    — тег основного клана (по умолчанию #280L809U9); остальные кланы
+                берутся из data/clans.json
   API_BASE    — адрес API, по умолчанию прокси RoyaleAPI
   MOCK_DIR    — (для тестов) папка с заготовленными ответами API вместо сети
   NOW         — (для тестов) подменить текущее время, ISO-формат
@@ -30,13 +31,15 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-CLAN_TAG = os.environ.get("CLAN_TAG", "#280L809U9").strip().upper()
-if not CLAN_TAG.startswith("#"):
-    CLAN_TAG = "#" + CLAN_TAG
+DEFAULT_TAG = os.environ.get("CLAN_TAG", "#280L809U9").strip().upper()
+if not DEFAULT_TAG.startswith("#"):
+    DEFAULT_TAG = "#" + DEFAULT_TAG
+CLAN_TAG = DEFAULT_TAG  # текущий клан, меняется в collect_clan()
 API_BASE = os.environ.get("API_BASE", "https://cocproxy.royaleapi.dev/v1").rstrip("/")
 TOKEN = os.environ.get("COC_TOKEN", "").strip()
 MOCK_DIR = os.environ.get("MOCK_DIR")
-DATA_DIR = Path(os.environ.get("DATA_DIR", Path(__file__).resolve().parent.parent / "data"))
+ROOT_DATA = Path(os.environ.get("DATA_DIR", Path(__file__).resolve().parent.parent / "data"))
+DATA_DIR = ROOT_DATA  # папка текущего клана, меняется в collect_clan()
 
 NOW = os.environ.get("NOW") or datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 errors = []
@@ -480,10 +483,10 @@ def collect_contributions(players, last_fetch):
 
 # ───────────────────────── main ─────────────────────────
 
-def main():
-    if not TOKEN and not MOCK_DIR:
-        log("Нет COC_TOKEN. Добавьте секрет в настройках репозитория (см. README).")
-        sys.exit(1)
+def collect_clan(tag):
+    """Собирает данные одного клана в data/<ТЕГ без #>/. Возвращает True при успехе."""
+    global CLAN_TAG, DATA_DIR, errors
+    CLAN_TAG, DATA_DIR, errors = tag, ROOT_DATA / tag.lstrip("#"), []
 
     meta = load("clan.json", {})
     players = load("players.json", {})
@@ -495,10 +498,10 @@ def main():
     try:
         clan = api(f"/clans/{CLAN_TAG}")
     except ApiError as e:
-        log(f"!! не удалось получить клан: {e}")
+        log(f"!! {tag}: не удалось получить клан: {e}")
         if e.status == 403:
             log("   Проверьте ключ: он должен быть создан для IP 45.79.218.79")
-        sys.exit(1)
+        return False
 
     update_members(players, clan, first_run)
     collect_current_war(wars, players)
@@ -531,9 +534,64 @@ def main():
     save("cwl.json", cwl)
 
     for e in errors:
-        log("!!", e)
-    log(f"Готово: игроков {len(players)}, в клане {sum(1 for p in players.values() if p.get('inClan'))}, "
+        log("!!", tag, e)
+    log(f"{meta['name']} {tag}: игроков {len(players)}, в клане {sum(1 for p in players.values() if p.get('inClan'))}, "
         f"войн {len(wars)}, рейдов {len(raids)}")
+    return True
+
+
+# ───────────────────── список кланов (data/clans.json) ─────────────────────
+#
+# {"default": "#280L809U9",
+#  "clans": [{"tag": "#280L809U9", "name": "Badboys", "collect": true, "show": true, "added": "..."}]}
+#   collect — собирать ли статистику; show — показывать ли страницу клана на сайте.
+
+FILES = ("clan.json", "players.json", "wars.json", "raids.json", "cwl.json")
+
+
+def load_registry():
+    f = ROOT_DATA / "clans.json"
+    if f.exists():
+        return json.loads(f.read_text("utf-8"))
+    reg = {"default": DEFAULT_TAG, "clans": [
+        {"tag": DEFAULT_TAG, "name": None, "collect": True, "show": True, "added": NOW}]}
+    # переезд со старой схемы, где данные одного клана лежали прямо в data/
+    old = ROOT_DATA / "clan.json"
+    new_dir = ROOT_DATA / DEFAULT_TAG.lstrip("#")
+    if old.exists() and not new_dir.exists():
+        new_dir.mkdir(parents=True)
+        for name in FILES:
+            if (ROOT_DATA / name).exists():
+                (ROOT_DATA / name).replace(new_dir / name)
+        log(f"данные перенесены в {new_dir.relative_to(ROOT_DATA.parent)}")
+    return reg
+
+
+def save_registry(reg):
+    ROOT_DATA.mkdir(parents=True, exist_ok=True)
+    tmp = ROOT_DATA / "clans.json.tmp"
+    tmp.write_text(json.dumps(reg, ensure_ascii=False, indent=1), "utf-8")
+    tmp.replace(ROOT_DATA / "clans.json")
+
+
+def main():
+    if not TOKEN and not MOCK_DIR:
+        log("Нет COC_TOKEN. Добавьте секрет в настройках репозитория (см. README).")
+        sys.exit(1)
+    reg = load_registry()
+    ok_any, tried = False, 0
+    for c in reg["clans"]:
+        if not c.get("collect", True):
+            continue
+        tried += 1
+        if collect_clan(c["tag"]):
+            ok_any = True
+            m = load("clan.json", {})
+            c["name"] = m.get("name") or c.get("name")
+            c["badge"] = m.get("badge")
+    save_registry(reg)
+    if tried and not ok_any:
+        sys.exit(1)
 
 
 if __name__ == "__main__":
