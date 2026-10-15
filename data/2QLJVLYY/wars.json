@@ -1,0 +1,874 @@
+[
+ {
+  "id": "war_20261013T215142Z_2QV2CQ9G2",
+  "type": "war",
+  "state": "warEnded",
+  "prep": "2026-10-13T21:51:42Z",
+  "start": "2026-10-14T20:51:42Z",
+  "end": "2026-10-15T21:10:48Z",
+  "teamSize": 25,
+  "apm": 2,
+  "us": {
+   "tag": "#2QLJVLYY",
+   "name": "slivki sow",
+   "badge": "https://api-assets.clashofclans.com/badges/200/Op8ojM-mQwKphF9fbOe4H7EG-ewJwnLnDN8UZKocYyw.png",
+   "level": 33,
+   "stars": 75,
+   "pct": 100.0,
+   "attacks": 47
+  },
+  "them": {
+   "tag": "#2QV2CQ9G2",
+   "name": "Baskerville",
+   "badge": "https://api-assets.clashofclans.com/badges/200/bPsmkZEDWJyYKebTUw6pitpxDH6a7cRmeOcOj-zV-oY.png",
+   "level": 25,
+   "stars": 68,
+   "pct": 95.16,
+   "attacks": 37
+  },
+  "members": [
+   {
+    "tag": "#Q9JRVCUYY",
+    "name": "Melata",
+    "th": 18,
+    "pos": 1,
+    "attacks": [
+     {
+      "d": "#QL90GLRJG",
+      "dn": "Jul1us",
+      "dpos": 1,
+      "dth": 18,
+      "s": 2,
+      "p": 93,
+      "o": 20,
+      "n": 2,
+      "dur": 139
+     }
+    ],
+    "def": {
+     "n": 2,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#YRYYYGY90",
+    "name": "naik",
+    "th": 18,
+    "pos": 2,
+    "attacks": [
+     {
+      "d": "#QPQ2Y8P9",
+      "dn": "Gaiseric",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 19,
+      "n": 3,
+      "dur": 162
+     },
+     {
+      "d": "#PJPVLR2YG",
+      "dn": "Sven",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 35,
+      "n": 3,
+      "dur": 137
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#PUCPRP9YV",
+    "name": "малько",
+    "th": 18,
+    "pos": 3,
+    "attacks": [
+     {
+      "d": "#LGRVV2Y9",
+      "dn": "apraves1",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 23,
+      "n": 3,
+      "dur": 127
+     },
+     {
+      "d": "#QQURV22",
+      "dn": "Malte Wa",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 36,
+      "n": 3,
+      "dur": 165
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#9GV90LCR8",
+    "name": "■◇LEGENDARNIY◇■",
+    "th": 18,
+    "pos": 4,
+    "attacks": [
+     {
+      "d": "#QL90GLRJG",
+      "dn": "Jul1us",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 29,
+      "n": 1,
+      "dur": 98
+     },
+     {
+      "d": "#YGC9JYVV",
+      "dn": "Leo",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 32,
+      "n": 2,
+      "dur": 118
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#PVCPGJL9R",
+    "name": "000Roma000",
+    "th": 18,
+    "pos": 5,
+    "attacks": [
+     {
+      "d": "#GJ29Q0G0",
+      "dn": "luca",
+      "dpos": 9,
+      "dth": 18,
+      "s": 1,
+      "p": 13,
+      "o": 77,
+      "n": 0,
+      "dur": 17
+     },
+     {
+      "d": "#GPLGR8VJU",
+      "dn": "Stealth",
+      "dpos": 10,
+      "dth": 18,
+      "s": 1,
+      "p": 22,
+      "o": 78,
+      "n": 0,
+      "dur": 29
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#P2GULCL8G",
+    "name": "000Sergey000",
+    "th": 18,
+    "pos": 6,
+    "attacks": [
+     {
+      "d": "#GJ29Q0G0",
+      "dn": "luca",
+      "dpos": 9,
+      "dth": 18,
+      "s": 1,
+      "p": 14,
+      "o": 79,
+      "n": 0,
+      "dur": 25
+     },
+     {
+      "d": "#GPLGR8VJU",
+      "dn": "Stealth",
+      "dpos": 10,
+      "dth": 18,
+      "s": 1,
+      "p": 19,
+      "o": 80,
+      "n": 0,
+      "dur": 25
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#2LCGCPR80",
+    "name": "NumTorum",
+    "th": 18,
+    "pos": 7,
+    "attacks": [
+     {
+      "d": "#YGC9JYVV",
+      "dn": "Leo",
+      "dpos": 4,
+      "dth": 18,
+      "s": 1,
+      "p": 72,
+      "o": 30,
+      "n": 1,
+      "dur": 106
+     },
+     {
+      "d": "#G0YY00C20",
+      "dn": "xXDestroyerXx",
+      "dpos": 6,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 33,
+      "n": 3,
+      "dur": 102
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#89RL09YL9",
+    "name": "Разрушитель",
+    "th": 18,
+    "pos": 8,
+    "attacks": [
+     {
+      "d": "#GPLGR8VJU",
+      "dn": "Stealth",
+      "dpos": 10,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 39,
+      "n": 3,
+      "dur": 158
+     },
+     {
+      "d": "#PCQVRQRU",
+      "dn": "tissot.jer",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 41,
+      "n": 3,
+      "dur": 148
+     }
+    ],
+    "def": {
+     "n": 2,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#LQGGPPC92",
+    "name": "~LuciFer~",
+    "th": 18,
+    "pos": 9,
+    "attacks": [
+     {
+      "d": "#GJ29Q0G0",
+      "dn": "luca",
+      "dpos": 9,
+      "dth": 18,
+      "s": 2,
+      "p": 78,
+      "o": 26,
+      "n": 2,
+      "dur": 126
+     },
+     {
+      "d": "#YU0VP8R0V",
+      "dn": "feli_x",
+      "dpos": 15,
+      "dth": 18,
+      "s": 2,
+      "p": 83,
+      "o": 64,
+      "n": 1,
+      "dur": 143
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#8GGC8UY08",
+    "name": "Super Men",
+    "th": 18,
+    "pos": 10,
+    "attacks": [
+     {
+      "d": "#Y8Y2JRQJJ",
+      "dn": "xXTerminatorXx",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 31,
+      "n": 3,
+      "dur": 116
+     },
+     {
+      "d": "#GJ29Q0G0",
+      "dn": "luca",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 37,
+      "n": 1,
+      "dur": 112
+     }
+    ],
+    "def": {
+     "n": 2,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#28Q8J0RYG",
+    "name": "Mi4man",
+    "th": 18,
+    "pos": 11,
+    "attacks": [
+     {
+      "d": "#YU0VP8R0V",
+      "dn": "feli_x",
+      "dpos": 15,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 69,
+      "n": 1,
+      "dur": 113
+     },
+     {
+      "d": "#QL90GLRJG",
+      "dn": "Jul1us",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 71,
+      "n": 0,
+      "dur": 120
+     }
+    ],
+    "def": {
+     "n": 2,
+     "s": 2,
+     "p": 99
+    }
+   },
+   {
+    "tag": "#QL0J0RY8Q",
+    "name": "ebobo",
+    "th": 18,
+    "pos": 12,
+    "attacks": [
+     {
+      "d": "#QL90GLRJG",
+      "dn": "Jul1us",
+      "dpos": 1,
+      "dth": 18,
+      "s": 2,
+      "p": 91,
+      "o": 81,
+      "n": 0,
+      "dur": 159
+     },
+     {
+      "d": "#QPQ2Y8P9",
+      "dn": "Gaiseric",
+      "dpos": 2,
+      "dth": 18,
+      "s": 2,
+      "p": 79,
+      "o": 82,
+      "n": 0,
+      "dur": 114
+     }
+    ],
+    "def": {
+     "n": 2,
+     "s": 2,
+     "p": 85
+    }
+   },
+   {
+    "tag": "#YCU8JR28U",
+    "name": "SHANARA",
+    "th": 18,
+    "pos": 13,
+    "attacks": [
+     {
+      "d": "#QL90GLRJG",
+      "dn": "Jul1us",
+      "dpos": 1,
+      "dth": 18,
+      "s": 2,
+      "p": 53,
+      "o": 73,
+      "n": 0,
+      "dur": 40
+     },
+     {
+      "d": "#QPQ2Y8P9",
+      "dn": "Gaiseric",
+      "dpos": 2,
+      "dth": 18,
+      "s": 2,
+      "p": 52,
+      "o": 74,
+      "n": 0,
+      "dur": 46
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 2,
+     "p": 76
+    }
+   },
+   {
+    "tag": "#8LVR2JGU",
+    "name": "ELITE",
+    "th": 18,
+    "pos": 14,
+    "attacks": [
+     {
+      "d": "#LV8LGCGPG",
+      "dn": "Denotix",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 83,
+      "n": 0,
+      "dur": 98
+     },
+     {
+      "d": "#QQURV22",
+      "dn": "Malte Wa",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 84,
+      "n": 0,
+      "dur": 135
+     }
+    ],
+    "def": {
+     "n": 2,
+     "s": 2,
+     "p": 78
+    }
+   },
+   {
+    "tag": "#YVP0G0V2G",
+    "name": "Relax",
+    "th": 18,
+    "pos": 15,
+    "attacks": [
+     {
+      "d": "#P0Q8QJQV9",
+      "dn": "Nordgespenst",
+      "dpos": 16,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 66,
+      "n": 1,
+      "dur": 130
+     },
+     {
+      "d": "#YU0VP8R0V",
+      "dn": "feli_x",
+      "dpos": 15,
+      "dth": 18,
+      "s": 2,
+      "p": 98,
+      "o": 67,
+      "n": 0,
+      "dur": 180
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 2,
+     "p": 77
+    }
+   },
+   {
+    "tag": "#LLUP8P8L0",
+    "name": "sleace",
+    "th": 18,
+    "pos": 16,
+    "attacks": [
+     {
+      "d": "#PU9VCRQLC",
+      "dn": "Manuel Neuer",
+      "dpos": 12,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 45,
+      "n": 3,
+      "dur": 119
+     },
+     {
+      "d": "#G8L0GVCG2",
+      "dn": "camillus",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 46,
+      "n": 3,
+      "dur": 99
+     }
+    ],
+    "def": {
+     "n": 2,
+     "s": 2,
+     "p": 78
+    }
+   },
+   {
+    "tag": "#QUULVGRYQ",
+    "name": "MR.KING",
+    "th": 17,
+    "pos": 17,
+    "attacks": [
+     {
+      "d": "#G0PY08VQC",
+      "dn": "Aragonkönig2",
+      "dpos": 17,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 50,
+      "n": 3,
+      "dur": 93
+     },
+     {
+      "d": "#LV8LGCGPG",
+      "dn": "Denotix",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 51,
+      "n": 3,
+      "dur": 119
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#9P28CV0L0",
+    "name": "0777",
+    "th": 16,
+    "pos": 18,
+    "attacks": [
+     {
+      "d": "#LLV0RJ8CG",
+      "dn": "grkem.",
+      "dpos": 22,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 48,
+      "n": 1,
+      "dur": 117
+     },
+     {
+      "d": "#P0Q8QJQV9",
+      "dn": "Nordgespenst",
+      "dpos": 16,
+      "dth": 18,
+      "s": 2,
+      "p": 63,
+      "o": 49,
+      "n": 2,
+      "dur": 101
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#P0GUJ290P",
+    "name": "алексей3",
+    "th": 16,
+    "pos": 19,
+    "attacks": [
+     {
+      "d": "#GJG09L20P",
+      "dn": "VladimirGluten",
+      "dpos": 18,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 59,
+      "n": 1,
+      "dur": 169
+     },
+     {
+      "d": "#YU0VP8R0V",
+      "dn": "feli_x",
+      "dpos": 15,
+      "dth": 18,
+      "s": 1,
+      "p": 64,
+      "o": 61,
+      "n": 1,
+      "dur": 143
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#8J09CQQQQ",
+    "name": "о000оо00",
+    "th": 15,
+    "pos": 20,
+    "attacks": [
+     {
+      "d": "#LQCYV2Y29",
+      "dn": "Niknak",
+      "dpos": 20,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 7,
+      "n": 3,
+      "dur": 161
+     },
+     {
+      "d": "#PYJ8YYPJJ",
+      "dn": "kfjjk",
+      "dpos": 19,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 9,
+      "n": 3,
+      "dur": 90
+     }
+    ],
+    "def": {
+     "n": 2,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#LVCQPQ822",
+    "name": "Legenda",
+    "th": 15,
+    "pos": 21,
+    "attacks": [
+     {
+      "d": "#LPPU90GRG",
+      "dn": "josh",
+      "dpos": 23,
+      "dth": 13,
+      "s": 3,
+      "p": 100,
+      "o": 17,
+      "n": 3,
+      "dur": 91
+     },
+     {
+      "d": "#GG8VVQ0RQ",
+      "dn": "easyclap",
+      "dpos": 21,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 18,
+      "n": 3,
+      "dur": 136
+     }
+    ],
+    "def": {
+     "n": 2,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#LV9VQJ8GP",
+    "name": "Фалирит",
+    "th": 16,
+    "pos": 22,
+    "attacks": [
+     {
+      "d": "#LLV0RJ8CG",
+      "dn": "grkem.",
+      "dpos": 22,
+      "dth": 16,
+      "s": 2,
+      "p": 72,
+      "o": 38,
+      "n": 2,
+      "dur": 107
+     },
+     {
+      "d": "#GJG09L20P",
+      "dn": "VladimirGluten",
+      "dpos": 18,
+      "dth": 17,
+      "s": 2,
+      "p": 78,
+      "o": 40,
+      "n": 2,
+      "dur": 90
+     }
+    ],
+    "def": {
+     "n": 2,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#GRLLYQQLV",
+    "name": "WOLF",
+    "th": 16,
+    "pos": 23,
+    "attacks": [],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#9J02VCC8J",
+    "name": "Денис",
+    "th": 13,
+    "pos": 24,
+    "attacks": [
+     {
+      "d": "#QR20LR899",
+      "dn": "Schütziiii",
+      "dpos": 24,
+      "dth": 13,
+      "s": 3,
+      "p": 100,
+      "o": 22,
+      "n": 2,
+      "dur": 131
+     },
+     {
+      "d": "#QU0CCUVYV",
+      "dn": "Meister Windu",
+      "dpos": 25,
+      "dth": 13,
+      "s": 3,
+      "p": 100,
+      "o": 24,
+      "n": 2,
+      "dur": 127
+     }
+    ],
+    "def": {
+     "n": 2,
+     "s": 2,
+     "p": 86
+    }
+   },
+   {
+    "tag": "#LGLPJJ2VP",
+    "name": "егор",
+    "th": 13,
+    "pos": 25,
+    "attacks": [
+     {
+      "d": "#QU0CCUVYV",
+      "dn": "Meister Windu",
+      "dpos": 25,
+      "dth": 13,
+      "s": 1,
+      "p": 79,
+      "o": 1,
+      "n": 1,
+      "dur": 97
+     },
+     {
+      "d": "#QR20LR899",
+      "dn": "Schütziiii",
+      "dpos": 24,
+      "dth": 13,
+      "s": 1,
+      "p": 69,
+      "o": 2,
+      "n": 1,
+      "dur": 107
+     }
+    ],
+    "def": {
+     "n": 2,
+     "s": 3,
+     "p": 100
+    }
+   }
+  ],
+  "result": "win"
+ }
+]
