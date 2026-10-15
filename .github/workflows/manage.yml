@@ -1,0 +1,57 @@
+name: Управление кланами
+
+# Запускается вручную: Actions → «Управление кланами» → Run workflow.
+# Запустить может только владелец репозитория (и те, кому он дал доступ на запись).
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: "Что сделать"
+        required: true
+        type: choice
+        options:
+          - add
+          - collect-off
+          - collect-on
+          - hide
+          - show
+          - remove
+          - default
+      tag:
+        description: "Тег клана, например #280L809U9"
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: manage
+  cancel-in-progress: false
+
+jobs:
+  manage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Изменить список кланов
+        env:
+          COC_TOKEN: ${{ secrets.COC_TOKEN }}
+          ACTION: ${{ inputs.action }}
+          TAG: ${{ inputs.tag }}
+        run: python3 scripts/manage.py "$ACTION" "$TAG"
+
+      - name: Сохранить
+        env:
+          ACTION: ${{ inputs.action }}
+          TAG: ${{ inputs.tag }}
+        run: |
+          git config user.name "clan-stats-bot"
+          git config user.email "clan-stats-bot@users.noreply.github.com"
+          git add data _admin
+          if git diff --staged --quiet; then echo "Изменений нет"; exit 0; fi
+          git commit -m "Кланы: $ACTION $TAG"
+          for i in 1 2 3; do git pull --rebase --quiet && git push --quiet && exit 0; sleep 5; done
+          exit 1
