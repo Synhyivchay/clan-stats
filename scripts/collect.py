@@ -440,6 +440,44 @@ def collect_raids(raids, players, first_run):
     log(f"Рейды: всего выходных {len(raids)}")
 
 
+
+# ───────────────────── вклады золота столицы ─────────────────────
+
+CONTRIB_EVERY_H = float(os.environ.get("CONTRIB_EVERY_H", 1))
+
+
+def collect_contributions(players, last_fetch):
+    """Раз в час запоминает счётчик «всего вложено золота столицы» у каждого
+    участника. Сохраняем только изменения: capHist = [[время, значение], ...].
+    Куда именно вложено золото, API не сообщает — только общий счётчик."""
+    if last_fetch:
+        try:
+            prev = datetime.strptime(last_fetch, "%Y-%m-%dT%H:%M:%SZ")
+            cur = datetime.strptime(NOW, "%Y-%m-%dT%H:%M:%SZ")
+            if (cur - prev).total_seconds() < CONTRIB_EVERY_H * 3600 - 120:
+                return last_fetch
+        except ValueError:
+            pass
+    ok = 0
+    for p in players.values():
+        if not p.get("inClan"):
+            continue
+        try:
+            d = api(f"/players/{p['tag']}")
+        except ApiError as e:
+            log(f"игрок {p['tag']}: {e}")
+            continue
+        v = d.get("clanCapitalContributions")
+        if v is None:
+            continue
+        ok += 1
+        h = p.setdefault("capHist", [])
+        if not h or h[-1][1] != v:
+            h.append([NOW, v])
+        p["capContrib"] = v
+    log(f"Вклады столицы: обновлено {ok} игроков")
+    return NOW if ok else last_fetch
+
 # ───────────────────────── main ─────────────────────────
 
 def main():
@@ -467,6 +505,7 @@ def main():
     collect_cwl(wars, cwl, players)
     collect_raids(raids, players, first_run)
     finalize_stale_wars(wars, cwl)
+    contrib_fetched = collect_contributions(players, meta.get("contribFetched"))
 
     meta = {
         "tag": clan.get("tag"), "name": clan.get("name"),
@@ -480,6 +519,7 @@ def main():
         "capitalHall": (clan.get("clanCapital") or {}).get("capitalHallLevel"),
         "warLogPublic": clan.get("isWarLogPublic"),
         "trackingSince": meta.get("trackingSince") or NOW,
+        "contribFetched": contrib_fetched,
         "updated": NOW,
         "errors": errors,
     }

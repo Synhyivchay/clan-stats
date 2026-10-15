@@ -9,7 +9,7 @@
 
 Коммит в репозиторий делается:
   • сразу, если изменилось что-то важное (атаки в войне, рейды, состав клана);
-  • не чаще раза в 15 минут, если поменялись только «шумные» поля
+  • не реже и не чаще раза в 10 минут, если поменялись только «шумные» поля
     (трофеи, донаты, время обновления) — чтобы не пересобирать сайт впустую.
 """
 import hashlib
@@ -24,10 +24,10 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 INTERVAL = int(os.environ.get("INTERVAL", 300))          # 5 минут
 DURATION = int(os.environ.get("DURATION", 5 * 3600 + 40 * 60))  # 5 ч 40 мин
-QUIET_PUSH = int(os.environ.get("QUIET_PUSH", 900))      # 15 минут
+QUIET_PUSH = int(os.environ.get("QUIET_PUSH", 600))      # 10 минут
 
 VOLATILE = {"updated", "snap", "lastSeen", "trophies", "donations", "received",
-            "rank", "exp", "league", "leagueIcon", "points"}
+            "rank", "exp", "league", "leagueIcon", "points", "contribFetched"}
 
 
 def log(*a):
@@ -94,7 +94,7 @@ def main():
             if sig != last_sig:
                 if push("изменения"):
                     last_sig, last_push = sig, time.time()
-            elif time.time() - last_push >= QUIET_PUSH:
+            elif time.time() - last_push >= QUIET_PUSH - 30:
                 if push("плановое"):
                     last_push = time.time()
 

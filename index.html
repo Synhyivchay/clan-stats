@@ -393,6 +393,52 @@ tbody tr:hover td.stick { background: var(--surface-2); }
     for (const s of Object.values(S)) s.avgLoot = s.weekends ? s.loot / s.weekends : null;
     return S;
   }
+  // ── вклады золота столицы ──
+  // capHist: [[время, всего вложено], ...]. Неделя рейда — с его начала до начала следующих (7 дней).
+  const WEEK = 7 * DAY;
+  function contribAt(p, ts) {
+    const h = p && p.capHist;
+    if (!h || !h.length || t(h[0][0]) > ts) return null;
+    let v = null;
+    for (const [at, val] of h) { if (t(at) <= ts) v = val; else break; }
+    return v;
+  }
+  function weekContrib(p, r) {
+    const a = t(r.start), b = Math.min(a + WEEK, NOW_TS());
+    const x = contribAt(p, a), y = contribAt(p, b);
+    return x == null || y == null ? null : Math.max(0, y - x);
+  }
+  const NOW_TS = () => (window.__CLAN_DATA__ ? t(D.clan.updated) : Date.now());
+  // статус выгрузки: ok — выгрузил не меньше, чем добыл; part — часть; none — ничего; wait — неделя ещё идёт
+  function unloadStatus(loot, c, weekDone) {
+    if (c == null || !loot) return null;
+    if (c >= loot) return "ok";
+    if (!weekDone) return "wait";
+    return c === 0 ? "none" : "part";
+  }
+  const UNLOAD = {
+    ok: '<span class="chip good">выгрузил</span>',
+    wait: '<span class="chip neutral">ещё нет</span>',
+    part: '<span class="chip warn">частично</span>',
+    none: '<span class="chip bad">не выгрузил</span>',
+  };
+  function unloadStats(raids) {
+    const S = {};
+    for (const r of raids) {
+      const done = t(r.start) + WEEK <= NOW_TS();
+      for (const m of r.members) {
+        const p = D.players[m.tag];
+        const c = weekContrib(p, r);
+        if (c == null) continue;
+        const s = (S[m.tag] ||= { given: 0, weeks: 0, none: 0, part: 0 });
+        s.given += c; s.weeks++;
+        const st = unloadStatus(m.loot, c, done);
+        if (st === "none") s.none++;
+        if (st === "part") s.part++;
+      }
+    }
+    return S;
+  }
   function raidAbsent(r) {
     if (!raidKnown(r) || r.state !== "ended") return null;
     const seen = new Set(r.members.map((m) => m.tag));
@@ -605,8 +651,16 @@ tbody tr:hover td.stick { background: var(--surface-2); }
       <div class="lwhen">начнутся ${fmtDT(new Date(nextRaidStart(now)).toISOString())} · через ${cd(nextRaidStart(now))}</div>
       ${last ? `<div class="rbig">${n0(last.loot)} <small>золота за прошлые выходные</small></div>
         <div class="rstats"><span><b>${last.members.length}</b> атаковали</span><span><b>${last.attacks}</b> атак</span><span><b>${last.raids}</b> ${plural(last.raids, "столица", "столицы", "столиц")} захвачено</span></div>
-        ${absent && absent.length ? whoList("Пропустили прошлые", absent.filter((p) => p.inClan).map((p) => ({ p })), "bad") : ""}` : '<p class="lempty">Данных о рейдах пока нет.</p>'}
+        ${absent && absent.length ? whoList("Пропустили прошлые", absent.filter((p) => p.inClan).map((p) => ({ p })), "bad") : ""}
+        ${whoList("Ещё не выгрузили золото", notUnloaded(last))}` : '<p class="lempty">Данных о рейдах пока нет.</p>'}
     </div>`;
+  }
+  function notUnloaded(r) {
+    const done = t(r.start) + WEEK <= NOW_TS();
+    return r.members.filter((m) => D.players[m.tag]?.inClan)
+      .map((m) => { const p = D.players[m.tag]; const c = weekContrib(p, r); return { p, c, loot: m.loot, st: unloadStatus(m.loot, c, done) }; })
+      .filter((x) => x.st && x.st !== "ok")
+      .map((x) => ({ p: x.p, note: `${n0(x.c)} из ${n0(x.loot)}` }));
   }
   const liveBlock = () => `<section class="live" aria-label="Сейчас в клане">${warCard()}${raidCard()}</section>`;
 
@@ -791,7 +845,8 @@ tbody tr:hover td.stick { background: var(--surface-2); }
   function viewRaids() {
     const rs = endedRaids((r) => inPeriod(r.end));
     const S = raidStats(rs);
-    const rows = members().map((p) => ({ p, s: S[p.tag] || {} }));
+    const U = unloadStats(endedRaids((r) => inPeriod(r.end)));
+    const rows = members().map((p) => ({ p, s: S[p.tag] || {}, u: U[p.tag] || {} }));
     const cols = [
       { k: "name", label: "Игрок", v: (x) => x.p.name, f: (x) => playerCell(x.p), cls: "l stick" },
       { k: "wk", label: "Выходных", title: "Сколько выходных рейдов игрок атаковал", v: (x) => x.s.weekends ?? null, f: (x) => numCell(x.s.weekends) },
@@ -800,6 +855,8 @@ tbody tr:hover td.stick { background: var(--surface-2); }
       { k: "part", label: "Недобил", title: "Выходные, где игрок сделал не все доступные атаки", v: (x) => x.s.partial ?? null, f: (x) => x.s.partial ? `<span style="color:var(--warn);font-weight:700">${x.s.partial}</span>` : numCell(x.s.partial) },
       { k: "loot", label: "Золото", v: (x) => x.s.loot ?? null, f: (x) => numCell(x.s.loot), cls: "bl" },
       { k: "avg", label: "Ср. за выходные", v: (x) => x.s.avgLoot ?? null, f: (x) => numCell(x.s.avgLoot) },
+      { k: "given", label: "Выгрузил", title: "Сколько золота столицы игрок вложил за недели этих рейдов (куда — API не показывает)", v: (x) => x.u.given ?? null, f: (x) => numCell(x.u.given), cls: "bl" },
+      { k: "nogive", label: "Не выгружал", title: "Недель, когда игрок добыл золото в рейдах, но за неделю ничего не вложил", v: (x) => (x.u.weeks ? x.u.none : null), f: (x) => numCell(x.u.weeks ? x.u.none : null, n0, true) },
     ];
     const listRaids = D.raids.filter((r) => r.state !== "ended" || inPeriod(r.end));
     return shell("raids", `
@@ -812,6 +869,7 @@ tbody tr:hover td.stick { background: var(--surface-2); }
           <div class="tile"><div class="k">Пропусков</div><div class="v">${rows.reduce((a, x) => a + (x.s.missed || 0), 0)}</div></div>
         </div>
         ${table("raids", cols, rows, { sort: { k: "loot", asc: false } })}
+        <p class="sub">«Выгрузил» — насколько вырос общий счётчик вкладов игрока в столицы за неделю рейда (с пятницы до пятницы). Куда вложено золото, игра в API не сообщает. Золото из кузницы тоже попадает в счётчик, поэтому «выгрузил больше, чем добыл» — это нормально; отмечаем только тех, кто вложил меньше добытого в рейдах.</p>
       </section>
       <section>
         <h2>Выходные</h2>
@@ -828,12 +886,15 @@ tbody tr:hover td.stick { background: var(--surface-2); }
     const r = D.raids.find((x) => x.id === id);
     if (!r) return shell("raids", '<div class="empty">Рейд не найден</div>');
     const absent = raidAbsent(r);
-    const rows = r.members.map((m) => ({ m, p: D.players[m.tag] || m }));
+    const wDone = t(r.start) + WEEK <= NOW_TS();
+    const rows = r.members.map((m) => { const p = D.players[m.tag] || m; const c = weekContrib(D.players[m.tag], r); return { m, p, c, st: unloadStatus(m.loot, c, wDone) }; });
     const cols = [
       { k: "name", label: "Игрок", v: (x) => x.m.name, f: (x) => x.p.inClan ? playerCell(x.p) : `<span class="name">${esc(x.m.name)}</span> <span class="role">не в клане</span>`, cls: "l stick" },
       { k: "a", label: "Атак", v: (x) => x.m.a, f: (x) => x.m.a < x.m.lim ? `<span style="color:var(--warn);font-weight:700">${x.m.a}</span><span class="num-muted">/${x.m.lim}</span>` : `${x.m.a}<span class="num-muted">/${x.m.lim}</span>` },
       { k: "loot", label: "Золото", v: (x) => x.m.loot, f: (x) => n0(x.m.loot) },
       { k: "per", label: "За атаку", v: (x) => (x.m.a ? x.m.loot / x.m.a : null), f: (x) => numCell(x.m.a ? x.m.loot / x.m.a : null) },
+      { k: "given", label: "Выгрузил за неделю", title: "Насколько вырос счётчик вкладов игрока с начала этих рейдов и за 7 дней", v: (x) => x.c, f: (x) => numCell(x.c), cls: "bl" },
+      { k: "ust", label: "Выгрузка", v: (x) => ({ none: 0, part: 1, wait: 2, ok: 3 })[x.st] ?? 9, f: (x) => (x.st ? UNLOAD[x.st] : '<span class="zero">—</span>'), cls: "c" },
     ];
     return shell("raids", `
       <section>
@@ -846,6 +907,7 @@ tbody tr:hover td.stick { background: var(--surface-2); }
           <div class="tile"><div class="k">Столиц захвачено</div><div class="v">${r.raids}</div></div>
         </div>
         ${table("rd", cols, rows, { sort: { k: "loot", asc: false } })}
+        <p class="sub">«Выгрузил» — насколько вырос общий счётчик вкладов игрока в столицы за неделю рейда (с пятницы до пятницы). Куда вложено золото, игра в API не сообщает. Золото из кузницы тоже попадает в счётчик, поэтому «выгрузил больше, чем добыл» — это нормально; отмечаем только тех, кто вложил меньше добытого в рейдах.</p>
         ${absent == null ? (r.state === "ended" ? '<p class="sub">Эти выходные прошли до начала учёта, поэтому список пропустивших неизвестен.</p>' : "") :
           absent.length ? `<p class="sub"><b class="miss">Не атаковали (${absent.length}):</b> ${absent.map((p) => p.inClan ? `<a class="name" href="#p-${tagId(p.tag)}">${esc(p.name)}</a>` : esc(p.name)).join(", ")}</p>` : '<p class="sub ok">Все участники клана атаковали.</p>'}
       </section>`);
