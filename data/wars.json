@@ -1,0 +1,584 @@
+[
+ {
+  "id": "war_20261013T214745Z_L88G2PRP",
+  "type": "war",
+  "state": "inWar",
+  "prep": "2026-10-13T21:47:45Z",
+  "start": "2026-10-14T20:47:45Z",
+  "end": "2026-10-15T21:07:30Z",
+  "teamSize": 20,
+  "apm": 2,
+  "us": {
+   "tag": "#280L809U9",
+   "name": "Badboys",
+   "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
+   "level": 25,
+   "stars": 56,
+   "pct": 94.1,
+   "attacks": 27
+  },
+  "them": {
+   "tag": "#L88G2PRP",
+   "name": "خان های بختیاری",
+   "badge": "https://api-assets.clashofclans.com/badges/200/2BfMFU1aqtln6DfNpzm8OxVNesm7ILIwh42pAow4zNo.png",
+   "level": 29,
+   "stars": 43,
+   "pct": 78.9,
+   "attacks": 18
+  },
+  "members": [
+   {
+    "tag": "#GLCVPCCQ2",
+    "name": "Ragnar",
+    "th": 18,
+    "pos": 1,
+    "attacks": [
+     {
+      "d": "#PUJ80U90R",
+      "dn": "sOha",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 9,
+      "n": 3,
+      "dur": 79
+     },
+     {
+      "d": "#2QJ8LPJLV",
+      "dn": "Milad",
+      "dpos": 2,
+      "dth": 18,
+      "s": 2,
+      "p": 82,
+      "o": 10,
+      "n": 2,
+      "dur": 101
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#8QUG9QQ8G",
+    "name": "ReTrO",
+    "th": 18,
+    "pos": 2,
+    "attacks": [
+     {
+      "d": "#P9VPQVV0J",
+      "dn": "Reza",
+      "dpos": 11,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 42,
+      "n": 1,
+      "dur": 107
+     },
+     {
+      "d": "#2CUVVQGY0",
+      "dn": "محمود",
+      "dpos": 8,
+      "dth": 18,
+      "s": 2,
+      "p": 86,
+      "o": 43,
+      "n": 0,
+      "dur": 148
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 1,
+     "p": 98
+    }
+   },
+   {
+    "tag": "#PCUY9YUYU",
+    "name": "OO REEBOK OO",
+    "th": 18,
+    "pos": 3,
+    "attacks": [
+     {
+      "d": "#2CUVVQGY0",
+      "dn": "محمود",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 44,
+      "n": 1,
+      "dur": 121
+     },
+     {
+      "d": "#8L2RY28GJ",
+      "dn": "مصطفی",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 45,
+      "n": 3,
+      "dur": 127
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 2,
+     "p": 91
+    }
+   },
+   {
+    "tag": "#Y9YQV8CUR",
+    "name": "GURU RANDHAWA",
+    "th": 18,
+    "pos": 4,
+    "attacks": [],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#GLL20U2Q9",
+    "name": "ㅤㅤㅤㅤ",
+    "th": 18,
+    "pos": 5,
+    "attacks": [
+     {
+      "d": "#88P9GGLCY",
+      "dn": "Majidkhan",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 14,
+      "n": 3,
+      "dur": 84
+     },
+     {
+      "d": "#2RCJPU2V9",
+      "dn": "قدرت خان بهمئی",
+      "dpos": 6,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 15,
+      "n": 3,
+      "dur": 87
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 2,
+     "p": 69
+    }
+   },
+   {
+    "tag": "#G0GP90YCL",
+    "name": "Boston",
+    "th": 18,
+    "pos": 6,
+    "attacks": [],
+    "def": {
+     "n": 1,
+     "s": 2,
+     "p": 85
+    }
+   },
+   {
+    "tag": "#QJYVP0JJU",
+    "name": "Partizan",
+    "th": 18,
+    "pos": 7,
+    "attacks": [
+     {
+      "d": "#2G9C0LVRC",
+      "dn": "Mohammad.s",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 35,
+      "n": 3,
+      "dur": 112
+     },
+     {
+      "d": "#9Y0QRURQ",
+      "dn": "ĐàŔkツ๛",
+      "dpos": 16,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 36,
+      "n": 1,
+      "dur": 93
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 2,
+     "p": 82
+    }
+   },
+   {
+    "tag": "#LGRVJULJJ",
+    "name": "DimagFM",
+    "th": 17,
+    "pos": 8,
+    "attacks": [],
+    "def": {
+     "n": 1,
+     "s": 2,
+     "p": 86
+    }
+   },
+   {
+    "tag": "#GRQC2829L",
+    "name": "ed_sans_123",
+    "th": 17,
+    "pos": 9,
+    "attacks": [
+     {
+      "d": "#QRV8VLVGY",
+      "dn": "خاردون",
+      "dpos": 9,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 7,
+      "n": 3,
+      "dur": 177
+     },
+     {
+      "d": "#2CUVVQGY0",
+      "dn": "محمود",
+      "dpos": 8,
+      "dth": 18,
+      "s": 2,
+      "p": 99,
+      "o": 8,
+      "n": 2,
+      "dur": 180
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#GYGUJ800C",
+    "name": "Мурадил06",
+    "th": 17,
+    "pos": 10,
+    "attacks": [
+     {
+      "d": "#P9VPQVV0J",
+      "dn": "Reza",
+      "dpos": 11,
+      "dth": 16,
+      "s": 1,
+      "p": 79,
+      "o": 33,
+      "n": 0,
+      "dur": 72
+     },
+     {
+      "d": "#9Y0QRURQ",
+      "dn": "ĐàŔkツ๛",
+      "dpos": 16,
+      "dth": 15,
+      "s": 2,
+      "p": 89,
+      "o": 34,
+      "n": 0,
+      "dur": 144
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#GQLRPL8Q0",
+    "name": "Jamshid",
+    "th": 16,
+    "pos": 11,
+    "attacks": [
+     {
+      "d": "#9Y0QRURQ",
+      "dn": "ĐàŔkツ๛",
+      "dpos": 16,
+      "dth": 15,
+      "s": 2,
+      "p": 85,
+      "o": 5,
+      "n": 2,
+      "dur": 86
+     },
+     {
+      "d": "#P9VPQVV0J",
+      "dn": "Reza",
+      "dpos": 11,
+      "dth": 16,
+      "s": 2,
+      "p": 73,
+      "o": 6,
+      "n": 2,
+      "dur": 60
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#GRGRRJLR9",
+    "name": "prime",
+    "th": 17,
+    "pos": 12,
+    "attacks": [],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#82QQ2QY0V",
+    "name": "Дракс",
+    "th": 16,
+    "pos": 13,
+    "attacks": [
+     {
+      "d": "#2Y2RJ80JP",
+      "dn": "خان",
+      "dpos": 13,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 3,
+      "dur": 128
+     },
+     {
+      "d": "#P8LJLQPGQ",
+      "dn": "خان 2",
+      "dpos": 10,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 26,
+      "n": 3,
+      "dur": 133
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#CUQYLPU",
+    "name": "ФЕРЗЬ",
+    "th": 17,
+    "pos": 14,
+    "attacks": [
+     {
+      "d": "#2UGYJGUP2",
+      "dn": "Erfan.TANTAN",
+      "dpos": 14,
+      "dth": 16,
+      "s": 2,
+      "p": 93,
+      "o": 22,
+      "n": 2,
+      "dur": 180
+     },
+     {
+      "d": "#988YCR08L",
+      "dn": "مهدی",
+      "dpos": 12,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 23,
+      "n": 3,
+      "dur": 139
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#2P0JQ09CY",
+    "name": "grootich",
+    "th": 15,
+    "pos": 15,
+    "attacks": [
+     {
+      "d": "#2JPVVYYJR",
+      "dn": "mohamad javad",
+      "dpos": 17,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 2,
+      "n": 3,
+      "dur": 145
+     },
+     {
+      "d": "#GYVQCVP29",
+      "dn": "amir",
+      "dpos": 18,
+      "dth": 13,
+      "s": 3,
+      "p": 100,
+      "o": 3,
+      "n": 3,
+      "dur": 111
+     }
+    ],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#QV8J82RRV",
+    "name": "Женя",
+    "th": 16,
+    "pos": 16,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LRR9VR0CY",
+    "name": "Begbus",
+    "th": 15,
+    "pos": 17,
+    "attacks": [
+     {
+      "d": "#998PJ98P2",
+      "dn": "abol",
+      "dpos": 15,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 24,
+      "n": 3,
+      "dur": 135
+     },
+     {
+      "d": "#2UGYJGUP2",
+      "dn": "Erfan.TANTAN",
+      "dpos": 14,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 25,
+      "n": 1,
+      "dur": 88
+     }
+    ],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#GC0V2V2Y0",
+    "name": "sgrassi",
+    "th": 15,
+    "pos": 18,
+    "attacks": [
+     {
+      "d": "#P9VPQVV0J",
+      "dn": "Reza",
+      "dpos": 11,
+      "dth": 16,
+      "s": 2,
+      "p": 50,
+      "o": 37,
+      "n": 0,
+      "dur": 89
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 2,
+     "p": 67
+    }
+   },
+   {
+    "tag": "#LVVCQ82L0",
+    "name": "uchiha_obito",
+    "th": 13,
+    "pos": 19,
+    "attacks": [
+     {
+      "d": "#R8P2PY0GC",
+      "dn": "sogol",
+      "dpos": 19,
+      "dth": 10,
+      "s": 3,
+      "p": 100,
+      "o": 27,
+      "n": 3,
+      "dur": 60
+     },
+     {
+      "d": "#R8LQC2JRP",
+      "dn": "نوذر",
+      "dpos": 20,
+      "dth": 9,
+      "s": 3,
+      "p": 100,
+      "o": 28,
+      "n": 3,
+      "dur": 66
+     }
+    ],
+    "def": {
+     "n": 2,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#L20LJ88UQ",
+    "name": "vlados_x",
+    "th": 13,
+    "pos": 20,
+    "attacks": [],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   }
+  ],
+  "snap": "2026-10-15T13:52:34Z"
+ }
+]
