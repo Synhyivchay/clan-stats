@@ -65,7 +65,7 @@ button { font: inherit; color: inherit; }
 :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
 
 .wrap {
-  max-width: 1180px; margin: 0 auto;
+  max-width: 1320px; margin: 0 auto;
   padding-left: max(16px, env(safe-area-inset-left, 0px));
   padding-right: max(16px, env(safe-area-inset-right, 0px));
 }
@@ -118,7 +118,7 @@ select.sel { background: var(--surface); border: 1px solid var(--line); border-r
 /* таблицы */
 .tbl-box { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); overflow-x: auto; min-width: 0; }
 table { border-collapse: collapse; width: 100%; font-variant-numeric: tabular-nums; font-size: 14px; }
-th, td { padding: 9px 10px; text-align: right; white-space: nowrap; border-bottom: 1px solid var(--line); }
+th, td { padding: 9px 8px; text-align: right; white-space: nowrap; border-bottom: 1px solid var(--line); }
 th:first-child, td:first-child { padding-left: 14px; }
 th:last-child, td:last-child { padding-right: 14px; }
 tr:last-child td { border-bottom: 0; }
@@ -127,7 +127,7 @@ th.sortable { cursor: pointer; user-select: none; }
 th.sortable:hover { color: var(--ink); }
 th.sorted { color: var(--accent); }
 /* место под стрелку сортировки есть у всех колонок, поэтому ширина не прыгает */
-th.sortable::after { content: "↓"; display: inline-block; width: 1em; text-align: right; visibility: hidden; }
+th.sortable::after { content: "↓"; display: inline-block; width: .75em; text-align: right; visibility: hidden; }
 th.sorted::after { visibility: visible; }
 th.sorted.asc::after { content: "↑"; }
 th.grp { text-align: center; border-left: 1px solid var(--line); }
@@ -476,7 +476,7 @@ tbody tr:hover td.stick { background: var(--surface-2); }
       { k: "r_loot", label: "Золото", group: "Рейды", title: "Золото столицы, добытое в рейдах", v: (x) => x.r.loot ?? null, f: (x) => numCell(x.r.loot), cls: "bl" },
       { k: "r_att", label: "Атак", group: "Рейды", v: (x) => x.r.attacks ?? null, f: (x) => x.r.lim ? `${x.r.attacks}<span class="num-muted">/${x.r.lim}</span>` : numCell(null) },
       { k: "r_miss", label: "Пропуск", group: "Рейды", title: "Выходные без единой атаки, когда игрок был в клане", v: (x) => x.r.missed ?? null, f: (x) => numCell(x.r.missed, n0, true) },
-      { k: "miss", label: "Всего пропусков", v: (x) => x.missTotal, f: (x) => x.missTotal ? `<span class="chip bad">${x.missTotal}</span>` : '<span class="chip good">0</span>', cls: "bl c" },
+      { k: "miss", label: "Итого", title: "Всего пропусков: КВ + ЛВК + рейды", v: (x) => x.missTotal, f: (x) => x.missTotal ? `<span class="chip bad">${x.missTotal}</span>` : '<span class="chip good">0</span>', cls: "bl c" },
     ];
     const tot = rows.reduce((a, x) => a + x.missTotal, 0);
     const clean = rows.filter((x) => x.missTotal === 0).length;
