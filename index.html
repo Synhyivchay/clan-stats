@@ -126,8 +126,10 @@ th { font-size: 12px; color: var(--muted); font-weight: 600; text-transform: upp
 th.sortable { cursor: pointer; user-select: none; }
 th.sortable:hover { color: var(--ink); }
 th.sorted { color: var(--accent); }
-th.sorted::after { content: " ↓"; }
-th.sorted.asc::after { content: " ↑"; }
+/* место под стрелку сортировки есть у всех колонок, поэтому ширина не прыгает */
+th.sortable::after { content: "↓"; display: inline-block; width: 1em; text-align: right; visibility: hidden; }
+th.sorted::after { visibility: visible; }
+th.sorted.asc::after { content: "↑"; }
 th.grp { text-align: center; border-left: 1px solid var(--line); }
 td.l, th.l { text-align: left; }
 td.c, th.c { text-align: center; }
