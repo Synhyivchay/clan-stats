@@ -65,7 +65,8 @@ def push(reason):
     if staged:
         git("commit", "-m", f"Обновление данных {time.strftime('%Y-%m-%d %H:%M', time.gmtime())} UTC ({reason})")
     for attempt in range(3):
-        r = git("pull", "--rebase", "--quiet", check=False)
+        # при конфликте берём версию из репозитория: там правки из «Управления кланами»
+        r = git("pull", "--rebase", "-X", "ours", "--quiet", check=False)
         if r.returncode == 0 and git("push", "--quiet", check=False).returncode == 0:
             log("отправлено:", reason)
             return True
@@ -73,6 +74,17 @@ def push(reason):
         time.sleep(5)
     log("!! не удалось отправить изменения, попробую в следующий раз")
     return False
+
+
+def refresh_registry():
+    """Перед каждым сбором берём свежий список кланов из репозитория —
+    чтобы добавленный или выключенный клан учитывался сразу, а не после
+    следующей отправки данных."""
+    if git("fetch", "--quiet", "origin", "main", check=False).returncode != 0:
+        return
+    if git("cat-file", "-e", "FETCH_HEAD:_admin/clans.json", check=False).returncode == 0:
+        git("checkout", "FETCH_HEAD", "--", "_admin/clans.json", check=False)
+        git("reset", "--quiet", "--", "_admin/clans.json", check=False)
 
 
 def main():
@@ -83,6 +95,7 @@ def main():
     while True:
         tick = time.time()
         n += 1
+        refresh_registry()
         r = subprocess.run([sys.executable, str(ROOT / "scripts" / "collect.py")], cwd=ROOT,
                            capture_output=True, text=True)
         out = (r.stderr or "").strip().splitlines()
