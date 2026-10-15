@@ -118,7 +118,7 @@ select.sel { background: var(--surface); border: 1px solid var(--line); border-r
 /* таблицы */
 .tbl-box { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); overflow-x: auto; min-width: 0; }
 table { border-collapse: collapse; width: 100%; font-variant-numeric: tabular-nums; font-size: 14px; }
-th, td { padding: 9px 8px; text-align: right; white-space: nowrap; border-bottom: 1px solid var(--line); }
+th, td { padding: 9px 8px; text-align: center; white-space: nowrap; border-bottom: 1px solid var(--line); }
 th:first-child, td:first-child { padding-left: 14px; }
 th:last-child, td:last-child { padding-right: 14px; }
 tr:last-child td { border-bottom: 0; }
@@ -129,6 +129,8 @@ th.sorted { color: var(--accent); }
 /* место под стрелку сортировки есть у всех колонок, поэтому ширина не прыгает */
 th.sortable::after { content: "↓"; display: inline-block; width: .75em; text-align: right; visibility: hidden; }
 th.sorted::after { visibility: visible; }
+/* такой же невидимый отступ слева, чтобы заголовок стоял ровно по центру колонки */
+th.sortable:not(.l)::before { content: ""; display: inline-block; width: .75em; }
 th.sorted.asc::after { content: "↑"; }
 th.grp { text-align: center; border-left: 1px solid var(--line); }
 th[rowspan] { vertical-align: middle; }
@@ -510,6 +512,16 @@ tbody tr:hover td.stick { background: var(--surface-2); }
   const dn = (p) => (String(p.name || "").replace(/[\s\u3164\u115F\u1160\u200B-\u200F\u2800\uFFA0]/g, "") ? p.name : p.tag);
   const playerCell = (p, extra = "") =>
     `<span class="th-chip" title="Ратуша">${p.th ?? "?"}</span><a class="name" href="#p-${tagId(p.tag)}">${esc(dn(p))}</a>${extra}`;
+  // крупные числа сокращаем: 152 тыс, 1,25 млн (полное значение — в подсказке)
+  function big(x) {
+    if (x == null || isNaN(x)) return "—";
+    const a = Math.abs(x);
+    let s;
+    if (a >= 1e6) s = (x / 1e6).toLocaleString("ru-RU", { maximumFractionDigits: a >= 1e8 ? 0 : a >= 1e7 ? 1 : 2 }) + " млн";
+    else if (a >= 1e5) s = Math.round(x / 1e3).toLocaleString("ru-RU") + " тыс";
+    else return n0(x);
+    return `<span title="${n0(x)}">${s}</span>`;
+  }
   const numCell = (x, f = n0, bad = false) => (x == null ? '<span class="zero">—</span>' : x === 0 ? `<span class="zero">${f(0)}</span>` : bad ? `<span class="miss">${f(x)}</span>` : f(x));
 
   // ───────── каркас ─────────
@@ -682,7 +694,7 @@ tbody tr:hover td.stick { background: var(--surface-2); }
       { k: "c_att", label: "Атак", group: "ЛВК", v: (x) => x.c.used ?? null, f: (x) => x.c.slots ? `${x.c.used}<span class="num-muted">/${x.c.slots}</span>` : numCell(null), cls: "bl" },
       { k: "c_avg", label: "★ ср.", group: "ЛВК", v: (x) => x.c.avgStars ?? null, f: (x) => numCell(x.c.avgStars, n2) },
       { k: "c_miss", label: "Пропуск", group: "ЛВК", v: (x) => x.c.missed ?? null, f: (x) => numCell(x.c.missed, n0, true) },
-      { k: "r_loot", label: "Золото", group: "Рейды", title: "Золото столицы, добытое в рейдах", v: (x) => x.r.loot ?? null, f: (x) => numCell(x.r.loot), cls: "bl" },
+      { k: "r_loot", label: "Золото", group: "Рейды", title: "Золото столицы, добытое в рейдах", v: (x) => x.r.loot ?? null, f: (x) => numCell(x.r.loot, big), cls: "bl" },
       { k: "r_att", label: "Атак", group: "Рейды", v: (x) => x.r.attacks ?? null, f: (x) => x.r.lim ? `${x.r.attacks}<span class="num-muted">/${x.r.lim}</span>` : numCell(null) },
       { k: "r_miss", label: "Пропуск", group: "Рейды", title: "Выходные без единой атаки, когда игрок был в клане", v: (x) => x.r.missed ?? null, f: (x) => numCell(x.r.missed, n0, true) },
       { k: "miss", label: "Итого", title: "Всего пропусков: КВ + ЛВК + рейды", v: (x) => x.missTotal, f: (x) => x.missTotal ? `<span class="chip bad">${x.missTotal}</span>` : '<span class="chip good">0</span>', cls: "bl c" },
@@ -853,9 +865,9 @@ tbody tr:hover td.stick { background: var(--surface-2); }
       { k: "miss", label: "Пропуск", title: "Выходные без единой атаки, когда игрок был в клане", v: (x) => x.s.missed ?? null, f: (x) => numCell(x.s.missed, n0, true) },
       { k: "att", label: "Атак", v: (x) => x.s.attacks ?? null, f: (x) => x.s.lim ? `${x.s.attacks}<span class="num-muted">/${x.s.lim}</span>` : numCell(null) },
       { k: "part", label: "Недобил", title: "Выходные, где игрок сделал не все доступные атаки", v: (x) => x.s.partial ?? null, f: (x) => x.s.partial ? `<span style="color:var(--warn);font-weight:700">${x.s.partial}</span>` : numCell(x.s.partial) },
-      { k: "loot", label: "Золото", v: (x) => x.s.loot ?? null, f: (x) => numCell(x.s.loot), cls: "bl" },
-      { k: "avg", label: "Ср. за выходные", v: (x) => x.s.avgLoot ?? null, f: (x) => numCell(x.s.avgLoot) },
-      { k: "given", label: "Выгрузил", title: "Сколько золота столицы игрок вложил за недели этих рейдов (куда — API не показывает)", v: (x) => x.u.given ?? null, f: (x) => numCell(x.u.given), cls: "bl" },
+      { k: "loot", label: "Золото", v: (x) => x.s.loot ?? null, f: (x) => numCell(x.s.loot, big), cls: "bl" },
+      { k: "avg", label: "Ср. за выходные", v: (x) => x.s.avgLoot ?? null, f: (x) => numCell(x.s.avgLoot, big) },
+      { k: "given", label: "Выгрузил", title: "Сколько золота столицы игрок вложил за недели этих рейдов (куда — API не показывает)", v: (x) => x.u.given ?? null, f: (x) => numCell(x.u.given, big), cls: "bl" },
       { k: "nogive", label: "Не выгружал", title: "Недель, когда игрок добыл золото в рейдах, но за неделю ничего не вложил", v: (x) => (x.u.weeks ? x.u.none : null), f: (x) => numCell(x.u.weeks ? x.u.none : null, n0, true) },
     ];
     const listRaids = D.raids.filter((r) => r.state !== "ended" || inPeriod(r.end));
@@ -891,9 +903,9 @@ tbody tr:hover td.stick { background: var(--surface-2); }
     const cols = [
       { k: "name", label: "Игрок", v: (x) => x.m.name, f: (x) => x.p.inClan ? playerCell(x.p) : `<span class="name">${esc(x.m.name)}</span> <span class="role">не в клане</span>`, cls: "l stick" },
       { k: "a", label: "Атак", v: (x) => x.m.a, f: (x) => x.m.a < x.m.lim ? `<span style="color:var(--warn);font-weight:700">${x.m.a}</span><span class="num-muted">/${x.m.lim}</span>` : `${x.m.a}<span class="num-muted">/${x.m.lim}</span>` },
-      { k: "loot", label: "Золото", v: (x) => x.m.loot, f: (x) => n0(x.m.loot) },
+      { k: "loot", label: "Золото", v: (x) => x.m.loot, f: (x) => big(x.m.loot) },
       { k: "per", label: "За атаку", v: (x) => (x.m.a ? x.m.loot / x.m.a : null), f: (x) => numCell(x.m.a ? x.m.loot / x.m.a : null) },
-      { k: "given", label: "Выгрузил за неделю", title: "Насколько вырос счётчик вкладов игрока с начала этих рейдов и за 7 дней", v: (x) => x.c, f: (x) => numCell(x.c), cls: "bl" },
+      { k: "given", label: "Выгрузил за неделю", title: "Насколько вырос счётчик вкладов игрока с начала этих рейдов и за 7 дней", v: (x) => x.c, f: (x) => numCell(x.c, big), cls: "bl" },
       { k: "ust", label: "Выгрузка", v: (x) => ({ none: 0, part: 1, wait: 2, ok: 3 })[x.st] ?? 9, f: (x) => (x.st ? UNLOAD[x.st] : '<span class="zero">—</span>'), cls: "c" },
     ];
     return shell("raids", `
