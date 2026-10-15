@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 59,
-   "pct": 98.95,
-   "attacks": 33
+   "pct": 99.55,
+   "attacks": 35
   },
   "them": {
    "tag": "#L88G2PRP",
@@ -394,7 +394,30 @@
     "name": "prime",
     "th": 17,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8QCVQVQPR",
+      "dn": "M.M.T",
+      "dpos": 4,
+      "dth": 18,
+      "s": 2,
+      "p": 91,
+      "o": 61,
+      "n": 0,
+      "dur": 164
+     },
+     {
+      "d": "#PUJ80U90R",
+      "dn": "sOha",
+      "dpos": 1,
+      "dth": 18,
+      "s": 2,
+      "p": 82,
+      "o": 62,
+      "n": 0,
+      "dur": 145
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -648,6 +671,6 @@
     }
    }
   ],
-  "snap": "2026-10-15T17:53:39Z"
+  "snap": "2026-10-15T18:31:19Z"
  }
 ]
