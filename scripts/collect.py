@@ -483,10 +483,10 @@ def collect_contributions(players, last_fetch):
 
 # ───────────────────────── main ─────────────────────────
 
-def collect_clan(tag):
-    """Собирает данные одного клана в data/<ТЕГ без #>/. Возвращает True при успехе."""
+def collect_clan(tag, slug, show=True):
+    """Собирает данные одного клана в data/<slug>/. Возвращает True при успехе."""
     global CLAN_TAG, DATA_DIR, errors
-    CLAN_TAG, DATA_DIR, errors = tag, ROOT_DATA / tag.lstrip("#"), []
+    CLAN_TAG, DATA_DIR, errors = tag, ROOT_DATA / slug, []
 
     meta = load("clan.json", {})
     players = load("players.json", {})
@@ -525,6 +525,7 @@ def collect_clan(tag):
         "contribFetched": contrib_fetched,
         "updated": NOW,
         "errors": errors,
+        "show": show,
     }
 
     save("clan.json", meta)
@@ -540,38 +541,76 @@ def collect_clan(tag):
     return True
 
 
-# ───────────────────── список кланов (data/clans.json) ─────────────────────
+# ───────────────────── список кланов ─────────────────────
 #
-# {"default": "#280L809U9",
-#  "clans": [{"tag": "#280L809U9", "name": "Badboys", "collect": true, "show": true, "added": "..."}]}
-#   collect — собирать ли статистику; show — показывать ли страницу клана на сайте.
+# Список хранится в _admin/clans.json. Папки с «_» GitHub Pages не публикует,
+# поэтому со страниц сайта список не виден (на своём сервере он будет лежать
+# вне папки сайта). Каждый клан открывается по своей ссылке ?c=<тег без #>;
+# страница клана загружает только данные этого клана.
+#
+# {"default": "280L809U9",
+#  "clans": [{"tag": "#280L809U9", "slug": "280L809U9", "name": "Badboys",
+#             "collect": true, "show": true, "added": "..."}]}
+#   collect — собирать ли статистику; show — показывать ли страницу клана.
 
 FILES = ("clan.json", "players.json", "wars.json", "raids.json", "cwl.json")
+REG_FILE = ROOT_DATA.parent / "_admin" / "clans.json"
+
+
+def slug_of(tag):
+    """Код клана в ссылке и имя папки с данными — тег без #."""
+    return tag.lstrip("#").upper()
 
 
 def load_registry():
-    f = ROOT_DATA / "clans.json"
-    if f.exists():
-        return json.loads(f.read_text("utf-8"))
-    reg = {"default": DEFAULT_TAG, "clans": [
-        {"tag": DEFAULT_TAG, "name": None, "collect": True, "show": True, "added": NOW}]}
-    # переезд со старой схемы, где данные одного клана лежали прямо в data/
-    old = ROOT_DATA / "clan.json"
-    new_dir = ROOT_DATA / DEFAULT_TAG.lstrip("#")
-    if old.exists() and not new_dir.exists():
-        new_dir.mkdir(parents=True)
-        for name in FILES:
-            if (ROOT_DATA / name).exists():
-                (ROOT_DATA / name).replace(new_dir / name)
-        log(f"данные перенесены в {new_dir.relative_to(ROOT_DATA.parent)}")
+    old_reg = ROOT_DATA / "clans.json"
+    if REG_FILE.exists():
+        reg = json.loads(REG_FILE.read_text("utf-8"))
+    elif old_reg.exists():
+        # переезд с промежуточной схемы: data/clans.json + папки data/<ТЕГ>/
+        reg = json.loads(old_reg.read_text("utf-8"))
+        for c in reg["clans"]:
+            c["slug"] = slug_of(c["tag"])
+            if reg.get("default") == c["tag"]:
+                reg["default"] = c["slug"]
+        old_reg.unlink()
+        log("список кланов перенесён в _admin/clans.json")
+    else:
+        slug = slug_of(DEFAULT_TAG)
+        reg = {"default": slug, "clans": [
+            {"tag": DEFAULT_TAG, "slug": slug, "name": None, "collect": True, "show": True, "added": NOW}]}
+        # переезд со старой схемы, где данные одного клана лежали прямо в data/
+        if (ROOT_DATA / "clan.json").exists():
+            d = ROOT_DATA / slug
+            d.mkdir(parents=True, exist_ok=True)
+            for name in FILES:
+                if (ROOT_DATA / name).exists():
+                    (ROOT_DATA / name).replace(d / name)
+            log(f"данные основного клана перенесены в data/{slug}/")
+    for c in reg["clans"]:
+        c["slug"] = slug_of(c["tag"])
     return reg
 
 
+def write_json(path, obj):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    tmp.write_text(json.dumps(obj, ensure_ascii=False, indent=1), "utf-8")
+    tmp.replace(path)
+
+
 def save_registry(reg):
-    ROOT_DATA.mkdir(parents=True, exist_ok=True)
-    tmp = ROOT_DATA / "clans.json.tmp"
-    tmp.write_text(json.dumps(reg, ensure_ascii=False, indent=1), "utf-8")
-    tmp.replace(ROOT_DATA / "clans.json")
+    write_json(REG_FILE, reg)
+    # публично известен только основной клан — ссылка на сайт без параметров
+    write_json(ROOT_DATA / "default.json", {"c": reg.get("default")})
+    # флаг «показывать» дублируем в данные клана, чтобы страница знала, что она скрыта
+    for c in reg["clans"]:
+        f = ROOT_DATA / c["slug"] / "clan.json"
+        if f.exists():
+            m = json.loads(f.read_text("utf-8"))
+            if m.get("show", True) != c.get("show", True):
+                m["show"] = c.get("show", True)
+                write_json(f, m)
 
 
 def main():
@@ -584,7 +623,7 @@ def main():
         if not c.get("collect", True):
             continue
         tried += 1
-        if collect_clan(c["tag"]):
+        if collect_clan(c["tag"], c["slug"], c.get("show", True)):
             ok_any = True
             m = load("clan.json", {})
             c["name"] = m.get("name") or c.get("name")

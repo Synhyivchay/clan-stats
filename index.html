@@ -1099,22 +1099,24 @@ tbody tr:hover td.stick { background: var(--surface-2); }
   window.addEventListener("hashchange", () => { route(); window.scrollTo(0, 0); });
 
   // ───────── загрузка ─────────
-  // какой клан показывать: ?c=ТЕГ (без #), иначе основной из data/clans.json
-  const WANT = (new URLSearchParams(location.search).get("c") || "").toUpperCase().replace(/^#/, "");
+  // какой клан показывать: ?c=<тег клана без #>. Без параметра — основной клан из data/default.json.
+  // Сайт не загружает список всех кланов: по ссылке одного клана о других не узнать.
+  const WANT = (new URLSearchParams(location.search).get("c") || "").toUpperCase().replace(/O/g, "0").replace(/[^0-9A-Z]/g, "");
   class Hidden extends Error {}
   async function load() {
     if (window.__CLAN_DATA__) return window.__CLAN_DATA__;
     const v = Math.floor(Date.now() / 6e4);
     const getJ = (p) => fetch(`${p}?v=${v}`).then((r) => { if (!r.ok) throw new Error(p + ": " + r.status); return r.json(); });
     let base = "data/";
-    const reg = await getJ("data/clans.json").catch(() => null);
-    if (reg) {
-      const tag = WANT ? "#" + WANT : reg.default;
-      const c = (reg.clans || []).find((x) => x.tag === tag);
-      if (!c || c.show === false) throw new Hidden();
-      base = `data/${c.tag.slice(1)}/`;
+    let slug = WANT;
+    if (!slug) {
+      const d = await getJ("data/default.json").catch(() => null);
+      slug = d && d.c;
     }
-    const [clan, players, wars, raids, cwl] = await Promise.all(["clan.json", "players.json", "wars.json", "raids.json", "cwl.json"].map((f) => getJ(base + f)));
+    if (slug) base = `data/${slug}/`;
+    const clan = await getJ(base + "clan.json").catch((e) => { if (WANT) throw new Hidden(); throw e; });
+    if (clan.show === false) throw new Hidden();
+    const [players, wars, raids, cwl] = await Promise.all(["players.json", "wars.json", "raids.json", "cwl.json"].map((f) => getJ(base + f)));
     return { clan, players, wars, raids, cwl };
   }
   // таймеры тикают раз в 30 секунд; данные перезагружаются каждые 5 минут

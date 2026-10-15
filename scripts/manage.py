@@ -52,9 +52,11 @@ def main():
                 info = collect.api(f"/clans/{tag}")
             except collect.ApiError as e:
                 raise SystemExit(f"Клан {tag} не найден в игре или API недоступен: {e}")
-            clans.append({"tag": tag, "name": info.get("name"), "badge": collect.badge(info.get("badgeUrls")),
+            slug = collect.slug_of(tag)
+            clans.append({"tag": tag, "slug": slug, "name": info.get("name"), "badge": collect.badge(info.get("badgeUrls")),
                           "collect": True, "show": True, "added": collect.NOW})
             print(f"Добавлен клан {info.get('name')} {tag}. Данные появятся после следующего сбора (до 5 минут).")
+            print(f"Ссылка для клана: …/clan-stats/?c={slug}")
     else:
         if not found:
             raise SystemExit(f"Клана {tag} нет в списке.")
@@ -67,11 +69,13 @@ def main():
         elif action == "show":
             found["show"] = True
         elif action == "remove":
-            if reg.get("default") == tag:
+            if reg.get("default") == found["slug"]:
                 raise SystemExit("Это основной клан — сначала сделайте основным другой (действие default).")
             clans.remove(found)
         elif action == "default":
-            reg["default"] = tag
+            if not found.get("show", True):
+                raise SystemExit("Скрытый клан нельзя сделать основным — сначала покажите его (show).")
+            reg["default"] = found["slug"]
         print(f"{tag}: выполнено «{action}».")
 
     collect.save_registry(reg)

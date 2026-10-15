@@ -76,6 +76,9 @@ h2 { font-family: var(--font-display); font-weight: 400; font-size: 19px; margin
 .facts dd { margin: 0; font-weight: 600; text-align: right; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .acts { display: flex; flex-wrap: wrap; gap: 6px; border-top: 1px solid var(--line); padding-top: 10px; }
 .acts .open { margin-left: auto; }
+.share { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; font-size: 12px; color: var(--muted); }
+.share span { flex-basis: 100%; }
+.share input { flex: 1 1 160px; min-width: 0; background: var(--surface-2); border: 1px solid var(--line); border-radius: 6px; padding: 5px 8px; font-size: 12px; color: var(--ink); }
 .empty { color: var(--muted); padding: 24px; text-align: center; background: var(--surface); border: 1px dashed var(--line); border-radius: var(--r); }
 
 /* подсказка, что нажать на GitHub */
@@ -92,7 +95,7 @@ h2 { font-family: var(--font-display); font-weight: 400; font-size: 19px; margin
 </head>
 <body>
 <header class="band"><div class="wrap">
-  <div class="grow"><h1>Управление кланами</h1><p>Страница не связана с сайтом ссылками и скрыта от поисковиков. Изменения подтверждаются на GitHub — сделать их можешь только ты.</p></div>
+  <div class="grow"><h1>Управление кланами</h1><p>На эту страницу нет ссылок с сайта, поисковики её не видят. Каждому клану отдавай только его ссылку — список кланов на страницах кланов не загружается. Изменения подтверждаются на GitHub, сделать их можешь только ты.</p></div>
   <button class="btn small" type="button" id="reload" style="color:var(--band-ink);background:transparent;border-color:rgba(255,255,255,.25)">Обновить</button>
 </div></header>
 <main class="wrap">
@@ -122,6 +125,9 @@ h2 { font-family: var(--font-display); font-weight: 400; font-size: 19px; margin
     return m && repo ? `https://github.com/${m[1]}/${repo}` : "https://github.com/Synhyivchay/clan-stats";
   })();
   const WF = `${REPO}/actions/workflows/manage.yml`;
+  // список кланов лежит в _admin/ — сайт его не публикует, читаем прямо из репозитория
+  const RAW = REPO.replace("https://github.com/", "https://raw.githubusercontent.com/") + "/main/_admin/clans.json";
+  const SITE = location.origin + location.pathname.replace(/[^/]*$/, "");
   const ACTION_RU = {
     add: "добавить клан", "collect-off": "остановить сбор", "collect-on": "включить сбор",
     hide: "скрыть страницу", show: "показать страницу", remove: "убрать из списка", default: "сделать основным",
@@ -147,12 +153,12 @@ h2 { font-family: var(--font-display); font-weight: 400; font-size: 19px; margin
 
   async function render() {
     const list = document.getElementById("list");
-    const reg = await getJ("data/clans.json");
+    const reg = (await getJ("_admin/clans.json")) || (await getJ(RAW));
     if (!reg) { list.innerHTML = '<div class="empty">Список кланов ещё не создан. Он появится после первого запуска нового сборщика.</div>'; return; }
     const cards = await Promise.all(reg.clans.map(async (c) => {
-      const base = `data/${c.tag.slice(1)}/`;
+      const base = `data/${c.slug}/`;
       const [m, wars, raids] = await Promise.all([getJ(base + "clan.json"), getJ(base + "wars.json"), getJ(base + "raids.json")]);
-      return card(c, m, wars || [], raids || [], reg.default === c.tag);
+      return card(c, m, wars || [], raids || [], reg.default === c.slug);
     }));
     list.innerHTML = cards.join("") || '<div class="empty">Кланов нет. Добавь первый тег выше.</div>';
   }
@@ -175,7 +181,7 @@ h2 { font-family: var(--font-display); font-weight: 400; font-size: 19px; margin
     const errs = (m && m.errors) || [];
     const img = c.badge || (m && m.badge);
     const name = (m && m.name) || c.name || "Без названия";
-    const link = `./?c=${tag.slice(1)}`;
+    const link = `${SITE}?c=${c.slug}`;
     const btn = (action, label) => `<a class="btn small" href="${WF}" target="_blank" rel="noopener" data-act="${action}" data-tag="${esc(tag)}">${label}</a>`;
     return `<article class="clan${on && vis ? "" : " off"}">
       <div class="chead">${img ? `<img src="${esc(img)}" alt="">` : `<span class="ph">${esc(name.slice(0, 1))}</span>`}
@@ -199,6 +205,7 @@ h2 { font-family: var(--font-display); font-weight: 400; font-size: 19px; margin
         ${isDefault ? "" : btn("remove", "Убрать")}
         ${vis && m ? `<a class="btn small open" href="${esc(link)}" target="_blank" rel="noopener">Статистика →</a>` : ""}
       </div>
+      ${vis ? `<div class="share"><span>Ссылка для клана</span><input readonly value="${esc(link)}" aria-label="Ссылка для клана ${esc(name)}"><button class="btn small" type="button" data-copy="${esc(link)}">Копировать</button></div>` : ""}
     </article>`;
   }
 
@@ -225,6 +232,12 @@ h2 { font-family: var(--font-display); font-weight: 400; font-size: 19px; margin
     if (b) { howto(b.dataset.act, b.dataset.tag); return; }
     if (e.target.id === "howto-x") document.getElementById("howto").hidden = true;
     if (e.target.id === "reload") render();
+    const cp = e.target.closest("[data-copy]");
+    if (cp) {
+      const done = () => { cp.textContent = "Скопировано"; setTimeout(() => (cp.textContent = "Копировать"), 1500); };
+      try { navigator.clipboard.writeText(cp.dataset.copy).then(done, () => { cp.previousElementSibling.select(); }); }
+      catch (_) { cp.previousElementSibling.select(); }
+    }
   });
   document.getElementById("add-form").addEventListener("submit", (e) => {
     e.preventDefault();

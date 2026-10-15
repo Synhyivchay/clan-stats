@@ -44,7 +44,7 @@ def strip(o):
 
 def signature():
     h = hashlib.sha256()
-    for f in sorted(DATA.rglob("*.json")):
+    for f in sorted(list(DATA.rglob("*.json")) + list((ROOT / "_admin").glob("*.json"))):
         try:
             h.update(json.dumps(strip(json.loads(f.read_text("utf-8"))), sort_keys=True).encode())
         except Exception:
@@ -57,7 +57,7 @@ def git(*args, check=True):
 
 
 def push(reason):
-    git("add", "data")
+    git("add", "data", "_admin")
     staged = git("diff", "--staged", "--quiet", check=False).returncode != 0
     ahead = git("rev-list", "--count", "@{u}..HEAD", check=False).stdout.strip() not in ("", "0")
     if not staged and not ahead:
