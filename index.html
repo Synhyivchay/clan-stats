@@ -287,6 +287,12 @@ tbody tr:hover td.stick { background: var(--surface-2); }
   const endedWars = (type, filterFn) =>
     D.wars.filter((w) => w.type === type && w.state === "warEnded" && (!filterFn || filterFn(w)));
 
+  // для статистики игроков берём и законченные войны, и текущую (идёт бой).
+  // Пропуски в текущей войне не считаются до её окончания (см. missesCountable).
+  const statWars = (type, filterFn) =>
+    D.wars.filter((w) => w.type === type && (w.state === "warEnded" || w.state === "inWar") && (!filterFn || filterFn(w)));
+  const liveWar = (type) => D.wars.find((w) => w.type === type && w.state === "inWar");
+
   function warStats(wars) {
     const S = {};
     for (const w of wars) {
@@ -399,8 +405,10 @@ tbody tr:hover td.stick { background: var(--surface-2); }
       : `<tr><td colspan="${cols.length}" class="c num-muted">Нет данных за выбранный период</td></tr>`;
     return `<div class="tbl-box"><table><thead>${groups}${head}</thead><tbody>${body}</tbody></table></div>`;
   }
+  // ники из невидимых символов (ㅤ, пробелы и т.п.) показываем тегом
+  const dn = (p) => (String(p.name || "").replace(/[\s\u3164\u115F\u1160\u200B-\u200F\u2800\uFFA0]/g, "") ? p.name : p.tag);
   const playerCell = (p, extra = "") =>
-    `<span class="th-chip" title="Ратуша">${p.th ?? "?"}</span><a class="name" href="#p-${tagId(p.tag)}">${esc(p.name)}</a>${extra}`;
+    `<span class="th-chip" title="Ратуша">${p.th ?? "?"}</span><a class="name" href="#p-${tagId(p.tag)}">${esc(dn(p))}</a>${extra}`;
   const numCell = (x, f = n0, bad = false) => (x == null ? '<span class="zero">—</span>' : x === 0 ? `<span class="zero">${f(0)}</span>` : bad ? `<span class="miss">${f(x)}</span>` : f(x));
 
   // ───────── каркас ─────────
@@ -448,8 +456,8 @@ tbody tr:hover td.stick { background: var(--surface-2); }
   // ───────── вкладка «Игроки» ─────────
   function viewPlayers() {
     const ms = members();
-    const W = warStats(endedWars("war", (w) => inPeriod(w.end)));
-    const C = warStats(endedWars("cwl", (w) => inPeriod(w.end)));
+    const W = warStats(statWars("war", (w) => inPeriod(w.end)));
+    const C = warStats(statWars("cwl", (w) => inPeriod(w.end)));
     const R = raidStats(endedRaids((r) => inPeriod(r.end)));
     const rows = ms.map((p) => ({ p, w: W[p.tag] || {}, c: C[p.tag] || {}, r: R[p.tag] || {} }))
       .map((x) => ({ ...x, missTotal: (x.w.missed || 0) + (x.c.missed || 0) + (x.r.missed || 0) }));
@@ -473,12 +481,12 @@ tbody tr:hover td.stick { background: var(--surface-2); }
     return shell("players", `
       <section>
         <div class="head-row"><h2>Игроки клана</h2>${periodSeg()}</div>
-        <p class="sub">Только текущие участники. Пропуск в КВ и ЛВК — неиспользованная атака в законченной войне. Пропуск рейда — выходные, когда игрок был в клане, но не сделал ни одной атаки.</p>
+        <p class="sub">Только текущие участники. Текущая война учитывается сразу, а её пропуски засчитаются после окончания. Пропуск в КВ и ЛВК — неиспользованная атака в законченной войне. Пропуск рейда — выходные, когда игрок был в клане, но не сделал ни одной атаки.</p>
         <div class="tiles">
           <div class="tile"><div class="k">В клане</div><div class="v">${ms.length}</div></div>
           <div class="tile"><div class="k">Без пропусков</div><div class="v">${clean} <small>из ${ms.length}</small></div></div>
           <div class="tile"><div class="k">Всего пропусков</div><div class="v">${tot}</div></div>
-          <div class="tile"><div class="k">Войн за период</div><div class="v">${endedWars("war", (w) => inPeriod(w.end)).length} <small>КВ</small> · ${endedWars("cwl", (w) => inPeriod(w.end)).length} <small>ЛВК</small></div></div>
+          <div class="tile"><div class="k">Войн за период</div><div class="v">${statWars("war", (w) => inPeriod(w.end)).length} <small>КВ</small> · ${statWars("cwl", (w) => inPeriod(w.end)).length} <small>ЛВК</small></div></div>
         </div>
         ${table("players", cols, rows, { sort: { k: "rank", asc: true } })}
       </section>`);
@@ -487,7 +495,8 @@ tbody tr:hover td.stick { background: var(--surface-2); }
   // ───────── вкладка «КВ» ─────────
   function viewWar() {
     const ws = endedWars("war", (w) => inPeriod(w.end));
-    const S = warStats(ws);
+    const live = liveWar("war");
+    const S = warStats(statWars("war", (w) => inPeriod(w.end)));
     const rows = members().map((p) => ({ p, s: S[p.tag] || {} }));
     const cols = [
       { k: "name", label: "Игрок", v: (x) => x.p.name, f: (x) => playerCell(x.p), cls: "l stick" },
@@ -508,11 +517,12 @@ tbody tr:hover td.stick { background: var(--surface-2); }
       <section>
         <div class="head-row"><h2>Клановые войны</h2>${periodSeg()}</div>
         <div class="tiles">
-          <div class="tile"><div class="k">Войн</div><div class="v">${ws.length}</div></div>
+          <div class="tile"><div class="k">Войн</div><div class="v">${ws.length}${live ? ' <small>+ 1 идёт</small>' : ""}</div></div>
           <div class="tile"><div class="k">Победы</div><div class="v">${wins} <small>${ws.length ? Math.round((wins / ws.length) * 100) + "%" : ""}</small></div></div>
           <div class="tile"><div class="k">Пропущено атак</div><div class="v">${Object.values(S).reduce((a, s) => a + s.missed, 0)}</div></div>
           <div class="tile"><div class="k">Троек</div><div class="v">${Object.values(S).reduce((a, s) => a + s.triples, 0)}</div></div>
         </div>
+        ${live ? `<p class="sub">В таблице уже учтены атаки текущей войны против <b><bdi>${esc(live.them.name)}</bdi></b> (${live.us.stars} : ${live.them.stars}). Пропуски в ней засчитаются после окончания.</p>` : ""}
         ${table("war", cols, rows, { sort: { k: "stars", asc: false } })}
       </section>
       <section>
@@ -525,7 +535,7 @@ tbody tr:hover td.stick { background: var(--surface-2); }
     return `<div class="list">${ws.map((w) => `
       <button class="row-card" type="button" data-go="w-${esc(w.id)}">
         <span class="date">${fmtDate(w.end || w.prep)}${w.type === "cwl" ? ` · день ${w.round}` : ""}</span>
-        <span class="opp">${esc(w.them.name)} <span class="num-muted" style="font-weight:400">${w.teamSize}×${w.teamSize}</span></span>
+        <span class="opp"><bdi>${esc(w.them.name)}</bdi> <span class="num-muted" style="font-weight:400">${w.teamSize}×${w.teamSize}</span></span>
         <span class="score">${w.us.stars} : ${w.them.stars} <small>★</small></span>
         ${resultChip(w)}
       </button>`).join("")}</div>`;
@@ -687,8 +697,8 @@ tbody tr:hover td.stick { background: var(--surface-2); }
   function viewPlayer(tid) {
     const p = D.players["#" + tid];
     if (!p) return shell("players", '<div class="empty">Игрок не найден</div>');
-    const W = warStats(endedWars("war"))[p.tag] || {};
-    const C = warStats(endedWars("cwl"))[p.tag] || {};
+    const W = warStats(statWars("war"))[p.tag] || {};
+    const C = warStats(statWars("cwl"))[p.tag] || {};
     const R = raidStats(endedRaids())[p.tag] || {};
     const since = memberSince(p);
     const ev = (p.events || []).map((e) => `<span class="chip ${e.t === "leave" ? "bad" : e.t === "join" ? "good" : "neutral"}">${e.t === "leave" ? "Вышел" : e.t === "join" ? "Вступил" : "Начало учёта"} ${fmtDate(e.at, { day: "numeric", month: "short", year: "numeric" })}</span>`).join("");
