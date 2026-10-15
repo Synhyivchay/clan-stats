@@ -131,6 +131,8 @@ th.sortable::after { content: "↓"; display: inline-block; width: .75em; text-a
 th.sorted::after { visibility: visible; }
 th.sorted.asc::after { content: "↑"; }
 th.grp { text-align: center; border-left: 1px solid var(--line); }
+th[rowspan] { vertical-align: bottom; }
+th.grp + th[rowspan], th[rowspan].bl { border-left: 1px solid var(--line); }
 td.l, th.l { text-align: left; }
 td.c, th.c { text-align: center; }
 td.bl, th.bl { border-left: 1px solid var(--line); }
@@ -388,24 +390,30 @@ tbody tr:hover td.stick { background: var(--surface-2); }
       const r = typeof x === "string" ? x.localeCompare(y, "ru") : x - y;
       return so.asc ? r : -r;
     });
-    let groups = "";
-    if (cols.some((c) => c.group)) {
-      const gs = [];
-      for (const c of cols) {
-        const g = c.group || "";
-        if (gs.length && gs[gs.length - 1].g === g) gs[gs.length - 1].n++;
-        else gs.push({ g, n: 1 });
-      }
-      groups = "<tr>" + gs.map((g) => `<th colspan="${g.n}" class="${g.g ? "grp" : ""}">${esc(g.g)}</th>`).join("") + "</tr>";
-    }
-    const head = "<tr>" + cols.map((c) => {
+    const hcell = (c, extra = "") => {
       const cls = [c.cls || "", "sortable", c.k === so.k ? "sorted" : "", c.k === so.k && so.asc ? "asc" : ""].join(" ");
-      return `<th class="${cls}" data-t="${id}" data-k="${c.k}" ${c.title ? `title="${esc(c.title)}"` : ""}>${c.label}</th>`;
-    }).join("") + "</tr>";
+      return `<th class="${cls}" data-t="${id}" data-k="${c.k}" ${c.title ? `title="${esc(c.title)}"` : ""}${extra}>${c.label}</th>`;
+    };
+    let head;
+    if (cols.some((c) => c.group)) {
+      // колонки без группы занимают обе строки шапки, группы — заголовок над своими колонками
+      let top = "", i = 0;
+      while (i < cols.length) {
+        const g = cols[i].group;
+        if (!g) { top += hcell(cols[i], ' rowspan="2"'); i++; continue; }
+        let n = 0;
+        while (i + n < cols.length && cols[i + n].group === g) n++;
+        top += `<th colspan="${n}" class="grp">${esc(g)}</th>`;
+        i += n;
+      }
+      head = `<tr>${top}</tr><tr>${cols.filter((c) => c.group).map((c) => hcell(c)).join("")}</tr>`;
+    } else {
+      head = `<tr>${cols.map((c) => hcell(c)).join("")}</tr>`;
+    }
     const body = sorted.length
       ? sorted.map((r) => `<tr${opts.link ? ` class="link" data-go="${esc(opts.link(r))}"` : ""}>` + cols.map((c) => `<td class="${c.cls || ""}">${c.f ? c.f(r) : esc(c.v(r))}</td>`).join("") + "</tr>").join("")
       : `<tr><td colspan="${cols.length}" class="c num-muted">Нет данных за выбранный период</td></tr>`;
-    return `<div class="tbl-box"><table><thead>${groups}${head}</thead><tbody>${body}</tbody></table></div>`;
+    return `<div class="tbl-box"><table><thead>${head}</thead><tbody>${body}</tbody></table></div>`;
   }
   // ники из невидимых символов (ㅤ, пробелы и т.п.) показываем тегом
   const dn = (p) => (String(p.name || "").replace(/[\s\u3164\u115F\u1160\u200B-\u200F\u2800\uFFA0]/g, "") ? p.name : p.tag);
