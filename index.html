@@ -118,7 +118,7 @@ select.sel { background: var(--surface); border: 1px solid var(--line); border-r
 /* таблицы */
 .tbl-box { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); overflow-x: auto; min-width: 0; }
 table { border-collapse: collapse; width: 100%; font-variant-numeric: tabular-nums; font-size: 14px; }
-th, td { padding: 9px 8px; text-align: center; white-space: nowrap; border-bottom: 1px solid var(--line); }
+th, td { padding: 9px 7px; text-align: center; white-space: nowrap; border-bottom: 1px solid var(--line); }
 th:first-child, td:first-child { padding-left: 14px; }
 th:last-child, td:last-child { padding-right: 14px; }
 tr:last-child td { border-bottom: 0; }
@@ -126,12 +126,12 @@ th { font-size: 12px; color: var(--muted); font-weight: 600; text-transform: upp
 th.sortable { cursor: pointer; user-select: none; }
 th.sortable:hover { color: var(--ink); }
 th.sorted { color: var(--accent); }
-/* место под стрелку сортировки есть у всех колонок, поэтому ширина не прыгает */
-th.sortable::after { content: "↓"; display: inline-block; width: .75em; text-align: right; visibility: hidden; }
-th.sorted::after { visibility: visible; }
-/* такой же невидимый отступ слева, чтобы заголовок стоял ровно по центру колонки */
-th.sortable:not(.l)::before { content: ""; display: inline-block; width: .75em; }
-th.sorted.asc::after { content: "↑"; }
+/* стрелка сортировки висит справа от подписи и не занимает места — ширина колонок не меняется */
+th .lbl { position: relative; }
+th.sorted .lbl::after { content: "▼"; position: absolute; left: 100%; margin-left: 2px; top: 50%; transform: translateY(-50%); font-size: 7px; line-height: 1; }
+th.sorted.asc .lbl::after { content: "▲"; }
+/* у заголовков справа запас ровно под маленькую стрелку, чтобы она не вылезала за колонку */
+th.sortable { padding-right: 11px; }
 th.grp { text-align: center; border-left: 1px solid var(--line); }
 th[rowspan] { vertical-align: middle; }
 th.grp + th[rowspan], th[rowspan].bl { border-left: 1px solid var(--line); }
@@ -485,7 +485,7 @@ tbody tr:hover td.stick { background: var(--surface-2); }
     });
     const hcell = (c, extra = "") => {
       const cls = [c.cls || "", "sortable", c.k === so.k ? "sorted" : "", c.k === so.k && so.asc ? "asc" : ""].join(" ");
-      return `<th class="${cls}" data-t="${id}" data-k="${c.k}" ${c.title ? `title="${esc(c.title)}"` : ""}${extra}>${c.label}</th>`;
+      return `<th class="${cls}" data-t="${id}" data-k="${c.k}" ${c.title ? `title="${esc(c.title)}"` : ""}${extra}><span class="lbl">${c.label}</span></th>`;
     };
     let head;
     if (cols.some((c) => c.group)) {
