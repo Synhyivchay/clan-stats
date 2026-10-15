@@ -1,9 +1,11 @@
 name: Обновление статистики
 
+# Один запуск работает ~5 ч 40 мин и собирает данные каждые 5 минут
+# (scripts/loop.py). Расписание раз в час нужно, чтобы следующий запуск
+# встал в очередь и продолжил сбор сразу после окончания текущего.
 on:
   schedule:
-    # GitHub часто пропускает запуски в «круглые» минуты, поэтому время смещено
-    - cron: "7,22,37,52 * * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:          # кнопка «Run workflow» для ручного запуска
 
 permissions:
@@ -16,25 +18,16 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
 
-      - name: Собрать данные из API Clash of Clans
+      - name: Собирать данные каждые 5 минут
         env:
           COC_TOKEN: ${{ secrets.COC_TOKEN }}
           CLAN_TAG: ${{ vars.CLAN_TAG || '#280L809U9' }}
-        run: python3 scripts/collect.py
-
-      - name: Сохранить изменения
+          INTERVAL: "300"
         run: |
           git config user.name "clan-stats-bot"
           git config user.email "clan-stats-bot@users.noreply.github.com"
-          git add data
-          if git diff --staged --quiet; then
-            echo "Изменений нет"
-            exit 0
-          fi
-          git commit -m "Обновление данных $(date -u +'%Y-%m-%d %H:%M') UTC"
-          git pull --rebase --quiet
-          git push
+          python3 scripts/loop.py
