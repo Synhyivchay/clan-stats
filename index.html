@@ -218,6 +218,51 @@ tbody tr:hover td.stick { background: var(--surface-2); }
   .versus .mid { grid-column: 1 / -1; grid-row: 1; }
   .versus .big { font-size: 24px; }
 }
+
+/* ── сводка «сейчас» ── */
+.live { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px; }
+.lcard { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 14px 16px; display: grid; gap: 10px; align-content: start; min-width: 0; }
+.lhead { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.lk { font-family: var(--font-display); font-size: 17px; }
+.lmore { margin-left: auto; color: var(--accent); font-weight: 600; font-size: 13px; text-decoration: none; }
+.lmore::after { content: " →"; }
+.lwhen { color: var(--muted); font-size: 13px; margin-top: -6px; }
+.lempty { color: var(--muted); margin: 0; font-size: 14px; }
+.lok { color: var(--good); font-weight: 600; margin: 0; font-size: 14px; }
+.vs { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); align-items: center; gap: 10px; }
+.vname { font-weight: 700; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0; }
+.vname.r { text-align: right; }
+.vscore { font-family: var(--font-display); font-size: 34px; line-height: 1; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.vscore i { font-style: normal; color: var(--muted); margin: 0 6px; }
+.vrow { display: grid; grid-template-columns: 1fr auto 1fr; gap: 10px; font-variant-numeric: tabular-nums; font-weight: 600; font-size: 14px; }
+.vrow span:last-child { text-align: right; }
+.vrow small { color: var(--muted); font-weight: 500; }
+.vrow em { font-style: normal; color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .05em; font-weight: 600; align-self: center; }
+.vbar { display: flex; justify-content: space-between; height: 6px; border-radius: 3px; background: var(--surface-2); overflow: hidden; }
+.vbar i { display: block; background: var(--good); }
+.vbar i.them { background: var(--bad); }
+.rbig { font-family: var(--font-display); font-size: 30px; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.rbig small { font-family: var(--font-body); font-size: 13px; color: var(--muted); }
+.rstats { display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 13px; color: var(--muted); }
+.rstats b { color: var(--ink); font-variant-numeric: tabular-nums; }
+.who { border-top: 1px solid var(--line); padding-top: 8px; }
+.who summary { cursor: pointer; font-weight: 600; font-size: 14px; list-style: none; display: flex; align-items: center; gap: 6px; }
+.who summary::-webkit-details-marker { display: none; }
+.who summary::before { content: "▸"; color: var(--muted); font-size: 12px; transition: transform .15s; }
+.who[open] summary::before { transform: rotate(90deg); }
+.who summary b { background: var(--warn-soft); color: var(--warn); border-radius: 99px; padding: 0 8px; font-size: 12px; }
+.who.bad summary b { background: var(--bad-soft); color: var(--bad); }
+.nchips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.nchip { font-size: 13px; padding: 4px 10px; border-radius: 99px; background: var(--surface-2); border: 1px solid var(--line); text-decoration: none; font-weight: 600; }
+.nchip span { color: var(--muted); font-weight: 500; }
+.nchip:hover { border-color: var(--accent); }
+@media (max-width: 640px) {
+  .live { grid-template-columns: 1fr; }
+  .vscore { font-size: 30px; }
+  .rbig { font-size: 26px; }
+  .who summary { min-height: 32px; }
+  .nchip { padding: 6px 10px; }
+}
 </style>
 </head>
 <body>
@@ -463,6 +508,106 @@ tbody tr:hover td.stick { background: var(--surface-2); }
     return { win: '<span class="chip good">Победа</span>', lose: '<span class="chip bad">Поражение</span>', tie: '<span class="chip neutral">Ничья</span>' }[w.result] || "";
   };
 
+
+  // ───────── сводка «сейчас»: текущая война и рейды ─────────
+  function left(ms) {
+    if (ms <= 0) return "меньше минуты";
+    const m = Math.floor(ms / 6e4), d = Math.floor(m / 1440), h = Math.floor((m % 1440) / 60), mm = m % 60;
+    if (d) return `${d} д ${h} ч`;
+    if (h) return `${h} ч ${mm} мин`;
+    return `${mm} мин`;
+  }
+  function nameChips(list, max = 14) {
+    const chip = (x) => `<a class="nchip" href="#p-${tagId(x.p.tag)}">${esc(dn(x.p))}${x.note ? ` <span>${x.note}</span>` : ""}</a>`;
+    return `<div class="nchips">${list.map(chip).join("")}</div>`;
+  }
+  function whoList(title, list, cls) {
+    if (!list.length) return "";
+    return `<details class="who ${cls || ""}"${list.length <= 12 ? " open" : ""}><summary>${title} <b>${list.length}</b></summary>${nameChips(list)}</details>`;
+  }
+  function warCard() {
+    const now = Date.now();
+    const active = D.wars.filter((w) => w.state === "inWar" || w.state === "preparation")
+      .sort((a, b) => (a.state === "inWar" ? 0 : 1) - (b.state === "inWar" ? 0 : 1) || t(a.end) - t(b.end));
+    const w = active[0] || D.wars.find((x) => x.state === "warEnded");
+    if (!w) return `<div class="lcard"><div class="lhead"><span class="lk">Война</span></div><p class="lempty">Сейчас войны нет. Как только клан начнёт КВ или ЛВК, здесь появится счёт.</p></div>`;
+    const kind = w.type === "cwl" ? `ЛВК · день ${w.round}` : "КВ";
+    let status, when;
+    if (w.state === "preparation") { status = '<span class="chip neutral">Подготовка</span>'; when = `бой через ${left(t(w.start) - now)}`; }
+    else if (w.state === "inWar") { status = '<span class="chip warn">Идёт бой</span>'; when = `до конца ${left(t(w.end) - now)}`; }
+    else { status = resultChip(w); when = `закончилась ${fmtDT(w.end)}`; }
+    const max = (w.teamSize || w.members.length) * w.apm;
+    const fight = w.state !== "preparation";
+    const pctW = (x) => Math.max(0, Math.min(100, x));
+    const rows = fight ? `
+      <div class="vrow"><span>${w.us.attacks}<small>/${max}</small></span><em>атаки</em><span>${w.them.attacks ?? "—"}<small>/${max}</small></span></div>
+      <div class="vrow"><span>${n1(w.us.pct)}%</span><em>разрушение</em><span>${n1(w.them.pct)}%</span></div>
+      <div class="vbar" aria-hidden="true"><i style="width:${pctW(w.us.pct) / 2}%"></i><i class="them" style="width:${pctW(w.them.pct) / 2}%"></i></div>` : "";
+    let who = "";
+    if (w.state === "inWar") {
+      const rest = w.members.filter((m) => m.attacks.length < w.apm)
+        .map((m) => ({ p: D.players[m.tag] || m, note: w.apm > 1 && m.attacks.length ? `${m.attacks.length}/${w.apm}` : "" }));
+      who = rest.length ? whoList("Ещё не атаковали", rest) : '<p class="lok">Все атаки сделаны</p>';
+    } else if (w.state === "warEnded" && missesCountable(w)) {
+      const miss = w.members.filter((m) => m.attacks.length < w.apm)
+        .map((m) => ({ p: D.players[m.tag] || m, note: w.apm > 1 ? `${m.attacks.length}/${w.apm}` : "" }));
+      who = miss.length ? whoList("Не атаковали", miss, "bad") : '<p class="lok">Без пропусков</p>';
+    }
+    return `<div class="lcard">
+      <div class="lhead"><span class="lk">${kind}</span>${status}<a class="lmore" href="#w-${esc(w.id)}">Подробнее</a></div>
+      <div class="lwhen">${when} · ${w.teamSize}×${w.teamSize}</div>
+      <div class="vs">
+        <span class="vname">${esc(w.us.name)}</span>
+        <span class="vscore">${w.us.stars}<i>:</i>${w.them.stars}</span>
+        <span class="vname r"><bdi>${esc(w.them.name)}</bdi></span>
+      </div>
+      ${rows}
+      ${who}
+    </div>`;
+  }
+  function nextRaidStart(now) {
+    // рейды стартуют в пятницу 07:00 UTC
+    const d = new Date(now);
+    const r = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate(), 7));
+    r.setUTCDate(r.getUTCDate() + ((5 - r.getUTCDay() + 7) % 7));
+    if (r.getTime() <= now) r.setUTCDate(r.getUTCDate() + 7);
+    return r.getTime();
+  }
+  function raidCard() {
+    const now = Date.now();
+    const r = D.raids.find((x) => x.state === "ongoing") || null;
+    if (r) {
+      const ms = members();
+      const byTag = Object.fromEntries(r.members.map((m) => [m.tag, m]));
+      const notYet = ms.filter((p) => !byTag[p.tag]).map((p) => ({ p }));
+      const partial = r.members.filter((m) => m.a < m.lim && D.players[m.tag]?.inClan)
+        .map((m) => ({ p: D.players[m.tag], note: `${m.a}/${m.lim}` }));
+      const canLeft = notYet.length * 5 + r.members.reduce((a, m) => a + Math.max(0, m.lim - m.a), 0);
+      return `<div class="lcard">
+        <div class="lhead"><span class="lk">Рейды</span><span class="chip warn">Идут</span><a class="lmore" href="#r-${r.id}">Подробнее</a></div>
+        <div class="lwhen">до конца ${left(t(r.end) - now)}</div>
+        <div class="rbig">${n0(r.loot)} <small>золота</small></div>
+        <div class="rstats">
+          <span><b>${r.members.length}</b> из ${ms.length} атаковали</span>
+          <span><b>${r.attacks}</b> атак сделано</span>
+          <span><b>${canLeft}</b> атак ещё доступно</span>
+        </div>
+        ${notYet.length ? whoList("Ещё не атаковали", notYet, "bad") : '<p class="lok">Атаковали все</p>'}
+        ${whoList("Не добили атаки", partial)}
+      </div>`;
+    }
+    const last = D.raids.find((x) => x.state === "ended");
+    const absent = last ? raidAbsent(last) : null;
+    return `<div class="lcard">
+      <div class="lhead"><span class="lk">Рейды</span><span class="chip neutral">Пауза</span>${last ? `<a class="lmore" href="#r-${last.id}">Прошлые</a>` : ""}</div>
+      <div class="lwhen">начнутся ${fmtDT(new Date(nextRaidStart(now)).toISOString())} · через ${left(nextRaidStart(now) - now)}</div>
+      ${last ? `<div class="rbig">${n0(last.loot)} <small>золота за прошлые выходные</small></div>
+        <div class="rstats"><span><b>${last.members.length}</b> атаковали</span><span><b>${last.attacks}</b> атак</span><span><b>${last.raids}</b> ${plural(last.raids, "столица", "столицы", "столиц")} захвачено</span></div>
+        ${absent && absent.length ? whoList("Пропустили прошлые", absent.filter((p) => p.inClan).map((p) => ({ p })), "bad") : ""}` : '<p class="lempty">Данных о рейдах пока нет.</p>'}
+    </div>`;
+  }
+  const liveBlock = () => `<section class="live" aria-label="Сейчас в клане">${warCard()}${raidCard()}</section>`;
+
   // ───────── вкладка «Игроки» ─────────
   function viewPlayers() {
     const ms = members();
@@ -489,9 +634,9 @@ tbody tr:hover td.stick { background: var(--surface-2); }
     const tot = rows.reduce((a, x) => a + x.missTotal, 0);
     const clean = rows.filter((x) => x.missTotal === 0).length;
     return shell("players", `
+      ${liveBlock()}
       <section>
         <div class="head-row"><h2>Игроки клана</h2>${periodSeg()}</div>
-        <p class="sub">Только текущие участники. Текущая война учитывается сразу, а её пропуски засчитаются после окончания. Пропуск в КВ и ЛВК — неиспользованная атака в законченной войне. Пропуск рейда — выходные, когда игрок был в клане, но не сделал ни одной атаки.</p>
         <div class="tiles">
           <div class="tile"><div class="k">В клане</div><div class="v">${ms.length}</div></div>
           <div class="tile"><div class="k">Без пропусков</div><div class="v">${clean} <small>из ${ms.length}</small></div></div>
@@ -499,6 +644,7 @@ tbody tr:hover td.stick { background: var(--surface-2); }
           <div class="tile"><div class="k">Войн за период</div><div class="v">${statWars("war", (w) => inPeriod(w.end)).length} <small>КВ</small> · ${statWars("cwl", (w) => inPeriod(w.end)).length} <small>ЛВК</small></div></div>
         </div>
         ${table("players", cols, rows, { sort: { k: "rank", asc: true } })}
+        <p class="sub">Только текущие участники. Текущая война учитывается сразу, а её пропуски засчитаются после окончания. Пропуск в КВ и ЛВК — неиспользованная атака в законченной войне, где игрок был в составе. Пропуск рейда — выходные, когда игрок был в клане, но не сделал ни одной атаки.</p>
       </section>`);
   }
 
