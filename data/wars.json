@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 56,
-   "pct": 94.1,
-   "attacks": 27
+   "stars": 59,
+   "pct": 98.95,
+   "attacks": 33
   },
   "them": {
    "tag": "#L88G2PRP",
    "name": "خان های بختیاری",
    "badge": "https://api-assets.clashofclans.com/badges/200/2BfMFU1aqtln6DfNpzm8OxVNesm7ILIwh42pAow4zNo.png",
    "level": 29,
-   "stars": 43,
-   "pct": 78.9,
-   "attacks": 18
+   "stars": 55,
+   "pct": 96.1,
+   "attacks": 27
   },
   "members": [
    {
@@ -92,9 +92,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 1,
-     "p": 98
+     "n": 3,
+     "s": 2,
+     "p": 83
     }
    },
    {
@@ -137,7 +137,30 @@
     "name": "GURU RANDHAWA",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PUJ80U90R",
+      "dn": "sOha",
+      "dpos": 1,
+      "dth": 18,
+      "s": 2,
+      "p": 59,
+      "o": 57,
+      "n": 0,
+      "dur": 142
+     },
+     {
+      "d": "#2QJ8LPJLV",
+      "dn": "Milad",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 52,
+      "o": 58,
+      "n": 0,
+      "dur": 72
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -184,7 +207,30 @@
     "name": "Boston",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8QCVQVQPR",
+      "dn": "M.M.T",
+      "dpos": 4,
+      "dth": 18,
+      "s": 2,
+      "p": 79,
+      "o": 51,
+      "n": 0,
+      "dur": 180
+     },
+     {
+      "d": "#2QJ8LPJLV",
+      "dn": "Milad",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 53,
+      "n": 1,
+      "dur": 167
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -221,9 +267,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 82
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -233,9 +279,9 @@
     "pos": 8,
     "attacks": [],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 2,
-     "p": 86
+     "p": 94
     }
    },
    {
@@ -455,9 +501,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -465,11 +511,34 @@
     "name": "Женя",
     "th": 16,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8QCVQVQPR",
+      "dn": "M.M.T",
+      "dpos": 4,
+      "dth": 18,
+      "s": 2,
+      "p": 72,
+      "o": 50,
+      "n": 2,
+      "dur": 108
+     },
+     {
+      "d": "#2QJ8LPJLV",
+      "dn": "Milad",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 69,
+      "o": 52,
+      "n": 0,
+      "dur": 105
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -502,9 +571,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -526,9 +595,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 67
+     "n": 3,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -579,6 +648,6 @@
     }
    }
   ],
-  "snap": "2026-10-15T13:52:34Z"
+  "snap": "2026-10-15T17:53:39Z"
  }
 ]
