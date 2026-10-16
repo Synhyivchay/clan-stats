@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 219392,
+  "loot": 224012,
   "raids": 2,
-  "attacks": 51,
+  "attacks": 52,
   "districts": 18,
   "offReward": 0,
   "defReward": 0,
@@ -40,6 +40,13 @@
     "loot": 27400
    },
    {
+    "tag": "#GRQC2829L",
+    "name": "ed_sans_123",
+    "a": 6,
+    "lim": 6,
+    "loot": 25664
+   },
+   {
     "tag": "#9LLUUULPG",
     "name": "F.A.N.T.O.M",
     "a": 6,
@@ -52,13 +59,6 @@
     "a": 6,
     "lim": 6,
     "loot": 22642
-   },
-   {
-    "tag": "#GRQC2829L",
-    "name": "ed_sans_123",
-    "a": 5,
-    "lim": 6,
-    "loot": 21044
    },
    {
     "tag": "#LCRPUCU2V",
