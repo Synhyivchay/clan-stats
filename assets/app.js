@@ -635,7 +635,7 @@
     const rs = endedRaids((r) => inPeriod(r.end));
     const liveR = D.raids.find((r) => r.state === "ongoing");
     const S = raidStats(statRaids((r) => inPeriod(r.end)));
-    const U = unloadStats(endedRaids((r) => inPeriod(r.end)));
+    const U = unloadStats(statRaids((r) => inPeriod(r.end)));
     const rows = members().map((p) => ({ p, s: S[p.tag] || {}, u: U[p.tag] || {} }));
     const cols = [
       { k: "name", label: "Игрок", v: (x) => x.p.name, f: (x) => playerCell(x.p), cls: "l stick", alt: PLAYER_ALT },
@@ -645,7 +645,7 @@
       { k: "part", label: "Недобил", title: "Выходные, где игрок сделал не все доступные атаки", v: (x) => x.s.partial ?? null, f: (x) => x.s.partial ? `<span style="color:var(--warn);font-weight:700">${x.s.partial}</span>` : numCell(x.s.partial) },
       { k: "loot", label: "Золото", v: (x) => x.s.loot ?? null, f: (x) => numCell(x.s.loot, big), cls: "bl" },
       { k: "avg", label: "Ср. за выходные", v: (x) => x.s.avgLoot ?? null, f: (x) => numCell(x.s.avgLoot, big) },
-      { k: "given", label: "Выгрузил", title: "Сколько золота столицы игрок вложил за недели этих рейдов (куда — API не показывает)", v: (x) => x.u.given ?? null, f: (x) => numCell(x.u.given, big), cls: "bl" },
+      { k: "given", label: "Выгрузил", title: "Сколько золота столицы игрок вложил за недели этих рейдов, включая текущую (куда — API не показывает)", v: (x) => x.u.given ?? null, f: (x) => numCell(x.u.given, big), cls: "bl" },
       { k: "nogive", label: "Не выгружал", title: "Недель, когда игрок добыл золото в рейдах, но за неделю ничего не вложил", v: (x) => (x.u.weeks ? x.u.none : null), f: (x) => numCell(x.u.weeks ? x.u.none : null, n0, true) },
     ];
     const listRaids = D.raids.filter((r) => r.state !== "ended" || inPeriod(r.end));
