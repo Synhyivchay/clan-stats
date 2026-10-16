@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 313196,
+  "loot": 324252,
   "raids": 3,
-  "attacks": 71,
-  "districts": 27,
+  "attacks": 73,
+  "districts": 28,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -89,6 +89,13 @@
     "loot": 16363
    },
    {
+    "tag": "#YQLLCGP0",
+    "name": "Lennart",
+    "a": 3,
+    "lim": 6,
+    "loot": 14746
+   },
+   {
     "tag": "#2CCJVQ08V",
     "name": "Shaun Ryan",
     "a": 3,
@@ -108,13 +115,6 @@
     "a": 2,
     "lim": 6,
     "loot": 10383
-   },
-   {
-    "tag": "#YQLLCGP0",
-    "name": "Lennart",
-    "a": 1,
-    "lim": 5,
-    "loot": 3690
    },
    {
     "tag": "#2JCQPL89R",
