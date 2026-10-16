@@ -1,0 +1,886 @@
+/* Статистика клана — клиентская часть. Без библиотек.
+   Данные: data/clan.json, players.json, wars.json, raids.json, cwl.json
+   (их собирает scripts/collect.py). Вся статистика считается по тегу игрока,
+   поэтому выход/возврат в клан ничего не сбрасывает. На сайте показываются
+   только текущие участники клана. */
+(function () {
+  "use strict";
+
+  const DAY = 864e5;
+  const ROLE = { leader: "Глава", coLeader: "Соруководитель", admin: "Старейшина", member: "Участник" };
+  const PERIODS = [["30", "30 дней"], ["90", "90 дней"], ["all", "Всё время"]];
+
+  let D = null;            // все данные
+  let NOW = Date.now();
+  const st = {             // состояние интерфейса
+    period: "90",
+    cwlSeason: null,
+    sort: {},              // id таблицы -> {k, asc}
+  };
+  try { const p = localStorage.getItem("period"); if (p) st.period = p; } catch (e) {}
+
+  // ───────── утилиты ─────────
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const t = (s) => (s ? Date.parse(s) : 0);
+  const fmtDate = (s, opts) => (s ? new Date(s).toLocaleDateString("ru-RU", opts || { day: "numeric", month: "short" }).replace(".", "") : "—");
+  const fmtDT = (s) => (s ? new Date(s).toLocaleString("ru-RU", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" }).replace(".", "") : "—");
+  const n0 = (x) => (x == null || isNaN(x) ? "—" : Math.round(x).toLocaleString("ru-RU"));
+  const n1 = (x) => (x == null || isNaN(x) ? "—" : x.toLocaleString("ru-RU", { minimumFractionDigits: 1, maximumFractionDigits: 1 }));
+  const n2 = (x) => (x == null || isNaN(x) ? "—" : x.toLocaleString("ru-RU", { minimumFractionDigits: 2, maximumFractionDigits: 2 }));
+  const pct = (x) => (x == null || isNaN(x) ? "—" : Math.round(x) + "%");
+  const plural = (n, a, b, c) => { n = Math.abs(n) % 100; const m = n % 10; return n > 10 && n < 20 ? c : m > 1 && m < 5 ? b : m === 1 ? a : c; };
+  const stars = (s, max = 3) => `<span class="stars" aria-label="${s} из ${max} звёзд">${"<i>★</i>".repeat(s)}${'<i class="off">★</i>'.repeat(Math.max(0, max - s))}</span>`;
+  const tagId = (tag) => String(tag || "").replace("#", "");
+  const inPeriod = (dateStr) => st.period === "all" || t(dateStr) >= NOW - Number(st.period) * DAY;
+
+  // ───────── членство ─────────
+  // интервалы пребывания игрока в клане (по событиям seen/join/leave)
+  function intervals(p) {
+    const out = [];
+    let open = null;
+    for (const e of p.events || []) {
+      if (e.t === "seen" || e.t === "join") { if (open == null) open = t(e.at); }
+      else if (e.t === "leave") { if (open != null) { out.push([open, t(e.at)]); open = null; } }
+    }
+    if (open != null) out.push([open, Infinity]);
+    return out;
+  }
+  const inClanDuring = (p, a, b) => intervals(p).some(([x, y]) => x <= a && y >= b);
+  function memberSince(p) {
+    const ev = p.events || [];
+    for (let i = ev.length - 1; i >= 0; i--) {
+      if (ev[i].t === "join") return { at: ev[i].at, known: true };
+      if (ev[i].t === "seen") return { at: ev[i].at, known: false };
+    }
+    return null;
+  }
+  const members = () => Object.values(D.players).filter((p) => p.inClan);
+
+  // ───────── войны ─────────
+  // пропуски атак засчитываем, только если уверены, что видели конец войны
+  function missesCountable(w) {
+    if (w.state !== "warEnded") return false;
+    if (!w.partial) return true;
+    return w.snap && t(w.end) - t(w.snap) <= 60 * 60 * 1000;
+  }
+  const endedWars = (type, filterFn) =>
+    D.wars.filter((w) => w.type === type && w.state === "warEnded" && (!filterFn || filterFn(w)));
+
+  // для статистики игроков берём и законченные войны, и текущую (идёт бой).
+  // Пропуски в текущей войне не считаются до её окончания (см. missesCountable).
+  const statWars = (type, filterFn) =>
+    D.wars.filter((w) => w.type === type && (w.state === "warEnded" || w.state === "inWar") && (!filterFn || filterFn(w)));
+  const liveWar = (type) => D.wars.find((w) => w.type === type && w.state === "inWar");
+
+  function warStats(wars) {
+    const S = {};
+    for (const w of wars) {
+      const countMiss = missesCountable(w);
+      for (const m of w.members) {
+        const s = (S[m.tag] ||= { wars: 0, slots: 0, used: 0, missed: 0, stars: 0, fresh: 0, pctSum: 0, triples: 0, defN: 0, defStars: 0, defHeld: 0 });
+        s.wars++;
+        s.slots += w.apm;
+        s.used += m.attacks.length;
+        if (countMiss) s.missed += Math.max(0, w.apm - m.attacks.length);
+        for (const a of m.attacks) {
+          s.stars += a.s; s.fresh += a.n || 0; s.pctSum += a.p;
+          if (a.s === 3) s.triples++;
+        }
+        if (m.def && m.def.n > 0) {
+          s.defN++; s.defStars += m.def.s || 0;
+          if ((m.def.s || 0) < 3) s.defHeld++;
+        }
+      }
+    }
+    for (const s of Object.values(S)) {
+      s.avgStars = s.used ? s.stars / s.used : null;
+      s.avgPct = s.used ? s.pctSum / s.used : null;
+      s.defAvg = s.defN ? s.defStars / s.defN : null;
+    }
+    return S;
+  }
+
+  // ───────── рейды ─────────
+  const endedRaids = (filterFn) => D.raids.filter((r) => r.state === "ended" && (!filterFn || filterFn(r)));
+  // для статистики берём и законченные, и идущие рейды; пропуски и «недобил» — только по законченным
+  const statRaids = (filterFn) => D.raids.filter((r) => (r.state === "ended" || r.state === "ongoing") && (!filterFn || filterFn(r)));
+  const raidKnown = (r) => t(r.start) >= t(D.clan.trackingSince);
+  function raidStats(raids) {
+    const S = {};
+    const get = (tag) => (S[tag] ||= { weekends: 0, missed: 0, attacks: 0, lim: 0, loot: 0, partial: 0, doneW: 0, doneLoot: 0 });
+    for (const r of raids) {
+      const seen = new Set();
+      for (const m of r.members) {
+        const s = get(m.tag);
+        seen.add(m.tag);
+        s.weekends++; s.attacks += m.a; s.lim += m.lim; s.loot += m.loot;
+        if (r.state === "ended") { s.doneW++; s.doneLoot += m.loot; if (m.a < m.lim) s.partial++; }
+      }
+      // выходные идут для всех участников клана: кто был в клане и не атаковал, тоже получает
+      // эти выходные (и 6 атак в знаменателе). Пропуск засчитывается только после окончания.
+      if (raidKnown(r)) {
+        const end = r.state === "ended" ? t(r.end) : Math.min(t(r.end), NOW_TS());
+        for (const p of Object.values(D.players)) {
+          if (seen.has(p.tag) || !inClanDuring(p, t(r.start), end)) continue;
+          const s = get(p.tag);
+          s.weekends++; s.lim += 6;
+          if (r.state === "ended") { s.missed++; s.doneW++; }
+        }
+      }
+    }
+    for (const s of Object.values(S)) s.avgLoot = s.doneW ? s.doneLoot / s.doneW : null;
+    return S;
+  }
+  // ── вклады золота столицы ──
+  // capHist: [[время, всего вложено], ...]. Неделя рейда — с его начала до начала следующих (7 дней).
+  const WEEK = 7 * DAY;
+  function contribAt(p, ts) {
+    const h = p && p.capHist;
+    if (!h || !h.length || t(h[0][0]) > ts) return null;
+    let v = null;
+    for (const [at, val] of h) { if (t(at) <= ts) v = val; else break; }
+    return v;
+  }
+  function weekContrib(p, r) {
+    const a = t(r.start), b = Math.min(a + WEEK, NOW_TS());
+    const x = contribAt(p, a), y = contribAt(p, b);
+    return x == null || y == null ? null : Math.max(0, y - x);
+  }
+  const NOW_TS = () => (window.__CLAN_DATA__ ? t(D.clan.updated) : Date.now());
+  // статус выгрузки: ok — выгрузил не меньше, чем добыл; part — часть; none — ничего; wait — неделя ещё идёт
+  function unloadStatus(loot, c, weekDone) {
+    if (c == null || !loot) return null;
+    if (c >= loot) return "ok";
+    if (!weekDone) return "wait";
+    return c === 0 ? "none" : "part";
+  }
+  const UNLOAD = {
+    ok: '<span class="chip good">выгрузил</span>',
+    wait: '<span class="chip neutral">ещё нет</span>',
+    part: '<span class="chip warn">частично</span>',
+    none: '<span class="chip bad">не выгрузил</span>',
+  };
+  function unloadStats(raids) {
+    const S = {};
+    for (const r of raids) {
+      const done = t(r.start) + WEEK <= NOW_TS();
+      for (const m of r.members) {
+        const p = D.players[m.tag];
+        const c = weekContrib(p, r);
+        if (c == null) continue;
+        const s = (S[m.tag] ||= { given: 0, weeks: 0, none: 0, part: 0 });
+        s.given += c; s.weeks++;
+        const st = unloadStatus(m.loot, c, done);
+        if (st === "none") s.none++;
+        if (st === "part") s.part++;
+      }
+    }
+    return S;
+  }
+  function raidAbsent(r) {
+    if (!raidKnown(r) || r.state !== "ended") return null;
+    const seen = new Set(r.members.map((m) => m.tag));
+    return Object.values(D.players).filter((p) => !seen.has(p.tag) && inClanDuring(p, t(r.start), t(r.end)));
+  }
+
+  // ───────── ЛВК ─────────
+  function cwlSeasons() { return Object.keys(D.cwl).sort().reverse(); }
+  function cwlWars(season) { return D.wars.filter((w) => w.type === "cwl" && w.season === season).sort((a, b) => a.round - b.round); }
+  function cwlStandings(season) {
+    const s = D.cwl[season];
+    const T = {};
+    for (const c of s.clans || []) T[c.tag] = { tag: c.tag, name: c.name, badge: c.badge, stars: 0, pct: 0, wins: 0, played: 0 };
+    const add = (a, b, ended) => {
+      const A = T[a.tag], B = T[b.tag];
+      if (!A || !B) return;
+      A.stars += a.stars; B.stars += b.stars; A.pct += a.pct; B.pct += b.pct;
+      if (ended) {
+        A.played++; B.played++;
+        const res = a.stars !== b.stars ? (a.stars > b.stars ? 1 : -1) : a.pct !== b.pct ? (a.pct > b.pct ? 1 : -1) : 0;
+        if (res > 0) { A.stars += 10; A.wins++; } else if (res < 0) { B.stars += 10; B.wins++; }
+      }
+    };
+    for (const w of cwlWars(season)) if (w.state !== "preparation") add(w.us, w.them, w.state === "warEnded");
+    for (const o of Object.values(s.others || {})) if (o.state && o.state !== "preparation") add(o.a, o.b, o.state === "warEnded");
+    return Object.values(T).sort((a, b) => b.stars - a.stars || b.pct - a.pct);
+  }
+
+  // ───────── таблицы с сортировкой ─────────
+  // cols: [{k, label, v:(row)=>value для сортировки, f:(row)=>html, cls, title, group}]
+  function table(id, cols, rows, opts = {}) {
+    const so = st.sort[id] || opts.sort || { k: cols[0].k, asc: true };
+    st.sort[id] = so;
+    const allCols = cols.flatMap((c) => [c, ...(c.alt || [])]);
+    const col = allCols.find((c) => c.k === so.k) || cols[0];
+    const sorted = rows.slice().sort((a, b) => {
+      let x = col.v(a), y = col.v(b);
+      if (x == null && y == null) return 0;
+      if (x == null) return 1;
+      if (y == null) return -1;
+      const r = typeof x === "string" ? x.localeCompare(y, "ru") : x - y;
+      return so.asc ? r : -r;
+    });
+    const hcell = (c, extra = "") => {
+      const cls = [c.cls || "", "sortable", c.k === so.k ? "sorted" : "", c.k === so.k && so.asc ? "asc" : ""].join(" ");
+      const alts = (c.alt || []).map((a) => {
+        const on = a.k === so.k;
+        return `<button type="button" class="hsort${on ? " on" : ""}" data-t="${id}" data-k="${a.k}" title="Сортировать по: ${esc(a.title || a.label)}">${a.label}${on ? (so.asc ? " ▲" : " ▼") : ""}</button>`;
+      }).join("");
+      return `<th class="${cls}" data-t="${id}" data-k="${c.k}" ${c.title ? `title="${esc(c.title)}"` : ""}${extra}><span class="lbl">${c.label}</span>${alts ? `<span class="hsorts">${alts}</span>` : ""}</th>`;
+    };
+    let head;
+    if (cols.some((c) => c.group)) {
+      // колонки без группы занимают обе строки шапки, группы — заголовок над своими колонками
+      let top = "", i = 0;
+      while (i < cols.length) {
+        const g = cols[i].group;
+        if (!g) { top += hcell(cols[i], ' rowspan="2"'); i++; continue; }
+        let n = 0;
+        while (i + n < cols.length && cols[i + n].group === g) n++;
+        top += `<th colspan="${n}" class="grp">${esc(g)}</th>`;
+        i += n;
+      }
+      head = `<tr>${top}</tr><tr>${cols.filter((c) => c.group).map((c) => hcell(c)).join("")}</tr>`;
+    } else {
+      head = `<tr>${cols.map((c) => hcell(c)).join("")}</tr>`;
+    }
+    const body = sorted.length
+      ? sorted.map((r) => `<tr${opts.link ? ` class="link" data-go="${esc(opts.link(r))}"` : ""}>` + cols.map((c) => `<td class="${c.cls || ""}">${c.f ? c.f(r) : esc(c.v(r))}</td>`).join("") + "</tr>").join("")
+      : `<tr><td colspan="${cols.length}" class="c num-muted">Нет данных за выбранный период</td></tr>`;
+    return `<div class="tbl-box"><table><thead>${head}</thead><tbody>${body}</tbody></table></div>`;
+  }
+  // дополнительная сортировка в заголовке «Игрок»: по ратуше и по роли
+  const ROLE_ORDER = { leader: 0, coLeader: 1, admin: 2, member: 3 };
+  const PLAYER_ALT = [
+    { k: "th", label: "ТХ", title: "уровню ратуши", v: (x) => x.p.th ?? 0 },
+    { k: "role", label: "Роль", title: "роли в клане", v: (x) => ROLE_ORDER[x.p.role] ?? 9 },
+  ];
+  // фильтры над таблицами игроков
+  st.f = { q: "", th: "", role: "", miss: false };
+  const ROLE_GROUPS = { lead: ["leader", "coLeader"], admin: ["admin"], member: ["member"] };
+  function applyFilter(rows, missOf) {
+    const f = st.f, q = f.q.trim().toLowerCase();
+    return rows.filter((x) => {
+      const p = x.p;
+      if (q && !String(dn(p)).toLowerCase().includes(q) && !String(p.tag).toLowerCase().includes(q)) return false;
+      if (f.th && String(p.th) !== f.th) return false;
+      if (f.role && !(ROLE_GROUPS[f.role] || []).includes(p.role)) return false;
+      if (f.miss && missOf && !missOf(x)) return false;
+      return true;
+    });
+  }
+  function filterBar(total, shown, withMiss) {
+    const ths = [...new Set(members().map((p) => p.th).filter(Boolean))].sort((a, b) => b - a);
+    const f = st.f;
+    const active = f.q || f.th || f.role || f.miss;
+    return `<div class="fbar">
+      <input type="search" id="f-q" class="fin" placeholder="Поиск по нику или тегу" value="${esc(f.q)}" autocomplete="off" aria-label="Поиск игрока">
+      <select id="f-th" class="sel" aria-label="Ратуша"><option value="">Все ТХ</option>${ths.map((t) => `<option value="${t}" ${String(t) === f.th ? "selected" : ""}>ТХ ${t}</option>`).join("")}</select>
+      <select id="f-role" class="sel" aria-label="Роль"><option value="">Все роли</option>
+        <option value="lead" ${f.role === "lead" ? "selected" : ""}>Глава и соруки</option>
+        <option value="admin" ${f.role === "admin" ? "selected" : ""}>Старейшины</option>
+        <option value="member" ${f.role === "member" ? "selected" : ""}>Участники</option></select>
+      ${withMiss ? `<label class="fchk"><input type="checkbox" id="f-miss" ${f.miss ? "checked" : ""}> Только с пропусками</label>` : ""}
+      <span class="fcount">${active ? `Показано ${shown} из ${total} · <button type="button" class="freset" id="f-reset">Сбросить</button>` : ""}</span>
+    </div>`;
+  }
+  // ники из невидимых символов (ㅤ, пробелы и т.п.) показываем тегом
+  const dn = (p) => (String(p.name || "").replace(/[\s\u3164\u115F\u1160\u200B-\u200F\u2800\uFFA0]/g, "") ? p.name : p.tag);
+  const playerCell = (p, extra = "") =>
+    `<span class="th-chip" title="Ратуша">${p.th ?? "?"}</span><a class="name" href="#p-${tagId(p.tag)}">${esc(dn(p))}</a>${extra}`;
+  // крупные числа сокращаем: 152 тыс, 1,25 млн (полное значение — в подсказке)
+  function big(x) {
+    if (x == null || isNaN(x)) return "—";
+    const a = Math.abs(x);
+    let s;
+    if (a >= 1e6) s = (x / 1e6).toLocaleString("ru-RU", { maximumFractionDigits: a >= 1e8 ? 0 : a >= 1e7 ? 1 : 2 }) + " млн";
+    else if (a >= 1e5) s = Math.round(x / 1e3).toLocaleString("ru-RU") + " тыс";
+    else return n0(x);
+    return `<span title="${n0(x)}">${s}</span>`;
+  }
+  const numCell = (x, f = n0, bad = false) => (x == null ? '<span class="zero">—</span>' : x === 0 ? `<span class="zero">${f(0)}</span>` : bad ? `<span class="miss">${f(x)}</span>` : f(x));
+
+  // ───────── каркас ─────────
+  function shell(active, content) {
+    const c = D.clan;
+    const tabs = [["players", "Игроки"], ["war", "КВ"], ["cwl", "ЛВК"], ["raids", "Рейды"]];
+    const badgeImg = c.badge
+      ? `<img class="clan-badge" src="${esc(c.badge)}" alt="">`
+      : `<svg class="clan-badge" viewBox="0 0 64 64" aria-hidden="true"><path d="M32 3 57 12v20c0 15-11 25-25 29C18 57 7 47 7 32V12z" fill="#c9952b"/><path d="M32 9 51 16v16c0 11-8 19-19 22-11-3-19-11-19-22V16z" fill="#1d3a5f"/><text x="32" y="40" font-size="20" text-anchor="middle" fill="#f2d48a" font-family="Arial Black,sans-serif">${esc((c.name || "?").slice(0, 1))}</text></svg>`;
+    const site = window.__DEMO_SITE__ ? `<div class="alert demo-note">Это демо: так выглядит статистика клана после подключения к ClanTracker. Данные настоящие и обновляются каждые 5 минут. <a href="${ROOT}">Подключить свой клан →</a></div>` : "";
+    const demo = window.__CLAN_DEMO__ ? `<div class="alert" style="background:var(--warn-soft);color:var(--warn)">Демо: имена и цифры выдуманы, чтобы показать, как будет выглядеть сайт. Настоящие данные клана ${esc(c.tag)} появятся после запуска сборщика.</div>` : "";
+    const errs = site + demo + ((c.errors || []).length ? `<div class="alert">${c.errors.map(esc).join("<br>")}</div>` : "");
+    return `
+      <header class="band"><div class="wrap">
+        <div class="clan">${badgeImg}
+          <div style="min-width:0">
+            <h1>${esc(c.name)}</h1>
+            <div class="clan-meta">
+              <span>${esc(c.tag)}</span>
+              <span>Уровень <b>${c.level ?? "—"}</b></span>
+              <span>Участников <b>${c.members ?? members().length}/50</b></span>
+              ${c.warLeague ? `<span>Лига войн <b>${esc(ruLeague(c.warLeague))}</b></span>` : ""}
+              ${c.warWins != null ? `<span>Побед в КВ <b>${n0(c.warWins)}</b></span>` : ""}
+              <span class="upd-m">Обновлено <b>${fmtDT(c.updated)}</b></span>
+            </div>
+          </div>
+          <div class="updated">Обновлено<br><b style="color:var(--band-ink)">${fmtDT(c.updated)}</b></div>
+        </div>
+        ${errs}
+        <nav class="tabs" aria-label="Разделы">${tabs.map(([k, l]) => `<a class="tab" href="#${k}" ${k === active ? 'aria-current="page"' : ""}>${l}</a>`).join("")}</nav>
+      </div></header>
+      <main class="wrap">${content}</main>
+      <footer class="wrap">Статистика ведётся с ${fmtDate(c.trackingSince, { day: "numeric", month: "long", year: "numeric" })}. Данные из официального API Clash of Clans, обновляются автоматически. Игрок, который вышел и вернулся, сохраняет всю свою статистику. · <a class="brand-link" href="${ROOT}">ClanTracker</a></footer>`;
+  }
+  function ruLeague(s) {
+    const map = { Bronze: "Бронзовая", Silver: "Серебряная", Gold: "Золотая", Crystal: "Кристальная", Master: "Мастер", Champion: "Чемпионская", Unranked: "Без лиги" };
+    return String(s).replace(/(Bronze|Silver|Gold|Crystal|Master|Champion|Unranked)( League)?/, (m, a) => map[a] || a).replace(/ League/, "");
+  }
+  const periodSeg = () => `<div class="seg" role="group" aria-label="Период">${PERIODS.map(([k, l]) => `<button type="button" data-period="${k}" aria-pressed="${st.period === k}">${l}</button>`).join("")}</div>`;
+  const resultChip = (w) => {
+    if (w.state === "preparation") return '<span class="chip neutral">Подготовка</span>';
+    if (w.state === "inWar") return '<span class="chip warn">Идёт</span>';
+    return { win: '<span class="chip good">Победа</span>', lose: '<span class="chip bad">Поражение</span>', tie: '<span class="chip neutral">Ничья</span>' }[w.result] || "";
+  };
+
+
+  // ───────── сводка «сейчас»: текущая война и рейды ─────────
+  function left(ms) {
+    if (ms <= 0) return "меньше минуты";
+    const m = Math.floor(ms / 6e4), d = Math.floor(m / 1440), h = Math.floor((m % 1440) / 60), mm = m % 60;
+    if (d) return `${d} д ${h} ч`;
+    if (h) return `${h} ч ${mm} мин`;
+    return `${mm} мин`;
+  }
+  // живой таймер: время конца берётся из API (абсолютное), отсчёт идёт по часам зрителя
+  const cd = (ms) => `<span class="cd" data-until="${ms}">${left(ms - Date.now())}</span>`;
+  function nameChips(list, max = 14) {
+    const chip = (x) => `<a class="nchip" href="#p-${tagId(x.p.tag)}">${esc(dn(x.p))}${x.note ? ` <span>${x.note}</span>` : ""}</a>`;
+    return `<div class="nchips">${list.map(chip).join("")}</div>`;
+  }
+  function whoList(title, list, cls) {
+    if (!list.length) return "";
+    return `<details class="who ${cls || ""}" data-k="${esc(title)}"><summary>${title} <b>${list.length}</b></summary>${nameChips(list)}</details>`;
+  }
+  function warCard() {
+    const now = Date.now();
+    const active = D.wars.filter((w) => w.state === "inWar" || w.state === "preparation")
+      .sort((a, b) => (a.state === "inWar" ? 0 : 1) - (b.state === "inWar" ? 0 : 1) || t(a.end) - t(b.end));
+    const w = active[0] || D.wars.find((x) => x.state === "warEnded");
+    if (!w) return `<div class="lcard"><div class="lhead"><span class="lk">Война</span></div><p class="lempty">Сейчас войны нет. Как только клан начнёт КВ или ЛВК, здесь появится счёт.</p></div>`;
+    const kind = w.type === "cwl" ? `ЛВК · день ${w.round}` : "КВ";
+    let status, when;
+    if (w.state === "preparation") { status = '<span class="chip neutral">Подготовка</span>'; when = `бой через ${cd(t(w.start))}`; }
+    else if (w.state === "inWar") { status = '<span class="chip warn">Идёт бой</span>'; when = `до конца ${cd(t(w.end))}`; }
+    else { status = resultChip(w); when = `закончилась ${fmtDT(w.end)}`; }
+    const max = (w.teamSize || w.members.length) * w.apm;
+    const fight = w.state !== "preparation";
+    const pctW = (x) => Math.max(0, Math.min(100, x));
+    const rows = fight ? `
+      <div class="vrow"><span>${w.us.attacks}<small>/${max}</small></span><em>атаки</em><span>${w.them.attacks ?? "—"}<small>/${max}</small></span></div>
+      <div class="vrow"><span>${n1(w.us.pct)}%</span><em>разрушение</em><span>${n1(w.them.pct)}%</span></div>
+      <div class="vbar" aria-hidden="true"><i style="width:${pctW(w.us.pct) / 2}%"></i><i class="them" style="width:${pctW(w.them.pct) / 2}%"></i></div>` : "";
+    let who = "";
+    if (w.state === "inWar") {
+      const rest = w.members.filter((m) => m.attacks.length < w.apm)
+        .map((m) => ({ p: D.players[m.tag] || m, note: w.apm > 1 && m.attacks.length ? `${m.attacks.length}/${w.apm}` : "" }));
+      who = rest.length ? whoList("Ещё не атаковали", rest) : '<p class="lok">Все атаки сделаны</p>';
+    } else if (w.state === "warEnded" && missesCountable(w)) {
+      const miss = w.members.filter((m) => m.attacks.length < w.apm)
+        .map((m) => ({ p: D.players[m.tag] || m, note: w.apm > 1 ? `${m.attacks.length}/${w.apm}` : "" }));
+      who = miss.length ? whoList("Не атаковали", miss, "bad") : '<p class="lok">Без пропусков</p>';
+    }
+    return `<div class="lcard">
+      <div class="lhead"><span class="lk">${kind}</span>${status}<a class="lmore" href="#w-${esc(w.id)}">Подробнее</a></div>
+      <div class="lwhen">${when} · ${w.teamSize}×${w.teamSize}</div>
+      <div class="vs">
+        <span class="vname">${esc(w.us.name)}</span>
+        <span class="vscore">${w.us.stars}<i>:</i>${w.them.stars}</span>
+        <span class="vname r"><bdi>${esc(w.them.name)}</bdi></span>
+      </div>
+      ${rows}
+      ${who}
+    </div>`;
+  }
+  function nextRaidStart(now) {
+    // рейды стартуют в пятницу 07:00 UTC
+    const d = new Date(now);
+    const r = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate(), 7));
+    r.setUTCDate(r.getUTCDate() + ((5 - r.getUTCDay() + 7) % 7));
+    if (r.getTime() <= now) r.setUTCDate(r.getUTCDate() + 7);
+    return r.getTime();
+  }
+  function raidCard() {
+    const now = Date.now();
+    const r = D.raids.find((x) => x.state === "ongoing") || null;
+    if (r) {
+      const ms = members();
+      const byTag = Object.fromEntries(r.members.map((m) => [m.tag, m]));
+      const notYet = ms.filter((p) => !byTag[p.tag]).map((p) => ({ p }));
+      const partial = r.members.filter((m) => m.a < m.lim && D.players[m.tag]?.inClan)
+        .map((m) => ({ p: D.players[m.tag], note: `${m.a}/${m.lim}` }));
+      const canLeft = notYet.length * 5 + r.members.reduce((a, m) => a + Math.max(0, m.lim - m.a), 0);
+      return `<div class="lcard">
+        <div class="lhead"><span class="lk">Рейды</span><span class="chip warn">Идут</span><a class="lmore" href="#r-${r.id}">Подробнее</a></div>
+        <div class="lwhen">до конца ${cd(t(r.end))}</div>
+        <div class="rbig">${n0(r.loot)} <small>золота</small></div>
+        <div class="rstats">
+          <span><b>${r.members.length}</b> из ${ms.length} атаковали</span>
+          <span><b>${r.attacks}</b> атак сделано</span>
+          <span><b>${canLeft}</b> атак ещё доступно</span>
+        </div>
+        ${notYet.length ? whoList("Ещё не атаковали", notYet, "bad") : '<p class="lok">Атаковали все</p>'}
+        ${whoList("Не добили атаки", partial)}
+      </div>`;
+    }
+    const last = D.raids.find((x) => x.state === "ended");
+    const absent = last ? raidAbsent(last) : null;
+    return `<div class="lcard">
+      <div class="lhead"><span class="lk">Рейды</span><span class="chip neutral">Пауза</span>${last ? `<a class="lmore" href="#r-${last.id}">Прошлые</a>` : ""}</div>
+      <div class="lwhen">начнутся ${fmtDT(new Date(nextRaidStart(now)).toISOString())} · через ${cd(nextRaidStart(now))}</div>
+      ${last ? `<div class="rbig">${n0(last.loot)} <small>золота за прошлые выходные</small></div>
+        <div class="rstats"><span><b>${last.members.length}</b> атаковали</span><span><b>${last.attacks}</b> атак</span><span><b>${last.raids}</b> ${plural(last.raids, "столица", "столицы", "столиц")} захвачено</span></div>
+        ${absent && absent.length ? whoList("Пропустили прошлые", absent.filter((p) => p.inClan).map((p) => ({ p })), "bad") : ""}
+        ${whoList("Ещё не выгрузили золото", notUnloaded(last))}` : '<p class="lempty">Данных о рейдах пока нет.</p>'}
+    </div>`;
+  }
+  function notUnloaded(r) {
+    const done = t(r.start) + WEEK <= NOW_TS();
+    return r.members.filter((m) => D.players[m.tag]?.inClan)
+      .map((m) => { const p = D.players[m.tag]; const c = weekContrib(p, r); return { p, c, loot: m.loot, st: unloadStatus(m.loot, c, done) }; })
+      .filter((x) => x.st && x.st !== "ok")
+      .map((x) => ({ p: x.p, note: `${n0(x.c)} из ${n0(x.loot)}` }));
+  }
+  const liveBlock = () => `<section class="live" aria-label="Сейчас в клане">${warCard()}${raidCard()}</section>`;
+
+  // ───────── вкладка «Игроки» ─────────
+  function viewPlayers() {
+    const ms = members();
+    const W = warStats(statWars("war", (w) => inPeriod(w.end)));
+    const C = warStats(statWars("cwl", (w) => inPeriod(w.end)));
+    const R = raidStats(statRaids((r) => inPeriod(r.end)));
+    const rows = ms.map((p) => ({ p, w: W[p.tag] || {}, c: C[p.tag] || {}, r: R[p.tag] || {} }))
+      .map((x) => ({ ...x, missTotal: (x.w.missed || 0) + (x.c.missed || 0) + (x.r.missed || 0) }));
+    const cols = [
+      { k: "rank", label: "#", v: (x) => x.p.rank ?? 99, cls: "c num-muted" },
+      { k: "name", label: "Игрок", v: (x) => x.p.name, f: (x) => playerCell(x.p, `<span class="role">${ROLE[x.p.role] || ""}</span>`), cls: "l stick", alt: PLAYER_ALT },
+      { k: "w_wars", label: "Войн", group: "КВ", v: (x) => x.w.wars ?? null, f: (x) => numCell(x.w.wars), cls: "bl" },
+      { k: "w_att", label: "Атак", group: "КВ", v: (x) => x.w.used ?? null, f: (x) => x.w.slots ? `${x.w.used}<span class="num-muted">/${x.w.slots}</span>` : numCell(null) },
+      { k: "w_avg", label: "★ ср.", group: "КВ", title: "Среднее звёзд за атаку", v: (x) => x.w.avgStars ?? null, f: (x) => numCell(x.w.avgStars, n2) },
+      { k: "w_miss", label: "Пропуск", group: "КВ", v: (x) => x.w.missed ?? null, f: (x) => numCell(x.w.missed, n0, true) },
+      { k: "c_att", label: "Атак", group: "ЛВК", v: (x) => x.c.used ?? null, f: (x) => x.c.slots ? `${x.c.used}<span class="num-muted">/${x.c.slots}</span>` : numCell(null), cls: "bl" },
+      { k: "c_avg", label: "★ ср.", group: "ЛВК", v: (x) => x.c.avgStars ?? null, f: (x) => numCell(x.c.avgStars, n2) },
+      { k: "c_miss", label: "Пропуск", group: "ЛВК", v: (x) => x.c.missed ?? null, f: (x) => numCell(x.c.missed, n0, true) },
+      { k: "r_loot", label: "Золото", group: "Рейды", title: "Золото столицы, добытое в рейдах", v: (x) => x.r.loot ?? null, f: (x) => numCell(x.r.loot, big), cls: "bl" },
+      { k: "r_att", label: "Атак", group: "Рейды", v: (x) => x.r.attacks ?? null, f: (x) => x.r.lim ? `${x.r.attacks}<span class="num-muted">/${x.r.lim}</span>` : numCell(null) },
+      { k: "r_miss", label: "Пропуск", group: "Рейды", title: "Выходные без единой атаки, когда игрок был в клане", v: (x) => x.r.missed ?? null, f: (x) => numCell(x.r.missed, n0, true) },
+      { k: "miss", label: "Итого", title: "Всего пропусков: КВ + ЛВК + рейды", v: (x) => x.missTotal, f: (x) => x.missTotal ? `<span class="chip bad">${x.missTotal}</span>` : '<span class="chip good">0</span>', cls: "bl c" },
+    ];
+    const tot = rows.reduce((a, x) => a + x.missTotal, 0);
+    const clean = rows.filter((x) => x.missTotal === 0).length;
+    return shell("players", `
+      ${liveBlock()}
+      <section>
+        <div class="head-row"><h2>Игроки клана</h2>${periodSeg()}</div>
+        <div class="tiles">
+          <div class="tile"><div class="k">В клане</div><div class="v">${ms.length}</div></div>
+          <div class="tile"><div class="k">Без пропусков</div><div class="v">${clean} <small>из ${ms.length}</small></div></div>
+          <div class="tile"><div class="k">Всего пропусков</div><div class="v">${tot}</div></div>
+          <div class="tile"><div class="k">Войн за период</div><div class="v">${statWars("war", (w) => inPeriod(w.end)).length} <small>КВ</small> · ${statWars("cwl", (w) => inPeriod(w.end)).length} <small>ЛВК</small></div></div>
+        </div>
+        ${(() => { const fr = applyFilter(rows, (x) => x.missTotal > 0); return filterBar(rows.length, fr.length, true) + table("players", cols, fr, { sort: { k: "rank", asc: true } }); })()}
+        <p class="sub">Только текущие участники. Текущая война учитывается сразу, а её пропуски засчитаются после окончания. Пропуск в КВ и ЛВК — неиспользованная атака в законченной войне, где игрок был в составе. Пропуск рейда — выходные, когда игрок был в клане, но не сделал ни одной атаки.</p>
+      </section>`);
+  }
+
+  // ───────── вкладка «КВ» ─────────
+  function viewWar() {
+    const ws = endedWars("war", (w) => inPeriod(w.end));
+    const live = liveWar("war");
+    const S = warStats(statWars("war", (w) => inPeriod(w.end)));
+    const rows = members().map((p) => ({ p, s: S[p.tag] || {} }));
+    const cols = [
+      { k: "name", label: "Игрок", v: (x) => x.p.name, f: (x) => playerCell(x.p), cls: "l stick", alt: PLAYER_ALT },
+      { k: "wars", label: "Войн", v: (x) => x.s.wars ?? null, f: (x) => numCell(x.s.wars) },
+      { k: "att", label: "Атак", v: (x) => x.s.used ?? null, f: (x) => x.s.slots ? `${x.s.used}<span class="num-muted">/${x.s.slots}</span>` : numCell(null) },
+      { k: "miss", label: "Пропуск", v: (x) => x.s.missed ?? null, f: (x) => numCell(x.s.missed, n0, true) },
+      { k: "stars", label: "Звёзд", v: (x) => x.s.stars ?? null, f: (x) => numCell(x.s.stars) },
+      { k: "fresh", label: "Новых ★", title: "Звёзды, которые атака реально добавила к счёту войны", v: (x) => x.s.fresh ?? null, f: (x) => numCell(x.s.fresh) },
+      { k: "avg", label: "★ ср.", v: (x) => x.s.avgStars ?? null, f: (x) => numCell(x.s.avgStars, n2) },
+      { k: "pct", label: "% ср.", v: (x) => x.s.avgPct ?? null, f: (x) => numCell(x.s.avgPct, pct) },
+      { k: "tri", label: "Тройки", v: (x) => x.s.triples ?? null, f: (x) => numCell(x.s.triples) },
+      { k: "def", label: "Оборона ★", title: "Сколько звёзд в среднем снимают с базы игрока (меньше — лучше)", v: (x) => x.s.defAvg ?? null, f: (x) => numCell(x.s.defAvg, n2), cls: "bl" },
+      { k: "held", label: "Устояла", title: "Сколько раз базу атаковали и не взяли на 3★", v: (x) => x.s.defHeld ?? null, f: (x) => numCell(x.s.defHeld) },
+    ];
+    const all = D.wars.filter((w) => w.type === "war" && (w.state !== "warEnded" || inPeriod(w.end)));
+    const wins = ws.filter((w) => w.result === "win").length;
+    return shell("war", `
+      <section>
+        <div class="head-row"><h2>Клановые войны</h2>${periodSeg()}</div>
+        <div class="tiles">
+          <div class="tile"><div class="k">Войн</div><div class="v">${ws.length}${live ? ' <small>+ 1 идёт</small>' : ""}</div></div>
+          <div class="tile"><div class="k">Победы</div><div class="v">${wins} <small>${ws.length ? Math.round((wins / ws.length) * 100) + "%" : ""}</small></div></div>
+          <div class="tile"><div class="k">Пропущено атак</div><div class="v">${Object.values(S).reduce((a, s) => a + s.missed, 0)}</div></div>
+          <div class="tile"><div class="k">Троек</div><div class="v">${Object.values(S).reduce((a, s) => a + s.triples, 0)}</div></div>
+        </div>
+        ${live ? `<p class="sub">В таблице уже учтены атаки текущей войны против <b><bdi>${esc(live.them.name)}</bdi></b> (${live.us.stars} : ${live.them.stars}). Пропуски в ней засчитаются после окончания.</p>` : ""}
+        ${(() => { const fr = applyFilter(rows); return filterBar(rows.length, fr.length) + table("war", cols, fr, { sort: { k: "stars", asc: false } }); })()}
+      </section>
+      <section>
+        <h2>Войны</h2>
+        ${warList(all)}
+      </section>`);
+  }
+  function warList(ws) {
+    if (!ws.length) return '<div class="empty">Войн пока нет. Они появятся, как только клан начнёт войну.</div>';
+    return `<div class="list">${ws.map((w) => `
+      <button class="row-card" type="button" data-go="w-${esc(w.id)}">
+        <span class="date">${fmtDate(w.end || w.prep)}${w.type === "cwl" ? ` · день ${w.round}` : ""}</span>
+        <span class="opp"><bdi>${esc(w.them.name)}</bdi> <span class="num-muted" style="font-weight:400">${w.teamSize}×${w.teamSize}</span></span>
+        <span class="score">${w.us.stars} : ${w.them.stars} <small>★</small></span>
+        ${resultChip(w)}
+      </button>`).join("")}</div>`;
+  }
+
+  // ───────── детальная война ─────────
+  function viewWarDetail(id) {
+    const w = D.wars.find((x) => x.id === id);
+    if (!w) return shell("war", '<div class="empty">Война не найдена</div>');
+    const countMiss = missesCountable(w);
+    const cell = (a) => a
+      ? `<span class="att"><span class="tgt">→ #${a.dpos ?? "?"} <span title="Ратуша">ТХ${a.dth ?? "?"}</span></span>${stars(a.s)} <span>${a.p}%</span>${a.n ? `<span class="new" title="Новых звёзд">+${a.n}</span>` : ""}</span>`
+      : w.state === "warEnded" ? (countMiss ? '<span class="chip bad">пропуск</span>' : '<span class="num-muted">нет данных</span>') : '<span class="num-muted">—</span>';
+    const rows = w.members.map((m) => ({ m, p: D.players[m.tag] || m }));
+    const cols = [
+      { k: "pos", label: "#", v: (x) => x.m.pos, cls: "c num-muted" },
+      { k: "name", label: "Игрок", v: (x) => x.m.name, f: (x) => `<span class="th-chip">${x.m.th}</span>${x.p.inClan ? `<a class="name" href="#p-${tagId(x.m.tag)}">${esc(x.m.name)}</a>` : `<span class="name">${esc(x.m.name)}</span> <span class="role">не в клане</span>`}`, cls: "l stick" },
+      ...Array.from({ length: w.apm }, (_, i) => ({ k: "a" + i, label: w.apm > 1 ? `Атака ${i + 1}` : "Атака", v: (x) => x.m.attacks[i]?.s ?? -1, f: (x) => cell(x.m.attacks[i]), cls: "l bl" })),
+      { k: "def", label: "Оборона", v: (x) => (x.m.def?.n ? x.m.def.s : -1), f: (x) => x.m.def?.n ? `${stars(x.m.def.s)} ${x.m.def.p}% <span class="num-muted">· атак ${x.m.def.n}</span>` : '<span class="num-muted">не атаковали</span>', cls: "l bl" },
+    ];
+    const back = w.type === "cwl" ? "cwl" : "war";
+    return shell(back, `
+      <section>
+        <button class="back" type="button" data-go="${back}">← ${w.type === "cwl" ? "ЛВК" : "Все войны"}</button>
+        <div class="versus">
+          <div class="side"><span class="cn">${esc(w.us.name)}</span><span class="big">${w.us.stars}★</span><span class="num-muted">${n2(w.us.pct)}% · атак ${w.us.attacks}</span></div>
+          <div class="mid">${resultChip(w)}<span class="num-muted">${w.type === "cwl" ? `ЛВК, день ${w.round}` : "КВ"} · ${w.teamSize}×${w.teamSize}</span><span class="num-muted">${fmtDT(w.state === "preparation" ? w.start : w.end)}</span></div>
+          <div class="side r"><span class="cn">${esc(w.them.name)}</span><span class="big">${w.them.stars}★</span><span class="num-muted">${n2(w.them.pct)}%</span></div>
+        </div>
+        ${w.partial ? `<div class="note">Конец этой войны не попал в снимок (клан сразу начал новую). Счёт взят из журнала войн, но атаки последних минут могут не отображаться${countMiss ? "" : ", поэтому пропуски в этой войне не засчитываются"}.</div>` : ""}
+        ${table("wd", cols, rows, { sort: { k: "pos", asc: true } })}
+      </section>`);
+  }
+
+  // ───────── вкладка «ЛВК» ─────────
+  function viewCwl() {
+    const seasons = cwlSeasons();
+    if (!seasons.length) return shell("cwl", '<section><h2>Лига войн кланов</h2><div class="empty">Данных по ЛВК пока нет. Они появятся в начале следующего сезона лиги.</div></section>');
+    if (!st.cwlSeason || !D.cwl[st.cwlSeason]) st.cwlSeason = seasons[0];
+    const season = st.cwlSeason;
+    const s = D.cwl[season];
+    const ws = cwlWars(season);
+    const ended = ws.filter((w) => w.state === "warEnded");
+    const S = warStats(ended);
+    const roster = s.roster || [];
+    const rosterTags = new Set(roster.map((r) => r.tag));
+    const tags = new Set([...rosterTags, ...ws.flatMap((w) => w.members.map((m) => m.tag))]);
+    const rows = [...tags].map((tag) => ({ p: D.players[tag] || { tag, name: tag }, s: S[tag] || {} })).filter((x) => x.p.inClan);
+    const cols = [
+      { k: "name", label: "Игрок", v: (x) => x.p.name, f: (x) => playerCell(x.p), cls: "l stick", alt: PLAYER_ALT },
+      { k: "days", label: "Дней в составе", v: (x) => x.s.wars ?? 0, f: (x) => numCell(x.s.wars ?? 0) },
+      { k: "att", label: "Атак", v: (x) => x.s.used ?? null, f: (x) => numCell(x.s.used) },
+      { k: "miss", label: "Пропуск", v: (x) => x.s.missed ?? null, f: (x) => numCell(x.s.missed, n0, true) },
+      { k: "stars", label: "Звёзд", v: (x) => x.s.stars ?? null, f: (x) => numCell(x.s.stars) },
+      { k: "avg", label: "★ ср.", v: (x) => x.s.avgStars ?? null, f: (x) => numCell(x.s.avgStars, n2) },
+      { k: "pct", label: "% ср.", v: (x) => x.s.avgPct ?? null, f: (x) => numCell(x.s.avgPct, pct) },
+      { k: "tri", label: "Тройки", v: (x) => x.s.triples ?? null, f: (x) => numCell(x.s.triples) },
+      { k: "def", label: "Оборона ★", title: "Сколько звёзд в среднем снимают с базы (меньше — лучше)", v: (x) => x.s.defAvg ?? null, f: (x) => numCell(x.s.defAvg, n2), cls: "bl" },
+    ];
+    const stand = cwlStandings(season);
+    const place = stand.findIndex((c) => c.tag === D.clan.tag) + 1;
+    const seasonDone = ended.length >= 7 || s.state === "ended";
+    const benched = roster.filter((r) => !(S[r.tag]?.wars) && D.players[r.tag]?.inClan);
+    const monthName = (k) => new Date(k + "-15").toLocaleDateString("ru-RU", { month: "long", year: "numeric" });
+    return shell("cwl", `
+      <section>
+        <div class="head-row"><h2>Лига войн кланов</h2>
+          <select class="sel" id="cwl-season" aria-label="Сезон">${seasons.map((k) => `<option value="${k}" ${k === season ? "selected" : ""}>${monthName(k)}</option>`).join("")}</select>
+        </div>
+        <div class="tiles">
+          <div class="tile"><div class="k">Место</div><div class="v">${place || "—"} <small>из ${stand.length}${seasonDone ? "" : ", сезон идёт"}</small></div></div>
+          <div class="tile"><div class="k">Победы</div><div class="v">${ended.filter((w) => w.result === "win").length} <small>из ${ended.length}</small></div></div>
+          <div class="tile"><div class="k">Звёзд клана</div><div class="v">${ws.reduce((a, w) => a + w.us.stars, 0)}</div></div>
+          <div class="tile"><div class="k">Пропущено атак</div><div class="v">${Object.values(S).reduce((a, x) => a + x.missed, 0)}</div></div>
+        </div>
+        ${(() => { const fr = applyFilter(rows); return filterBar(rows.length, fr.length) + table("cwl", cols, fr, { sort: { k: "stars", asc: false } }); })()}
+        ${benched.length ? `<p class="sub">Заявлены, но ни разу не попали в состав: ${benched.map((r) => `<a class="name" href="#p-${tagId(r.tag)}">${esc(D.players[r.tag].name)}</a>`).join(", ")}.</p>` : ""}
+      </section>
+      <div class="two">
+        <section><h2>Дни лиги</h2>${warList(ws)}</section>
+        <section><h2>Таблица группы</h2>
+          ${table("cwlst", [
+            { k: "pl", label: "#", v: (c) => stand.indexOf(c) + 1, cls: "c num-muted" },
+            { k: "name", label: "Клан", v: (c) => c.name, f: (c) => c.tag === D.clan.tag ? `<b style="color:var(--accent)">${esc(c.name)}</b>` : esc(c.name), cls: "l" },
+            { k: "w", label: "Побед", v: (c) => c.wins },
+            { k: "s", label: "Звёзд", v: (c) => c.stars, f: (c) => `<b>${c.stars}</b>` },
+            { k: "p", label: "Разруш.", v: (c) => c.pct, f: (c) => n0(c.pct) + "%" },
+          ], stand, { sort: { k: "pl", asc: true } })}
+          <p class="sub">Звёзды с учётом +10 за каждую победу, как в игре.</p>
+        </section>
+      </div>`);
+  }
+
+  // ───────── вкладка «Рейды» ─────────
+  function viewRaids() {
+    const rs = endedRaids((r) => inPeriod(r.end));
+    const liveR = D.raids.find((r) => r.state === "ongoing");
+    const S = raidStats(statRaids((r) => inPeriod(r.end)));
+    const U = unloadStats(endedRaids((r) => inPeriod(r.end)));
+    const rows = members().map((p) => ({ p, s: S[p.tag] || {}, u: U[p.tag] || {} }));
+    const cols = [
+      { k: "name", label: "Игрок", v: (x) => x.p.name, f: (x) => playerCell(x.p), cls: "l stick", alt: PLAYER_ALT },
+      { k: "wk", label: "Выходных", title: "Сколько выходных рейдов прошло, пока игрок был в клане (включая идущие)", v: (x) => x.s.weekends ?? null, f: (x) => numCell(x.s.weekends) },
+      { k: "miss", label: "Пропуск", title: "Выходные без единой атаки, когда игрок был в клане", v: (x) => x.s.missed ?? null, f: (x) => numCell(x.s.missed, n0, true) },
+      { k: "att", label: "Атак", v: (x) => x.s.attacks ?? null, f: (x) => x.s.lim ? `${x.s.attacks}<span class="num-muted">/${x.s.lim}</span>` : numCell(null) },
+      { k: "part", label: "Недобил", title: "Выходные, где игрок сделал не все доступные атаки", v: (x) => x.s.partial ?? null, f: (x) => x.s.partial ? `<span style="color:var(--warn);font-weight:700">${x.s.partial}</span>` : numCell(x.s.partial) },
+      { k: "loot", label: "Золото", v: (x) => x.s.loot ?? null, f: (x) => numCell(x.s.loot, big), cls: "bl" },
+      { k: "avg", label: "Ср. за выходные", v: (x) => x.s.avgLoot ?? null, f: (x) => numCell(x.s.avgLoot, big) },
+      { k: "given", label: "Выгрузил", title: "Сколько золота столицы игрок вложил за недели этих рейдов (куда — API не показывает)", v: (x) => x.u.given ?? null, f: (x) => numCell(x.u.given, big), cls: "bl" },
+      { k: "nogive", label: "Не выгружал", title: "Недель, когда игрок добыл золото в рейдах, но за неделю ничего не вложил", v: (x) => (x.u.weeks ? x.u.none : null), f: (x) => numCell(x.u.weeks ? x.u.none : null, n0, true) },
+    ];
+    const listRaids = D.raids.filter((r) => r.state !== "ended" || inPeriod(r.end));
+    return shell("raids", `
+      <section>
+        <div class="head-row"><h2>Рейды столицы</h2>${periodSeg()}</div>
+        <div class="tiles">
+          <div class="tile"><div class="k">Выходных</div><div class="v">${rs.length}${liveR ? ' <small>+ 1 идут</small>' : ""}</div></div>
+          <div class="tile"><div class="k">Золота добыто</div><div class="v">${n0(rs.reduce((a, r) => a + r.loot, 0) + (liveR ? liveR.loot : 0))}</div></div>
+          <div class="tile"><div class="k">Ср. за выходные</div><div class="v">${rs.length ? n0(rs.reduce((a, r) => a + r.loot, 0) / rs.length) : "—"}</div></div>
+          <div class="tile"><div class="k">Пропусков</div><div class="v">${rows.reduce((a, x) => a + (x.s.missed || 0), 0)}</div></div>
+        </div>
+        ${liveR ? `<p class="sub">В таблице уже учтены идущие рейды: ${n0(liveR.loot)} золота, ${liveR.attacks} ${plural(liveR.attacks, "атака", "атаки", "атак")}. Пропуски и «недобил» за них засчитаются после окончания.</p>` : ""}
+        ${(() => { const fr = applyFilter(rows); return filterBar(rows.length, fr.length) + table("raids", cols, fr, { sort: { k: "loot", asc: false } }); })()}
+        <p class="sub">«Выгрузил» — насколько вырос общий счётчик вкладов игрока в столицы за неделю рейда (с пятницы до пятницы). Куда вложено золото, игра в API не сообщает. Золото из кузницы тоже попадает в счётчик, поэтому «выгрузил больше, чем добыл» — это нормально; отмечаем только тех, кто вложил меньше добытого в рейдах.</p>
+      </section>
+      <section>
+        <h2>Выходные</h2>
+        ${listRaids.length ? `<div class="list">${listRaids.map((r) => `
+          <button class="row-card" type="button" data-go="r-${r.id}">
+            <span class="date">${fmtDate(r.start)} – ${fmtDate(r.end)}</span>
+            <span class="opp">${r.members.length} ${plural(r.members.length, "участник", "участника", "участников")} · ${r.attacks} ${plural(r.attacks, "атака", "атаки", "атак")}</span>
+            <span class="score">${n0(r.loot)} <small>золота</small></span>
+            ${r.state === "ended" ? '<span class="chip neutral">Завершён</span>' : '<span class="chip warn">Идёт</span>'}
+          </button>`).join("")}</div>` : '<div class="empty">Рейдов пока нет</div>'}
+      </section>`);
+  }
+  function viewRaidDetail(id) {
+    const r = D.raids.find((x) => x.id === id);
+    if (!r) return shell("raids", '<div class="empty">Рейд не найден</div>');
+    const absent = raidAbsent(r);
+    const wDone = t(r.start) + WEEK <= NOW_TS();
+    const rows = r.members.map((m) => { const p = D.players[m.tag] || m; const c = weekContrib(D.players[m.tag], r); return { m, p, c, st: unloadStatus(m.loot, c, wDone) }; });
+    const cols = [
+      { k: "name", label: "Игрок", v: (x) => x.m.name, f: (x) => x.p.inClan ? playerCell(x.p) : `<span class="name">${esc(x.m.name)}</span> <span class="role">не в клане</span>`, cls: "l stick" },
+      { k: "a", label: "Атак", v: (x) => x.m.a, f: (x) => x.m.a < x.m.lim ? `<span style="color:var(--warn);font-weight:700">${x.m.a}</span><span class="num-muted">/${x.m.lim}</span>` : `${x.m.a}<span class="num-muted">/${x.m.lim}</span>` },
+      { k: "loot", label: "Золото", v: (x) => x.m.loot, f: (x) => big(x.m.loot) },
+      { k: "per", label: "За атаку", v: (x) => (x.m.a ? x.m.loot / x.m.a : null), f: (x) => numCell(x.m.a ? x.m.loot / x.m.a : null) },
+      { k: "given", label: "Выгрузил за неделю", title: "Насколько вырос счётчик вкладов игрока с начала этих рейдов и за 7 дней", v: (x) => x.c, f: (x) => numCell(x.c, big), cls: "bl" },
+      { k: "ust", label: "Выгрузка", v: (x) => ({ none: 0, part: 1, wait: 2, ok: 3 })[x.st] ?? 9, f: (x) => (x.st ? UNLOAD[x.st] : '<span class="zero">—</span>'), cls: "c" },
+    ];
+    return shell("raids", `
+      <section>
+        <button class="back" type="button" data-go="raids">← Все рейды</button>
+        <div class="head-row"><h2>Рейды ${fmtDate(r.start)} – ${fmtDate(r.end)}</h2>${r.state === "ended" ? "" : '<span class="chip warn">Идёт</span>'}</div>
+        <div class="tiles">
+          <div class="tile"><div class="k">Золото</div><div class="v">${n0(r.loot)}</div></div>
+          <div class="tile"><div class="k">Атак</div><div class="v">${r.attacks}</div></div>
+          <div class="tile"><div class="k">Районов разрушено</div><div class="v">${r.districts}</div></div>
+          <div class="tile"><div class="k">Столиц захвачено</div><div class="v">${r.raids}</div></div>
+        </div>
+        ${table("rd", cols, rows, { sort: { k: "loot", asc: false } })}
+        <p class="sub">«Выгрузил» — насколько вырос общий счётчик вкладов игрока в столицы за неделю рейда (с пятницы до пятницы). Куда вложено золото, игра в API не сообщает. Золото из кузницы тоже попадает в счётчик, поэтому «выгрузил больше, чем добыл» — это нормально; отмечаем только тех, кто вложил меньше добытого в рейдах.</p>
+        ${absent == null ? (r.state === "ended" ? '<p class="sub">Эти выходные прошли до начала учёта, поэтому список пропустивших неизвестен.</p>' : "") :
+          absent.length ? `<p class="sub"><b class="miss">Не атаковали (${absent.length}):</b> ${absent.map((p) => p.inClan ? `<a class="name" href="#p-${tagId(p.tag)}">${esc(p.name)}</a>` : esc(p.name)).join(", ")}</p>` : '<p class="sub ok">Все участники клана атаковали.</p>'}
+      </section>`);
+  }
+
+  // ───────── карточка игрока ─────────
+  function viewPlayer(tid) {
+    const p = D.players["#" + tid];
+    if (!p) return shell("players", '<div class="empty">Игрок не найден</div>');
+    const W = warStats(statWars("war"))[p.tag] || {};
+    const C = warStats(statWars("cwl"))[p.tag] || {};
+    const R = raidStats(statRaids())[p.tag] || {};
+    const since = memberSince(p);
+    const ev = (p.events || []).map((e) => `<span class="chip ${e.t === "leave" ? "bad" : e.t === "join" ? "good" : "neutral"}">${e.t === "leave" ? "Вышел" : e.t === "join" ? "Вступил" : "Начало учёта"} ${fmtDate(e.at, { day: "numeric", month: "short", year: "numeric" })}</span>`).join("");
+    const kvCard = (title, s, extra) => `<div class="card"><h3>${title}</h3>${s.wars ? `<div class="kv">
+      <span>Войн</span><span>${s.wars}</span>
+      <span>Атак</span><span>${s.used} / ${s.slots}</span>
+      <span>Пропущено</span><span class="${s.missed ? "miss" : ""}">${s.missed}</span>
+      <span>Звёзд</span><span>${s.stars}</span>
+      <span>Среднее ★</span><span>${n2(s.avgStars)}</span>
+      <span>Средний %</span><span>${pct(s.avgPct)}</span>
+      <span>Троек</span><span>${s.triples}</span>
+      <span>Оборона, ★ в среднем</span><span>${n2(s.defAvg)}</span>${extra || ""}</div>` : '<span class="num-muted">Нет данных</span>'}</div>`;
+    const myWars = D.wars.filter((w) => w.state !== "preparation" && w.members.some((m) => m.tag === p.tag)).slice(0, 40);
+    const myRaids = D.raids.filter((r) => r.members.some((m) => m.tag === p.tag) || (raidAbsent(r) || []).some((x) => x.tag === p.tag));
+    const warRows = myWars.map((w) => ({ w, m: w.members.find((m) => m.tag === p.tag) }));
+    const maxA = Math.max(2, ...warRows.map((x) => x.w.apm));
+    const aCell = (w, a) => a ? `<span class="att"><span class="tgt">#${a.dpos ?? "?"}</span>${stars(a.s)} ${a.p}%</span>` : (w.state === "warEnded" && missesCountable(w) ? '<span class="chip bad">пропуск</span>' : '<span class="num-muted">—</span>');
+    return shell("players", `
+      <section>
+        <button class="back" type="button" data-go="players">← Все игроки</button>
+        <div class="p-head"><h2>${esc(p.name)}</h2>
+          <span class="num-muted">${esc(p.tag)}</span>
+          <span class="th-chip">ТХ ${p.th ?? "?"}</span>
+          ${p.inClan ? `<span>${ROLE[p.role] || ""}</span>` : '<span class="chip bad">Не в клане</span>'}
+        </div>
+        <p class="sub">${since ? (since.known ? `В клане с ${fmtDate(since.at, { day: "numeric", month: "long", year: "numeric" })}` : "В клане с начала учёта") : ""}${(p.names || []).length > 1 ? ` · Прежние ники: ${p.names.filter((n) => n !== p.name).map(esc).join(", ")}` : ""}${p.trophies ? ` · Трофеи ${n0(p.trophies)}` : ""}${p.donations != null ? ` · Донат за сезон ${n0(p.donations)} / получено ${n0(p.received)}` : ""}</p>
+        ${ev ? `<div class="timeline">${ev}</div>` : ""}
+        <div class="two">
+          ${kvCard("Клановые войны", W)}
+          ${kvCard("Лига войн кланов", C)}
+          <div class="card"><h3>Рейды столицы</h3>${R.weekends || R.missed ? `<div class="kv">
+            <span>Выходных в клане</span><span>${R.weekends}</span>
+            <span>Пропущено выходных</span><span class="${R.missed ? "miss" : ""}">${R.missed}</span>
+            <span>Атак</span><span>${R.attacks} / ${R.lim}</span>
+            <span>Золота всего</span><span>${n0(R.loot)}</span>
+            <span>В среднем за выходные</span><span>${n0(R.avgLoot)}</span></div>` : '<span class="num-muted">Нет данных</span>'}</div>
+        </div>
+        <p class="sub">Статистика за всё время учёта, включая периоды до выхода из клана.</p>
+      </section>
+      <section><h2>Войны игрока</h2>
+        ${warRows.length ? `<div class="tbl-box"><table><thead><tr><th class="l">Дата</th><th class="l">Соперник</th><th class="c">#</th>${Array.from({ length: maxA }, (_, i) => `<th class="l">Атака ${i + 1}</th>`).join("")}<th class="l">Оборона</th></tr></thead><tbody>
+          ${warRows.map(({ w, m }) => `<tr class="link" data-go="w-${esc(w.id)}"><td class="l">${fmtDate(w.end)} <span class="num-muted">${w.type === "cwl" ? "ЛВК" : "КВ"}</span></td><td class="l">${esc(w.them.name)} ${resultChip(w)}</td><td class="c num-muted">${m.pos}</td>
+            ${Array.from({ length: maxA }, (_, i) => `<td class="l">${i < w.apm ? aCell(w, m.attacks[i]) : ""}</td>`).join("")}
+            <td class="l">${m.def?.n ? stars(m.def.s) : '<span class="num-muted">—</span>'}</td></tr>`).join("")}
+        </tbody></table></div>` : '<div class="empty">Войн пока нет</div>'}
+      </section>
+      <section><h2>Рейды игрока</h2>
+        ${myRaids.length ? `<div class="tbl-box"><table><thead><tr><th class="l">Выходные</th><th>Атак</th><th>Золото</th></tr></thead><tbody>
+          ${myRaids.map((r) => { const m = r.members.find((x) => x.tag === p.tag); return `<tr class="link" data-go="r-${r.id}"><td class="l">${fmtDate(r.start)} – ${fmtDate(r.end)}</td><td>${m ? `${m.a}<span class="num-muted">/${m.lim}</span>` : '<span class="chip bad">пропуск</span>'}</td><td>${m ? n0(m.loot) : "—"}</td></tr>`; }).join("")}
+        </tbody></table></div>` : '<div class="empty">Рейдов пока нет</div>'}
+      </section>`);
+  }
+
+  // ───────── роутинг ─────────
+  function route() {
+    const h = (location.hash || "#players").slice(1);
+    let html;
+    if (h.startsWith("p-")) html = viewPlayer(h.slice(2));
+    else if (h.startsWith("w-")) html = viewWarDetail(h.slice(2));
+    else if (h.startsWith("r-")) html = viewRaidDetail(h.slice(2));
+    else if (h === "war") html = viewWar();
+    else if (h === "cwl") html = viewCwl();
+    else if (h === "raids") html = viewRaids();
+    else html = viewPlayers();
+    document.getElementById("app").innerHTML = html;
+  }
+  function go(h) {
+    if (location.hash.slice(1) === h) route();
+    else { location.hash = h; }
+    window.scrollTo(0, 0);
+  }
+
+  document.addEventListener("click", (e) => {
+    const per = e.target.closest("[data-period]");
+    if (per) { st.period = per.dataset.period; try { localStorage.setItem("period", st.period); } catch (_) {} route(); return; }
+    if (e.target.id === "f-reset") { st.f = { q: "", th: "", role: "", miss: false }; route(); return; }
+    const hs = e.target.closest(".hsort");
+    if (hs) {
+      const id = hs.dataset.t, k = hs.dataset.k, cur = st.sort[id];
+      st.sort[id] = cur && cur.k === k ? { k, asc: !cur.asc } : { k, asc: k === "role" };
+      route(); return;
+    }
+    const th = e.target.closest("th.sortable");
+    if (th) {
+      const id = th.dataset.t, k = th.dataset.k, cur = st.sort[id];
+      st.sort[id] = cur && cur.k === k ? { k, asc: !cur.asc } : { k, asc: k === "name" || k === "rank" || k === "pos" || k === "pl" };
+      route(); return;
+    }
+    if (e.target.closest("a")) return;
+    const g = e.target.closest("[data-go]");
+    if (g) go(g.dataset.go);
+  });
+  document.addEventListener("change", (e) => {
+    if (e.target.id === "cwl-season") { st.cwlSeason = e.target.value; route(); }
+    if (e.target.id === "f-th") { st.f.th = e.target.value; route(); }
+    if (e.target.id === "f-role") { st.f.role = e.target.value; route(); }
+    if (e.target.id === "f-miss") { st.f.miss = e.target.checked; route(); }
+  });
+  document.addEventListener("input", (e) => {
+    if (e.target.id !== "f-q") return;
+    st.f.q = e.target.value;
+    const pos = e.target.selectionStart;
+    route();
+    const el = document.getElementById("f-q");
+    if (el) { el.focus(); try { el.setSelectionRange(pos, pos); } catch (_) {} }
+  });
+  window.addEventListener("hashchange", () => { route(); window.scrollTo(0, 0); });
+
+  // ───────── загрузка ─────────
+  // какой клан показывать: ?c=<тег клана без #>. Без параметра — основной клан из data/default.json.
+  // Сайт не загружает список всех кланов: по ссылке одного клана о других не узнать.
+  // страница может «закрепить» клан (например /demo/): window.__FIXED_CLAN__ = "2QCVU28QV"
+  const WANT = (window.__FIXED_CLAN__ || new URLSearchParams(location.search).get("c") || "").toUpperCase().replace(/O/g, "0").replace(/[^0-9A-Z]/g, "");
+  const ROOT = window.__SITE_ROOT__ || "/";
+  class Hidden extends Error {}
+  async function load() {
+    if (window.__CLAN_DATA__) return window.__CLAN_DATA__;
+    const v = Math.floor(Date.now() / 6e4);
+    const getJ = (p) => fetch(`${p}?v=${v}`).then((r) => { if (!r.ok) throw new Error(p + ": " + r.status); return r.json(); });
+    let base = ROOT + "data/";
+    let slug = WANT;
+    if (!slug) {
+      const d = await getJ(ROOT + "data/default.json").catch(() => null);
+      slug = d && d.c;
+    }
+    if (slug) base = `${ROOT}data/${slug}/`;
+    const clan = await getJ(base + "clan.json").catch((e) => { if (WANT) throw new Hidden(); throw e; });
+    if (clan.show === false) throw new Hidden();
+    const [players, wars, raids, cwl] = await Promise.all(["players.json", "wars.json", "raids.json", "cwl.json"].map((f) => getJ(base + f)));
+    return { clan, players, wars, raids, cwl };
+  }
+  // таймеры тикают раз в 30 секунд; данные перезагружаются каждые 5 минут
+  setInterval(() => {
+    let expired = false;
+    document.querySelectorAll(".cd").forEach((el) => {
+      const ms = Number(el.dataset.until) - Date.now();
+      if (ms <= 0) expired = true;
+      el.textContent = left(ms);
+    });
+    if (expired) refresh();
+  }, 30000);
+  let refreshing = false, lastRefresh = Date.now();
+  async function refresh() {
+    if (refreshing || window.__CLAN_DATA__ || Date.now() - lastRefresh < 60000) return;
+    refreshing = true;
+    try {
+      const data = await load();
+      if (data.clan.updated !== D.clan.updated) {
+        const open = [...document.querySelectorAll("details[open][data-k]")].map((d) => d.dataset.k);
+        const y = window.scrollY;
+        D = data;
+        route();
+        open.forEach((k) => document.querySelectorAll("details[data-k]").forEach((d) => { if (d.dataset.k === k) d.open = true; }));
+        window.scrollTo(0, y);
+      }
+    } catch (e) { /* сеть пропала — попробуем позже */ }
+    lastRefresh = Date.now();
+    refreshing = false;
+  }
+  setInterval(() => { if (!document.hidden) refresh(); }, 5 * 60000);
+  document.addEventListener("visibilitychange", () => { if (!document.hidden && Date.now() - lastRefresh > 5 * 60000) refresh(); });
+
+  load().then((data) => {
+    D = data;
+    NOW = Math.max(Date.now(), t(D.clan.updated));
+    if (window.__CLAN_DATA__) NOW = t(D.clan.updated);
+    document.title = (D.clan.name || "Клан") + " — статистика";
+    route();
+  }).catch((err) => {
+    document.getElementById("app").innerHTML = err instanceof Hidden
+      ? `<p class="loading">Статистика этого клана сейчас недоступна.</p>`
+      : `<p class="loading">Данных пока нет. Как только сборщик отработает первый раз, здесь появится статистика.<br><small>${esc(err.message)}</small></p>`;
+  });
+})();

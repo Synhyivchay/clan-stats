@@ -56,7 +56,7 @@ def main():
             clans.append({"tag": tag, "slug": slug, "name": info.get("name"), "badge": collect.badge(info.get("badgeUrls")),
                           "collect": True, "show": True, "added": collect.NOW})
             print(f"Добавлен клан {info.get('name')} {tag}. Данные появятся после следующего сбора (до 5 минут).")
-            print(f"Ссылка для клана: …/clan-stats/?c={slug}")
+            print(f"Ссылка для клана: https://clantracker.net/clan/?c={slug}")
     else:
         if not found:
             raise SystemExit(f"Клана {tag} нет в списке.")

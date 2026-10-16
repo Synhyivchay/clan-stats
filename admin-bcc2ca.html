@@ -127,7 +127,7 @@ h2 { font-family: var(--font-display); font-weight: 400; font-size: 19px; margin
   const WF = `${REPO}/actions/workflows/manage.yml`;
   // список кланов лежит в _admin/ — сайт его не публикует, читаем прямо из репозитория
   const RAW = REPO.replace("https://github.com/", "https://raw.githubusercontent.com/") + "/main/_admin/clans.json";
-  const SITE = location.origin + location.pathname.replace(/[^/]*$/, "");
+  const SITE = location.origin + "/clan/";
   const ACTION_RU = {
     add: "добавить клан", "collect-off": "остановить сбор", "collect-on": "включить сбор",
     hide: "скрыть страницу", show: "показать страницу", remove: "убрать из списка", default: "сделать основным",
