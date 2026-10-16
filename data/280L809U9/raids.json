@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 309471,
+  "loot": 318973,
   "raids": 4,
-  "attacks": 75,
-  "districts": 27,
+  "attacks": 77,
+  "districts": 28,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -89,18 +89,18 @@
     "loot": 18832
    },
    {
+    "tag": "#L2UCRQ909",
+    "name": "Seregaw.w.w.s.",
+    "a": 4,
+    "lim": 6,
+    "loot": 14442
+   },
+   {
     "tag": "#QJYVP0JJU",
     "name": "Partizan",
     "a": 6,
     "lim": 6,
     "loot": 12882
-   },
-   {
-    "tag": "#L2UCRQ909",
-    "name": "Seregaw.w.w.s.",
-    "a": 2,
-    "lim": 6,
-    "loot": 4940
    },
    {
     "tag": "#LGRVJULJJ",
