@@ -393,25 +393,27 @@ tbody tr:hover td.stick { background: var(--surface-2); }
 
   // ───────── рейды ─────────
   const endedRaids = (filterFn) => D.raids.filter((r) => r.state === "ended" && (!filterFn || filterFn(r)));
+  // для статистики берём и законченные, и идущие рейды; пропуски и «недобил» — только по законченным
+  const statRaids = (filterFn) => D.raids.filter((r) => (r.state === "ended" || r.state === "ongoing") && (!filterFn || filterFn(r)));
   const raidKnown = (r) => t(r.start) >= t(D.clan.trackingSince);
   function raidStats(raids) {
     const S = {};
-    const get = (tag) => (S[tag] ||= { weekends: 0, missed: 0, attacks: 0, lim: 0, loot: 0, partial: 0 });
+    const get = (tag) => (S[tag] ||= { weekends: 0, missed: 0, attacks: 0, lim: 0, loot: 0, partial: 0, doneW: 0, doneLoot: 0 });
     for (const r of raids) {
       const seen = new Set();
       for (const m of r.members) {
         const s = get(m.tag);
         seen.add(m.tag);
         s.weekends++; s.attacks += m.a; s.lim += m.lim; s.loot += m.loot;
-        if (m.a < m.lim) s.partial++;
+        if (r.state === "ended") { s.doneW++; s.doneLoot += m.loot; if (m.a < m.lim) s.partial++; }
       }
-      if (raidKnown(r)) {
+      if (raidKnown(r) && r.state === "ended") {
         for (const p of Object.values(D.players)) {
           if (!seen.has(p.tag) && inClanDuring(p, t(r.start), t(r.end))) { const s = get(p.tag); s.missed++; s.lim += 6; }
         }
       }
     }
-    for (const s of Object.values(S)) s.avgLoot = s.weekends ? s.loot / s.weekends : null;
+    for (const s of Object.values(S)) s.avgLoot = s.doneW ? s.doneLoot / s.doneW : null;
     return S;
   }
   // ── вклады золота столицы ──
@@ -740,7 +742,7 @@ tbody tr:hover td.stick { background: var(--surface-2); }
     const ms = members();
     const W = warStats(statWars("war", (w) => inPeriod(w.end)));
     const C = warStats(statWars("cwl", (w) => inPeriod(w.end)));
-    const R = raidStats(endedRaids((r) => inPeriod(r.end)));
+    const R = raidStats(statRaids((r) => inPeriod(r.end)));
     const rows = ms.map((p) => ({ p, w: W[p.tag] || {}, c: C[p.tag] || {}, r: R[p.tag] || {} }))
       .map((x) => ({ ...x, missTotal: (x.w.missed || 0) + (x.c.missed || 0) + (x.r.missed || 0) }));
     const cols = [
@@ -915,7 +917,8 @@ tbody tr:hover td.stick { background: var(--surface-2); }
   // ───────── вкладка «Рейды» ─────────
   function viewRaids() {
     const rs = endedRaids((r) => inPeriod(r.end));
-    const S = raidStats(rs);
+    const liveR = D.raids.find((r) => r.state === "ongoing");
+    const S = raidStats(statRaids((r) => inPeriod(r.end)));
     const U = unloadStats(endedRaids((r) => inPeriod(r.end)));
     const rows = members().map((p) => ({ p, s: S[p.tag] || {}, u: U[p.tag] || {} }));
     const cols = [
@@ -934,11 +937,12 @@ tbody tr:hover td.stick { background: var(--surface-2); }
       <section>
         <div class="head-row"><h2>Рейды столицы</h2>${periodSeg()}</div>
         <div class="tiles">
-          <div class="tile"><div class="k">Выходных</div><div class="v">${rs.length}</div></div>
-          <div class="tile"><div class="k">Золота добыто</div><div class="v">${n0(rs.reduce((a, r) => a + r.loot, 0))}</div></div>
+          <div class="tile"><div class="k">Выходных</div><div class="v">${rs.length}${liveR ? ' <small>+ 1 идут</small>' : ""}</div></div>
+          <div class="tile"><div class="k">Золота добыто</div><div class="v">${n0(rs.reduce((a, r) => a + r.loot, 0) + (liveR ? liveR.loot : 0))}</div></div>
           <div class="tile"><div class="k">Ср. за выходные</div><div class="v">${rs.length ? n0(rs.reduce((a, r) => a + r.loot, 0) / rs.length) : "—"}</div></div>
           <div class="tile"><div class="k">Пропусков</div><div class="v">${rows.reduce((a, x) => a + (x.s.missed || 0), 0)}</div></div>
         </div>
+        ${liveR ? `<p class="sub">В таблице уже учтены идущие рейды: ${n0(liveR.loot)} золота, ${liveR.attacks} ${plural(liveR.attacks, "атака", "атаки", "атак")}. Пропуски и «недобил» за них засчитаются после окончания.</p>` : ""}
         ${(() => { const fr = applyFilter(rows); return filterBar(rows.length, fr.length) + table("raids", cols, fr, { sort: { k: "loot", asc: false } }); })()}
         <p class="sub">«Выгрузил» — насколько вырос общий счётчик вкладов игрока в столицы за неделю рейда (с пятницы до пятницы). Куда вложено золото, игра в API не сообщает. Золото из кузницы тоже попадает в счётчик, поэтому «выгрузил больше, чем добыл» — это нормально; отмечаем только тех, кто вложил меньше добытого в рейдах.</p>
       </section>
@@ -990,7 +994,7 @@ tbody tr:hover td.stick { background: var(--surface-2); }
     if (!p) return shell("players", '<div class="empty">Игрок не найден</div>');
     const W = warStats(statWars("war"))[p.tag] || {};
     const C = warStats(statWars("cwl"))[p.tag] || {};
-    const R = raidStats(endedRaids())[p.tag] || {};
+    const R = raidStats(statRaids())[p.tag] || {};
     const since = memberSince(p);
     const ev = (p.events || []).map((e) => `<span class="chip ${e.t === "leave" ? "bad" : e.t === "join" ? "good" : "neutral"}">${e.t === "leave" ? "Вышел" : e.t === "join" ? "Вступил" : "Начало учёта"} ${fmtDate(e.at, { day: "numeric", month: "short", year: "numeric" })}</span>`).join("");
     const kvCard = (title, s, extra) => `<div class="card"><h3>${title}</h3>${s.wars ? `<div class="kv">
