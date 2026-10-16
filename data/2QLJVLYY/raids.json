@@ -4,26 +4,26 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 56472,
+  "loot": 65912,
   "raids": 0,
-  "attacks": 12,
+  "attacks": 14,
   "districts": 6,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#PUCPRP9YV",
+    "name": "малько",
+    "a": 6,
+    "lim": 6,
+    "loot": 28352
+   },
    {
     "tag": "#89RL09YL9",
     "name": "Разрушитель",
     "a": 6,
     "lim": 6,
     "loot": 28228
-   },
-   {
-    "tag": "#PUCPRP9YV",
-    "name": "малько",
-    "a": 4,
-    "lim": 6,
-    "loot": 18912
    },
    {
     "tag": "#9P28CV0L0",
