@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 258393,
+  "loot": 269798,
   "raids": 2,
-  "attacks": 60,
-  "districts": 20,
+  "attacks": 62,
+  "districts": 21,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -68,6 +68,13 @@
     "loot": 22642
    },
    {
+    "tag": "#Y9YQV8CUR",
+    "name": "GURU RANDHAWA",
+    "a": 4,
+    "lim": 6,
+    "loot": 21330
+   },
+   {
     "tag": "#LCRPUCU2V",
     "name": "Хранитель",
     "a": 6,
@@ -80,13 +87,6 @@
     "a": 3,
     "lim": 6,
     "loot": 11921
-   },
-   {
-    "tag": "#Y9YQV8CUR",
-    "name": "GURU RANDHAWA",
-    "a": 2,
-    "lim": 6,
-    "loot": 9925
    },
    {
     "tag": "#LGRVJULJJ",
