@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 135565,
+  "loot": 139473,
   "raids": 2,
-  "attacks": 32,
-  "districts": 12,
+  "attacks": 33,
+  "districts": 13,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -33,18 +33,18 @@
     "loot": 24380
    },
    {
+    "tag": "#9J02VCC8J",
+    "name": "Денис",
+    "a": 6,
+    "lim": 6,
+    "loot": 23717
+   },
+   {
     "tag": "#QUULVGRYQ",
     "name": "MR.KING",
     "a": 6,
     "lim": 6,
     "loot": 23167
-   },
-   {
-    "tag": "#9J02VCC8J",
-    "name": "Денис",
-    "a": 5,
-    "lim": 6,
-    "loot": 19809
    },
    {
     "tag": "#9P28CV0L0",
