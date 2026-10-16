@@ -1,0 +1,374 @@
+[
+ {
+  "id": "2026-10-16",
+  "state": "ongoing",
+  "start": "2026-10-16T07:00:00Z",
+  "end": "2026-10-19T07:00:00Z",
+  "loot": 291504,
+  "raids": 2,
+  "attacks": 64,
+  "districts": 26,
+  "offReward": 0,
+  "defReward": 0,
+  "members": [
+   {
+    "tag": "#2GG9VVGQJ",
+    "name": "Rudi",
+    "a": 6,
+    "lim": 6,
+    "loot": 31529
+   },
+   {
+    "tag": "#YU99PU9GQ",
+    "name": "Doomsday",
+    "a": 6,
+    "lim": 6,
+    "loot": 29745
+   },
+   {
+    "tag": "#J9VRQ882",
+    "name": "RudiV2",
+    "a": 6,
+    "lim": 6,
+    "loot": 29140
+   },
+   {
+    "tag": "#22L9YGQ2U",
+    "name": "slory",
+    "a": 5,
+    "lim": 6,
+    "loot": 28484
+   },
+   {
+    "tag": "#9090P29L9",
+    "name": "Louis™️187",
+    "a": 6,
+    "lim": 6,
+    "loot": 28412
+   },
+   {
+    "tag": "#JGGCYUUG",
+    "name": "Alastor",
+    "a": 6,
+    "lim": 6,
+    "loot": 25612
+   },
+   {
+    "tag": "#P9C8Q9RCR",
+    "name": "Hattrickser",
+    "a": 6,
+    "lim": 6,
+    "loot": 25523
+   },
+   {
+    "tag": "#QUUCY9VYQ",
+    "name": "Marc",
+    "a": 6,
+    "lim": 6,
+    "loot": 20491
+   },
+   {
+    "tag": "#8LCP8GR2L",
+    "name": "Leon",
+    "a": 6,
+    "lim": 6,
+    "loot": 19713
+   },
+   {
+    "tag": "#YL0QYGP0V",
+    "name": "Bassko",
+    "a": 3,
+    "lim": 6,
+    "loot": 16363
+   },
+   {
+    "tag": "#2CCJVQ08V",
+    "name": "Shaun Ryan",
+    "a": 3,
+    "lim": 6,
+    "loot": 11778
+   },
+   {
+    "tag": "#9G0GVR8GQ",
+    "name": "アイドル",
+    "a": 2,
+    "lim": 6,
+    "loot": 11306
+   },
+   {
+    "tag": "#LG8YC2Y92",
+    "name": "Kingdingeling",
+    "a": 2,
+    "lim": 6,
+    "loot": 10383
+   },
+   {
+    "tag": "#2JCQPL89R",
+    "name": "؞۩׀ＰＲ０Ｔ０ＴＹＰＥ׀۩؞",
+    "a": 1,
+    "lim": 5,
+    "loot": 3025
+   }
+  ]
+ },
+ {
+  "id": "2026-10-09",
+  "state": "ended",
+  "start": "2026-10-09T07:00:00Z",
+  "end": "2026-10-12T07:00:00Z",
+  "loot": 764556,
+  "raids": 10,
+  "attacks": 180,
+  "districts": 67,
+  "offReward": 202,
+  "defReward": 275,
+  "members": []
+ },
+ {
+  "id": "2026-10-02",
+  "state": "ended",
+  "start": "2026-10-02T07:00:00Z",
+  "end": "2026-10-05T07:00:00Z",
+  "loot": 760257,
+  "raids": 9,
+  "attacks": 165,
+  "districts": 66,
+  "offReward": 217,
+  "defReward": 321,
+  "members": []
+ },
+ {
+  "id": "2026-09-25",
+  "state": "ended",
+  "start": "2026-09-25T07:00:00Z",
+  "end": "2026-09-28T07:00:00Z",
+  "loot": 940200,
+  "raids": 11,
+  "attacks": 213,
+  "districts": 85,
+  "offReward": 218,
+  "defReward": 268,
+  "members": []
+ },
+ {
+  "id": "2026-09-18",
+  "state": "ended",
+  "start": "2026-09-18T07:00:00Z",
+  "end": "2026-09-21T07:00:00Z",
+  "loot": 931127,
+  "raids": 10,
+  "attacks": 211,
+  "districts": 84,
+  "offReward": 212,
+  "defReward": 244,
+  "members": []
+ },
+ {
+  "id": "2026-09-11",
+  "state": "ended",
+  "start": "2026-09-11T07:00:00Z",
+  "end": "2026-09-14T07:00:00Z",
+  "loot": 838133,
+  "raids": 10,
+  "attacks": 207,
+  "districts": 72,
+  "offReward": 192,
+  "defReward": 262,
+  "members": []
+ },
+ {
+  "id": "2026-09-04",
+  "state": "ended",
+  "start": "2026-09-04T07:00:00Z",
+  "end": "2026-09-07T07:00:00Z",
+  "loot": 821196,
+  "raids": 9,
+  "attacks": 192,
+  "districts": 73,
+  "offReward": 208,
+  "defReward": 276,
+  "members": []
+ },
+ {
+  "id": "2026-08-28",
+  "state": "ended",
+  "start": "2026-08-28T07:00:00Z",
+  "end": "2026-08-31T07:00:00Z",
+  "loot": 819332,
+  "raids": 9,
+  "attacks": 190,
+  "districts": 71,
+  "offReward": 203,
+  "defReward": 246,
+  "members": []
+ },
+ {
+  "id": "2026-08-21",
+  "state": "ended",
+  "start": "2026-08-21T07:00:00Z",
+  "end": "2026-08-24T07:00:00Z",
+  "loot": 735168,
+  "raids": 9,
+  "attacks": 181,
+  "districts": 63,
+  "offReward": 194,
+  "defReward": 280,
+  "members": []
+ },
+ {
+  "id": "2026-08-14",
+  "state": "ended",
+  "start": "2026-08-14T07:00:00Z",
+  "end": "2026-08-17T07:00:00Z",
+  "loot": 853408,
+  "raids": 10,
+  "attacks": 192,
+  "districts": 79,
+  "offReward": 219,
+  "defReward": 285,
+  "members": []
+ },
+ {
+  "id": "2026-08-07",
+  "state": "ended",
+  "start": "2026-08-07T07:00:00Z",
+  "end": "2026-08-10T07:00:00Z",
+  "loot": 656636,
+  "raids": 8,
+  "attacks": 154,
+  "districts": 61,
+  "offReward": 207,
+  "defReward": 284,
+  "members": []
+ },
+ {
+  "id": "2026-07-31",
+  "state": "ended",
+  "start": "2026-07-31T07:00:00Z",
+  "end": "2026-08-03T07:00:00Z",
+  "loot": 829966,
+  "raids": 9,
+  "attacks": 186,
+  "districts": 73,
+  "offReward": 218,
+  "defReward": 275,
+  "members": []
+ },
+ {
+  "id": "2026-07-24",
+  "state": "ended",
+  "start": "2026-07-24T07:00:00Z",
+  "end": "2026-07-27T07:00:00Z",
+  "loot": 812324,
+  "raids": 11,
+  "attacks": 196,
+  "districts": 73,
+  "offReward": 203,
+  "defReward": 327,
+  "members": []
+ },
+ {
+  "id": "2026-07-17",
+  "state": "ended",
+  "start": "2026-07-17T07:00:00Z",
+  "end": "2026-07-20T07:00:00Z",
+  "loot": 693667,
+  "raids": 7,
+  "attacks": 163,
+  "districts": 62,
+  "offReward": 204,
+  "defReward": 278,
+  "members": []
+ },
+ {
+  "id": "2026-07-10",
+  "state": "ended",
+  "start": "2026-07-10T07:00:00Z",
+  "end": "2026-07-13T07:00:00Z",
+  "loot": 739240,
+  "raids": 9,
+  "attacks": 170,
+  "districts": 66,
+  "offReward": 211,
+  "defReward": 289,
+  "members": []
+ },
+ {
+  "id": "2026-07-03",
+  "state": "ended",
+  "start": "2026-07-03T07:00:00Z",
+  "end": "2026-07-06T07:00:00Z",
+  "loot": 499828,
+  "raids": 7,
+  "attacks": 120,
+  "districts": 46,
+  "offReward": 202,
+  "defReward": 262,
+  "members": []
+ },
+ {
+  "id": "2026-06-26",
+  "state": "ended",
+  "start": "2026-06-26T07:00:00Z",
+  "end": "2026-06-29T07:00:00Z",
+  "loot": 678795,
+  "raids": 9,
+  "attacks": 157,
+  "districts": 59,
+  "offReward": 206,
+  "defReward": 316,
+  "members": []
+ },
+ {
+  "id": "2026-06-19",
+  "state": "ended",
+  "start": "2026-06-19T07:00:00Z",
+  "end": "2026-06-22T07:00:00Z",
+  "loot": 684392,
+  "raids": 7,
+  "attacks": 161,
+  "districts": 61,
+  "offReward": 203,
+  "defReward": 237,
+  "members": []
+ },
+ {
+  "id": "2026-06-12",
+  "state": "ended",
+  "start": "2026-06-12T07:00:00Z",
+  "end": "2026-06-15T07:00:00Z",
+  "loot": 944111,
+  "raids": 13,
+  "attacks": 217,
+  "districts": 88,
+  "offReward": 214,
+  "defReward": 317,
+  "members": []
+ },
+ {
+  "id": "2026-06-05",
+  "state": "ended",
+  "start": "2026-06-05T07:00:00Z",
+  "end": "2026-06-08T07:00:00Z",
+  "loot": 698151,
+  "raids": 7,
+  "attacks": 162,
+  "districts": 62,
+  "offReward": 207,
+  "defReward": 326,
+  "members": []
+ },
+ {
+  "id": "2026-05-29",
+  "state": "ended",
+  "start": "2026-05-29T07:00:00Z",
+  "end": "2026-06-01T07:00:00Z",
+  "loot": 1039369,
+  "raids": 12,
+  "attacks": 254,
+  "districts": 90,
+  "offReward": 198,
+  "defReward": 341,
+  "members": []
+ }
+]
