@@ -420,6 +420,12 @@ def collect_raids(raids, players, first_run):
         if not start:
             continue
         rid = start[:10]
+        old = raids.get(rid)
+        # законченные выходные с участниками — окончательные, не трогаем.
+        # API отдаёт поимённый список только по самым свежим выходным, и без этой
+        # проверки при старте новых рейдов список прошлых затирался бы пустым.
+        if old and old.get("state") == "ended" and old.get("members"):
+            continue
         members = []
         for m in it.get("members", []) or []:
             ensure_player(players, m["tag"], m.get("name"))
@@ -438,10 +444,32 @@ def collect_raids(raids, players, first_run):
             "districts": it.get("enemyDistrictsDestroyed", 0),
             "offReward": it.get("offensiveReward", 0),
             "defReward": it.get("defensiveReward", 0),
-            "members": sorted(members, key=lambda x: -x["loot"]),
+            "members": sorted(members, key=lambda x: -x["loot"]) or (old or {}).get("members", []),
         }
     log(f"Рейды: всего выходных {len(raids)}")
 
+
+
+def restore_raids(raids):
+    """Разовое восстановление: если рядом лежит raids_restore.json
+    ({"2026-10-09": [участники...]}), возвращаем участников в выходные,
+    где список пустой, и удаляем файл."""
+    f = DATA_DIR / "raids_restore.json"
+    if not f.exists():
+        return
+    try:
+        rest = json.loads(f.read_text("utf-8"))
+    except Exception as e:
+        log(f"!! raids_restore.json не прочитан: {e}")
+        return
+    fixed = 0
+    for rid, members in rest.items():
+        r = raids.get(rid)
+        if r is not None and not r.get("members") and members:
+            r["members"] = members
+            fixed += 1
+    f.unlink()
+    log(f"Рейды: восстановлены участники в {fixed} выходных")
 
 
 # ───────────────────── вклады золота столицы ─────────────────────
@@ -507,6 +535,7 @@ def collect_clan(tag, slug, show=True):
     collect_current_war(wars, players)
     collect_cwl(wars, cwl, players)
     collect_raids(raids, players, first_run)
+    restore_raids(raids)
     finalize_stale_wars(wars, cwl)
     contrib_fetched = collect_contributions(players, meta.get("contribFetched"))
 
