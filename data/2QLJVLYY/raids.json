@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 201259,
+  "loot": 204489,
   "raids": 3,
-  "attacks": 51,
+  "attacks": 52,
   "districts": 18,
   "offReward": 0,
   "defReward": 0,
@@ -63,9 +63,9 @@
    {
     "tag": "#LGLPJJ2VP",
     "name": "егор",
-    "a": 5,
+    "a": 6,
     "lim": 6,
-    "loot": 16566
+    "loot": 19796
    },
    {
     "tag": "#9P28CV0L0",
