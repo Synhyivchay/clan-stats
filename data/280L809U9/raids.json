@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 318973,
+  "loot": 326678,
   "raids": 4,
-  "attacks": 77,
+  "attacks": 79,
   "districts": 28,
   "offReward": 0,
   "defReward": 0,
@@ -82,18 +82,18 @@
     "loot": 22642
    },
    {
+    "tag": "#L2UCRQ909",
+    "name": "Seregaw.w.w.s.",
+    "a": 6,
+    "lim": 6,
+    "loot": 22147
+   },
+   {
     "tag": "#LCRPUCU2V",
     "name": "Хранитель",
     "a": 6,
     "lim": 6,
     "loot": 18832
-   },
-   {
-    "tag": "#L2UCRQ909",
-    "name": "Seregaw.w.w.s.",
-    "a": 4,
-    "lim": 6,
-    "loot": 14442
    },
    {
     "tag": "#QJYVP0JJU",
