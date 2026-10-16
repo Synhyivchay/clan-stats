@@ -407,9 +407,15 @@ tbody tr:hover td.stick { background: var(--surface-2); }
         s.weekends++; s.attacks += m.a; s.lim += m.lim; s.loot += m.loot;
         if (r.state === "ended") { s.doneW++; s.doneLoot += m.loot; if (m.a < m.lim) s.partial++; }
       }
-      if (raidKnown(r) && r.state === "ended") {
+      // выходные идут для всех участников клана: кто был в клане и не атаковал, тоже получает
+      // эти выходные (и 6 атак в знаменателе). Пропуск засчитывается только после окончания.
+      if (raidKnown(r)) {
+        const end = r.state === "ended" ? t(r.end) : Math.min(t(r.end), NOW_TS());
         for (const p of Object.values(D.players)) {
-          if (!seen.has(p.tag) && inClanDuring(p, t(r.start), t(r.end))) { const s = get(p.tag); s.missed++; s.lim += 6; }
+          if (seen.has(p.tag) || !inClanDuring(p, t(r.start), end)) continue;
+          const s = get(p.tag);
+          s.weekends++; s.lim += 6;
+          if (r.state === "ended") { s.missed++; s.doneW++; }
         }
       }
     }
@@ -923,7 +929,7 @@ tbody tr:hover td.stick { background: var(--surface-2); }
     const rows = members().map((p) => ({ p, s: S[p.tag] || {}, u: U[p.tag] || {} }));
     const cols = [
       { k: "name", label: "Игрок", v: (x) => x.p.name, f: (x) => playerCell(x.p), cls: "l stick", alt: PLAYER_ALT },
-      { k: "wk", label: "Выходных", title: "Сколько выходных рейдов игрок атаковал", v: (x) => x.s.weekends ?? null, f: (x) => numCell(x.s.weekends) },
+      { k: "wk", label: "Выходных", title: "Сколько выходных рейдов прошло, пока игрок был в клане (включая идущие)", v: (x) => x.s.weekends ?? null, f: (x) => numCell(x.s.weekends) },
       { k: "miss", label: "Пропуск", title: "Выходные без единой атаки, когда игрок был в клане", v: (x) => x.s.missed ?? null, f: (x) => numCell(x.s.missed, n0, true) },
       { k: "att", label: "Атак", v: (x) => x.s.attacks ?? null, f: (x) => x.s.lim ? `${x.s.attacks}<span class="num-muted">/${x.s.lim}</span>` : numCell(null) },
       { k: "part", label: "Недобил", title: "Выходные, где игрок сделал не все доступные атаки", v: (x) => x.s.partial ?? null, f: (x) => x.s.partial ? `<span style="color:var(--warn);font-weight:700">${x.s.partial}</span>` : numCell(x.s.partial) },
@@ -1025,7 +1031,7 @@ tbody tr:hover td.stick { background: var(--surface-2); }
           ${kvCard("Клановые войны", W)}
           ${kvCard("Лига войн кланов", C)}
           <div class="card"><h3>Рейды столицы</h3>${R.weekends || R.missed ? `<div class="kv">
-            <span>Выходных с атаками</span><span>${R.weekends}</span>
+            <span>Выходных в клане</span><span>${R.weekends}</span>
             <span>Пропущено выходных</span><span class="${R.missed ? "miss" : ""}">${R.missed}</span>
             <span>Атак</span><span>${R.attacks} / ${R.lim}</span>
             <span>Золота всего</span><span>${n0(R.loot)}</span>
