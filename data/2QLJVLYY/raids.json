@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 115756,
+  "loot": 120941,
   "raids": 2,
-  "attacks": 27,
+  "attacks": 28,
   "districts": 11,
   "offReward": 0,
   "defReward": 0,
@@ -47,18 +47,18 @@
     "loot": 9332
    },
    {
+    "tag": "#9J02VCC8J",
+    "name": "Денис",
+    "a": 1,
+    "lim": 5,
+    "loot": 5185
+   },
+   {
     "tag": "#YCU8JR28U",
     "name": "SHANARA",
     "a": 1,
     "lim": 6,
     "loot": 2297
-   },
-   {
-    "tag": "#9J02VCC8J",
-    "name": "Денис",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
    }
   ]
  },
