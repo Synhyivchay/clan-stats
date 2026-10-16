@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 378347,
+  "loot": 386241,
   "raids": 3,
-  "attacks": 84,
-  "districts": 34,
+  "attacks": 86,
+  "districts": 35,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -61,6 +61,13 @@
     "loot": 28412
    },
    {
+    "tag": "#2YRLLG9JC",
+    "name": "Monkey D. Lorik",
+    "a": 6,
+    "lim": 6,
+    "loot": 26875
+   },
+   {
     "tag": "#JGGCYUUG",
     "name": "Alastor",
     "a": 6,
@@ -87,13 +94,6 @@
     "a": 6,
     "lim": 6,
     "loot": 19713
-   },
-   {
-    "tag": "#2YRLLG9JC",
-    "name": "Monkey D. Lorik",
-    "a": 4,
-    "lim": 6,
-    "loot": 18981
    },
    {
     "tag": "#P9QYVLC2J",
