@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 304531,
-  "raids": 3,
-  "attacks": 73,
-  "districts": 26,
+  "loot": 309471,
+  "raids": 4,
+  "attacks": 75,
+  "districts": 27,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -94,6 +94,13 @@
     "a": 6,
     "lim": 6,
     "loot": 12882
+   },
+   {
+    "tag": "#L2UCRQ909",
+    "name": "Seregaw.w.w.s.",
+    "a": 2,
+    "lim": 6,
+    "loot": 4940
    },
    {
     "tag": "#LGRVJULJJ",
