@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 235933,
+  "loot": 239338,
   "raids": 2,
-  "attacks": 55,
+  "attacks": 56,
   "districts": 19,
   "offReward": 0,
   "defReward": 0,
@@ -70,9 +70,9 @@
    {
     "tag": "#LVVCQ82L0",
     "name": "uchiha_obito",
-    "a": 3,
+    "a": 4,
     "lim": 6,
-    "loot": 12664
+    "loot": 16069
    },
    {
     "tag": "#GC0V2V2Y0",
