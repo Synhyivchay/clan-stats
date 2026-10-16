@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 295441,
+  "loot": 304531,
   "raids": 3,
-  "attacks": 70,
+  "attacks": 73,
   "districts": 26,
   "offReward": 0,
   "defReward": 0,
@@ -89,18 +89,18 @@
     "loot": 18832
    },
    {
+    "tag": "#QJYVP0JJU",
+    "name": "Partizan",
+    "a": 6,
+    "lim": 6,
+    "loot": 12882
+   },
+   {
     "tag": "#LGRVJULJJ",
     "name": "DimagFM",
     "a": 1,
     "lim": 6,
     "loot": 3939
-   },
-   {
-    "tag": "#QJYVP0JJU",
-    "name": "Partizan",
-    "a": 3,
-    "lim": 6,
-    "loot": 3792
    }
   ]
  },
