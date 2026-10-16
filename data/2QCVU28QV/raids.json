@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 344711,
+  "loot": 378347,
   "raids": 3,
-  "attacks": 77,
-  "districts": 30,
+  "attacks": 84,
+  "districts": 34,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -17,6 +17,13 @@
     "a": 6,
     "lim": 6,
     "loot": 31529
+   },
+   {
+    "tag": "#9G0GVR8GQ",
+    "name": "アイドル",
+    "a": 6,
+    "lim": 6,
+    "loot": 30931
    },
    {
     "tag": "#YQLLCGP0",
@@ -82,6 +89,13 @@
     "loot": 19713
    },
    {
+    "tag": "#2YRLLG9JC",
+    "name": "Monkey D. Lorik",
+    "a": 4,
+    "lim": 6,
+    "loot": 18981
+   },
+   {
     "tag": "#P9QYVLC2J",
     "name": "MRM☠️Jannis",
     "a": 6,
@@ -103,25 +117,11 @@
     "loot": 11778
    },
    {
-    "tag": "#9G0GVR8GQ",
-    "name": "アイドル",
-    "a": 2,
-    "lim": 6,
-    "loot": 11306
-   },
-   {
     "tag": "#LG8YC2Y92",
     "name": "Kingdingeling",
     "a": 2,
     "lim": 6,
     "loot": 10383
-   },
-   {
-    "tag": "#2YRLLG9JC",
-    "name": "Monkey D. Lorik",
-    "a": 1,
-    "lim": 5,
-    "loot": 4970
    },
    {
     "tag": "#2JCQPL89R",
