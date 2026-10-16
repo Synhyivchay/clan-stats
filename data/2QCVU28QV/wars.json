@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 3,
-   "pct": 3.33,
-   "attacks": 1
+   "stars": 6,
+   "pct": 6.67,
+   "attacks": 2
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -379,6 +379,17 @@
       "o": 1,
       "n": 3,
       "dur": 123
+     },
+     {
+      "d": "#PG99JP8V",
+      "dn": "BaKeMoNo",
+      "dpos": 30,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 3,
+      "dur": 140
      }
     ],
     "def": {
@@ -400,6 +411,6 @@
     }
    }
   ],
-  "snap": "2026-10-16T23:11:49Z"
+  "snap": "2026-10-16T23:16:49Z"
  }
 ]
