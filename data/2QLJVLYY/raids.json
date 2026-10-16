@@ -4,19 +4,19 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 18769,
+  "loot": 28228,
   "raids": 0,
-  "attacks": 4,
-  "districts": 2,
+  "attacks": 6,
+  "districts": 3,
   "offReward": 0,
   "defReward": 0,
   "members": [
    {
     "tag": "#89RL09YL9",
     "name": "Разрушитель",
-    "a": 4,
+    "a": 6,
     "lim": 6,
-    "loot": 18769
+    "loot": 28228
    }
   ]
  },

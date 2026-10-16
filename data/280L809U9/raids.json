@@ -4,19 +4,33 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 4120,
+  "loot": 54675,
   "raids": 0,
-  "attacks": 1,
-  "districts": 0,
+  "attacks": 11,
+  "districts": 3,
   "offReward": 0,
   "defReward": 0,
   "members": [
    {
     "tag": "#LRR9VR0CY",
     "name": "Begbus",
-    "a": 1,
+    "a": 6,
+    "lim": 6,
+    "loot": 30895
+   },
+   {
+    "tag": "#QQ90VV9L2",
+    "name": "Aviasales",
+    "a": 3,
+    "lim": 6,
+    "loot": 16090
+   },
+   {
+    "tag": "#YUUQCGL2J",
+    "name": "SanixX",
+    "a": 2,
     "lim": 5,
-    "loot": 4120
+    "loot": 7690
    }
   ]
  },
