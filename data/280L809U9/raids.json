@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 326678,
+  "loot": 335261,
   "raids": 4,
-  "attacks": 79,
-  "districts": 28,
+  "attacks": 81,
+  "districts": 29,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -101,6 +101,13 @@
     "a": 6,
     "lim": 6,
     "loot": 12882
+   },
+   {
+    "tag": "#GLL9G2JLP",
+    "name": "rotovoi",
+    "a": 2,
+    "lim": 6,
+    "loot": 8583
    },
    {
     "tag": "#LGRVJULJJ",
