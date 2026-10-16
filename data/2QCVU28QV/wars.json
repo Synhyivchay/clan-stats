@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 9,
-   "pct": 10.0,
-   "attacks": 3
+   "stars": 10,
+   "pct": 12.73,
+   "attacks": 4
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -235,6 +235,17 @@
       "o": 6,
       "n": 3,
       "dur": 140
+     },
+     {
+      "d": "#U8LU8CU8",
+      "dn": "Kamikaze",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 82,
+      "o": 7,
+      "n": 1,
+      "dur": 140
      }
     ],
     "def": {
@@ -423,6 +434,6 @@
     }
    }
   ],
-  "snap": "2026-10-16T23:51:49Z"
+  "snap": "2026-10-16T23:56:49Z"
  }
 ]
