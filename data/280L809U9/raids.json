@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 202382,
+  "loot": 219392,
   "raids": 2,
-  "attacks": 48,
+  "attacks": 51,
   "districts": 18,
   "offReward": 0,
   "defReward": 0,
@@ -54,6 +54,13 @@
     "loot": 22642
    },
    {
+    "tag": "#GRQC2829L",
+    "name": "ed_sans_123",
+    "a": 5,
+    "lim": 6,
+    "loot": 21044
+   },
+   {
     "tag": "#LCRPUCU2V",
     "name": "Хранитель",
     "a": 6,
@@ -66,13 +73,6 @@
     "a": 3,
     "lim": 6,
     "loot": 12664
-   },
-   {
-    "tag": "#GRQC2829L",
-    "name": "ed_sans_123",
-    "a": 2,
-    "lim": 6,
-    "loot": 4034
    },
    {
     "tag": "#LGRVJULJJ",
