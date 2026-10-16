@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 34513,
+  "loot": 37736,
   "raids": 0,
-  "attacks": 7,
-  "districts": 3,
+  "attacks": 8,
+  "districts": 4,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -21,9 +21,9 @@
    {
     "tag": "#PUCPRP9YV",
     "name": "малько",
-    "a": 1,
-    "lim": 5,
-    "loot": 6285
+    "a": 2,
+    "lim": 6,
+    "loot": 9508
    }
   ]
  },
