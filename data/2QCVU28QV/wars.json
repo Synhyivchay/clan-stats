@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 6,
-   "pct": 6.67,
-   "attacks": 2
+   "stars": 9,
+   "pct": 10.0,
+   "attacks": 3
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -224,7 +224,19 @@
     "name": "Doomsday",
     "th": 18,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y8JVPULV",
+      "dn": "Beladric",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 6,
+      "n": 3,
+      "dur": 140
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -411,6 +423,6 @@
     }
    }
   ],
-  "snap": "2026-10-16T23:46:49Z"
+  "snap": "2026-10-16T23:51:49Z"
  }
 ]
