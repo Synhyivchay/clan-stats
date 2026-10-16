@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 147680,
+  "loot": 156905,
   "raids": 1,
-  "attacks": 34,
+  "attacks": 36,
   "districts": 11,
   "offReward": 0,
   "defReward": 0,
@@ -17,6 +17,13 @@
     "a": 6,
     "lim": 6,
     "loot": 30895
+   },
+   {
+    "tag": "#GRGRRJLR9",
+    "name": "prime",
+    "a": 6,
+    "lim": 6,
+    "loot": 28818
    },
    {
     "tag": "#CUQYLPU",
@@ -38,13 +45,6 @@
     "a": 6,
     "lim": 6,
     "loot": 22642
-   },
-   {
-    "tag": "#GRGRRJLR9",
-    "name": "prime",
-    "a": 4,
-    "lim": 6,
-    "loot": 19593
    },
    {
     "tag": "#LCRPUCU2V",
