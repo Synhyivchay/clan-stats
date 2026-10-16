@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 309506,
+  "loot": 313196,
   "raids": 3,
-  "attacks": 70,
+  "attacks": 71,
   "districts": 27,
   "offReward": 0,
   "defReward": 0,
@@ -108,6 +108,13 @@
     "a": 2,
     "lim": 6,
     "loot": 10383
+   },
+   {
+    "tag": "#YQLLCGP0",
+    "name": "Lennart",
+    "a": 1,
+    "lim": 5,
+    "loot": 3690
    },
    {
     "tag": "#2JCQPL89R",
