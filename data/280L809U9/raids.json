@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 93299,
+  "loot": 99769,
   "raids": 0,
-  "attacks": 21,
+  "attacks": 24,
   "districts": 8,
   "offReward": 0,
   "defReward": 0,
@@ -35,9 +35,9 @@
    {
     "tag": "#LCRPUCU2V",
     "name": "Хранитель",
-    "a": 3,
+    "a": 6,
     "lim": 6,
-    "loot": 12362
+    "loot": 18832
    }
   ]
  },
