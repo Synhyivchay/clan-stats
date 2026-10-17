@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 422342,
+  "loot": 431271,
   "raids": 5,
-  "attacks": 102,
-  "districts": 38,
+  "attacks": 104,
+  "districts": 39,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -103,6 +103,13 @@
     "loot": 22642
    },
    {
+    "tag": "#GVYYYUG29",
+    "name": "kin",
+    "a": 5,
+    "lim": 6,
+    "loot": 22202
+   },
+   {
     "tag": "#L2UCRQ909",
     "name": "Seregaw.w.w.s.",
     "a": 6,
@@ -115,13 +122,6 @@
     "a": 6,
     "lim": 6,
     "loot": 18832
-   },
-   {
-    "tag": "#GVYYYUG29",
-    "name": "kin",
-    "a": 3,
-    "lim": 6,
-    "loot": 13273
    },
    {
     "tag": "#QJYVP0JJU",
