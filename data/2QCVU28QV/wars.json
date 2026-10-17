@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 48
+   "attacks": 52
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -242,7 +242,19 @@
     "name": "Rudi",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y8JVPULV",
+      "dn": "Beladric",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 102,
+      "n": 0,
+      "dur": 139
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -768,7 +780,19 @@
     "name": "Leon",
     "th": 18,
     "pos": 24,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#U8LU8CU8",
+      "dn": "Kamikaze",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 103,
+      "n": 0,
+      "dur": 88
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -862,7 +886,30 @@
     "name": "RudiV4",
     "th": 18,
     "pos": 28,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RVPVPLUQ",
+      "dn": "☠☠MAN☠☠",
+      "dpos": 4,
+      "dth": 18,
+      "s": 1,
+      "p": 11,
+      "o": 100,
+      "n": 0,
+      "dur": 12
+     },
+     {
+      "d": "#G929LQ8V9",
+      "dn": "ABIGOROTH",
+      "dpos": 6,
+      "dth": 18,
+      "s": 1,
+      "p": 18,
+      "o": 101,
+      "n": 0,
+      "dur": 16
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -940,6 +987,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T20:42:35Z"
+  "snap": "2026-10-17T20:47:35Z"
  }
 ]
