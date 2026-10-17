@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 564549,
+  "loot": 567909,
   "raids": 7,
-  "attacks": 139,
+  "attacks": 140,
   "districts": 51,
   "offReward": 0,
   "defReward": 0,
@@ -152,6 +152,13 @@
     "loot": 18832
    },
    {
+    "tag": "#QUR8GYYYY",
+    "name": "ВАРВАР",
+    "a": 6,
+    "lim": 6,
+    "loot": 16021
+   },
+   {
     "tag": "#GUPY0JL0C",
     "name": "салфетка",
     "a": 6,
@@ -164,13 +171,6 @@
     "a": 6,
     "lim": 6,
     "loot": 12882
-   },
-   {
-    "tag": "#QUR8GYYYY",
-    "name": "ВАРВАР",
-    "a": 5,
-    "lim": 6,
-    "loot": 12661
    },
    {
     "tag": "#82QQ2QY0V",
