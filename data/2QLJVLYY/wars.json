@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/Op8ojM-mQwKphF9fbOe4H7EG-ewJwnLnDN8UZKocYyw.png",
    "level": 33,
-   "stars": 26,
-   "pct": 30.87,
-   "attacks": 11
+   "stars": 29,
+   "pct": 34.2,
+   "attacks": 12
   },
   "them": {
    "tag": "#UU9CC0U",
@@ -495,7 +495,19 @@
     "name": "Денис",
     "th": 13,
     "pos": 29,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9RVVJVG0G",
+      "dn": "이환희",
+      "dpos": 29,
+      "dth": 13,
+      "s": 3,
+      "p": 100,
+      "o": 20,
+      "n": 3,
+      "dur": 120
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -515,7 +527,7 @@
     }
    }
   ],
-  "snap": "2026-10-17T11:22:14Z"
+  "snap": "2026-10-17T11:32:14Z"
  },
  {
   "id": "war_20261013T215142Z_2QV2CQ9G2",
