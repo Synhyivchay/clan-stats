@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 10,
-   "pct": 12.73,
-   "attacks": 4
+   "stars": 13,
+   "pct": 16.07,
+   "attacks": 5
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -355,7 +355,19 @@
     "name": "Chloè❤",
     "th": 18,
     "pos": 26,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#U09LGVL9",
+      "dn": "asrul nutry",
+      "dpos": 26,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 8,
+      "n": 3,
+      "dur": 116
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -434,6 +446,6 @@
     }
    }
   ],
-  "snap": "2026-10-16T23:56:49Z"
+  "snap": "2026-10-17T00:01:49Z"
  }
 ]
