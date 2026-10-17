@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 25,
-   "pct": 34.24,
-   "attacks": 9
+   "stars": 27,
+   "pct": 38.08,
+   "attacks": 10
   },
   "them": {
    "tag": "#2G0QGVG8L",
@@ -281,7 +281,19 @@
     "name": "ФЕРЗЬ",
     "th": 17,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8J0CV2G2P",
+      "dn": "☠︎ DL MONKEY ☠︎",
+      "dpos": 16,
+      "dth": 15,
+      "s": 2,
+      "p": 96,
+      "o": 22,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -432,7 +444,7 @@
     }
    }
   ],
-  "snap": "2026-10-17T13:07:14Z"
+  "snap": "2026-10-17T13:12:14Z"
  },
  {
   "id": "war_20261013T214745Z_L88G2PRP",
