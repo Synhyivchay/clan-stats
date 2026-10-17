@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 33,
-   "pct": 39.6,
-   "attacks": 13
+   "stars": 35,
+   "pct": 42.83,
+   "attacks": 14
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -67,7 +67,19 @@
     "name": "Bigmac's sohn",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2GL8UCV9J",
+      "dn": "jorell",
+      "dpos": 7,
+      "dth": 18,
+      "s": 2,
+      "p": 97,
+      "o": 26,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -538,6 +550,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T03:47:03Z"
+  "snap": "2026-10-17T03:52:03Z"
  }
 ]
