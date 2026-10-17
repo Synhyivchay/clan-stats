@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/Op8ojM-mQwKphF9fbOe4H7EG-ewJwnLnDN8UZKocYyw.png",
    "level": 33,
-   "stars": 32,
-   "pct": 37.53,
-   "attacks": 15
+   "stars": 33,
+   "pct": 39.93,
+   "attacks": 16
   },
   "them": {
    "tag": "#UU9CC0U",
    "name": "쪼랩쓰",
    "badge": "https://api-assets.clashofclans.com/badges/200/3yihtyQWdV-d1vc0PRscRo9D3mzpSxh4UpT0Hk2A39I.png",
    "level": 31,
-   "stars": 23,
-   "pct": 26.6,
-   "attacks": 9
+   "stars": 26,
+   "pct": 29.93,
+   "attacks": 10
   },
   "members": [
    {
@@ -271,9 +271,9 @@
     "pos": 14,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -471,7 +471,19 @@
     "name": "WOLF",
     "th": 16,
     "pos": 27,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YYJC29RJC",
+      "dn": "Dave",
+      "dpos": 24,
+      "dth": 15,
+      "s": 1,
+      "p": 72,
+      "o": 26,
+      "n": 1,
+      "dur": 99
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -561,7 +573,7 @@
     }
    }
   ],
-  "snap": "2026-10-17T12:12:14Z"
+  "snap": "2026-10-17T12:17:14Z"
  },
  {
   "id": "war_20261013T215142Z_2QV2CQ9G2",
