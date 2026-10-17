@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 56,
-   "pct": 79.96,
-   "attacks": 23
+   "stars": 58,
+   "pct": 82.96,
+   "attacks": 24
   },
   "them": {
    "tag": "#2G0QGVG8L",
    "name": "Dauntless",
    "badge": "https://api-assets.clashofclans.com/badges/200/mNIF6HsoZo0UeJ3D60G1xr_HbH-xGermIqxcF_zVBRM.png",
    "level": 13,
-   "stars": 72,
-   "pct": 96.0,
-   "attacks": 27
+   "stars": 75,
+   "pct": 100.0,
+   "attacks": 28
   },
   "members": [
    {
@@ -139,7 +139,19 @@
     "name": "Partizan",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#80Q92VYGL",
+      "dn": "Mint",
+      "dpos": 4,
+      "dth": 18,
+      "s": 2,
+      "p": 75,
+      "o": 52,
+      "n": 2,
+      "dur": 97
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -564,9 +576,9 @@
     "pos": 23,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -594,7 +606,7 @@
     }
    }
   ],
-  "snap": "2026-10-17T21:22:35Z"
+  "snap": "2026-10-17T21:27:35Z"
  },
  {
   "id": "war_20261013T214745Z_L88G2PRP",
