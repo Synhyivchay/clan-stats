@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 450941,
+  "loot": 456401,
   "raids": 5,
-  "attacks": 109,
-  "districts": 40,
+  "attacks": 111,
+  "districts": 41,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -117,18 +117,18 @@
     "loot": 22147
    },
    {
+    "tag": "#LG908QVL8",
+    "name": "mura.100",
+    "a": 6,
+    "lim": 6,
+    "loot": 21090
+   },
+   {
     "tag": "#LCRPUCU2V",
     "name": "Хранитель",
     "a": 6,
     "lim": 6,
     "loot": 18832
-   },
-   {
-    "tag": "#LG908QVL8",
-    "name": "mura.100",
-    "a": 4,
-    "lim": 6,
-    "loot": 15630
    },
    {
     "tag": "#QJYVP0JJU",
