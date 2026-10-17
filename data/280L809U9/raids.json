@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 400467,
+  "loot": 411332,
   "raids": 5,
-  "attacks": 98,
-  "districts": 36,
+  "attacks": 100,
+  "districts": 37,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -103,6 +103,13 @@
     "loot": 22147
    },
    {
+    "tag": "#LCRQ8QCC0",
+    "name": "Mr Bubblu",
+    "a": 4,
+    "lim": 6,
+    "loot": 20198
+   },
+   {
     "tag": "#LCRPUCU2V",
     "name": "Хранитель",
     "a": 6,
@@ -122,13 +129,6 @@
     "a": 6,
     "lim": 6,
     "loot": 12882
-   },
-   {
-    "tag": "#LCRQ8QCC0",
-    "name": "Mr Bubblu",
-    "a": 2,
-    "lim": 6,
-    "loot": 9333
    },
    {
     "tag": "#LGRVJULJJ",

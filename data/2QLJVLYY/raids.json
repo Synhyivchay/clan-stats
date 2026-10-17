@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 228930,
+  "loot": 246236,
   "raids": 3,
-  "attacks": 58,
-  "districts": 20,
+  "attacks": 62,
+  "districts": 21,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -54,6 +54,13 @@
     "loot": 22306
    },
    {
+    "tag": "#2LCGCPR80",
+    "name": "NumTorum",
+    "a": 5,
+    "lim": 6,
+    "loot": 20916
+   },
+   {
     "tag": "#LG2JCP99G",
     "name": "Потик_YT",
     "a": 6,
@@ -87,13 +94,6 @@
     "a": 2,
     "lim": 6,
     "loot": 9332
-   },
-   {
-    "tag": "#2LCGCPR80",
-    "name": "NumTorum",
-    "a": 1,
-    "lim": 5,
-    "loot": 3610
    },
    {
     "tag": "#YCU8JR28U",
