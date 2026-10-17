@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 435311,
+  "loot": 443321,
   "raids": 5,
-  "attacks": 105,
+  "attacks": 107,
   "districts": 39,
   "offReward": 0,
   "defReward": 0,
@@ -129,6 +129,13 @@
     "a": 6,
     "lim": 6,
     "loot": 12882
+   },
+   {
+    "tag": "#LG908QVL8",
+    "name": "mura.100",
+    "a": 2,
+    "lim": 5,
+    "loot": 8010
    },
    {
     "tag": "#LGRVJULJJ",
