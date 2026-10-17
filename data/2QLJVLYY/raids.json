@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 470715,
+  "loot": 477078,
   "raids": 6,
-  "attacks": 117,
-  "districts": 42,
+  "attacks": 119,
+  "districts": 44,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -161,9 +161,9 @@
    {
     "tag": "#YCU8JR28U",
     "name": "SHANARA",
-    "a": 1,
+    "a": 3,
     "lim": 6,
-    "loot": 2297
+    "loot": 8660
    }
   ]
  },
