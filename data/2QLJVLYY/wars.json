@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/Op8ojM-mQwKphF9fbOe4H7EG-ewJwnLnDN8UZKocYyw.png",
    "level": 33,
-   "stars": 61,
-   "pct": 70.7,
-   "attacks": 30
+   "stars": 63,
+   "pct": 71.27,
+   "attacks": 32
   },
   "them": {
    "tag": "#UU9CC0U",
@@ -267,7 +267,30 @@
     "name": "Mi4man",
     "th": 18,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GGQ2G0CUP",
+      "dn": "JK",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 62,
+      "n": 1,
+      "dur": 117
+     },
+     {
+      "d": "#J8YRV2GV",
+      "dn": "유치뽕",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 63,
+      "n": 1,
+      "dur": 130
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -734,7 +757,7 @@
     }
    }
   ],
-  "snap": "2026-10-17T23:27:35Z"
+  "snap": "2026-10-17T23:32:35Z"
  },
  {
   "id": "war_20261013T215142Z_2QV2CQ9G2",
