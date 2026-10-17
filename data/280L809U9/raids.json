@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 523792,
+  "loot": 530752,
   "raids": 6,
-  "attacks": 131,
+  "attacks": 132,
   "districts": 47,
   "offReward": 0,
   "defReward": 0,
@@ -168,9 +168,9 @@
    {
     "tag": "#LGRVJULJJ",
     "name": "DimagFM",
-    "a": 1,
+    "a": 2,
     "lim": 6,
-    "loot": 3939
+    "loot": 10899
    },
    {
     "tag": "#QUR8GYYYY",
