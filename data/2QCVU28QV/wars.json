@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 31,
-   "pct": 39.0,
-   "attacks": 12
+   "stars": 33,
+   "pct": 39.6,
+   "attacks": 13
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -103,7 +103,19 @@
     "name": "Kingdingeling",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#U8LU8CU8",
+      "dn": "Kamikaze",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 18,
+      "n": 2,
+      "dur": 94
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -526,6 +538,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T01:26:49Z"
+  "snap": "2026-10-17T01:31:49Z"
  }
 ]
