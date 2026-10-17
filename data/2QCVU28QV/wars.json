@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 53,
-   "pct": 62.43,
-   "attacks": 23
+   "stars": 56,
+   "pct": 65.77,
+   "attacks": 24
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -137,6 +137,17 @@
       "o": 44,
       "n": 1,
       "dur": 115
+     },
+     {
+      "d": "#QVVLVJLQL",
+      "dn": "ZAMKAPAK",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 45,
+      "n": 3,
+      "dur": 146
      }
     ],
     "def": {
@@ -654,6 +665,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T09:07:14Z"
+  "snap": "2026-10-17T09:22:14Z"
  }
 ]
