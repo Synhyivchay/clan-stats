@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 47,
-   "pct": 58.8,
-   "attacks": 19
+   "stars": 50,
+   "pct": 62.13,
+   "attacks": 20
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -433,6 +433,17 @@
       "o": 33,
       "n": 2,
       "dur": 140
+     },
+     {
+      "d": "#RYVCCPY",
+      "dn": "Zeida™",
+      "dpos": 21,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 40,
+      "n": 3,
+      "dur": 97
      }
     ],
     "def": {
@@ -608,6 +619,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T06:37:03Z"
+  "snap": "2026-10-17T06:42:03Z"
  }
 ]
