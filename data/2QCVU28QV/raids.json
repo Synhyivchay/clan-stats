@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 573107,
+  "loot": 585355,
   "raids": 5,
-  "attacks": 130,
-  "districts": 51,
+  "attacks": 133,
+  "districts": 52,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -166,6 +166,13 @@
     "loot": 16363
    },
    {
+    "tag": "#Y902V0099",
+    "name": "Chloè❤",
+    "a": 4,
+    "lim": 6,
+    "loot": 14258
+   },
+   {
     "tag": "#LG8YC2Y92",
     "name": "Kingdingeling",
     "a": 2,
@@ -178,13 +185,6 @@
     "a": 1,
     "lim": 6,
     "loot": 7694
-   },
-   {
-    "tag": "#Y902V0099",
-    "name": "Chloè❤",
-    "a": 1,
-    "lim": 6,
-    "loot": 2010
    }
   ]
  },
