@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 38,
-   "pct": 46.17,
-   "attacks": 15
+   "stars": 40,
+   "pct": 49.33,
+   "attacks": 16
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -102,6 +102,17 @@
       "o": 31,
       "n": 3,
       "dur": 142
+     },
+     {
+      "d": "#GCRCPJLJ",
+      "dn": "sal warriors",
+      "dpos": 10,
+      "dth": 18,
+      "s": 2,
+      "p": 95,
+      "o": 32,
+      "n": 2,
+      "dur": 180
      }
     ],
     "def": {
@@ -562,6 +573,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T04:32:03Z"
+  "snap": "2026-10-17T04:37:03Z"
  }
 ]
