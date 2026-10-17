@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 82,
-   "pct": 93.03,
-   "attacks": 35
+   "stars": 85,
+   "pct": 96.37,
+   "attacks": 36
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -583,7 +583,19 @@
     "name": "Gzuzvonnazareth",
     "th": 18,
     "pos": 21,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GYG8UV29C",
+      "dn": "going merry",
+      "dpos": 23,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 87,
+      "n": 3,
+      "dur": 150
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -791,6 +803,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T18:22:24Z"
+  "snap": "2026-10-17T18:32:24Z"
  }
 ]
