@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 63,
-   "pct": 72.73,
-   "attacks": 27
+   "stars": 66,
+   "pct": 76.07,
+   "attacks": 28
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -538,6 +538,17 @@
       "o": 49,
       "n": 2,
       "dur": 180
+     },
+     {
+      "d": "#QQYPLCJY",
+      "dn": "Sofia",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 50,
+      "n": 3,
+      "dur": 148
      }
     ],
     "def": {
@@ -700,6 +711,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T09:42:14Z"
+  "snap": "2026-10-17T09:47:14Z"
  }
 ]
