@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 75,
-   "pct": 86.07,
-   "attacks": 31
+   "stars": 78,
+   "pct": 89.4,
+   "attacks": 32
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -478,7 +478,19 @@
     "name": "hazhir ro",
     "th": 18,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G8RPJJUJP",
+      "dn": "Thousand Sunny",
+      "dpos": 22,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 83,
+      "n": 3,
+      "dur": 117
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -745,6 +757,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T17:42:24Z"
+  "snap": "2026-10-17T17:47:24Z"
  }
 ]
