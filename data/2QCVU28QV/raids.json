@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 590245,
+  "loot": 602879,
   "raids": 5,
-  "attacks": 134,
-  "districts": 52,
+  "attacks": 138,
+  "districts": 53,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -159,6 +159,13 @@
     "loot": 18002
    },
    {
+    "tag": "#QJRR2Y809",
+    "name": "Cazerr",
+    "a": 5,
+    "lim": 6,
+    "loot": 17524
+   },
+   {
     "tag": "#YL0QYGP0V",
     "name": "Bassko",
     "a": 3,
@@ -185,13 +192,6 @@
     "a": 1,
     "lim": 6,
     "loot": 7694
-   },
-   {
-    "tag": "#QJRR2Y809",
-    "name": "Cazerr",
-    "a": 1,
-    "lim": 5,
-    "loot": 4890
    }
   ]
  },
