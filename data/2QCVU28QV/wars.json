@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 20,
-   "pct": 25.7,
-   "attacks": 8
+   "stars": 23,
+   "pct": 29.03,
+   "attacks": 9
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -211,7 +211,19 @@
     "name": "Bassko",
     "th": 18,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2UGY9VV9C",
+      "dn": "Daemon.",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 13,
+      "n": 3,
+      "dur": 146
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -480,6 +492,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T00:21:49Z"
+  "snap": "2026-10-17T00:26:49Z"
  }
 ]
