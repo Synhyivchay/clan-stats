@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 5,
-   "pct": 7.08,
-   "attacks": 2
+   "stars": 11,
+   "pct": 15.08,
+   "attacks": 4
   },
   "them": {
    "tag": "#2G0QGVG8L",
@@ -128,7 +128,19 @@
     "name": "ed_sans_123",
     "th": 17,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QY2UC9V2V",
+      "dn": "DL Jay",
+      "dpos": 9,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 172
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -271,7 +283,19 @@
     "name": "Begbus",
     "th": 15,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#22GYLGG9U",
+      "dn": "DL ICKWARD",
+      "dpos": 19,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 3,
+      "dur": 111
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -351,7 +375,7 @@
     }
    }
   ],
-  "snap": "2026-10-17T10:42:14Z"
+  "snap": "2026-10-17T10:52:14Z"
  },
  {
   "id": "war_20261013T214745Z_L88G2PRP",
