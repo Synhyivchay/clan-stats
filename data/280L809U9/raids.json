@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 551888,
+  "loot": 554845,
   "raids": 7,
-  "attacks": 136,
-  "districts": 49,
+  "attacks": 137,
+  "districts": 50,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -182,9 +182,9 @@
    {
     "tag": "#QUR8GYYYY",
     "name": "ВАРВАР",
-    "a": 2,
-    "lim": 5,
-    "loot": 0
+    "a": 3,
+    "lim": 6,
+    "loot": 2957
    }
   ]
  },
