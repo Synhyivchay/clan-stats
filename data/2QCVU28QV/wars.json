@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 58,
-   "pct": 66.13,
-   "attacks": 25
+   "stars": 61,
+   "pct": 69.47,
+   "attacks": 26
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -668,6 +668,17 @@
       "o": 46,
       "n": 2,
       "dur": 101
+     },
+     {
+      "d": "#8PQ999QJ",
+      "dn": "Asriey07",
+      "dpos": 24,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 48,
+      "n": 3,
+      "dur": 129
      }
     ],
     "def": {
@@ -677,6 +688,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T09:27:14Z"
+  "snap": "2026-10-17T09:32:14Z"
  }
 ]
