@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 44,
-   "pct": 61.68,
-   "attacks": 18
+   "stars": 46,
+   "pct": 64.84,
+   "attacks": 19
   },
   "them": {
    "tag": "#2G0QGVG8L",
@@ -245,7 +245,19 @@
     "name": "Jamshid",
     "th": 16,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y0GQGRYLL",
+      "dn": "DL Aizen.",
+      "dpos": 22,
+      "dth": 14,
+      "s": 2,
+      "p": 79,
+      "o": 36,
+      "n": 2,
+      "dur": 72
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -536,7 +548,7 @@
     }
    }
   ],
-  "snap": "2026-10-17T17:22:24Z"
+  "snap": "2026-10-17T17:27:24Z"
  },
  {
   "id": "war_20261013T214745Z_L88G2PRP",
