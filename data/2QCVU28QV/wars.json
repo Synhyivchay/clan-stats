@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 81,
    "pct": 92.73,
-   "attacks": 33
+   "attacks": 34
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -360,7 +360,19 @@
     "name": "Lennart",
     "th": 18,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LRGL8LLLU",
+      "dn": "angah29",
+      "dpos": 12,
+      "dth": 18,
+      "s": 1,
+      "p": 93,
+      "o": 85,
+      "n": 0,
+      "dur": 151
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -768,6 +780,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T17:57:24Z"
+  "snap": "2026-10-17T18:02:24Z"
  }
 ]
