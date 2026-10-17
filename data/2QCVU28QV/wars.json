@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 42,
-   "pct": 52.43,
-   "attacks": 17
+   "stars": 44,
+   "pct": 55.47,
+   "attacks": 18
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -245,7 +245,19 @@
     "name": "Hattrickser",
     "th": 18,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2P0JJP8RY",
+      "dn": "Pablo Jey 11",
+      "dpos": 13,
+      "dth": 18,
+      "s": 2,
+      "p": 91,
+      "o": 36,
+      "n": 2,
+      "dur": 156
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -585,6 +597,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T05:47:03Z"
+  "snap": "2026-10-17T05:57:03Z"
  }
 ]
