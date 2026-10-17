@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 44,
-   "pct": 55.47,
-   "attacks": 18
+   "stars": 47,
+   "pct": 58.8,
+   "attacks": 19
   },
   "them": {
    "tag": "#2QR2PRPC",
    "name": "METAL MILLITANT",
    "badge": "https://api-assets.clashofclans.com/badges/200/7JYxwYngkpZO1gajN4Kfdjgxi3oMQgF53P0zdcrh2Bk.png",
    "level": 31,
-   "stars": 41,
-   "pct": 47.43,
-   "attacks": 19
+   "stars": 43,
+   "pct": 50.53,
+   "attacks": 20
   },
   "members": [
    {
@@ -176,9 +176,9 @@
     "pos": 7,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 93
     }
    },
    {
@@ -256,6 +256,17 @@
       "o": 36,
       "n": 2,
       "dur": 156
+     },
+     {
+      "d": "#88YLRVQC",
+      "dn": "Momotarosan",
+      "dpos": 16,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 39,
+      "n": 3,
+      "dur": 93
      }
     ],
     "def": {
@@ -597,6 +608,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T06:02:03Z"
+  "snap": "2026-10-17T06:07:03Z"
  }
 ]
