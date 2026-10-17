@@ -22,9 +22,9 @@
    "name": "Dauntless",
    "badge": "https://api-assets.clashofclans.com/badges/200/mNIF6HsoZo0UeJ3D60G1xr_HbH-xGermIqxcF_zVBRM.png",
    "level": 13,
-   "stars": 66,
-   "pct": 88.0,
-   "attacks": 25
+   "stars": 69,
+   "pct": 92.0,
+   "attacks": 26
   },
   "members": [
    {
@@ -540,9 +540,9 @@
     "pos": 21,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -594,7 +594,7 @@
     }
    }
   ],
-  "snap": "2026-10-17T20:07:35Z"
+  "snap": "2026-10-17T20:12:35Z"
  },
  {
   "id": "war_20261013T214745Z_L88G2PRP",

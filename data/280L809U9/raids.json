@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 571185,
+  "loot": 578025,
   "raids": 7,
-  "attacks": 141,
+  "attacks": 142,
   "districts": 52,
   "offReward": 0,
   "defReward": 0,
@@ -24,6 +24,13 @@
     "a": 6,
     "lim": 6,
     "loot": 31208
+   },
+   {
+    "tag": "#LGRVJULJJ",
+    "name": "DimagFM",
+    "a": 6,
+    "lim": 6,
+    "loot": 30935
    },
    {
     "tag": "#LRR9VR0CY",
@@ -94,13 +101,6 @@
     "a": 6,
     "lim": 6,
     "loot": 24840
-   },
-   {
-    "tag": "#LGRVJULJJ",
-    "name": "DimagFM",
-    "a": 5,
-    "lim": 6,
-    "loot": 24095
    },
    {
     "tag": "#GC0V2V2Y0",
