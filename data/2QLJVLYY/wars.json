@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/Op8ojM-mQwKphF9fbOe4H7EG-ewJwnLnDN8UZKocYyw.png",
    "level": 33,
-   "stars": 16,
-   "pct": 19.17,
-   "attacks": 6
+   "stars": 26,
+   "pct": 30.87,
+   "attacks": 11
   },
   "them": {
    "tag": "#UU9CC0U",
@@ -55,6 +55,17 @@
       "o": 4,
       "n": 3,
       "dur": 124
+     },
+     {
+      "d": "#G22LGUV8C",
+      "dn": "사나이",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 15,
+      "n": 3,
+      "dur": 153
      }
     ],
     "def": {
@@ -186,6 +197,17 @@
       "o": 11,
       "n": 3,
       "dur": 142
+     },
+     {
+      "d": "#LC0YJ2CG8",
+      "dn": "열중셧",
+      "dpos": 8,
+      "dth": 18,
+      "s": 2,
+      "p": 75,
+      "o": 14,
+      "n": 0,
+      "dur": 180
      }
     ],
     "def": {
@@ -318,6 +340,17 @@
       "o": 7,
       "n": 3,
       "dur": 99
+     },
+     {
+      "d": "#UJ0P0909",
+      "dn": "누루지아",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 12,
+      "n": 3,
+      "dur": 177
      }
     ],
     "def": {
@@ -403,7 +436,30 @@
     "name": "Legenda",
     "th": 15,
     "pos": 26,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2JU0LJVRC",
+      "dn": "법사친구들",
+      "dpos": 27,
+      "dth": 15,
+      "s": 2,
+      "p": 67,
+      "o": 13,
+      "n": 2,
+      "dur": 75
+     },
+     {
+      "d": "#G0PUJ0JL8",
+      "dn": "다인",
+      "dpos": 28,
+      "dth": 16,
+      "s": 2,
+      "p": 84,
+      "o": 16,
+      "n": 2,
+      "dur": 152
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -459,7 +515,7 @@
     }
    }
   ],
-  "snap": "2026-10-17T10:22:14Z"
+  "snap": "2026-10-17T10:27:14Z"
  },
  {
   "id": "war_20261013T215142Z_2QV2CQ9G2",
