@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/Op8ojM-mQwKphF9fbOe4H7EG-ewJwnLnDN8UZKocYyw.png",
    "level": 33,
-   "stars": 29,
-   "pct": 34.2,
-   "attacks": 12
+   "stars": 32,
+   "pct": 37.53,
+   "attacks": 13
   },
   "them": {
    "tag": "#UU9CC0U",
@@ -506,6 +506,17 @@
       "o": 20,
       "n": 3,
       "dur": 120
+     },
+     {
+      "d": "#LVRP8P028",
+      "dn": "배아픈 개구리",
+      "dpos": 30,
+      "dth": 13,
+      "s": 3,
+      "p": 100,
+      "o": 21,
+      "n": 3,
+      "dur": 116
      }
     ],
     "def": {
@@ -527,7 +538,7 @@
     }
    }
   ],
-  "snap": "2026-10-17T11:32:14Z"
+  "snap": "2026-10-17T11:37:14Z"
  },
  {
   "id": "war_20261013T215142Z_2QV2CQ9G2",
