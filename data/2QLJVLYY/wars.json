@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/Op8ojM-mQwKphF9fbOe4H7EG-ewJwnLnDN8UZKocYyw.png",
    "level": 33,
-   "stars": 56,
-   "pct": 65.9,
-   "attacks": 27
+   "stars": 57,
+   "pct": 66.43,
+   "attacks": 28
   },
   "them": {
    "tag": "#UU9CC0U",
@@ -291,7 +291,19 @@
     "name": "SHANARA",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G0PUJ0JL8",
+      "dn": "다인",
+      "dpos": 28,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 57,
+      "n": 1,
+      "dur": 63
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -699,7 +711,7 @@
     }
    }
   ],
-  "snap": "2026-10-17T20:57:35Z"
+  "snap": "2026-10-17T21:07:35Z"
  },
  {
   "id": "war_20261013T215142Z_2QV2CQ9G2",
