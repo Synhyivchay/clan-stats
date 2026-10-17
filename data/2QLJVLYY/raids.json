@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 450207,
+  "loot": 459072,
   "raids": 6,
-  "attacks": 112,
+  "attacks": 114,
   "districts": 41,
   "offReward": 0,
   "defReward": 0,
@@ -110,6 +110,13 @@
     "loot": 20880
    },
    {
+    "tag": "#QP8GGG2RU",
+    "name": "[Will▪︎Freak]",
+    "a": 6,
+    "lim": 6,
+    "loot": 20764
+   },
+   {
     "tag": "#LGLPJJ2VP",
     "name": "егор",
     "a": 6,
@@ -136,13 +143,6 @@
     "a": 5,
     "lim": 6,
     "loot": 11992
-   },
-   {
-    "tag": "#QP8GGG2RU",
-    "name": "[Will▪︎Freak]",
-    "a": 4,
-    "lim": 6,
-    "loot": 11899
    },
    {
     "tag": "#9P28CV0L0",
