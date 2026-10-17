@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 23,
-   "pct": 29.03,
-   "attacks": 9
+   "stars": 28,
+   "pct": 35.67,
+   "attacks": 11
   },
   "them": {
    "tag": "#2QR2PRPC",
    "name": "METAL MILLITANT",
    "badge": "https://api-assets.clashofclans.com/badges/200/7JYxwYngkpZO1gajN4Kfdjgxi3oMQgF53P0zdcrh2Bk.png",
    "level": 31,
-   "stars": 10,
-   "pct": 13.1,
-   "attacks": 4
+   "stars": 12,
+   "pct": 16.3,
+   "attacks": 5
   },
   "members": [
    {
@@ -69,9 +69,9 @@
     "pos": 2,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 96
     }
    },
    {
@@ -139,7 +139,19 @@
     "name": "slory",
     "th": 18,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RVPVPLUQ",
+      "dn": "☠☠MAN☠☠",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 16,
+      "n": 3,
+      "dur": 161
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -222,6 +234,17 @@
       "o": 13,
       "n": 3,
       "dur": 146
+     },
+     {
+      "d": "#PPGUVCV9",
+      "dn": "godio neh",
+      "dpos": 5,
+      "dth": 18,
+      "s": 2,
+      "p": 99,
+      "o": 14,
+      "n": 2,
+      "dur": 180
      }
     ],
     "def": {
@@ -492,6 +515,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T00:26:49Z"
+  "snap": "2026-10-17T00:31:49Z"
  }
 ]
