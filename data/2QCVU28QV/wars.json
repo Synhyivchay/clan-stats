@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 56,
-   "pct": 65.77,
-   "attacks": 24
+   "stars": 58,
+   "pct": 66.13,
+   "attacks": 25
   },
   "them": {
    "tag": "#2QR2PRPC",
    "name": "METAL MILLITANT",
    "badge": "https://api-assets.clashofclans.com/badges/200/7JYxwYngkpZO1gajN4Kfdjgxi3oMQgF53P0zdcrh2Bk.png",
    "level": 31,
-   "stars": 45,
-   "pct": 53.13,
-   "attacks": 21
+   "stars": 47,
+   "pct": 55.6,
+   "attacks": 22
   },
   "members": [
    {
@@ -600,9 +600,9 @@
     "pos": 27,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 74
     }
    },
    {
@@ -657,7 +657,19 @@
     "name": "GermanRuss",
     "th": 18,
     "pos": 30,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#R0YJP289",
+      "dn": "haji albanjari",
+      "dpos": 28,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 46,
+      "n": 2,
+      "dur": 101
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -665,6 +677,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T09:22:14Z"
+  "snap": "2026-10-17T09:27:14Z"
  }
 ]
