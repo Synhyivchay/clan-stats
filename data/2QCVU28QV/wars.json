@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 44
+   "attacks": 48
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -616,7 +616,30 @@
     "name": "RudiV2",
     "th": 18,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RVPVPLUQ",
+      "dn": "☠☠MAN☠☠",
+      "dpos": 4,
+      "dth": 18,
+      "s": 1,
+      "p": 16,
+      "o": 96,
+      "n": 0,
+      "dur": 14
+     },
+     {
+      "d": "#G929LQ8V9",
+      "dn": "ABIGOROTH",
+      "dpos": 6,
+      "dth": 18,
+      "s": 1,
+      "p": 28,
+      "o": 97,
+      "n": 0,
+      "dur": 27
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -804,7 +827,30 @@
     "name": "RudiV3",
     "th": 18,
     "pos": 27,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RVPVPLUQ",
+      "dn": "☠☠MAN☠☠",
+      "dpos": 4,
+      "dth": 18,
+      "s": 1,
+      "p": 8,
+      "o": 98,
+      "n": 0,
+      "dur": 13
+     },
+     {
+      "d": "#G929LQ8V9",
+      "dn": "ABIGOROTH",
+      "dpos": 6,
+      "dth": 18,
+      "s": 1,
+      "p": 21,
+      "o": 99,
+      "n": 0,
+      "dur": 16
+     }
+    ],
     "def": {
      "n": 3,
      "s": 2,
@@ -894,6 +940,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T20:37:35Z"
+  "snap": "2026-10-17T20:42:35Z"
  }
 ]
