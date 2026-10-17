@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/Op8ojM-mQwKphF9fbOe4H7EG-ewJwnLnDN8UZKocYyw.png",
    "level": 33,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 3.33,
+   "attacks": 1
   },
   "them": {
    "tag": "#UU9CC0U",
    "name": "쪼랩쓰",
    "badge": "https://api-assets.clashofclans.com/badges/200/3yihtyQWdV-d1vc0PRscRo9D3mzpSxh4UpT0Hk2A39I.png",
    "level": 31,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 9,
+   "pct": 10.0,
+   "attacks": 3
   },
   "members": [
    {
@@ -34,9 +34,9 @@
     "pos": 1,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -44,7 +44,19 @@
     "name": "naik",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LJLVYLPJV",
+      "dn": "플맆사나이",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 3,
+      "dur": 124
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -178,9 +190,9 @@
     "pos": 13,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -310,9 +322,9 @@
     "pos": 24,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -388,7 +400,7 @@
     }
    }
   ],
-  "snap": "2026-10-17T09:32:14Z"
+  "snap": "2026-10-17T09:37:14Z"
  },
  {
   "id": "war_20261013T215142Z_2QV2CQ9G2",
