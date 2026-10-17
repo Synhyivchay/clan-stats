@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 449384,
+  "loot": 462040,
   "raids": 4,
-  "attacks": 100,
-  "districts": 39,
+  "attacks": 103,
+  "districts": 40,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -110,6 +110,13 @@
     "loot": 19713
    },
    {
+    "tag": "#QU2GPCCRJ",
+    "name": "Hornbär",
+    "a": 4,
+    "lim": 6,
+    "loot": 18546
+   },
+   {
     "tag": "#2CCJVQ08V",
     "name": "Shaun Ryan",
     "a": 4,
@@ -136,13 +143,6 @@
     "a": 2,
     "lim": 6,
     "loot": 10383
-   },
-   {
-    "tag": "#QU2GPCCRJ",
-    "name": "Hornbär",
-    "a": 1,
-    "lim": 5,
-    "loot": 5890
    },
    {
     "tag": "#2JCQPL89R",
