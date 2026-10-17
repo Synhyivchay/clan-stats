@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 466870,
+  "loot": 471865,
   "raids": 4,
-  "attacks": 104,
+  "attacks": 105,
   "districts": 41,
   "offReward": 0,
   "defReward": 0,
@@ -61,6 +61,13 @@
     "loot": 28412
    },
    {
+    "tag": "#QU2GPCCRJ",
+    "name": "Hornbär",
+    "a": 6,
+    "lim": 6,
+    "loot": 28371
+   },
+   {
     "tag": "#2YRLLG9JC",
     "name": "Monkey D. Lorik",
     "a": 6,
@@ -94,13 +101,6 @@
     "a": 6,
     "lim": 6,
     "loot": 23965
-   },
-   {
-    "tag": "#QU2GPCCRJ",
-    "name": "Hornbär",
-    "a": 5,
-    "lim": 6,
-    "loot": 23376
    },
    {
     "tag": "#QUUCY9VYQ",
