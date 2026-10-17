@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 81,
-   "pct": 92.73,
-   "attacks": 34
+   "stars": 82,
+   "pct": 93.03,
+   "attacks": 35
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -371,6 +371,17 @@
       "o": 85,
       "n": 0,
       "dur": 151
+     },
+     {
+      "d": "#2P0JJP8RY",
+      "dn": "Pablo Jey 11",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 86,
+      "n": 1,
+      "dur": 142
      }
     ],
     "def": {
@@ -780,6 +791,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T18:12:24Z"
+  "snap": "2026-10-17T18:22:24Z"
  }
 ]
