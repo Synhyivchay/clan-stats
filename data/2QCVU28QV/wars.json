@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 69,
-   "pct": 79.4,
-   "attacks": 29
+   "stars": 75,
+   "pct": 86.07,
+   "attacks": 31
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -196,7 +196,30 @@
     "name": "Cnyse",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GPRJ0GRJ8",
+      "dn": "Angah19",
+      "dpos": 17,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 81,
+      "n": 3,
+      "dur": 116
+     },
+     {
+      "d": "#LVP92VPJJ",
+      "dn": "Kiana-Chan",
+      "dpos": 19,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 82,
+      "n": 3,
+      "dur": 81
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -722,6 +745,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T17:12:24Z"
+  "snap": "2026-10-17T17:17:24Z"
  }
 ]

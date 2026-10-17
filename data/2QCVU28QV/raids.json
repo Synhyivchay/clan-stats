@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 495200,
+  "loot": 500760,
   "raids": 4,
-  "attacks": 113,
+  "attacks": 114,
   "districts": 44,
   "offReward": 0,
   "defReward": 0,
@@ -145,18 +145,18 @@
     "loot": 16363
    },
    {
+    "tag": "#2JCQPL89R",
+    "name": "؞۩׀ＰＲ０Ｔ０ＴＹＰＥ׀۩؞",
+    "a": 4,
+    "lim": 5,
+    "loot": 13715
+   },
+   {
     "tag": "#LG8YC2Y92",
     "name": "Kingdingeling",
     "a": 2,
     "lim": 6,
     "loot": 10383
-   },
-   {
-    "tag": "#2JCQPL89R",
-    "name": "؞۩׀ＰＲ０Ｔ０ＴＹＰＥ׀۩؞",
-    "a": 3,
-    "lim": 5,
-    "loot": 8155
    }
   ]
  },

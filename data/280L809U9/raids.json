@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 554845,
+  "loot": 564549,
   "raids": 7,
-  "attacks": 137,
-  "districts": 50,
+  "attacks": 139,
+  "districts": 51,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -166,6 +166,13 @@
     "loot": 12882
    },
    {
+    "tag": "#QUR8GYYYY",
+    "name": "ВАРВАР",
+    "a": 5,
+    "lim": 6,
+    "loot": 12661
+   },
+   {
     "tag": "#82QQ2QY0V",
     "name": "Дракс",
     "a": 2,
@@ -178,13 +185,6 @@
     "a": 2,
     "lim": 6,
     "loot": 10910
-   },
-   {
-    "tag": "#QUR8GYYYY",
-    "name": "ВАРВАР",
-    "a": 3,
-    "lim": 6,
-    "loot": 2957
    }
   ]
  },
