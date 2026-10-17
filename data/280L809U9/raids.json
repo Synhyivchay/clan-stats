@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 377861,
+  "loot": 382006,
   "raids": 4,
-  "attacks": 91,
+  "attacks": 92,
   "districts": 34,
   "offReward": 0,
   "defReward": 0,
@@ -115,6 +115,13 @@
     "a": 6,
     "lim": 6,
     "loot": 12882
+   },
+   {
+    "tag": "#LCRQ8QCC0",
+    "name": "Mr Bubblu",
+    "a": 1,
+    "lim": 5,
+    "loot": 4145
    },
    {
     "tag": "#LGRVJULJJ",
