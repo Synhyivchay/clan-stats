@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 37,
-   "pct": 51.0,
-   "attacks": 15
+   "stars": 40,
+   "pct": 55.0,
+   "attacks": 16
   },
   "them": {
    "tag": "#2G0QGVG8L",
@@ -268,6 +268,17 @@
       "o": 32,
       "n": 3,
       "dur": 112
+     },
+     {
+      "d": "#Q99V9CVL",
+      "dn": "DL Achille",
+      "dpos": 12,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 33,
+      "n": 3,
+      "dur": 113
      }
     ],
     "def": {
@@ -502,7 +513,7 @@
     }
    }
   ],
-  "snap": "2026-10-17T16:37:24Z"
+  "snap": "2026-10-17T16:42:24Z"
  },
  {
   "id": "war_20261013T214745Z_L88G2PRP",
