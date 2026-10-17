@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 40,
-   "pct": 49.33,
-   "attacks": 16
+   "stars": 42,
+   "pct": 52.43,
+   "attacks": 17
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -399,7 +399,19 @@
     "name": "Alastor",
     "th": 18,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G8YCV9RL0",
+      "dn": "lostboy",
+      "dpos": 20,
+      "dth": 18,
+      "s": 2,
+      "p": 93,
+      "o": 33,
+      "n": 2,
+      "dur": 140
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -573,6 +585,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T05:27:03Z"
+  "snap": "2026-10-17T05:32:03Z"
  }
 ]
