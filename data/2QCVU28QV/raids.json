@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 541726,
+  "loot": 546116,
   "raids": 5,
-  "attacks": 124,
+  "attacks": 125,
   "districts": 48,
   "offReward": 0,
   "defReward": 0,
@@ -159,18 +159,18 @@
     "loot": 16363
    },
    {
+    "tag": "#RLGUULPP",
+    "name": "Ampletrex",
+    "a": 3,
+    "lim": 6,
+    "loot": 14613
+   },
+   {
     "tag": "#LG8YC2Y92",
     "name": "Kingdingeling",
     "a": 2,
     "lim": 6,
     "loot": 10383
-   },
-   {
-    "tag": "#RLGUULPP",
-    "name": "Ampletrex",
-    "a": 2,
-    "lim": 6,
-    "loot": 10223
    }
   ]
  },

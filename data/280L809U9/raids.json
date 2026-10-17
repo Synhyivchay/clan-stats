@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 567909,
+  "loot": 571185,
   "raids": 7,
-  "attacks": 140,
-  "districts": 51,
+  "attacks": 141,
+  "districts": 52,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -96,6 +96,13 @@
     "loot": 24840
    },
    {
+    "tag": "#LGRVJULJJ",
+    "name": "DimagFM",
+    "a": 5,
+    "lim": 6,
+    "loot": 24095
+   },
+   {
     "tag": "#GC0V2V2Y0",
     "name": "sgrassi",
     "a": 6,
@@ -129,13 +136,6 @@
     "a": 6,
     "lim": 6,
     "loot": 21090
-   },
-   {
-    "tag": "#LGRVJULJJ",
-    "name": "DimagFM",
-    "a": 4,
-    "lim": 6,
-    "loot": 20819
    },
    {
     "tag": "#LQRY8VC2Q",
