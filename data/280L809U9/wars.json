@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 22,
-   "pct": 30.24,
-   "attacks": 8
+   "stars": 25,
+   "pct": 34.24,
+   "attacks": 9
   },
   "them": {
    "tag": "#2G0QGVG8L",
@@ -257,6 +257,17 @@
       "o": 20,
       "n": 3,
       "dur": 170
+     },
+     {
+      "d": "#QQGJQL00C",
+      "dn": "☀️OblivionSun☀️",
+      "dpos": 14,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 21,
+      "n": 3,
+      "dur": 136
      }
     ],
     "def": {
@@ -421,7 +432,7 @@
     }
    }
   ],
-  "snap": "2026-10-17T12:57:14Z"
+  "snap": "2026-10-17T13:02:14Z"
  },
  {
   "id": "war_20261013T214745Z_L88G2PRP",
