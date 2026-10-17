@@ -22,9 +22,9 @@
    "name": "METAL MILLITANT",
    "badge": "https://api-assets.clashofclans.com/badges/200/7JYxwYngkpZO1gajN4Kfdjgxi3oMQgF53P0zdcrh2Bk.png",
    "level": 31,
-   "stars": 17,
-   "pct": 22.3,
-   "attacks": 7
+   "stars": 20,
+   "pct": 25.63,
+   "attacks": 8
   },
   "members": [
    {
@@ -236,9 +236,9 @@
     "pos": 13,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -538,6 +538,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T02:06:49Z"
+  "snap": "2026-10-17T02:11:49Z"
  }
 ]
