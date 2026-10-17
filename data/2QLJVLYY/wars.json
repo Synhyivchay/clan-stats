@@ -22,9 +22,9 @@
    "name": "쪼랩쓰",
    "badge": "https://api-assets.clashofclans.com/badges/200/3yihtyQWdV-d1vc0PRscRo9D3mzpSxh4UpT0Hk2A39I.png",
    "level": 31,
-   "stars": 26,
-   "pct": 29.93,
-   "attacks": 10
+   "stars": 29,
+   "pct": 33.27,
+   "attacks": 11
   },
   "members": [
    {
@@ -117,9 +117,9 @@
     "pos": 5,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -573,7 +573,7 @@
     }
    }
   ],
-  "snap": "2026-10-17T12:27:14Z"
+  "snap": "2026-10-17T12:32:14Z"
  },
  {
   "id": "war_20261013T215142Z_2QV2CQ9G2",
