@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 35,
-   "pct": 42.83,
-   "attacks": 14
+   "stars": 38,
+   "pct": 46.17,
+   "attacks": 15
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -91,7 +91,19 @@
     "name": "Marc",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#22R0V2LYC",
+      "dn": "bensontie",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 31,
+      "n": 3,
+      "dur": 142
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -550,6 +562,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T04:22:03Z"
+  "snap": "2026-10-17T04:32:03Z"
  }
 ]
