@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 54,
-   "pct": 76.08,
-   "attacks": 22
+   "stars": 56,
+   "pct": 79.96,
+   "attacks": 23
   },
   "them": {
    "tag": "#2G0QGVG8L",
@@ -103,7 +103,19 @@
     "name": "ㅤㅤㅤㅤ",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LCCJQCJL",
+      "dn": "DL Kyle",
+      "dpos": 5,
+      "dth": 18,
+      "s": 2,
+      "p": 97,
+      "o": 48,
+      "n": 2,
+      "dur": 130
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -582,7 +594,7 @@
     }
    }
   ],
-  "snap": "2026-10-17T19:32:24Z"
+  "snap": "2026-10-17T19:42:35Z"
  },
  {
   "id": "war_20261013T214745Z_L88G2PRP",
