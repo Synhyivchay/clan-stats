@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 387194,
-  "raids": 4,
-  "attacks": 95,
-  "districts": 35,
+  "loot": 400467,
+  "raids": 5,
+  "attacks": 98,
+  "districts": 36,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -110,6 +110,13 @@
     "loot": 18832
    },
    {
+    "tag": "#GVYYYUG29",
+    "name": "kin",
+    "a": 3,
+    "lim": 6,
+    "loot": 13273
+   },
+   {
     "tag": "#QJYVP0JJU",
     "name": "Partizan",
     "a": 6,
@@ -134,13 +141,6 @@
     "tag": "#QUR8GYYYY",
     "name": "ВАРВАР",
     "a": 2,
-    "lim": 5,
-    "loot": 0
-   },
-   {
-    "tag": "#GVYYYUG29",
-    "name": "kin",
-    "a": 0,
     "lim": 5,
     "loot": 0
    }
