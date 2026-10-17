@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 510968,
+  "loot": 531503,
   "raids": 5,
-  "attacks": 117,
-  "districts": 45,
+  "attacks": 122,
+  "districts": 47,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -103,6 +103,13 @@
     "loot": 23965
    },
    {
+    "tag": "#YVUPY9UJJ",
+    "name": "Gzuzvonnazareth",
+    "a": 6,
+    "lim": 6,
+    "loot": 23520
+   },
+   {
     "tag": "#2JCQPL89R",
     "name": "؞۩׀ＰＲ０Ｔ０ＴＹＰＥ׀۩؞",
     "a": 6,
@@ -157,13 +164,6 @@
     "a": 2,
     "lim": 6,
     "loot": 10383
-   },
-   {
-    "tag": "#YVUPY9UJJ",
-    "name": "Gzuzvonnazareth",
-    "a": 1,
-    "lim": 5,
-    "loot": 2985
    }
   ]
  },
