@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 66,
-   "pct": 76.07,
-   "attacks": 28
+   "stars": 69,
+   "pct": 79.4,
+   "attacks": 29
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -172,6 +172,17 @@
       "o": 18,
       "n": 2,
       "dur": 94
+     },
+     {
+      "d": "#QVLYC0P2Q",
+      "dn": "BARTHOLOMEW",
+      "dpos": 18,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 80,
+      "n": 3,
+      "dur": 121
      }
     ],
     "def": {
@@ -711,6 +722,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T16:57:24Z"
+  "snap": "2026-10-17T17:02:24Z"
  }
 ]
