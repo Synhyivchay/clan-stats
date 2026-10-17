@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Op8ojM-mQwKphF9fbOe4H7EG-ewJwnLnDN8UZKocYyw.png",
    "level": 33,
    "stars": 38,
-   "pct": 46.3,
-   "attacks": 18
+   "pct": 46.5,
+   "attacks": 19
   },
   "them": {
    "tag": "#UU9CC0U",
@@ -90,6 +90,17 @@
       "o": 8,
       "n": 3,
       "dur": 118
+     },
+     {
+      "d": "#GGQ2G0CUP",
+      "dn": "JK",
+      "dpos": 5,
+      "dth": 18,
+      "s": 2,
+      "p": 97,
+      "o": 38,
+      "n": 0,
+      "dur": 180
      }
     ],
     "def": {
@@ -596,7 +607,7 @@
     }
    }
   ],
-  "snap": "2026-10-17T14:32:24Z"
+  "snap": "2026-10-17T14:37:24Z"
  },
  {
   "id": "war_20261013T215142Z_2QV2CQ9G2",
