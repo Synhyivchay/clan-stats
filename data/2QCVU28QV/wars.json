@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 13,
-   "pct": 16.07,
-   "attacks": 5
+   "stars": 14,
+   "pct": 19.03,
+   "attacks": 6
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -366,6 +366,17 @@
       "o": 8,
       "n": 3,
       "dur": 116
+     },
+     {
+      "d": "#R0YJP289",
+      "dn": "haji albanjari",
+      "dpos": 28,
+      "dth": 18,
+      "s": 1,
+      "p": 89,
+      "o": 9,
+      "n": 1,
+      "dur": 122
      }
     ],
     "def": {
@@ -446,6 +457,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T00:01:49Z"
+  "snap": "2026-10-17T00:06:49Z"
  }
 ]
