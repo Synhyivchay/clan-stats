@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 275726,
+  "loot": 283948,
   "raids": 4,
-  "attacks": 69,
-  "districts": 23,
+  "attacks": 72,
+  "districts": 25,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -103,6 +103,13 @@
     "loot": 9332
    },
    {
+    "tag": "#GJY0R0JCJ",
+    "name": "denchik",
+    "a": 3,
+    "lim": 6,
+    "loot": 8222
+   },
+   {
     "tag": "#YCU8JR28U",
     "name": "SHANARA",
     "a": 1,
@@ -115,13 +122,6 @@
     "a": 1,
     "lim": 6,
     "loot": 2034
-   },
-   {
-    "tag": "#GJY0R0JCJ",
-    "name": "denchik",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
    }
   ]
  },
