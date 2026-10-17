@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 28,
-   "pct": 35.67,
-   "attacks": 11
+   "stars": 31,
+   "pct": 39.0,
+   "attacks": 12
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -150,6 +150,17 @@
       "o": 16,
       "n": 3,
       "dur": 161
+     },
+     {
+      "d": "#G929LQ8V9",
+      "dn": "ABIGOROTH",
+      "dpos": 6,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 17,
+      "n": 3,
+      "dur": 140
      }
     ],
     "def": {
@@ -515,6 +526,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T00:31:49Z"
+  "snap": "2026-10-17T00:36:49Z"
  }
 ]
