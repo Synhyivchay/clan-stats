@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 42
+   "attacks": 44
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -476,7 +476,30 @@
     "name": "xXDamage",
     "th": 18,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y8JVPULV",
+      "dn": "Beladric",
+      "dpos": 1,
+      "dth": 18,
+      "s": 2,
+      "p": 50,
+      "o": 94,
+      "n": 0,
+      "dur": 23
+     },
+     {
+      "d": "#G929LQ8V9",
+      "dn": "ABIGOROTH",
+      "dpos": 6,
+      "dth": 18,
+      "s": 1,
+      "p": 27,
+      "o": 95,
+      "n": 0,
+      "dur": 20
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -871,6 +894,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T20:27:35Z"
+  "snap": "2026-10-17T20:32:35Z"
  }
 ]

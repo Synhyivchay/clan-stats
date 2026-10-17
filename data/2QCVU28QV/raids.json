@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 551641,
+  "loot": 558531,
   "raids": 5,
-  "attacks": 126,
+  "attacks": 127,
   "districts": 48,
   "offReward": 0,
   "defReward": 0,
@@ -68,6 +68,13 @@
     "loot": 28371
    },
    {
+    "tag": "#RLGUULPP",
+    "name": "Ampletrex",
+    "a": 5,
+    "lim": 6,
+    "loot": 27028
+   },
+   {
     "tag": "#2YRLLG9JC",
     "name": "Monkey D. Lorik",
     "a": 6,
@@ -122,13 +129,6 @@
     "a": 6,
     "lim": 6,
     "loot": 20491
-   },
-   {
-    "tag": "#RLGUULPP",
-    "name": "Ampletrex",
-    "a": 4,
-    "lim": 6,
-    "loot": 20138
    },
    {
     "tag": "#8LCP8GR2L",
