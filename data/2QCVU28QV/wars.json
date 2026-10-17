@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
    "stars": 88,
-   "pct": 99.73,
-   "attacks": 38
+   "pct": 99.77,
+   "attacks": 39
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -78,6 +78,17 @@
       "o": 26,
       "n": 2,
       "dur": 180
+     },
+     {
+      "d": "#LRGL8LLLU",
+      "dn": "angah29",
+      "dpos": 12,
+      "dth": 18,
+      "s": 2,
+      "p": 99,
+      "o": 90,
+      "n": 0,
+      "dur": 174
      }
     ],
     "def": {
@@ -826,6 +837,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T18:52:24Z"
+  "snap": "2026-10-17T19:02:24Z"
  }
 ]
