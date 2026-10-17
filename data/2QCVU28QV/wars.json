@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
    "stars": 88,
-   "pct": 99.7,
-   "attacks": 37
+   "pct": 99.73,
+   "attacks": 38
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -454,7 +454,19 @@
     "name": "LokiPhil",
     "th": 18,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G8YCV9RL0",
+      "dn": "lostboy",
+      "dpos": 20,
+      "dth": 18,
+      "s": 2,
+      "p": 94,
+      "o": 89,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -814,6 +826,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T18:42:24Z"
+  "snap": "2026-10-17T18:52:24Z"
  }
 ]
