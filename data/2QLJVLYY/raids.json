@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 411729,
+  "loot": 427315,
   "raids": 6,
-  "attacks": 103,
-  "districts": 37,
+  "attacks": 106,
+  "districts": 39,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#LLUP8P8L0",
+    "name": "sleace",
+    "a": 6,
+    "lim": 6,
+    "loot": 31121
+   },
    {
     "tag": "#LQGGPPC92",
     "name": "~LuciFer~",
@@ -115,13 +122,6 @@
     "a": 6,
     "lim": 6,
     "loot": 18041
-   },
-   {
-    "tag": "#LLUP8P8L0",
-    "name": "sleace",
-    "a": 3,
-    "lim": 6,
-    "loot": 15535
    },
    {
     "tag": "#GJY0R0JCJ",
