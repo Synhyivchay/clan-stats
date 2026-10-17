@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 475080,
+  "loot": 477531,
   "raids": 4,
-  "attacks": 106,
-  "districts": 41,
+  "attacks": 107,
+  "districts": 42,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -147,9 +147,9 @@
    {
     "tag": "#LYVCYUQCR",
     "name": "Jeffrey_Chicken",
-    "a": 1,
-    "lim": 5,
-    "loot": 3215
+    "a": 2,
+    "lim": 6,
+    "loot": 5666
    },
    {
     "tag": "#2JCQPL89R",

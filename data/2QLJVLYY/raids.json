@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 443918,
+  "loot": 450207,
   "raids": 6,
-  "attacks": 110,
-  "districts": 40,
+  "attacks": 112,
+  "districts": 41,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -138,18 +138,18 @@
     "loot": 11992
    },
    {
+    "tag": "#QP8GGG2RU",
+    "name": "[Will▪︎Freak]",
+    "a": 4,
+    "lim": 6,
+    "loot": 11899
+   },
+   {
     "tag": "#9P28CV0L0",
     "name": "0777",
     "a": 2,
     "lim": 6,
     "loot": 9332
-   },
-   {
-    "tag": "#QP8GGG2RU",
-    "name": "[Will▪︎Freak]",
-    "a": 2,
-    "lim": 5,
-    "loot": 5610
    },
    {
     "tag": "#YCU8JR28U",
