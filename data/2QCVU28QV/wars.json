@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 61,
-   "pct": 69.47,
-   "attacks": 26
+   "stars": 63,
+   "pct": 72.73,
+   "attacks": 27
   },
   "them": {
    "tag": "#2QR2PRPC",
@@ -527,7 +527,19 @@
     "name": "RyanGosling",
     "th": 18,
     "pos": 23,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LRGL8LLLU",
+      "dn": "angah29",
+      "dpos": 12,
+      "dth": 18,
+      "s": 2,
+      "p": 98,
+      "o": 49,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -688,6 +700,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T09:37:14Z"
+  "snap": "2026-10-17T09:42:14Z"
  }
 ]
