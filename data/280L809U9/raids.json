@@ -6,7 +6,7 @@
   "end": "2026-10-19T07:00:00Z",
   "loot": 387194,
   "raids": 4,
-  "attacks": 93,
+  "attacks": 94,
   "districts": 35,
   "offReward": 0,
   "defReward": 0,
@@ -129,6 +129,13 @@
     "a": 1,
     "lim": 6,
     "loot": 3939
+   },
+   {
+    "tag": "#QUR8GYYYY",
+    "name": "ВАРВАР",
+    "a": 1,
+    "lim": 5,
+    "loot": 0
    }
   ]
  },
