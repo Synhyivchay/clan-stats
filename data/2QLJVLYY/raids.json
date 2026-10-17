@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 370294,
+  "loot": 380187,
   "raids": 5,
-  "attacks": 92,
-  "districts": 34,
+  "attacks": 95,
+  "districts": 35,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -103,6 +103,13 @@
     "loot": 19796
    },
    {
+    "tag": "#Q2UQLVQQJ",
+    "name": "женя",
+    "a": 6,
+    "lim": 6,
+    "loot": 19654
+   },
+   {
     "tag": "#GJY0R0JCJ",
     "name": "denchik",
     "a": 5,
@@ -115,13 +122,6 @@
     "a": 2,
     "lim": 6,
     "loot": 11070
-   },
-   {
-    "tag": "#Q2UQLVQQJ",
-    "name": "женя",
-    "a": 3,
-    "lim": 6,
-    "loot": 9761
    },
    {
     "tag": "#9P28CV0L0",
