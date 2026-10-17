@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 50,
-   "pct": 62.13,
-   "attacks": 20
+   "stars": 51,
+   "pct": 62.23,
+   "attacks": 21
   },
   "them": {
    "tag": "#2QR2PRPC",
    "name": "METAL MILLITANT",
    "badge": "https://api-assets.clashofclans.com/badges/200/7JYxwYngkpZO1gajN4Kfdjgxi3oMQgF53P0zdcrh2Bk.png",
    "level": 31,
-   "stars": 43,
-   "pct": 50.53,
-   "attacks": 20
+   "stars": 45,
+   "pct": 53.13,
+   "attacks": 21
   },
   "members": [
    {
@@ -233,7 +233,19 @@
     "name": "Hornbär",
     "th": 18,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2GL8UCV9J",
+      "dn": "jorell",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 42,
+      "n": 1,
+      "dur": 164
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -566,9 +578,9 @@
     "pos": 28,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 78
     }
    },
    {
@@ -619,6 +631,6 @@
     }
    }
   ],
-  "snap": "2026-10-17T07:27:03Z"
+  "snap": "2026-10-17T07:32:03Z"
  }
 ]
