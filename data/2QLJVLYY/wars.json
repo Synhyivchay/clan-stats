@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/Op8ojM-mQwKphF9fbOe4H7EG-ewJwnLnDN8UZKocYyw.png",
    "level": 33,
-   "stars": 73,
-   "pct": 84.53,
-   "attacks": 38
+   "stars": 79,
+   "pct": 92.07,
+   "attacks": 42
   },
   "them": {
    "tag": "#UU9CC0U",
@@ -149,7 +149,30 @@
     "name": "000Roma000",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LC0YJ2CG8",
+      "dn": "열중셧",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 95,
+      "n": 1,
+      "dur": 106
+     },
+     {
+      "d": "#GJU928G0Y",
+      "dn": "아구몬",
+      "dpos": 13,
+      "dth": 18,
+      "s": 2,
+      "p": 99,
+      "o": 96,
+      "n": 0,
+      "dur": 175
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -161,7 +184,30 @@
     "name": "000Sergey000",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QR0L9GQ8Q",
+      "dn": "차렷",
+      "dpos": 11,
+      "dth": 18,
+      "s": 2,
+      "p": 92,
+      "o": 93,
+      "n": 2,
+      "dur": 158
+     },
+     {
+      "d": "#GJ2PCRU08",
+      "dn": "은하수",
+      "dpos": 19,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 94,
+      "n": 3,
+      "dur": 109
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -826,7 +872,7 @@
     }
    }
   ],
-  "snap": "2026-10-18T09:13:12Z"
+  "snap": "2026-10-18T09:23:12Z"
  },
  {
   "id": "war_20261013T215142Z_2QV2CQ9G2",
