@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 610340,
+  "loot": 620880,
   "raids": 8,
-  "attacks": 149,
-  "districts": 57,
+  "attacks": 151,
+  "districts": 58,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#LV9VQJ8GP",
+    "name": "Фалирит",
+    "a": 6,
+    "lim": 6,
+    "loot": 32232
+   },
    {
     "tag": "#LLUP8P8L0",
     "name": "sleace",
@@ -136,13 +143,6 @@
     "a": 6,
     "lim": 6,
     "loot": 22041
-   },
-   {
-    "tag": "#LV9VQJ8GP",
-    "name": "Фалирит",
-    "a": 4,
-    "lim": 6,
-    "loot": 21692
    },
    {
     "tag": "#LG2JCP99G",
