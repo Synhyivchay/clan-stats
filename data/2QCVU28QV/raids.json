@@ -213,6 +213,13 @@
     "a": 2,
     "lim": 6,
     "loot": 10383
+   },
+   {
+    "tag": "#G29QC0G0G",
+    "name": "Riesen_Stinker",
+    "a": 0,
+    "lim": 5,
+    "loot": 0
    }
   ]
  },
