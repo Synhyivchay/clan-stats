@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 648822,
+  "loot": 671738,
   "raids": 8,
-  "attacks": 157,
-  "districts": 59,
+  "attacks": 163,
+  "districts": 61,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -122,6 +122,13 @@
     "a": 6,
     "lim": 6,
     "loot": 23495
+   },
+   {
+    "tag": "#YC9G9Y0YQ",
+    "name": "чёрт",
+    "a": 6,
+    "lim": 6,
+    "loot": 22916
    },
    {
     "tag": "#YUUQCGL2J",
