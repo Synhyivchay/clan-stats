@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 2.5,
+   "attacks": 1
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -296,7 +296,19 @@
     "name": "Doomsday",
     "th": 18,
     "pos": 23,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2QPV2J29",
+      "dn": "SkorpionKap",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 1,
+      "n": 3,
+      "dur": 142
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -508,7 +520,7 @@
     }
    }
   ],
-  "snap": "2026-10-18T22:13:40Z"
+  "snap": "2026-10-18T22:18:40Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
