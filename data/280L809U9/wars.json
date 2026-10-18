@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 60,
-   "pct": 85.6,
-   "attacks": 25
+   "stars": 63,
+   "pct": 89.6,
+   "attacks": 26
   },
   "them": {
    "tag": "#2G0QGVG8L",
@@ -609,7 +609,19 @@
     "name": "uchiha_obito",
     "th": 13,
     "pos": 25,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RPL9PJGJL",
+      "dn": "DL Kyle II",
+      "dpos": 25,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 55,
+      "n": 3,
+      "dur": 126
+     }
+    ],
     "def": {
      "n": 3,
      "s": 3,
@@ -617,7 +629,7 @@
     }
    }
   ],
-  "snap": "2026-10-18T06:53:12Z"
+  "snap": "2026-10-18T07:03:12Z"
  },
  {
   "id": "war_20261013T214745Z_L88G2PRP",
