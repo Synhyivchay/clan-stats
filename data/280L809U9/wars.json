@@ -15,7 +15,7 @@
    "level": 25,
    "stars": 65,
    "pct": 92.84,
-   "attacks": 28
+   "attacks": 29
   },
   "them": {
    "tag": "#2G0QGVG8L",
@@ -91,7 +91,19 @@
     "name": "OO REEBOK OO",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P9YQG2U0Y",
+      "dn": "DL Alfie",
+      "dpos": 3,
+      "dth": 18,
+      "s": 1,
+      "p": 88,
+      "o": 58,
+      "n": 0,
+      "dur": 128
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -652,7 +664,7 @@
     }
    }
   ],
-  "snap": "2026-10-18T08:13:12Z"
+  "snap": "2026-10-18T08:18:12Z"
  },
  {
   "id": "war_20261013T214745Z_L88G2PRP",
