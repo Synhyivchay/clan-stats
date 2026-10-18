@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 730094,
+  "loot": 743465,
   "raids": 7,
-  "attacks": 167,
-  "districts": 64,
+  "attacks": 170,
+  "districts": 66,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -94,6 +94,13 @@
     "a": 6,
     "lim": 6,
     "loot": 28371
+   },
+   {
+    "tag": "#9U20UCLV2",
+    "name": "LokiPhil",
+    "a": 6,
+    "lim": 6,
+    "loot": 27596
    },
    {
     "tag": "#8RGQ9U2R",
@@ -199,13 +206,6 @@
     "a": 6,
     "lim": 6,
     "loot": 18002
-   },
-   {
-    "tag": "#9U20UCLV2",
-    "name": "LokiPhil",
-    "a": 3,
-    "lim": 6,
-    "loot": 14225
    },
    {
     "tag": "#LG8YC2Y92",
