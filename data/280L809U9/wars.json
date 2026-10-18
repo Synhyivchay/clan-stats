@@ -15,7 +15,7 @@
    "level": 25,
    "stars": 65,
    "pct": 92.96,
-   "attacks": 30
+   "attacks": 33
   },
   "them": {
    "tag": "#2G0QGVG8L",
@@ -113,6 +113,17 @@
       "o": 58,
       "n": 0,
       "dur": 128
+     },
+     {
+      "d": "#8YCPUJUY9",
+      "dn": "Turtletello",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 12,
+      "o": 60,
+      "n": 0,
+      "dur": 40
      }
     ],
     "def": {
@@ -162,7 +173,30 @@
     "name": "Boston",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8YCPUJUY9",
+      "dn": "Turtletello",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 14,
+      "o": 61,
+      "n": 0,
+      "dur": 30
+     },
+     {
+      "d": "#P9YQG2U0Y",
+      "dn": "DL Alfie",
+      "dpos": 3,
+      "dth": 18,
+      "s": 1,
+      "p": 5,
+      "o": 62,
+      "n": 0,
+      "dur": 11
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -675,7 +709,7 @@
     }
    }
   ],
-  "snap": "2026-10-18T08:53:12Z"
+  "snap": "2026-10-18T08:58:12Z"
  },
  {
   "id": "war_20261013T214745Z_L88G2PRP",
