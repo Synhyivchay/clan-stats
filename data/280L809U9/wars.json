@@ -15,7 +15,7 @@
    "level": 25,
    "stars": 65,
    "pct": 92.84,
-   "attacks": 27
+   "attacks": 28
   },
   "them": {
    "tag": "#2G0QGVG8L",
@@ -67,7 +67,19 @@
     "name": "ReTrO",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P9YQG2U0Y",
+      "dn": "DL Alfie",
+      "dpos": 3,
+      "dth": 18,
+      "s": 1,
+      "p": 76,
+      "o": 57,
+      "n": 0,
+      "dur": 145
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -640,7 +652,7 @@
     }
    }
   ],
-  "snap": "2026-10-18T07:38:12Z"
+  "snap": "2026-10-18T07:43:12Z"
  },
  {
   "id": "war_20261013T214745Z_L88G2PRP",
