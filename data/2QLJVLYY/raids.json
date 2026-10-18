@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 519682,
+  "loot": 541498,
   "raids": 7,
-  "attacks": 129,
-  "districts": 48,
+  "attacks": 134,
+  "districts": 50,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -89,6 +89,13 @@
     "loot": 23717
    },
    {
+    "tag": "#YCU8JR28U",
+    "name": "SHANARA",
+    "a": 6,
+    "lim": 6,
+    "loot": 23483
+   },
+   {
     "tag": "#QUULVGRYQ",
     "name": "MR.KING",
     "a": 6,
@@ -138,18 +145,18 @@
     "loot": 19654
    },
    {
+    "tag": "#GU9UY0L98",
+    "name": "Alinyaa",
+    "a": 5,
+    "lim": 6,
+    "loot": 19126
+   },
+   {
     "tag": "#GRLLYQQLV",
     "name": "WOLF",
     "a": 6,
     "lim": 6,
     "loot": 18041
-   },
-   {
-    "tag": "#YCU8JR28U",
-    "name": "SHANARA",
-    "a": 5,
-    "lim": 6,
-    "loot": 17793
    },
    {
     "tag": "#GJY0R0JCJ",
@@ -171,13 +178,6 @@
     "a": 2,
     "lim": 6,
     "loot": 9332
-   },
-   {
-    "tag": "#GU9UY0L98",
-    "name": "Alinyaa",
-    "a": 1,
-    "lim": 5,
-    "loot": 3000
    }
   ]
  },
