@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 615321,
+  "loot": 621126,
   "raids": 8,
-  "attacks": 150,
+  "attacks": 151,
   "districts": 54,
   "offReward": 0,
   "defReward": 0,
@@ -159,6 +159,13 @@
     "loot": 18832
    },
    {
+    "tag": "#QPG999QV0",
+    "name": "Dipper Painz",
+    "a": 3,
+    "lim": 6,
+    "loot": 16715
+   },
+   {
     "tag": "#QUR8GYYYY",
     "name": "ВАРВАР",
     "a": 6,
@@ -185,13 +192,6 @@
     "a": 2,
     "lim": 6,
     "loot": 11216
-   },
-   {
-    "tag": "#QPG999QV0",
-    "name": "Dipper Painz",
-    "a": 2,
-    "lim": 6,
-    "loot": 10910
    },
    {
     "tag": "#9LQ2YUVUY",
