@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 752973,
+  "loot": 761866,
   "raids": 9,
-  "attacks": 179,
-  "districts": 68,
+  "attacks": 181,
+  "districts": 69,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -201,6 +201,13 @@
     "loot": 16715
    },
    {
+    "tag": "#80QQP0V2C",
+    "name": "Danis 1 2 3",
+    "a": 4,
+    "lim": 6,
+    "loot": 16223
+   },
+   {
     "tag": "#QUR8GYYYY",
     "name": "ВАРВАР",
     "a": 6,
@@ -220,13 +227,6 @@
     "a": 6,
     "lim": 6,
     "loot": 12882
-   },
-   {
-    "tag": "#80QQP0V2C",
-    "name": "Danis 1 2 3",
-    "a": 2,
-    "lim": 6,
-    "loot": 7330
    },
    {
     "tag": "#9LQ2YUVUY",
