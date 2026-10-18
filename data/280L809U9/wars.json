@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 63,
-   "pct": 89.6,
-   "attacks": 26
+   "stars": 65,
+   "pct": 92.84,
+   "attacks": 27
   },
   "them": {
    "tag": "#2G0QGVG8L",
@@ -620,6 +620,17 @@
       "o": 55,
       "n": 3,
       "dur": 126
+     },
+     {
+      "d": "#2GR0C9R90",
+      "dn": "DL Oliver",
+      "dpos": 24,
+      "dth": 14,
+      "s": 2,
+      "p": 81,
+      "o": 56,
+      "n": 2,
+      "dur": 140
      }
     ],
     "def": {
@@ -629,7 +640,7 @@
     }
    }
   ],
-  "snap": "2026-10-18T07:03:12Z"
+  "snap": "2026-10-18T07:08:12Z"
  },
  {
   "id": "war_20261013T214745Z_L88G2PRP",
