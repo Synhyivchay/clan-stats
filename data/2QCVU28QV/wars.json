@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 12,
-   "pct": 10.0,
-   "attacks": 4
+   "stars": 15,
+   "pct": 12.5,
+   "attacks": 5
   },
   "them": {
    "tag": "#2YVYLVYJV",
    "name": "AUSTRIA ONE",
    "badge": "https://api-assets.clashofclans.com/badges/200/dtZVu0AGMRA-SXFlw3qttbypCQVe6laccIb-l0UKtAk.png",
    "level": 31,
-   "stars": 17,
-   "pct": 14.82,
-   "attacks": 6
+   "stars": 23,
+   "pct": 19.82,
+   "attacks": 8
   },
   "members": [
    {
@@ -81,9 +81,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -117,9 +117,9 @@
     "pos": 6,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -546,7 +546,19 @@
     "name": "GermanRuss",
     "th": 18,
     "pos": 40,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QGCRJQ8GP",
+      "dn": "Matze",
+      "dpos": 40,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 13,
+      "n": 3,
+      "dur": 123
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -554,7 +566,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T04:53:48Z"
+  "snap": "2026-10-19T05:03:48Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
