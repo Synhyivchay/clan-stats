@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 120,
    "pct": 100.0,
-   "attacks": 64
+   "attacks": 68
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -289,7 +289,30 @@
     "name": "Rudi",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2QPV2J29",
+      "dn": "SkorpionKap",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 25,
+      "o": 133,
+      "n": 0,
+      "dur": 23
+     },
+     {
+      "d": "#YV0LQ8L2",
+      "dn": "[AO] Montell",
+      "dpos": 4,
+      "dth": 18,
+      "s": 1,
+      "p": 25,
+      "o": 134,
+      "n": 0,
+      "dur": 31
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -862,7 +885,30 @@
     "name": "RudiV2",
     "th": 18,
     "pos": 28,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2QPV2J29",
+      "dn": "SkorpionKap",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 21,
+      "o": 131,
+      "n": 0,
+      "dur": 25
+     },
+     {
+      "d": "#YV0LQ8L2",
+      "dn": "[AO] Montell",
+      "dpos": 4,
+      "dth": 18,
+      "s": 1,
+      "p": 22,
+      "o": 132,
+      "n": 0,
+      "dur": 38
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -1244,7 +1290,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T21:29:47Z"
+  "snap": "2026-10-19T21:39:47Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
