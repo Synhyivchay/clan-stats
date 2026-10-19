@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 120,
    "pct": 100.0,
-   "attacks": 68
+   "attacks": 70
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -1212,7 +1212,30 @@
     "name": "RudiV4",
     "th": 18,
     "pos": 38,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2QPV2J29",
+      "dn": "SkorpionKap",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 27,
+      "o": 135,
+      "n": 0,
+      "dur": 34
+     },
+     {
+      "d": "#YV0LQ8L2",
+      "dn": "[AO] Montell",
+      "dpos": 4,
+      "dth": 18,
+      "s": 1,
+      "p": 15,
+      "o": 136,
+      "n": 0,
+      "dur": 24
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -1290,7 +1313,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T21:39:47Z"
+  "snap": "2026-10-19T21:44:47Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
