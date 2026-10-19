@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 117,
-   "pct": 97.5,
-   "attacks": 49
+   "stars": 119,
+   "pct": 99.92,
+   "attacks": 50
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -24,7 +24,7 @@
    "level": 31,
    "stars": 120,
    "pct": 100.0,
-   "attacks": 64
+   "attacks": 65
   },
   "members": [
    {
@@ -467,7 +467,7 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 3,
      "p": 100
     }
@@ -488,6 +488,17 @@
       "o": 101,
       "n": 0,
       "dur": 129
+     },
+     {
+      "d": "#GJCRY8L8",
+      "dn": "[AO] Senki",
+      "dpos": 37,
+      "dth": 18,
+      "s": 2,
+      "p": 97,
+      "o": 114,
+      "n": 2,
+      "dur": 127
      }
     ],
     "def": {
@@ -1072,7 +1083,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T18:29:47Z"
+  "snap": "2026-10-19T18:34:48Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
