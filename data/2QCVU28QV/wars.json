@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 23,
-   "pct": 19.95,
-   "attacks": 8
+   "stars": 26,
+   "pct": 22.45,
+   "attacks": 9
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -32,7 +32,19 @@
     "name": "Amelie❤",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#20GGYUJ",
+      "dn": "< BLACK DEVIL >",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 18,
+      "n": 3,
+      "dur": 100
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -600,7 +612,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T05:34:07Z"
+  "snap": "2026-10-19T05:39:07Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",

@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 780525,
-  "raids": 9,
-  "attacks": 186,
-  "districts": 71,
+  "loot": 794390,
+  "raids": 10,
+  "attacks": 189,
+  "districts": 72,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -201,6 +201,13 @@
     "loot": 18832
    },
    {
+    "tag": "#G0GP90YCL",
+    "name": "Boston",
+    "a": 4,
+    "lim": 6,
+    "loot": 17388
+   },
+   {
     "tag": "#QPG999QV0",
     "name": "Dipper Painz",
     "a": 3,
@@ -234,13 +241,6 @@
     "a": 2,
     "lim": 6,
     "loot": 4348
-   },
-   {
-    "tag": "#G0GP90YCL",
-    "name": "Boston",
-    "a": 1,
-    "lim": 6,
-    "loot": 3523
    }
   ]
  },

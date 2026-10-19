@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 795174,
+  "loot": 807519,
   "raids": 10,
-  "attacks": 191,
+  "attacks": 193,
   "districts": 74,
   "offReward": 0,
   "defReward": 0,
@@ -80,6 +80,13 @@
     "a": 6,
     "lim": 6,
     "loot": 27905
+   },
+   {
+    "tag": "#QL0J0RY8Q",
+    "name": "ebobo",
+    "a": 6,
+    "lim": 6,
+    "loot": 27387
    },
    {
     "tag": "#8GGC8UY08",
@@ -173,13 +180,6 @@
     "loot": 21349
    },
    {
-    "tag": "#QL0J0RY8Q",
-    "name": "ebobo",
-    "a": 5,
-    "lim": 6,
-    "loot": 21072
-   },
-   {
     "tag": "#PQCYUY90C",
     "name": "Артёмчик",
     "a": 6,
@@ -229,18 +229,18 @@
     "loot": 18041
    },
    {
+    "tag": "#QU0QU0Q80",
+    "name": "Dream®",
+    "a": 3,
+    "lim": 6,
+    "loot": 15963
+   },
+   {
     "tag": "#GJY0R0JCJ",
     "name": "denchik",
     "a": 6,
     "lim": 6,
     "loot": 14482
-   },
-   {
-    "tag": "#QU0QU0Q80",
-    "name": "Dream®",
-    "a": 2,
-    "lim": 6,
-    "loot": 9933
    }
   ]
  },
