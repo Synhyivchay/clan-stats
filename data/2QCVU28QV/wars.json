@@ -22,9 +22,9 @@
    "name": "AUSTRIA ONE",
    "badge": "https://api-assets.clashofclans.com/badges/200/dtZVu0AGMRA-SXFlw3qttbypCQVe6laccIb-l0UKtAk.png",
    "level": 31,
-   "stars": 93,
-   "pct": 77.5,
-   "attacks": 36
+   "stars": 94,
+   "pct": 79.7,
+   "attacks": 37
   },
   "members": [
    {
@@ -589,9 +589,9 @@
     "pos": 30,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 88
     }
    },
    {
@@ -784,7 +784,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T09:39:07Z"
+  "snap": "2026-10-19T09:44:07Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
