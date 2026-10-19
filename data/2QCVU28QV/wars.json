@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 96,
-   "pct": 82.22,
-   "attacks": 35
+   "stars": 102,
+   "pct": 87.22,
+   "attacks": 37
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -584,6 +584,17 @@
       "o": 89,
       "n": 3,
       "dur": 155
+     },
+     {
+      "d": "#8CQYYGYUQ",
+      "dn": "Fcbi",
+      "dpos": 32,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 90,
+      "n": 3,
+      "dur": 131
      }
     ],
     "def": {
@@ -668,7 +679,19 @@
     "name": "Alastor",
     "th": 18,
     "pos": 29,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L8VLCVL89",
+      "dn": "[AO]Pappaviking",
+      "dpos": 30,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 91,
+      "n": 3,
+      "dur": 102
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -912,7 +935,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T15:59:33Z"
+  "snap": "2026-10-19T16:04:33Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
