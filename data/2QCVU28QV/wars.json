@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 111,
-   "pct": 93.92,
-   "attacks": 45
+   "stars": 114,
+   "pct": 96.42,
+   "attacks": 46
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -24,7 +24,7 @@
    "level": 31,
    "stars": 120,
    "pct": 100.0,
-   "attacks": 60
+   "attacks": 61
   },
   "members": [
    {
@@ -57,7 +57,7 @@
      }
     ],
     "def": {
-     "n": 4,
+     "n": 5,
      "s": 3,
      "p": 100
     }
@@ -606,6 +606,17 @@
       "o": 103,
       "n": 1,
       "dur": 169
+     },
+     {
+      "d": "#QLYV2QPQU",
+      "dn": "[AO] Heisen•",
+      "dpos": 35,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 107,
+      "n": 3,
+      "dur": 155
      }
     ],
     "def": {
@@ -1027,7 +1038,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T17:34:47Z"
+  "snap": "2026-10-19T17:39:47Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
