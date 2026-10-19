@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
    "stars": 19,
-   "pct": 31.44,
-   "attacks": 9
+   "pct": 31.48,
+   "attacks": 10
   },
   "them": {
    "tag": "#PJY2URC9",
@@ -270,7 +270,19 @@
     "name": "sleace",
     "th": 18,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#UGG8VPU",
+      "dn": "yantaudel",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 98,
+      "o": 10,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -432,7 +444,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T19:19:47Z"
+  "snap": "2026-10-19T19:29:47Z"
  },
  {
   "id": "war_20261016T103139Z_UU9CC0U",
