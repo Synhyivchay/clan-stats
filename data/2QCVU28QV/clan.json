@@ -15,8 +15,10 @@
  "capitalHall": 10,
  "warLogPublic": true,
  "trackingSince": "2026-10-16T21:01:41Z",
- "contribFetched": "2026-10-19T05:03:48Z",
- "updated": "2026-10-19T05:59:07Z",
- "errors": [],
+ "contribFetched": "2026-10-19T06:04:07Z",
+ "updated": "2026-10-19T06:04:07Z",
+ "errors": [
+  "КВ: 520 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/\",\"title\":\"Error 520: Web server is returning an unknown error\",\"status\":520,\"detai (/clans/#2QCVU28QV/currentwar)"
+ ],
  "show": true
 }
