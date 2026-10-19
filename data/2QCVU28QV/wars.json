@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 102,
-   "pct": 87.22,
-   "attacks": 37
+   "stars": 107,
+   "pct": 92.15,
+   "attacks": 39
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -455,7 +455,30 @@
     "name": "Niklord",
     "th": 18,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L0U8QCYG0",
+      "dn": "[AO]PappaViking",
+      "dpos": 27,
+      "dth": 18,
+      "s": 2,
+      "p": 97,
+      "o": 92,
+      "n": 2,
+      "dur": 137
+     },
+     {
+      "d": "#9JRPJ0UJ",
+      "dn": "Schmitt0lf",
+      "dpos": 28,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 93,
+      "n": 3,
+      "dur": 118
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -935,7 +958,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T16:04:33Z"
+  "snap": "2026-10-19T16:09:33Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
