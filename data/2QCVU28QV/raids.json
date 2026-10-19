@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 900883,
-  "raids": 8,
-  "attacks": 205,
-  "districts": 80,
+  "loot": 905621,
+  "raids": 9,
+  "attacks": 206,
+  "districts": 81,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -66,6 +66,13 @@
     "a": 6,
     "lim": 6,
     "loot": 29745
+   },
+   {
+    "tag": "#G29QC0G0G",
+    "name": "Riesen_Stinker",
+    "a": 6,
+    "lim": 6,
+    "loot": 29239
    },
    {
     "tag": "#J9VRQ882",
@@ -171,13 +178,6 @@
     "a": 6,
     "lim": 6,
     "loot": 25277
-   },
-   {
-    "tag": "#G29QC0G0G",
-    "name": "Riesen_Stinker",
-    "a": 5,
-    "lim": 6,
-    "loot": 24501
    },
    {
     "tag": "#GLPYJCYCY",
