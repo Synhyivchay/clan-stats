@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 816726,
+  "loot": 827006,
   "raids": 11,
-  "attacks": 193,
-  "districts": 73,
+  "attacks": 195,
+  "districts": 74,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -187,6 +187,13 @@
     "loot": 21236
    },
    {
+    "tag": "#PCUY9YUYU",
+    "name": "OO REEBOK OO",
+    "a": 4,
+    "lim": 6,
+    "loot": 21090
+   },
+   {
     "tag": "#LG908QVL8",
     "name": "mura.100",
     "a": 6,
@@ -234,13 +241,6 @@
     "a": 6,
     "lim": 6,
     "loot": 12882
-   },
-   {
-    "tag": "#PCUY9YUYU",
-    "name": "OO REEBOK OO",
-    "a": 2,
-    "lim": 5,
-    "loot": 10810
    },
    {
     "tag": "#9LQ2YUVUY",
