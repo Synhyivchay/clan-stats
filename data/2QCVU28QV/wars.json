@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 120,
    "pct": 100.0,
-   "attacks": 53
+   "attacks": 54
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -840,7 +840,19 @@
     "name": "David",
     "th": 18,
     "pos": 30,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JJ99JRUR",
+      "dn": "Lupo",
+      "dpos": 10,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 120,
+      "n": 0,
+      "dur": 151
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -1118,7 +1130,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T19:29:47Z"
+  "snap": "2026-10-19T19:34:47Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
