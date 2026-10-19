@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 81,
-   "pct": 69.72,
-   "attacks": 30
+   "stars": 84,
+   "pct": 72.22,
+   "attacks": 31
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -337,6 +337,17 @@
       "o": 71,
       "n": 3,
       "dur": 118
+     },
+     {
+      "d": "#LJ8QVVVJG",
+      "dn": "(AO) flo",
+      "dpos": 33,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 74,
+      "n": 3,
+      "dur": 116
      }
     ],
     "def": {
@@ -854,7 +865,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T12:34:33Z"
+  "snap": "2026-10-19T12:44:33Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
