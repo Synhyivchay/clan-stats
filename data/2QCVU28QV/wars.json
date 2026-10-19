@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 120,
    "pct": 100.0,
-   "attacks": 59
+   "attacks": 60
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -957,7 +957,19 @@
     "name": "AnoNymous",
     "th": 18,
     "pos": 33,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2QPV2J29",
+      "dn": "SkorpionKap",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 126,
+      "n": 0,
+      "dur": 165
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -1187,7 +1199,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T20:09:47Z"
+  "snap": "2026-10-19T20:14:47Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
