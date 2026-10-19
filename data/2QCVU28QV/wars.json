@@ -14,17 +14,17 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
    "stars": 63,
-   "pct": 54.5,
-   "attacks": 22
+   "pct": 54.67,
+   "attacks": 23
   },
   "them": {
    "tag": "#2YVYLVYJV",
    "name": "AUSTRIA ONE",
    "badge": "https://api-assets.clashofclans.com/badges/200/dtZVu0AGMRA-SXFlw3qttbypCQVe6laccIb-l0UKtAk.png",
    "level": 31,
-   "stars": 89,
-   "pct": 74.38,
-   "attacks": 33
+   "stars": 92,
+   "pct": 76.88,
+   "attacks": 35
   },
   "members": [
    {
@@ -505,7 +505,7 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 2,
      "p": 75
     }
@@ -541,9 +541,9 @@
     "pos": 26,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -682,7 +682,19 @@
     "name": "RudiV3",
     "th": 18,
     "pos": 36,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q2VRLRPC",
+      "dn": "[AO] sebi",
+      "dpos": 18,
+      "dth": 18,
+      "s": 2,
+      "p": 99,
+      "o": 58,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -761,7 +773,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T09:29:07Z"
+  "snap": "2026-10-19T09:34:07Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
