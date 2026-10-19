@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 746823,
+  "loot": 750913,
   "raids": 9,
-  "attacks": 181,
+  "attacks": 182,
   "districts": 70,
   "offReward": 0,
   "defReward": 0,
@@ -117,6 +117,13 @@
     "loot": 24380
    },
    {
+    "tag": "#P2GULCL8G",
+    "name": "000Sergey000",
+    "a": 6,
+    "lim": 6,
+    "loot": 23799
+   },
+   {
     "tag": "#9J02VCC8J",
     "name": "Денис",
     "a": 6,
@@ -192,13 +199,6 @@
     "a": 6,
     "lim": 6,
     "loot": 19796
-   },
-   {
-    "tag": "#P2GULCL8G",
-    "name": "000Sergey000",
-    "a": 5,
-    "lim": 6,
-    "loot": 19709
    },
    {
     "tag": "#Q2UQLVQQJ",
