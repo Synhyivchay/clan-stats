@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 18,
-   "pct": 30.0,
-   "attacks": 6
+   "stars": 21,
+   "pct": 35.0,
+   "attacks": 7
   },
   "them": {
    "tag": "#Y2GCPY02",
@@ -209,6 +209,17 @@
       "o": 13,
       "n": 3,
       "dur": 129
+     },
+     {
+      "d": "#2GU0G9VJG",
+      "dn": "bartez",
+      "dpos": 10,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 15,
+      "n": 3,
+      "dur": 112
      }
     ],
     "def": {
@@ -338,7 +349,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T19:04:47Z"
+  "snap": "2026-10-19T19:09:47Z"
  },
  {
   "id": "war_20261016T105212Z_2G0QGVG8L",
