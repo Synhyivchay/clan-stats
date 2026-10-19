@@ -5,7 +5,7 @@
  "level": 27,
  "description": "Willkommen bei der ! ELITE ! Familie😎 Top 50 DE🇩🇪 und auf dem Weg besser zu werden🔝Wachsender Stolz und wachsende Cw Serie🔥Monatliche Cw Auswertung per Ki🤖 Außerdem 2./3.0/_CW/_CWL🙌🏼 gut organisiert. Aufnahme ab Liga33 mit Test FA-Angriff:)",
  "members": 49,
- "points": 154934,
+ "points": 154964,
  "warWins": 222,
  "warLosses": 171,
  "warTies": 52,
@@ -16,7 +16,9 @@
  "warLogPublic": true,
  "trackingSince": "2026-10-16T21:01:41Z",
  "contribFetched": "2026-10-19T13:04:33Z",
- "updated": "2026-10-19T13:29:33Z",
- "errors": [],
+ "updated": "2026-10-19T13:39:33Z",
+ "errors": [
+  "Рейды: 520 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/\",\"title\":\"Error 520: Web server is returning an unknown error\",\"status\":520,\"detai (/clans/#2QCVU28QV/capitalraidseasons?limit=4)"
+ ],
  "show": true
 }
