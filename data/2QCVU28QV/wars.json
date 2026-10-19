@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 114,
-   "pct": 96.42,
-   "attacks": 46
+   "stars": 115,
+   "pct": 97.38,
+   "attacks": 47
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -24,7 +24,7 @@
    "level": 31,
    "stars": 120,
    "pct": 100.0,
-   "attacks": 61
+   "attacks": 63
   },
   "members": [
    {
@@ -57,7 +57,7 @@
      }
     ],
     "def": {
-     "n": 5,
+     "n": 6,
      "s": 3,
      "p": 100
     }
@@ -127,7 +127,7 @@
      }
     ],
     "def": {
-     "n": 3,
+     "n": 4,
      "s": 3,
      "p": 100
     }
@@ -923,6 +923,17 @@
       "o": 70,
       "n": 3,
       "dur": 124
+     },
+     {
+      "d": "#Y9RQCJLVY",
+      "dn": "[AO] ibims",
+      "dpos": 31,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 108,
+      "n": 1,
+      "dur": 94
      }
     ],
     "def": {
@@ -1038,7 +1049,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T17:39:47Z"
+  "snap": "2026-10-19T17:44:47Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
