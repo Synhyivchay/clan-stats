@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 768907,
+  "loot": 773132,
   "raids": 9,
-  "attacks": 183,
+  "attacks": 184,
   "districts": 70,
   "offReward": 0,
   "defReward": 0,
@@ -89,6 +89,13 @@
     "loot": 27400
    },
    {
+    "tag": "#82QQ2QY0V",
+    "name": "Дракс",
+    "a": 5,
+    "lim": 6,
+    "loot": 26919
+   },
+   {
     "tag": "#GVYYYUG29",
     "name": "kin",
     "a": 6,
@@ -150,13 +157,6 @@
     "a": 6,
     "lim": 6,
     "loot": 22916
-   },
-   {
-    "tag": "#82QQ2QY0V",
-    "name": "Дракс",
-    "a": 4,
-    "lim": 6,
-    "loot": 22694
    },
    {
     "tag": "#YUUQCGL2J",
