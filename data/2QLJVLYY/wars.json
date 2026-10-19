@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 8,
-   "pct": 15.36,
-   "attacks": 4
+   "stars": 13,
+   "pct": 23.04,
+   "attacks": 6
   },
   "them": {
    "tag": "#PJY2URC9",
@@ -55,6 +55,17 @@
       "o": 3,
       "n": 1,
       "dur": 180
+     },
+     {
+      "d": "#2G8LV0YCG",
+      "dn": "vasquez",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 137
      }
     ],
     "def": {
@@ -248,7 +259,19 @@
     "name": "Адик",
     "th": 17,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#28GQCGCPU",
+      "dn": "ÁNGEL",
+      "dpos": 18,
+      "dth": 17,
+      "s": 2,
+      "p": 92,
+      "o": 6,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -375,7 +398,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T17:54:47Z"
+  "snap": "2026-10-19T17:59:47Z"
  },
  {
   "id": "war_20261016T103139Z_UU9CC0U",
