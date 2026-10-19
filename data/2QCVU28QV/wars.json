@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 47,
-   "pct": 39.95,
-   "attacks": 16
+   "stars": 53,
+   "pct": 44.95,
+   "attacks": 18
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -162,7 +162,30 @@
     "name": "Evil Kruemel",
     "th": 18,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RLLQ2CY8",
+      "dn": "Decillionus",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 30,
+      "n": 3,
+      "dur": 151
+     },
+     {
+      "d": "#GGGG9PYP8",
+      "dn": "[AO] copatoni",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 31,
+      "n": 3,
+      "dur": 146
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -692,7 +715,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T05:59:07Z"
+  "snap": "2026-10-19T06:09:07Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",

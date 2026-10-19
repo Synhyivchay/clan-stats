@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 845280,
+  "loot": 851090,
   "raids": 10,
-  "attacks": 201,
+  "attacks": 202,
   "districts": 80,
   "offReward": 0,
   "defReward": 0,
@@ -38,6 +38,13 @@
     "a": 6,
     "lim": 6,
     "loot": 31121
+   },
+   {
+    "tag": "#YVP0G0V2G",
+    "name": "Relax",
+    "a": 6,
+    "lim": 6,
+    "loot": 29927
    },
    {
     "tag": "#LQGGPPC92",
@@ -136,13 +143,6 @@
     "a": 6,
     "lim": 6,
     "loot": 24380
-   },
-   {
-    "tag": "#YVP0G0V2G",
-    "name": "Relax",
-    "a": 5,
-    "lim": 6,
-    "loot": 24117
    },
    {
     "tag": "#P2GULCL8G",
