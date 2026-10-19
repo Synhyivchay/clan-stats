@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 120,
    "pct": 100.0,
-   "attacks": 57
+   "attacks": 58
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -184,7 +184,19 @@
     "name": "Kingdingeling",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2QPV2J29",
+      "dn": "SkorpionKap",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 124,
+      "n": 0,
+      "dur": 129
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -1164,7 +1176,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T19:44:47Z"
+  "snap": "2026-10-19T19:49:47Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
