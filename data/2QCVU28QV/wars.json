@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 44,
-   "pct": 37.45,
-   "attacks": 15
+   "stars": 47,
+   "pct": 39.95,
+   "attacks": 16
   },
   "them": {
    "tag": "#2YVYLVYJV",
    "name": "AUSTRIA ONE",
    "badge": "https://api-assets.clashofclans.com/badges/200/dtZVu0AGMRA-SXFlw3qttbypCQVe6laccIb-l0UKtAk.png",
    "level": 31,
-   "stars": 32,
-   "pct": 27.32,
-   "attacks": 11
+   "stars": 37,
+   "pct": 31.95,
+   "attacks": 13
   },
   "members": [
    {
@@ -188,9 +188,9 @@
     "pos": 10,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -223,9 +223,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 85
     }
    },
    {
@@ -577,6 +577,17 @@
       "o": 25,
       "n": 3,
       "dur": 117
+     },
+     {
+      "d": "#28P8C890Q",
+      "dn": "[AO] Hiasä",
+      "dpos": 24,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 29,
+      "n": 3,
+      "dur": 105
      }
     ],
     "def": {
@@ -681,7 +692,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T05:54:07Z"
+  "snap": "2026-10-19T05:59:07Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
