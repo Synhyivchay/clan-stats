@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 75,
-   "pct": 64.72,
-   "attacks": 28
+   "stars": 81,
+   "pct": 69.72,
+   "attacks": 30
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -574,7 +574,30 @@
     "name": "hazhir ro",
     "th": 18,
     "pos": 26,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9PYQGJP0Y",
+      "dn": "Jobayer",
+      "dpos": 38,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 72,
+      "n": 3,
+      "dur": 119
+     },
+     {
+      "d": "#Q0JYP0Q",
+      "dn": "Sebi",
+      "dpos": 34,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 73,
+      "n": 3,
+      "dur": 158
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -831,7 +854,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T11:59:33Z"
+  "snap": "2026-10-19T12:04:33Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
