@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 69,
-   "pct": 59.73,
-   "attacks": 26
+   "stars": 72,
+   "pct": 62.23,
+   "attacks": 27
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -693,7 +693,19 @@
     "name": "Ampletrex",
     "th": 18,
     "pos": 35,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#282Y8PYV8",
+      "dn": "[AO] dersteher",
+      "dpos": 22,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 70,
+      "n": 3,
+      "dur": 124
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -807,7 +819,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T11:14:33Z"
+  "snap": "2026-10-19T11:19:33Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
