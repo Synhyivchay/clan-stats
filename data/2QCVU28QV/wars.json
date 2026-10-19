@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 120,
    "pct": 100.0,
-   "attacks": 62
+   "attacks": 64
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -383,7 +383,30 @@
     "name": "Killer 2000",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#20GGYUJ",
+      "dn": "< BLACK DEVIL >",
+      "dpos": 5,
+      "dth": 18,
+      "s": 1,
+      "p": 2,
+      "o": 129,
+      "n": 0,
+      "dur": 5
+     },
+     {
+      "d": "#8P2PRC08",
+      "dn": "Little Wolf",
+      "dpos": 6,
+      "dth": 18,
+      "s": 1,
+      "p": 11,
+      "o": 130,
+      "n": 0,
+      "dur": 21
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -1221,7 +1244,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T20:59:47Z"
+  "snap": "2026-10-19T21:04:47Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
