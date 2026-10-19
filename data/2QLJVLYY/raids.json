@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 710467,
+  "loot": 716697,
   "raids": 9,
-  "attacks": 173,
-  "districts": 66,
+  "attacks": 174,
+  "districts": 67,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -145,6 +145,13 @@
     "loot": 22041
    },
    {
+    "tag": "#PVCPGJL9R",
+    "name": "000Roma000",
+    "a": 4,
+    "lim": 6,
+    "loot": 21355
+   },
+   {
     "tag": "#Y0CPG29L8",
     "name": "Артем",
     "a": 6,
@@ -199,13 +206,6 @@
     "a": 6,
     "lim": 6,
     "loot": 18041
-   },
-   {
-    "tag": "#PVCPGJL9R",
-    "name": "000Roma000",
-    "a": 3,
-    "lim": 6,
-    "loot": 15125
    },
    {
     "tag": "#GJY0R0JCJ",
