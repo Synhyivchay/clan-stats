@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 59,
-   "pct": 49.95,
-   "attacks": 20
+   "stars": 61,
+   "pct": 52.25,
+   "attacks": 21
   },
   "them": {
    "tag": "#2YVYLVYJV",
    "name": "AUSTRIA ONE",
    "badge": "https://api-assets.clashofclans.com/badges/200/dtZVu0AGMRA-SXFlw3qttbypCQVe6laccIb-l0UKtAk.png",
    "level": 31,
-   "stars": 48,
-   "pct": 40.0,
-   "attacks": 18
+   "stars": 50,
+   "pct": 42.33,
+   "attacks": 19
   },
   "members": [
    {
@@ -114,7 +114,19 @@
     "name": "Louis™️187",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q2VRLRPC",
+      "dn": "[AO] sebi",
+      "dpos": 18,
+      "dth": 18,
+      "s": 2,
+      "p": 92,
+      "o": 40,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -305,9 +317,9 @@
     "pos": 14,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 93
     }
    },
    {
@@ -738,7 +750,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T07:29:07Z"
+  "snap": "2026-10-19T07:34:07Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
