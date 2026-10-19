@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 72,
-   "pct": 62.23,
-   "attacks": 27
+   "stars": 75,
+   "pct": 64.72,
+   "attacks": 28
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -326,7 +326,19 @@
     "name": "kevin",
     "th": 18,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8028P0YG",
+      "dn": "[AO] Justus",
+      "dpos": 23,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 71,
+      "n": 3,
+      "dur": 118
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -819,7 +831,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T11:29:33Z"
+  "snap": "2026-10-19T11:39:33Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
