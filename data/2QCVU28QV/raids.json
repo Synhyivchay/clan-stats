@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 929014,
+  "loot": 949897,
   "raids": 9,
-  "attacks": 212,
-  "districts": 83,
+  "attacks": 217,
+  "districts": 84,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -215,6 +215,13 @@
     "loot": 20938
    },
    {
+    "tag": "#9CJ9U0LL",
+    "name": "Evil Kruemel",
+    "a": 5,
+    "lim": 6,
+    "loot": 20883
+   },
+   {
     "tag": "#QUUCY9VYQ",
     "name": "Marc",
     "a": 6,
@@ -262,13 +269,6 @@
     "a": 2,
     "lim": 6,
     "loot": 10383
-   },
-   {
-    "tag": "#9CJ9U0LL",
-    "name": "Evil Kruemel",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
    }
   ]
  },
