@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 120,
    "pct": 100.0,
-   "attacks": 51
+   "attacks": 52
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -1052,7 +1052,19 @@
     "name": "Monkey D. Lorik",
     "th": 18,
     "pos": 39,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2QPV2J29",
+      "dn": "SkorpionKap",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 118,
+      "n": 0,
+      "dur": 147
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -1095,7 +1107,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T19:09:47Z"
+  "snap": "2026-10-19T19:14:47Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
