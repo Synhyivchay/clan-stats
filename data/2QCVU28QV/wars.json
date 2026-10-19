@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 110,
    "pct": 93.72,
-   "attacks": 42
+   "attacks": 43
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -466,7 +466,19 @@
     "name": "Lennart",
     "th": 18,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JUY2LRRY",
+      "dn": "[AO] Daniel_25",
+      "dpos": 19,
+      "dth": 18,
+      "s": 1,
+      "p": 72,
+      "o": 101,
+      "n": 0,
+      "dur": 129
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -992,7 +1004,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T16:39:47Z"
+  "snap": "2026-10-19T16:44:47Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
