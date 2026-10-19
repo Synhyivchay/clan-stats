@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 9,
-   "pct": 15.0,
-   "attacks": 3
+   "stars": 12,
+   "pct": 20.0,
+   "attacks": 4
   },
   "them": {
    "tag": "#Y2GCPY02",
    "name": "azarbayejan.18,",
    "badge": "https://api-assets.clashofclans.com/badges/200/ew2IheL0rT7uywbSfS6N9PoDUg1R2okfHM2Y4cF0DwE.png",
    "level": 27,
-   "stars": 8,
-   "pct": 19.0,
-   "attacks": 5
+   "stars": 13,
+   "pct": 27.8,
+   "attacks": 7
   },
   "members": [
    {
@@ -92,7 +92,19 @@
     "name": "Partizan",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LJP9QCV8P",
+      "dn": "arton",
+      "dpos": 6,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 10,
+      "n": 3,
+      "dur": 93
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -249,9 +261,9 @@
     "pos": 17,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 76
     }
    },
    {
@@ -261,9 +273,9 @@
     "pos": 18,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -303,7 +315,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T18:44:47Z"
+  "snap": "2026-10-19T18:49:47Z"
  },
  {
   "id": "war_20261016T105212Z_2G0QGVG8L",

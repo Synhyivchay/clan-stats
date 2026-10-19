@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 119,
-   "pct": 99.92,
-   "attacks": 50
+   "stars": 120,
+   "pct": 100.0,
+   "attacks": 51
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -1016,7 +1016,19 @@
     "name": "Shaun Ryan",
     "th": 18,
     "pos": 37,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GJCRY8L8",
+      "dn": "[AO] Senki",
+      "dpos": 37,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 117,
+      "n": 1,
+      "dur": 160
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -1083,7 +1095,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T18:44:47Z"
+  "snap": "2026-10-19T18:49:47Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
