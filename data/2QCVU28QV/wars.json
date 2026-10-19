@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 90,
-   "pct": 77.22,
-   "attacks": 33
+   "stars": 93,
+   "pct": 79.72,
+   "attacks": 34
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -691,6 +691,17 @@
       "o": 83,
       "n": 3,
       "dur": 83
+     },
+     {
+      "d": "#QVR8UGPYY",
+      "dn": "PRISONA",
+      "dpos": 26,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 84,
+      "n": 3,
+      "dur": 96
      }
     ],
     "def": {
@@ -889,7 +900,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T15:39:33Z"
+  "snap": "2026-10-19T15:44:33Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
