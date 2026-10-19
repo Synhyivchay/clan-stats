@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 110,
-   "pct": 93.72,
-   "attacks": 44
+   "stars": 111,
+   "pct": 93.92,
+   "attacks": 45
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -595,7 +595,19 @@
     "name": "LokiPhil",
     "th": 18,
     "pos": 22,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JUY2LRRY",
+      "dn": "[AO] Daniel_25",
+      "dpos": 19,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 103,
+      "n": 1,
+      "dur": 169
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -1015,7 +1027,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T17:19:47Z"
+  "snap": "2026-10-19T17:29:47Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
