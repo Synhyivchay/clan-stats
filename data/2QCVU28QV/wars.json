@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 120,
    "pct": 100.0,
-   "attacks": 55
+   "attacks": 57
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -582,7 +582,30 @@
     "name": "xXDamage",
     "th": 18,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2QPV2J29",
+      "dn": "SkorpionKap",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 10,
+      "o": 122,
+      "n": 0,
+      "dur": 7
+     },
+     {
+      "d": "#QY90809Q",
+      "dn": "[AO] MadMax",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 50,
+      "o": 123,
+      "n": 0,
+      "dur": 35
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -1141,7 +1164,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T19:39:47Z"
+  "snap": "2026-10-19T19:44:47Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
