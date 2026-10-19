@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 812889,
+  "loot": 821150,
   "raids": 10,
-  "attacks": 194,
-  "districts": 75,
+  "attacks": 196,
+  "districts": 77,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -241,6 +241,13 @@
     "a": 6,
     "lim": 6,
     "loot": 14482
+   },
+   {
+    "tag": "#8LVR2JGU",
+    "name": "ELITE",
+    "a": 2,
+    "lim": 6,
+    "loot": 8261
    }
   ]
  },
