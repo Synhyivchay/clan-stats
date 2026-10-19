@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 727114,
+  "loot": 732949,
   "raids": 9,
-  "attacks": 176,
+  "attacks": 177,
   "districts": 68,
   "offReward": 0,
   "defReward": 0,
@@ -220,6 +220,13 @@
     "a": 3,
     "lim": 6,
     "loot": 11643
+   },
+   {
+    "tag": "#P2GULCL8G",
+    "name": "000Sergey000",
+    "a": 1,
+    "lim": 5,
+    "loot": 5835
    }
   ]
  },
