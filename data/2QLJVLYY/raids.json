@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 700241,
+  "loot": 710467,
   "raids": 9,
-  "attacks": 171,
-  "districts": 65,
+  "attacks": 173,
+  "districts": 66,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#YRYYYGY90",
+    "name": "naik",
+    "a": 6,
+    "lim": 6,
+    "loot": 33274
+   },
    {
     "tag": "#LV9VQJ8GP",
     "name": "Фалирит",
@@ -45,13 +52,6 @@
     "a": 6,
     "lim": 6,
     "loot": 28343
-   },
-   {
-    "tag": "#YRYYYGY90",
-    "name": "naik",
-    "a": 5,
-    "lim": 6,
-    "loot": 28308
    },
    {
     "tag": "#89RL09YL9",
@@ -201,6 +201,13 @@
     "loot": 18041
    },
    {
+    "tag": "#PVCPGJL9R",
+    "name": "000Roma000",
+    "a": 3,
+    "lim": 6,
+    "loot": 15125
+   },
+   {
     "tag": "#GJY0R0JCJ",
     "name": "denchik",
     "a": 6,
@@ -213,13 +220,6 @@
     "a": 3,
     "lim": 6,
     "loot": 11643
-   },
-   {
-    "tag": "#PVCPGJL9R",
-    "name": "000Roma000",
-    "a": 2,
-    "lim": 6,
-    "loot": 9865
    }
   ]
  },
