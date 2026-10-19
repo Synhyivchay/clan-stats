@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 5.0,
+   "attacks": 1
   },
   "them": {
    "tag": "#Y2GCPY02",
    "name": "azarbayejan.18,",
    "badge": "https://api-assets.clashofclans.com/badges/200/ew2IheL0rT7uywbSfS6N9PoDUg1R2okfHM2Y4cF0DwE.png",
    "level": 27,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 1,
+   "pct": 4.55,
+   "attacks": 1
   },
   "members": [
    {
@@ -202,9 +202,9 @@
     "pos": 15,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 91
     }
    },
    {
@@ -260,7 +260,19 @@
     "name": "vlados_x",
     "th": 13,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GGPQYYV0Y",
+      "dn": "mersana",
+      "dpos": 20,
+      "dth": 12,
+      "s": 3,
+      "p": 100,
+      "o": 1,
+      "n": 3,
+      "dur": 141
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -268,7 +280,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T18:04:47Z"
+  "snap": "2026-10-19T18:09:47Z"
  },
  {
   "id": "war_20261016T105212Z_2G0QGVG8L",

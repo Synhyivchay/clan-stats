@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 14,
-   "pct": 23.48,
-   "attacks": 7
+   "stars": 17,
+   "pct": 27.48,
+   "attacks": 8
   },
   "them": {
    "tag": "#PJY2URC9",
@@ -163,7 +163,19 @@
     "name": "Разрушитель",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#82RRG0CV",
+      "dn": "JaimeFdz_",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 8,
+      "n": 3,
+      "dur": 179
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -409,7 +421,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T18:04:47Z"
+  "snap": "2026-10-19T18:09:47Z"
  },
  {
   "id": "war_20261016T103139Z_UU9CC0U",
