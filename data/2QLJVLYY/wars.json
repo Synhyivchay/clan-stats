@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 4,
+   "pct": 7.48,
+   "attacks": 2
   },
   "them": {
    "tag": "#PJY2URC9",
@@ -68,7 +68,19 @@
     "name": "■◇LEGENDARNIY◇■",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#22QPQUG8U",
+      "dn": "ANDRES",
+      "dpos": 4,
+      "dth": 18,
+      "s": 2,
+      "p": 89,
+      "o": 2,
+      "n": 2,
+      "dur": 73
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -236,7 +248,19 @@
     "name": "MR.KING",
     "th": 17,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9QCLCJ9GP",
+      "dn": "chagiño",
+      "dpos": 17,
+      "dth": 17,
+      "s": 2,
+      "p": 98,
+      "o": 1,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -328,7 +352,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T17:44:47Z"
+  "snap": "2026-10-19T17:49:47Z"
  },
  {
   "id": "war_20261016T103139Z_UU9CC0U",
