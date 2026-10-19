@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 864303,
+  "loot": 888880,
   "raids": 11,
-  "attacks": 205,
-  "districts": 81,
+  "attacks": 210,
+  "districts": 83,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -17,6 +17,13 @@
     "a": 6,
     "lim": 6,
     "loot": 33274
+   },
+   {
+    "tag": "#QU0QU0Q80",
+    "name": "Dream®",
+    "a": 6,
+    "lim": 6,
+    "loot": 33215
    },
    {
     "tag": "#LV9VQJ8GP",
@@ -101,6 +108,13 @@
     "a": 6,
     "lim": 6,
     "loot": 27387
+   },
+   {
+    "tag": "#2PLP8UYGR",
+    "name": "jhonny du CAAP",
+    "a": 6,
+    "lim": 6,
+    "loot": 25908
    },
    {
     "tag": "#8GGC8UY08",
@@ -194,13 +208,6 @@
     "loot": 21349
    },
    {
-    "tag": "#QU0QU0Q80",
-    "name": "Dream®",
-    "a": 4,
-    "lim": 6,
-    "loot": 21333
-   },
-   {
     "tag": "#PQCYUY90C",
     "name": "Артёмчик",
     "a": 6,
@@ -248,13 +255,6 @@
     "a": 6,
     "lim": 6,
     "loot": 14482
-   },
-   {
-    "tag": "#2PLP8UYGR",
-    "name": "jhonny du CAAP",
-    "a": 3,
-    "lim": 6,
-    "loot": 13213
    }
   ]
  },
