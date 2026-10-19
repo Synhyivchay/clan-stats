@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 12,
-   "pct": 20.0,
-   "attacks": 4
+   "stars": 18,
+   "pct": 30.0,
+   "attacks": 6
   },
   "them": {
    "tag": "#Y2GCPY02",
@@ -103,6 +103,17 @@
       "o": 10,
       "n": 3,
       "dur": 93
+     },
+     {
+      "d": "#20V2CRY8Q",
+      "dn": "جاوید نام",
+      "dpos": 9,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 12,
+      "n": 3,
+      "dur": 87
      }
     ],
     "def": {
@@ -187,7 +198,19 @@
     "name": "prime",
     "th": 17,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QJ8P2PRL8",
+      "dn": "shadow war",
+      "dpos": 11,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 13,
+      "n": 3,
+      "dur": 129
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -315,7 +338,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T18:49:47Z"
+  "snap": "2026-10-19T18:54:47Z"
  },
  {
   "id": "war_20261016T105212Z_2G0QGVG8L",
