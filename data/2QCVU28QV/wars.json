@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 26,
-   "pct": 22.45,
-   "attacks": 9
+   "stars": 29,
+   "pct": 24.95,
+   "attacks": 10
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -43,6 +43,17 @@
       "o": 18,
       "n": 3,
       "dur": 100
+     },
+     {
+      "d": "#8P2PRC08",
+      "dn": "Little Wolf",
+      "dpos": 6,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 19,
+      "n": 3,
+      "dur": 114
      }
     ],
     "def": {
@@ -612,7 +623,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T05:39:07Z"
+  "snap": "2026-10-19T05:44:07Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
