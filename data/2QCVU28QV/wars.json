@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 63,
-   "pct": 54.67,
-   "attacks": 23
+   "stars": 64,
+   "pct": 54.92,
+   "attacks": 24
   },
   "them": {
    "tag": "#2YVYLVYJV",
    "name": "AUSTRIA ONE",
    "badge": "https://api-assets.clashofclans.com/badges/200/dtZVu0AGMRA-SXFlw3qttbypCQVe6laccIb-l0UKtAk.png",
    "level": 31,
-   "stars": 92,
-   "pct": 76.88,
-   "attacks": 35
+   "stars": 93,
+   "pct": 77.5,
+   "attacks": 36
   },
   "members": [
    {
@@ -505,9 +505,9 @@
      }
     ],
     "def": {
-     "n": 2,
-     "s": 2,
-     "p": 75
+     "n": 3,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -693,6 +693,17 @@
       "o": 58,
       "n": 0,
       "dur": 180
+     },
+     {
+      "d": "#22QQQ20CG",
+      "dn": "[AO] MK",
+      "dpos": 20,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 60,
+      "n": 1,
+      "dur": 155
      }
     ],
     "def": {
@@ -773,7 +784,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T09:34:07Z"
+  "snap": "2026-10-19T09:39:07Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
