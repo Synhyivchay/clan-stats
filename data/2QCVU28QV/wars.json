@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 107,
-   "pct": 92.15,
-   "attacks": 39
+   "stars": 110,
+   "pct": 93.72,
+   "attacks": 41
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -67,7 +67,19 @@
     "name": "Bigmac's sohn",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q2VRLRPC",
+      "dn": "[AO] sebi",
+      "dpos": 18,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 94,
+      "n": 1,
+      "dur": 165
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -713,6 +725,17 @@
       "o": 91,
       "n": 3,
       "dur": 102
+     },
+     {
+      "d": "#Y9RQCJLVY",
+      "dn": "[AO] ibims",
+      "dpos": 31,
+      "dth": 18,
+      "s": 2,
+      "p": 62,
+      "o": 95,
+      "n": 2,
+      "dur": 80
      }
     ],
     "def": {
@@ -958,7 +981,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T16:09:33Z"
+  "snap": "2026-10-19T16:14:33Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
