@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 115,
-   "pct": 97.38,
-   "attacks": 47
+   "stars": 116,
+   "pct": 97.45,
+   "attacks": 48
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -700,7 +700,19 @@
     "name": "Ｍ Λ Ｘ",
     "th": 18,
     "pos": 25,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L0U8QCYG0",
+      "dn": "[AO]PappaViking",
+      "dpos": 27,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 112,
+      "n": 1,
+      "dur": 121
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -1049,7 +1061,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T18:14:47Z"
+  "snap": "2026-10-19T18:24:47Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
