@@ -22,9 +22,9 @@
    "name": "DESTRUCTORES",
    "badge": "https://api-assets.clashofclans.com/badges/200/lbM-URrCcp8e1aAPFtWUX3jjs6SXosRUq-pHTx-r_M4.png",
    "level": 32,
-   "stars": 2,
-   "pct": 3.96,
-   "attacks": 1
+   "stars": 4,
+   "pct": 7.64,
+   "attacks": 2
   },
   "members": [
    {
@@ -81,9 +81,9 @@
     "pos": 3,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 92
     }
    },
    {
@@ -501,7 +501,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T23:40:07Z"
+  "snap": "2026-10-19T23:45:07Z"
  },
  {
   "id": "war_20261016T103139Z_UU9CC0U",
