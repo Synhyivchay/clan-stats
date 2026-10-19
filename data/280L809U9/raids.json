@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 827006,
+  "loot": 834046,
   "raids": 11,
-  "attacks": 195,
+  "attacks": 196,
   "districts": 74,
   "offReward": 0,
   "defReward": 0,
@@ -87,6 +87,13 @@
     "a": 6,
     "lim": 6,
     "loot": 28318
+   },
+   {
+    "tag": "#PCUY9YUYU",
+    "name": "OO REEBOK OO",
+    "a": 5,
+    "lim": 6,
+    "loot": 28130
    },
    {
     "tag": "#GLCVPCCQ2",
@@ -185,13 +192,6 @@
     "a": 6,
     "lim": 6,
     "loot": 21236
-   },
-   {
-    "tag": "#PCUY9YUYU",
-    "name": "OO REEBOK OO",
-    "a": 4,
-    "lim": 6,
-    "loot": 21090
    },
    {
     "tag": "#LG908QVL8",
