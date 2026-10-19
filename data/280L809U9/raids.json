@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-16T07:00:00Z",
   "end": "2026-10-19T07:00:00Z",
-  "loot": 777002,
+  "loot": 780525,
   "raids": 9,
-  "attacks": 185,
-  "districts": 70,
+  "attacks": 186,
+  "districts": 71,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -234,6 +234,13 @@
     "a": 2,
     "lim": 6,
     "loot": 4348
+   },
+   {
+    "tag": "#G0GP90YCL",
+    "name": "Boston",
+    "a": 1,
+    "lim": 6,
+    "loot": 3523
    }
   ]
  },

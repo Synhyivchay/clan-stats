@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 17,
-   "pct": 14.95,
-   "attacks": 6
+   "stars": 23,
+   "pct": 19.95,
+   "attacks": 8
   },
   "them": {
    "tag": "#2YVYLVYJV",
@@ -175,7 +175,30 @@
     "name": "slory",
     "th": 18,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q28VGPLU8",
+      "dn": "[AO] edin",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 16,
+      "n": 3,
+      "dur": 169
+     },
+     {
+      "d": "#YV0LQ8L2",
+      "dn": "[AO] Montell",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 17,
+      "n": 3,
+      "dur": 134
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -577,7 +600,7 @@
     }
    }
   ],
-  "snap": "2026-10-19T05:24:07Z"
+  "snap": "2026-10-19T05:34:07Z"
  },
  {
   "id": "war_20261015T233719Z_2QR2PRPC",
