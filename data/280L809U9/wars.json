@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 30,
-   "pct": 50.0,
-   "attacks": 10
+   "stars": 32,
+   "pct": 53.9,
+   "attacks": 11
   },
   "them": {
    "tag": "#Y2GCPY02",
@@ -351,6 +351,17 @@
       "o": 29,
       "n": 3,
       "dur": 159
+     },
+     {
+      "d": "#GU000UVRV",
+      "dn": "Mr golden",
+      "dpos": 18,
+      "dth": 17,
+      "s": 2,
+      "p": 78,
+      "o": 30,
+      "n": 2,
+      "dur": 118
      }
     ],
     "def": {
@@ -384,7 +395,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T03:25:07Z"
+  "snap": "2026-10-20T03:30:17Z"
  },
  {
   "id": "war_20261016T105212Z_2G0QGVG8L",
