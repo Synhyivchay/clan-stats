@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 55,
-   "pct": 91.8,
-   "attacks": 22
+   "stars": 56,
+   "pct": 93.7,
+   "attacks": 23
   },
   "them": {
    "tag": "#Y2GCPY02",
@@ -103,6 +103,17 @@
       "o": 49,
       "n": 1,
       "dur": 144
+     },
+     {
+      "d": "#2P08QJ0VV",
+      "dn": "#جاوید شاه",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 50,
+      "n": 1,
+      "dur": 149
      }
     ],
     "def": {
@@ -523,7 +534,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T14:15:55Z"
+  "snap": "2026-10-20T14:20:55Z"
  },
  {
   "id": "war_20261016T105212Z_2G0QGVG8L",
