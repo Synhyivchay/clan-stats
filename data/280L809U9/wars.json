@@ -23,8 +23,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/ew2IheL0rT7uywbSfS6N9PoDUg1R2okfHM2Y4cF0DwE.png",
    "level": 27,
    "stars": 45,
-   "pct": 81.05,
-   "attacks": 19
+   "pct": 82.2,
+   "attacks": 20
   },
   "members": [
    {
@@ -330,9 +330,9 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 2,
-     "p": 76
+     "p": 99
     }
    },
    {
@@ -407,7 +407,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T05:05:17Z"
+  "snap": "2026-10-20T05:15:17Z"
  },
  {
   "id": "war_20261016T105212Z_2G0QGVG8L",
