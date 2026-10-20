@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 10,
-   "pct": 12.97,
-   "attacks": 4
+   "stars": 12,
+   "pct": 16.07,
+   "attacks": 5
   },
   "them": {
    "tag": "#92C8LVJ9",
    "name": "spartan",
    "badge": "https://api-assets.clashofclans.com/badges/200/_OJh3KBKcL07KRU6HrkFHRduCa6In29EMzkEDZ0UX9I.png",
    "level": 24,
-   "stars": 33,
-   "pct": 36.67,
-   "attacks": 12
+   "stars": 36,
+   "pct": 40.0,
+   "attacks": 13
   },
   "members": [
    {
@@ -129,9 +129,9 @@
     "pos": 7,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -331,7 +331,19 @@
     "name": "Chloè❤",
     "th": 18,
     "pos": 24,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q98GQVYQG",
+      "dn": "GuH",
+      "dpos": 14,
+      "dth": 18,
+      "s": 2,
+      "p": 93,
+      "o": 18,
+      "n": 2,
+      "dur": 167
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -434,7 +446,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T22:26:19Z"
+  "snap": "2026-10-20T22:31:19Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
