@@ -15,16 +15,16 @@
    "level": 34,
    "stars": 75,
    "pct": 100.0,
-   "attacks": 39
+   "attacks": 41
   },
   "them": {
    "tag": "#PJY2URC9",
    "name": "DESTRUCTORES",
    "badge": "https://api-assets.clashofclans.com/badges/200/lbM-URrCcp8e1aAPFtWUX3jjs6SXosRUq-pHTx-r_M4.png",
    "level": 32,
-   "stars": 65,
-   "pct": 91.88,
-   "attacks": 38
+   "stars": 66,
+   "pct": 92.28,
+   "attacks": 39
   },
   "members": [
    {
@@ -46,9 +46,9 @@
      }
     ],
     "def": {
-     "n": 3,
-     "s": 2,
-     "p": 90
+     "n": 4,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -172,6 +172,17 @@
       "o": 77,
       "n": 1,
       "dur": 125
+     },
+     {
+      "d": "#89RLU2L0Y",
+      "dn": "MAX",
+      "dpos": 3,
+      "dth": 18,
+      "s": 1,
+      "p": 8,
+      "o": 80,
+      "n": 0,
+      "dur": 6
      }
     ],
     "def": {
@@ -196,6 +207,17 @@
       "o": 75,
       "n": 3,
       "dur": 85
+     },
+     {
+      "d": "#89RLU2L0Y",
+      "dn": "MAX",
+      "dpos": 3,
+      "dth": 18,
+      "s": 1,
+      "p": 8,
+      "o": 79,
+      "n": 0,
+      "dur": 6
      }
     ],
     "def": {
@@ -779,7 +801,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T17:01:07Z"
+  "snap": "2026-10-20T17:06:07Z"
  },
  {
   "id": "war_20261016T103139Z_UU9CC0U",
