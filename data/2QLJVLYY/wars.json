@@ -15,7 +15,7 @@
    "level": 34,
    "stars": 36,
    "pct": 54.92,
-   "attacks": 17
+   "attacks": 18
   },
   "them": {
    "tag": "#PJY2URC9",
@@ -32,7 +32,19 @@
     "name": "Melata",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#UGG8VPU",
+      "dn": "yantaudel",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 94,
+      "o": 25,
+      "n": 0,
+      "dur": 100
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -524,7 +536,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T03:00:07Z"
+  "snap": "2026-10-20T03:10:07Z"
  },
  {
   "id": "war_20261016T103139Z_UU9CC0U",
