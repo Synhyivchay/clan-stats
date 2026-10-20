@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 4,
-   "pct": 6.3,
-   "attacks": 2
+   "stars": 10,
+   "pct": 12.97,
+   "attacks": 4
   },
   "them": {
    "tag": "#92C8LVJ9",
    "name": "spartan",
    "badge": "https://api-assets.clashofclans.com/badges/200/_OJh3KBKcL07KRU6HrkFHRduCa6In29EMzkEDZ0UX9I.png",
    "level": 24,
-   "stars": 29,
-   "pct": 32.47,
-   "attacks": 10
+   "stars": 33,
+   "pct": 36.67,
+   "attacks": 12
   },
   "members": [
    {
@@ -32,7 +32,30 @@
     "name": "Amelie❤",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9PY9JYV0Y",
+      "dn": "PAIDOBOY",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 13,
+      "n": 3,
+      "dur": 86
+     },
+     {
+      "d": "#8922J0GUQ",
+      "dn": "LionelMessi",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 16,
+      "n": 3,
+      "dur": 101
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -154,9 +177,9 @@
     "pos": 11,
     "attacks": [],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 74
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -298,9 +321,9 @@
     "pos": 23,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -411,7 +434,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T22:11:19Z"
+  "snap": "2026-10-20T22:21:19Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
