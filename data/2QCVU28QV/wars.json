@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 3,
-   "pct": 3.33,
-   "attacks": 1
+   "stars": 4,
+   "pct": 6.3,
+   "attacks": 2
   },
   "them": {
    "tag": "#92C8LVJ9",
    "name": "spartan",
    "badge": "https://api-assets.clashofclans.com/badges/200/_OJh3KBKcL07KRU6HrkFHRduCa6In29EMzkEDZ0UX9I.png",
    "level": 24,
-   "stars": 3,
-   "pct": 3.33,
-   "attacks": 1
+   "stars": 6,
+   "pct": 6.67,
+   "attacks": 2
   },
   "members": [
    {
@@ -367,6 +367,17 @@
       "o": 1,
       "n": 3,
       "dur": 130
+     },
+     {
+      "d": "#88P98QGLP",
+      "dn": "Léo, o Nardo",
+      "dpos": 7,
+      "dth": 18,
+      "s": 1,
+      "p": 89,
+      "o": 4,
+      "n": 1,
+      "dur": 159
      }
     ],
     "def": {
@@ -382,9 +393,9 @@
     "pos": 29,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -400,7 +411,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T21:51:19Z"
+  "snap": "2026-10-20T21:56:19Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
