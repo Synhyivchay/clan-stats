@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 49,
-   "pct": 81.8,
-   "attacks": 19
+   "stars": 51,
+   "pct": 86.55,
+   "attacks": 20
   },
   "them": {
    "tag": "#Y2GCPY02",
@@ -257,7 +257,19 @@
     "name": "Дракс",
     "th": 16,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#VJCU0CQL",
+      "dn": "#خاندان پهلوی",
+      "dpos": 5,
+      "dth": 18,
+      "s": 2,
+      "p": 95,
+      "o": 47,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 2,
      "s": 2,
@@ -488,7 +500,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T13:15:55Z"
+  "snap": "2026-10-20T13:20:55Z"
  },
  {
   "id": "war_20261016T105212Z_2G0QGVG8L",
