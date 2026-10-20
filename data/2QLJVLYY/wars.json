@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 60,
-   "pct": 83.04,
-   "attacks": 28
+   "stars": 61,
+   "pct": 84.72,
+   "attacks": 29
   },
   "them": {
    "tag": "#PJY2URC9",
    "name": "DESTRUCTORES",
    "badge": "https://api-assets.clashofclans.com/badges/200/lbM-URrCcp8e1aAPFtWUX3jjs6SXosRUq-pHTx-r_M4.png",
    "level": 32,
-   "stars": 43,
-   "pct": 60.96,
-   "attacks": 25
+   "stars": 46,
+   "pct": 64.96,
+   "attacks": 26
   },
   "members": [
    {
@@ -388,9 +388,9 @@
     "pos": 15,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -527,7 +527,19 @@
     "name": "алексей3",
     "th": 16,
     "pos": 21,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G2PY2PYU",
+      "dn": "Tiagho Uchiha",
+      "dpos": 21,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 55,
+      "n": 1,
+      "dur": 80
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -652,7 +664,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T13:35:55Z"
+  "snap": "2026-10-20T13:40:55Z"
  },
  {
   "id": "war_20261016T103139Z_UU9CC0U",
