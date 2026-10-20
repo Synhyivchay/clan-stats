@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 59,
-   "pct": 99.9,
-   "attacks": 28
+   "stars": 60,
+   "pct": 100.0,
+   "attacks": 30
   },
   "them": {
    "tag": "#Y2GCPY02",
@@ -126,7 +126,30 @@
     "name": "ㅤㅤㅤㅤ",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P9CQV9VV",
+      "dn": "MR.MEHRDAD",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 59,
+      "n": 1,
+      "dur": 85
+     },
+     {
+      "d": "#20C8R0LRJ",
+      "dn": "رضا",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 60,
+      "n": 0,
+      "dur": 79
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -592,7 +615,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T17:26:07Z"
+  "snap": "2026-10-20T17:31:07Z"
  },
  {
   "id": "war_20261016T105212Z_2G0QGVG8L",
