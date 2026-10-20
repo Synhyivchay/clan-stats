@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 35,
-   "pct": 53.4,
-   "attacks": 16
+   "stars": 36,
+   "pct": 54.92,
+   "attacks": 17
   },
   "them": {
    "tag": "#PJY2URC9",
@@ -504,6 +504,17 @@
       "o": 21,
       "n": 2,
       "dur": 95
+     },
+     {
+      "d": "#99Y89RP8Q",
+      "dn": "Papá Pitufo",
+      "dpos": 20,
+      "dth": 16,
+      "s": 1,
+      "p": 38,
+      "o": 22,
+      "n": 1,
+      "dur": 104
      }
     ],
     "def": {
@@ -513,7 +524,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T02:20:07Z"
+  "snap": "2026-10-20T02:25:07Z"
  },
  {
   "id": "war_20261016T103139Z_UU9CC0U",
