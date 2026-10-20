@@ -16,7 +16,10 @@
  "warLogPublic": true,
  "trackingSince": "2026-10-15T13:52:34Z",
  "contribFetched": "2026-10-20T13:45:55Z",
- "updated": "2026-10-20T14:05:55Z",
- "errors": [],
+ "updated": "2026-10-20T14:10:55Z",
+ "errors": [
+  "КВ: 520 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/\",\"title\":\"Error 520: Web server is returning an unknown error\",\"status\":520,\"detai (/clans/#280L809U9/currentwar)",
+  "ЛВК: 525 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-525/\",\"title\":\"Error 525: SSL handshake failed\",\"status\":525,\"detail\":\"The SSL/TLS hand (/clans/#280L809U9/currentwar/leaguegroup)"
+ ],
  "show": true
 }
