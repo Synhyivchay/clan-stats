@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 12,
-   "pct": 16.07,
-   "attacks": 5
+   "stars": 15,
+   "pct": 19.4,
+   "attacks": 6
   },
   "them": {
    "tag": "#92C8LVJ9",
    "name": "spartan",
    "badge": "https://api-assets.clashofclans.com/badges/200/_OJh3KBKcL07KRU6HrkFHRduCa6In29EMzkEDZ0UX9I.png",
    "level": 24,
-   "stars": 36,
-   "pct": 40.0,
-   "attacks": 13
+   "stars": 39,
+   "pct": 43.33,
+   "attacks": 14
   },
   "members": [
    {
@@ -153,9 +153,9 @@
     "pos": 9,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -342,6 +342,17 @@
       "o": 18,
       "n": 2,
       "dur": 167
+     },
+     {
+      "d": "#9QU0JU0RU",
+      "dn": "Marley_man",
+      "dpos": 22,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 20,
+      "n": 3,
+      "dur": 139
      }
     ],
     "def": {
@@ -446,7 +457,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T22:31:19Z"
+  "snap": "2026-10-20T22:36:19Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
