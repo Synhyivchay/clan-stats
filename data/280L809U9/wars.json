@@ -22,9 +22,9 @@
    "name": "azarbayejan.18,",
    "badge": "https://api-assets.clashofclans.com/badges/200/ew2IheL0rT7uywbSfS6N9PoDUg1R2okfHM2Y4cF0DwE.png",
    "level": 27,
-   "stars": 51,
-   "pct": 93.3,
-   "attacks": 23
+   "stars": 52,
+   "pct": 93.9,
+   "attacks": 24
   },
   "members": [
    {
@@ -141,9 +141,9 @@
     "pos": 7,
     "attacks": [],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 88
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -465,7 +465,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T10:45:55Z"
+  "snap": "2026-10-20T10:55:55Z"
  },
  {
   "id": "war_20261016T105212Z_2G0QGVG8L",
