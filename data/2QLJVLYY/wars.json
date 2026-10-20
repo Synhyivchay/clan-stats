@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 40,
-   "pct": 58.08,
-   "attacks": 20
+   "stars": 43,
+   "pct": 62.08,
+   "attacks": 21
   },
   "them": {
    "tag": "#PJY2URC9",
@@ -282,7 +282,19 @@
     "name": "ELITE",
     "th": 18,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q20G8UQVP",
+      "dn": "Sebas",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 28,
+      "n": 3,
+      "dur": 120
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -560,7 +572,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T05:15:17Z"
+  "snap": "2026-10-20T05:20:17Z"
  },
  {
   "id": "war_20261016T103139Z_UU9CC0U",
