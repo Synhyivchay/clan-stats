@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 33,
-   "pct": 51.08,
-   "attacks": 15
+   "stars": 35,
+   "pct": 53.4,
+   "attacks": 16
   },
   "them": {
    "tag": "#PJY2URC9",
@@ -493,7 +493,19 @@
     "name": "denchik",
     "th": 13,
     "pos": 25,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G2PY2PYU",
+      "dn": "Tiagho Uchiha",
+      "dpos": 21,
+      "dth": 16,
+      "s": 2,
+      "p": 58,
+      "o": 21,
+      "n": 2,
+      "dur": 95
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -501,7 +513,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T02:10:07Z"
+  "snap": "2026-10-20T02:20:07Z"
  },
  {
   "id": "war_20261016T103139Z_UU9CC0U",
