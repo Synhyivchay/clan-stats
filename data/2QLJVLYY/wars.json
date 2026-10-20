@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
    "stars": 61,
-   "pct": 84.72,
-   "attacks": 29
+   "pct": 86.88,
+   "attacks": 30
   },
   "them": {
    "tag": "#PJY2URC9",
@@ -538,6 +538,17 @@
       "o": 55,
       "n": 1,
       "dur": 80
+     },
+     {
+      "d": "#99Y89RP8Q",
+      "dn": "Papá Pitufo",
+      "dpos": 20,
+      "dth": 16,
+      "s": 1,
+      "p": 92,
+      "o": 56,
+      "n": 0,
+      "dur": 163
      }
     ],
     "def": {
@@ -664,7 +675,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T13:40:55Z"
+  "snap": "2026-10-20T13:45:55Z"
  },
  {
   "id": "war_20261016T103139Z_UU9CC0U",
