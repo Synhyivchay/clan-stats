@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 43,
-   "pct": 62.08,
-   "attacks": 21
+   "stars": 46,
+   "pct": 66.08,
+   "attacks": 22
   },
   "them": {
    "tag": "#PJY2URC9",
@@ -258,7 +258,19 @@
     "name": "ebobo",
     "th": 18,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9YGGRVL2U",
+      "dn": "Mario bros",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 29,
+      "n": 3,
+      "dur": 144
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -572,7 +584,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T05:30:17Z"
+  "snap": "2026-10-20T05:40:17Z"
  },
  {
   "id": "war_20261016T103139Z_UU9CC0U",
