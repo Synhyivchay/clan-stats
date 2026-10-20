@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 32,
-   "pct": 53.9,
-   "attacks": 11
+   "stars": 34,
+   "pct": 57.6,
+   "attacks": 12
   },
   "them": {
    "tag": "#Y2GCPY02",
@@ -32,7 +32,19 @@
     "name": "Ragnar",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P9CQV9VV",
+      "dn": "MR.MEHRDAD",
+      "dpos": 1,
+      "dth": 18,
+      "s": 2,
+      "p": 74,
+      "o": 31,
+      "n": 2,
+      "dur": 102
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -395,7 +407,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T03:45:17Z"
+  "snap": "2026-10-20T03:50:17Z"
  },
  {
   "id": "war_20261016T105212Z_2G0QGVG8L",
