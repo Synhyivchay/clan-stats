@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 52,
-   "pct": 74.08,
-   "attacks": 24
+   "stars": 55,
+   "pct": 78.08,
+   "attacks": 25
   },
   "them": {
    "tag": "#PJY2URC9",
    "name": "DESTRUCTORES",
    "badge": "https://api-assets.clashofclans.com/badges/200/lbM-URrCcp8e1aAPFtWUX3jjs6SXosRUq-pHTx-r_M4.png",
    "level": 32,
-   "stars": 42,
-   "pct": 58.16,
-   "attacks": 24
+   "stars": 43,
+   "pct": 60.96,
+   "attacks": 25
   },
   "members": [
    {
@@ -175,9 +175,9 @@
     "pos": 6,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 70
     }
    },
    {
@@ -256,7 +256,19 @@
     "name": "Super Men",
     "th": 18,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2289L2RRL",
+      "dn": "raul",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 50,
+      "n": 3,
+      "dur": 87
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -606,7 +618,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T12:40:55Z"
+  "snap": "2026-10-20T12:45:55Z"
  },
  {
   "id": "war_20261016T103139Z_UU9CC0U",
