@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 61,
-   "pct": 86.88,
-   "attacks": 30
+   "stars": 62,
+   "pct": 86.24,
+   "attacks": 31
   },
   "them": {
    "tag": "#PJY2URC9",
    "name": "DESTRUCTORES",
    "badge": "https://api-assets.clashofclans.com/badges/200/lbM-URrCcp8e1aAPFtWUX3jjs6SXosRUq-pHTx-r_M4.png",
    "level": 32,
-   "stars": 48,
-   "pct": 68.4,
-   "attacks": 27
+   "stars": 50,
+   "pct": 69.6,
+   "attacks": 28
   },
   "members": [
    {
@@ -175,9 +175,9 @@
     "pos": 6,
     "attacks": [],
     "def": {
-     "n": 1,
-     "s": 1,
-     "p": 70
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -515,7 +515,19 @@
     "name": "0777",
     "th": 16,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#99Y89RP8Q",
+      "dn": "Papá Pitufo",
+      "dpos": 20,
+      "dth": 16,
+      "s": 2,
+      "p": 76,
+      "o": 59,
+      "n": 1,
+      "dur": 114
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -675,7 +687,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T14:20:55Z"
+  "snap": "2026-10-20T14:25:55Z"
  },
  {
   "id": "war_20261016T103139Z_UU9CC0U",

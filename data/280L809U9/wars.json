@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 56,
-   "pct": 93.7,
-   "attacks": 23
+   "pct": 95.6,
+   "attacks": 24
   },
   "them": {
    "tag": "#Y2GCPY02",
@@ -233,7 +233,19 @@
     "name": "Jamshid",
     "th": 16,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#20C8R0LRJ",
+      "dn": "رضا",
+      "dpos": 2,
+      "dth": 18,
+      "s": 0,
+      "p": 38,
+      "o": 51,
+      "n": 0,
+      "dur": 41
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -534,7 +546,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T14:20:55Z"
+  "snap": "2026-10-20T14:25:55Z"
  },
  {
   "id": "war_20261016T105212Z_2G0QGVG8L",
