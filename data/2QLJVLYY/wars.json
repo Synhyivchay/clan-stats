@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 46,
-   "pct": 66.08,
-   "attacks": 22
+   "stars": 49,
+   "pct": 70.08,
+   "attacks": 23
   },
   "them": {
    "tag": "#PJY2URC9",
@@ -102,6 +102,17 @@
       "o": 26,
       "n": 2,
       "dur": 147
+     },
+     {
+      "d": "#8UQP0CJYJ",
+      "dn": "❤️❤️AIMARA❤️❤️",
+      "dpos": 6,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 33,
+      "n": 3,
+      "dur": 159
      }
     ],
     "def": {
@@ -584,7 +595,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T06:35:17Z"
+  "snap": "2026-10-20T06:40:17Z"
  },
  {
   "id": "war_20261016T103139Z_UU9CC0U",
