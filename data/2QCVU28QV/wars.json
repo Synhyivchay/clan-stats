@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 3.33,
+   "attacks": 1
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -356,7 +356,19 @@
     "name": "Cazerr",
     "th": 18,
     "pos": 28,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9LPJ989R",
+      "dn": "¥ Aragon ¥",
+      "dpos": 10,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 1,
+      "n": 3,
+      "dur": 130
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -388,7 +400,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T21:36:20Z"
+  "snap": "2026-10-20T21:46:20Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",

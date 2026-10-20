@@ -15,8 +15,10 @@
  "capitalHall": 10,
  "warLogPublic": true,
  "trackingSince": "2026-10-15T13:52:34Z",
- "contribFetched": "2026-10-20T20:46:20Z",
- "updated": "2026-10-20T21:36:20Z",
- "errors": [],
+ "contribFetched": "2026-10-20T21:46:20Z",
+ "updated": "2026-10-20T21:46:20Z",
+ "errors": [
+  "Рейды: 520 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/\",\"title\":\"Error 520: Web server is returning an unknown error\",\"status\":520,\"detai (/clans/#280L809U9/capitalraidseasons?limit=4)"
+ ],
  "show": true
 }
