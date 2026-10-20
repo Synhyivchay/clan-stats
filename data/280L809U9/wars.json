@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 54,
-   "pct": 91.55,
-   "attacks": 21
+   "stars": 55,
+   "pct": 91.8,
+   "attacks": 22
   },
   "them": {
    "tag": "#Y2GCPY02",
@@ -92,7 +92,19 @@
     "name": "Boston",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#VJCU0CQL",
+      "dn": "#خاندان پهلوی",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 49,
+      "n": 1,
+      "dur": 144
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -511,7 +523,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T14:05:55Z"
+  "snap": "2026-10-20T14:15:55Z"
  },
  {
   "id": "war_20261016T105212Z_2G0QGVG8L",
