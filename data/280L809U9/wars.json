@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 59,
-   "pct": 98.7,
-   "attacks": 27
+   "pct": 99.9,
+   "attacks": 28
   },
   "them": {
    "tag": "#Y2GCPY02",
@@ -67,6 +67,17 @@
       "o": 55,
       "n": 3,
       "dur": 125
+     },
+     {
+      "d": "#P9CQV9VV",
+      "dn": "MR.MEHRDAD",
+      "dpos": 1,
+      "dth": 18,
+      "s": 2,
+      "p": 98,
+      "o": 58,
+      "n": 0,
+      "dur": 180
      }
     ],
     "def": {
@@ -581,7 +592,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T16:41:07Z"
+  "snap": "2026-10-20T16:46:07Z"
  },
  {
   "id": "war_20261016T105212Z_2G0QGVG8L",
