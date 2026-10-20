@@ -16,7 +16,9 @@
  "warLogPublic": true,
  "trackingSince": "2026-10-16T21:01:41Z",
  "contribFetched": "2026-10-20T09:45:55Z",
- "updated": "2026-10-20T09:50:55Z",
- "errors": [],
+ "updated": "2026-10-20T10:00:55Z",
+ "errors": [
+  "Рейды: 525 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-525/\",\"title\":\"Error 525: SSL handshake failed\",\"status\":525,\"detail\":\"The SSL/TLS hand (/clans/#2QCVU28QV/capitalraidseasons?limit=4)"
+ ],
  "show": true
 }
