@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 69,
-   "pct": 94.32,
-   "attacks": 35
+   "stars": 70,
+   "pct": 94.72,
+   "attacks": 36
   },
   "them": {
    "tag": "#PJY2URC9",
    "name": "DESTRUCTORES",
    "badge": "https://api-assets.clashofclans.com/badges/200/lbM-URrCcp8e1aAPFtWUX3jjs6SXosRUq-pHTx-r_M4.png",
    "level": 32,
-   "stars": 60,
-   "pct": 84.72,
-   "attacks": 34
+   "stars": 64,
+   "pct": 91.16,
+   "attacks": 37
   },
   "members": [
    {
@@ -280,9 +280,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 73
     }
    },
    {
@@ -315,9 +315,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 75
     }
    },
    {
@@ -431,7 +431,19 @@
     "name": "Relax",
     "th": 18,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QQLQYGJQR",
+      "dn": "Ángel 2",
+      "dpos": 24,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 70,
+      "n": 1,
+      "dur": 85
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -468,9 +480,9 @@
      }
     ],
     "def": {
-     "n": 3,
+     "n": 4,
      "s": 2,
-     "p": 73
+     "p": 86
     }
    },
    {
@@ -732,7 +744,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T16:46:07Z"
+  "snap": "2026-10-20T16:51:07Z"
  },
  {
   "id": "war_20261016T103139Z_UU9CC0U",
