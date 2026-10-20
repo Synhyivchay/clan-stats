@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 43,
-   "pct": 72.6,
-   "attacks": 15
+   "stars": 47,
+   "pct": 78.7,
+   "attacks": 17
   },
   "them": {
    "tag": "#Y2GCPY02",
@@ -316,7 +316,30 @@
     "name": "grootich",
     "th": 15,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GJU89UGQY",
+      "dn": "mosi",
+      "dpos": 16,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 37,
+      "n": 3,
+      "dur": 149
+     },
+     {
+      "d": "#GU000UVRV",
+      "dn": "Mr golden",
+      "dpos": 18,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 38,
+      "n": 1,
+      "dur": 97
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -442,7 +465,7 @@
     }
    }
   ],
-  "snap": "2026-10-20T10:20:55Z"
+  "snap": "2026-10-20T10:25:55Z"
  },
  {
   "id": "war_20261016T105212Z_2G0QGVG8L",
