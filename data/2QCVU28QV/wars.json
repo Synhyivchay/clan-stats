@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 60,
-   "pct": 69.2,
-   "attacks": 24
+   "stars": 63,
+   "pct": 72.53,
+   "attacks": 25
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -515,6 +515,17 @@
       "o": 58,
       "n": 3,
       "dur": 90
+     },
+     {
+      "d": "#L9PLU9U2",
+      "dn": "『SPT』ARMSTRONG™",
+      "dpos": 19,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 59,
+      "n": 3,
+      "dur": 93
      }
     ],
     "def": {
@@ -666,7 +677,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T08:46:52Z"
+  "snap": "2026-10-21T08:51:52Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
