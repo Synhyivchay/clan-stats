@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 39,
-   "pct": 46.07,
-   "attacks": 14
+   "stars": 42,
+   "pct": 49.4,
+   "attacks": 15
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -294,7 +294,19 @@
     "name": "Bassko",
     "th": 18,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2LJJC9R22",
+      "dn": "EL CHEF●》",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 49,
+      "n": 3,
+      "dur": 133
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -551,7 +563,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T05:01:42Z"
+  "snap": "2026-10-21T05:06:42Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
