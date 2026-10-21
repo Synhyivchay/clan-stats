@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 76,
-   "pct": 86.23,
-   "attacks": 31
+   "stars": 79,
+   "pct": 89.57,
+   "attacks": 32
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -218,6 +218,17 @@
       "o": 46,
       "n": 3,
       "dur": 148
+     },
+     {
+      "d": "#9GLU92VQ",
+      "dn": "『SPT』PAULO™",
+      "dpos": 17,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 68,
+      "n": 3,
+      "dur": 116
      }
     ],
     "def": {
@@ -746,7 +757,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T12:11:52Z"
+  "snap": "2026-10-21T12:21:52Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
