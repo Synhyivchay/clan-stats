@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 18,
-   "pct": 22.73,
-   "attacks": 7
+   "stars": 21,
+   "pct": 26.07,
+   "attacks": 8
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -91,7 +91,19 @@
     "name": "Marc",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9JQVQPJP8",
+      "dn": "emersmith",
+      "dpos": 6,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 42,
+      "n": 3,
+      "dur": 162
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -469,7 +481,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T03:06:42Z"
+  "snap": "2026-10-21T03:11:42Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
