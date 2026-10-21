@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 51,
-   "pct": 59.37,
-   "attacks": 20
+   "stars": 52,
+   "pct": 59.63,
+   "attacks": 21
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -78,6 +78,17 @@
       "o": 47,
       "n": 3,
       "dur": 139
+     },
+     {
+      "d": "#88P98QGLP",
+      "dn": "Léo, o Nardo",
+      "dpos": 7,
+      "dth": 18,
+      "s": 2,
+      "p": 97,
+      "o": 55,
+      "n": 1,
+      "dur": 180
      }
     ],
     "def": {
@@ -620,7 +631,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T06:41:42Z"
+  "snap": "2026-10-21T06:51:42Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
