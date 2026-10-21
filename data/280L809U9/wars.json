@@ -2,7 +2,7 @@
  {
   "id": "war_20261020T204359Z_2QLP8UCR8",
   "type": "war",
-  "state": "preparation",
+  "state": "inWar",
   "prep": "2026-10-20T20:43:59Z",
   "start": "2026-10-21T20:08:26Z",
   "end": "2026-10-22T20:08:26Z",
@@ -22,9 +22,9 @@
    "name": "Friends 2022",
    "badge": "https://api-assets.clashofclans.com/badges/200/wx7Rk1tpcjPCxedNtPCaQio4uY_ZXq1kYRR1x2fMH-Q.png",
    "level": 23,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 2,
+   "pct": 4.7,
+   "attacks": 1
   },
   "members": [
    {
@@ -214,9 +214,9 @@
     "pos": 16,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 94
     }
    },
    {
@@ -268,7 +268,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T20:07:23Z"
+  "snap": "2026-10-21T20:12:23Z"
  },
  {
   "id": "war_20261018T190040Z_Y2GCPY02",
