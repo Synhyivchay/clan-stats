@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 79,
-   "pct": 89.57,
-   "attacks": 32
+   "stars": 80,
+   "pct": 89.83,
+   "attacks": 33
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -301,6 +301,17 @@
       "o": 60,
       "n": 3,
       "dur": 126
+     },
+     {
+      "d": "#2UR89QCGV",
+      "dn": "『SPT』LEONIDAS™",
+      "dpos": 15,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 69,
+      "n": 1,
+      "dur": 156
      }
     ],
     "def": {
@@ -757,7 +768,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T12:46:52Z"
+  "snap": "2026-10-21T12:51:52Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
