@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 52
+   "attacks": 53
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -407,7 +407,19 @@
     "name": "Lennart",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G28PGY2",
+      "dn": "『SPT』KAVERA™",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 103,
+      "n": 0,
+      "dur": 173
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -987,7 +999,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T21:02:23Z"
+  "snap": "2026-10-21T21:07:23Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
