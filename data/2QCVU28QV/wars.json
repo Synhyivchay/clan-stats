@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 30,
-   "pct": 36.07,
-   "attacks": 11
+   "stars": 33,
+   "pct": 39.4,
+   "attacks": 12
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -150,7 +150,19 @@
     "name": "ThomasCzika",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G28PGY2",
+      "dn": "『SPT』KAVERA™",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 46,
+      "n": 3,
+      "dur": 148
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -515,7 +527,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T03:36:42Z"
+  "snap": "2026-10-21T03:41:42Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
