@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 21,
-   "pct": 26.07,
-   "attacks": 8
+   "stars": 24,
+   "pct": 29.4,
+   "attacks": 9
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -102,6 +102,17 @@
       "o": 42,
       "n": 3,
       "dur": 162
+     },
+     {
+      "d": "#2JR9PJQRR",
+      "dn": "『SPT』HERO™️",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 43,
+      "n": 3,
+      "dur": 175
      }
     ],
     "def": {
@@ -481,7 +492,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T03:11:42Z"
+  "snap": "2026-10-21T03:16:42Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
