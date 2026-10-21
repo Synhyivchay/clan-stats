@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 6,
+   "pct": 10.0,
+   "attacks": 2
   },
   "them": {
    "tag": "#2QLP8UCR8",
@@ -116,7 +116,30 @@
     "name": "ed_sans_123",
     "th": 17,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#29PLUQPRV",
+      "dn": "<=Solrac=>",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 3,
+      "n": 3,
+      "dur": 159
+     },
+     {
+      "d": "#G2VP8JVJC",
+      "dn": "Matin Tveskaeg",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 3,
+      "dur": 130
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -268,7 +291,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T20:17:23Z"
+  "snap": "2026-10-21T20:22:23Z"
  },
  {
   "id": "war_20261018T190040Z_Y2GCPY02",
