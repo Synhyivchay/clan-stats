@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 42,
-   "pct": 49.4,
-   "attacks": 15
+   "stars": 45,
+   "pct": 52.73,
+   "attacks": 16
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -102,6 +102,17 @@
       "o": 48,
       "n": 3,
       "dur": 170
+     },
+     {
+      "d": "#2L0GVPYVR",
+      "dn": "『SPT』MAXIMUS™",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 50,
+      "n": 3,
+      "dur": 178
      }
     ],
     "def": {
@@ -563,7 +574,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T05:06:42Z"
+  "snap": "2026-10-21T05:11:42Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
