@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
    "stars": 70,
-   "pct": 79.3,
-   "attacks": 28
+   "pct": 79.57,
+   "attacks": 29
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -703,6 +703,17 @@
       "o": 62,
       "n": 3,
       "dur": 142
+     },
+     {
+      "d": "#G0QVGPQQP",
+      "dn": "felpin",
+      "dpos": 29,
+      "dth": 18,
+      "s": 2,
+      "p": 95,
+      "o": 63,
+      "n": 0,
+      "dur": 180
      }
     ],
     "def": {
@@ -712,7 +723,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T11:21:52Z"
+  "snap": "2026-10-21T11:26:52Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
