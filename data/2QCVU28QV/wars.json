@@ -22,9 +22,9 @@
    "name": "spartan",
    "badge": "https://api-assets.clashofclans.com/badges/200/_OJh3KBKcL07KRU6HrkFHRduCa6In29EMzkEDZ0UX9I.png",
    "level": 24,
-   "stars": 60,
-   "pct": 66.67,
-   "attacks": 21
+   "stars": 62,
+   "pct": 69.07,
+   "attacks": 22
   },
   "members": [
    {
@@ -380,9 +380,9 @@
     "pos": 25,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 72
     }
    },
    {
@@ -469,7 +469,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T00:21:19Z"
+  "snap": "2026-10-21T00:31:19Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
