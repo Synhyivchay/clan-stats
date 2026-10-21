@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 33,
-   "pct": 39.4,
-   "attacks": 12
+   "stars": 36,
+   "pct": 42.73,
+   "attacks": 13
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -67,7 +67,19 @@
     "name": "Bigmac's sohn",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y2UJ8L8J",
+      "dn": "Age of Empires",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 47,
+      "n": 3,
+      "dur": 139
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -527,7 +539,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T04:41:42Z"
+  "snap": "2026-10-21T04:46:42Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
