@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 42
+   "attacks": 43
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -301,7 +301,19 @@
     "name": "Killer 2000",
     "th": 18,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8LG9JRQJ",
+      "dn": "iBorges",
+      "dpos": 8,
+      "dth": 18,
+      "s": 1,
+      "p": 30,
+      "o": 84,
+      "n": 0,
+      "dur": 22
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -872,7 +884,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T18:37:23Z"
+  "snap": "2026-10-21T18:42:23Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
