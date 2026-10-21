@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 1,
+   "pct": 2.24,
+   "attacks": 1
   },
   "them": {
    "tag": "#2RULQVLP0",
@@ -212,7 +212,19 @@
     "name": "sleace",
     "th": 18,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YPYP89LUJ",
+      "dn": "A⚔️K SwazenN",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 56,
+      "o": 1,
+      "n": 1,
+      "dur": 86
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -328,7 +340,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T19:57:23Z"
+  "snap": "2026-10-21T20:02:23Z"
  },
  {
   "id": "war_20261018T183908Z_PJY2URC9",
