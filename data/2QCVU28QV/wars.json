@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 49,
-   "pct": 56.3,
-   "attacks": 19
+   "stars": 51,
+   "pct": 59.37,
+   "attacks": 20
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -269,7 +269,19 @@
     "name": "Hornbär",
     "th": 18,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2UR89QCGV",
+      "dn": "『SPT』LEONIDAS™",
+      "dpos": 15,
+      "dth": 18,
+      "s": 2,
+      "p": 92,
+      "o": 54,
+      "n": 2,
+      "dur": 171
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -608,7 +620,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T06:31:42Z"
+  "snap": "2026-10-21T06:41:42Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
