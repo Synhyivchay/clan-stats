@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 63,
-   "pct": 72.53,
-   "attacks": 25
+   "stars": 66,
+   "pct": 75.87,
+   "attacks": 26
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -268,7 +268,19 @@
     "name": "kevin",
     "th": 18,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LQLQVR8LR",
+      "dn": "RONNY",
+      "dpos": 25,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 60,
+      "n": 3,
+      "dur": 126
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -677,7 +689,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T08:51:52Z"
+  "snap": "2026-10-21T09:01:52Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
