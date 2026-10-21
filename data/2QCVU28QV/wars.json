@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 43
+   "attacks": 48
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -289,7 +289,30 @@
     "name": "Rudi",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G28PGY2",
+      "dn": "『SPT』KAVERA™",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 27,
+      "o": 85,
+      "n": 0,
+      "dur": 24
+     },
+     {
+      "d": "#UCRJC8G9",
+      "dn": "KVRXD",
+      "dpos": 4,
+      "dth": 18,
+      "s": 1,
+      "p": 20,
+      "o": 86,
+      "n": 0,
+      "dur": 27
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -595,7 +618,30 @@
     "name": "RudiV2",
     "th": 18,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G28PGY2",
+      "dn": "『SPT』KAVERA™",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 31,
+      "o": 87,
+      "n": 0,
+      "dur": 34
+     },
+     {
+      "d": "#UCRJC8G9",
+      "dn": "KVRXD",
+      "dpos": 4,
+      "dth": 18,
+      "s": 1,
+      "p": 33,
+      "o": 88,
+      "n": 0,
+      "dur": 50
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -759,7 +805,19 @@
     "name": "RudiV3",
     "th": 18,
     "pos": 26,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G28PGY2",
+      "dn": "『SPT』KAVERA™",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 35,
+      "o": 89,
+      "n": 0,
+      "dur": 39
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -884,7 +942,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T18:52:23Z"
+  "snap": "2026-10-21T19:02:23Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
