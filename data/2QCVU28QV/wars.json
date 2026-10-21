@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 83,
-   "pct": 93.17,
-   "attacks": 35
+   "stars": 89,
+   "pct": 99.83,
+   "attacks": 37
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -253,6 +253,17 @@
       "o": 70,
       "n": 1,
       "dur": 180
+     },
+     {
+      "d": "#9LL0LQQ29",
+      "dn": "!kinho",
+      "dpos": 26,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 72,
+      "n": 3,
+      "dur": 151
      }
     ],
     "def": {
@@ -443,7 +454,19 @@
     "name": "Niklord",
     "th": 18,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LGVGC98RY",
+      "dn": "『SPT』DAVIZN™",
+      "dpos": 24,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 73,
+      "n": 3,
+      "dur": 120
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -792,7 +815,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T14:52:07Z"
+  "snap": "2026-10-21T15:02:07Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
