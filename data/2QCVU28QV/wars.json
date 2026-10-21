@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 81,
-   "pct": 93.03,
-   "attacks": 34
+   "stars": 83,
+   "pct": 93.17,
+   "attacks": 35
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -502,7 +502,19 @@
     "name": "samu",
     "th": 18,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9CLCPRJ9P",
+      "dn": "C A C H U E R A",
+      "dpos": 20,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 71,
+      "n": 2,
+      "dur": 149
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -780,7 +792,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T14:17:07Z"
+  "snap": "2026-10-21T14:22:07Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
