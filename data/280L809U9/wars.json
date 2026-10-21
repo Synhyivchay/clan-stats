@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 10,
-   "pct": 22.55,
-   "attacks": 5
+   "stars": 12,
+   "pct": 22.95,
+   "attacks": 6
   },
   "them": {
    "tag": "#2QLP8UCR8",
@@ -115,6 +115,17 @@
       "o": 7,
       "n": 2,
       "dur": 140
+     },
+     {
+      "d": "#Q0L9LG22P",
+      "dn": "KING BHARATH",
+      "dpos": 16,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 8,
+      "n": 2,
+      "dur": 89
      }
     ],
     "def": {
@@ -326,7 +337,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T21:22:23Z"
+  "snap": "2026-10-21T21:27:23Z"
  },
  {
   "id": "war_20261018T190040Z_Y2GCPY02",
