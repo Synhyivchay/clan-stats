@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 55,
-   "pct": 62.97,
-   "attacks": 22
+   "stars": 57,
+   "pct": 65.87,
+   "attacks": 23
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -421,6 +421,17 @@
       "o": 56,
       "n": 3,
       "dur": 178
+     },
+     {
+      "d": "#G0QVGPQQP",
+      "dn": "felpin",
+      "dpos": 29,
+      "dth": 18,
+      "s": 2,
+      "p": 87,
+      "o": 57,
+      "n": 2,
+      "dur": 180
      }
     ],
     "def": {
@@ -643,7 +654,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T07:06:42Z"
+  "snap": "2026-10-21T07:11:42Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
