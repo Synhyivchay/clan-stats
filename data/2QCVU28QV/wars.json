@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 24,
-   "pct": 29.4,
-   "attacks": 9
+   "stars": 30,
+   "pct": 36.07,
+   "attacks": 11
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -330,7 +330,30 @@
     "name": "Alastor",
     "th": 18,
     "pos": 21,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LPRRUQ2CU",
+      "dn": "henrique",
+      "dpos": 21,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 44,
+      "n": 3,
+      "dur": 93
+     },
+     {
+      "d": "#YL9V2YYC8",
+      "dn": "Leandro",
+      "dpos": 23,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 45,
+      "n": 3,
+      "dur": 102
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -492,7 +515,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T03:16:42Z"
+  "snap": "2026-10-21T03:26:42Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
