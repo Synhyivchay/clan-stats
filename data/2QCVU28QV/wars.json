@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 89,
-   "pct": 99.83,
-   "attacks": 38
+   "stars": 90,
+   "pct": 100.0,
+   "attacks": 39
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -489,7 +489,19 @@
     "name": "LokiPhil",
     "th": 18,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G0QVGPQQP",
+      "dn": "felpin",
+      "dpos": 29,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 78,
+      "n": 1,
+      "dur": 154
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -826,7 +838,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T17:07:08Z"
+  "snap": "2026-10-21T17:12:08Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
