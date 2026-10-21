@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 67,
-   "pct": 75.97,
-   "attacks": 27
+   "stars": 70,
+   "pct": 79.3,
+   "attacks": 28
   },
   "them": {
    "tag": "#92C8LVJ9",
@@ -692,7 +692,19 @@
     "name": "GermanRuss",
     "th": 18,
     "pos": 30,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PR000P8LR",
+      "dn": "\"SPT\" ZEUS™",
+      "dpos": 30,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 62,
+      "n": 3,
+      "dur": 142
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -700,7 +712,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T11:16:52Z"
+  "snap": "2026-10-21T11:21:52Z"
  },
  {
   "id": "war_20261017T225707Z_2YVYLVYJV",
