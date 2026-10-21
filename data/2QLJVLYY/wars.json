@@ -22,9 +22,9 @@
    "name": "SECRET",
    "badge": "https://api-assets.clashofclans.com/badges/200/UjY5WHSFVCCB2D73mDSa_mew8WonwlxGpMlNhPGgHKo.png",
    "level": 7,
-   "stars": 40,
-   "pct": 58.68,
-   "attacks": 15
+   "stars": 43,
+   "pct": 59.32,
+   "attacks": 17
   },
   "members": [
    {
@@ -106,9 +106,9 @@
     "pos": 7,
     "attacks": [],
     "def": {
-     "n": 1,
-     "s": 1,
-     "p": 90
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -130,9 +130,9 @@
     "pos": 9,
     "attacks": [],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 94
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -340,7 +340,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T21:57:23Z"
+  "snap": "2026-10-21T22:02:23Z"
  },
  {
   "id": "war_20261018T183908Z_PJY2URC9",
