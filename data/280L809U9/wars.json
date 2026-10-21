@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 6,
-   "pct": 10.0,
-   "attacks": 2
+   "stars": 7,
+   "pct": 14.6,
+   "attacks": 3
   },
   "them": {
    "tag": "#2QLP8UCR8",
@@ -223,7 +223,19 @@
     "name": "grootich",
     "th": 15,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q0L9LG22P",
+      "dn": "KING BHARATH",
+      "dpos": 16,
+      "dth": 15,
+      "s": 1,
+      "p": 92,
+      "o": 5,
+      "n": 1,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -291,7 +303,7 @@
     }
    }
   ],
-  "snap": "2026-10-21T20:22:23Z"
+  "snap": "2026-10-21T20:32:23Z"
  },
  {
   "id": "war_20261018T190040Z_Y2GCPY02",
