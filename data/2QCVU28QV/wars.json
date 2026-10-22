@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 3,
-   "pct": 2.5,
-   "attacks": 1
+   "stars": 6,
+   "pct": 5.0,
+   "attacks": 2
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -104,7 +104,19 @@
     "name": "Louis™️187",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#VUJ92Y20",
+      "dn": "Prim⁰︎⁰︎⁷︎",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 18,
+      "n": 3,
+      "dur": 122
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -520,7 +532,7 @@
     }
    }
   ],
-  "snap": "2026-10-22T23:04:13Z"
+  "snap": "2026-10-22T23:14:13Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
