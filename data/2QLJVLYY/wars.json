@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 40,
-   "pct": 60.6,
-   "attacks": 20
+   "stars": 41,
+   "pct": 61.04,
+   "attacks": 21
   },
   "them": {
    "tag": "#2RULQVLP0",
@@ -90,6 +90,17 @@
       "o": 51,
       "n": 0,
       "dur": 119
+     },
+     {
+      "d": "#LYU9YRG2J",
+      "dn": "GECE KARTALI",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 53,
+      "n": 1,
+      "dur": 154
      }
     ],
     "def": {
@@ -561,7 +572,7 @@
     }
    }
   ],
-  "snap": "2026-10-22T08:43:24Z"
+  "snap": "2026-10-22T08:48:24Z"
  },
  {
   "id": "war_20261018T183908Z_PJY2URC9",
