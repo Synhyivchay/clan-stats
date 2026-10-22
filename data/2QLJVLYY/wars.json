@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 20,
-   "pct": 33.24,
-   "attacks": 11
+   "stars": 23,
+   "pct": 37.24,
+   "attacks": 12
   },
   "them": {
    "tag": "#2RULQVLP0",
@@ -330,6 +330,17 @@
       "o": 41,
       "n": 1,
       "dur": 142
+     },
+     {
+      "d": "#2LQ0LPG2V",
+      "dn": "Ömer《DEMİRCİ》",
+      "dpos": 16,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 42,
+      "n": 3,
+      "dur": 128
      }
     ],
     "def": {
@@ -458,7 +469,7 @@
     }
    }
   ],
-  "snap": "2026-10-22T04:58:15Z"
+  "snap": "2026-10-22T05:03:15Z"
  },
  {
   "id": "war_20261018T183908Z_PJY2URC9",
