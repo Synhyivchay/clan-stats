@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 27,
-   "pct": 49.1,
-   "attacks": 12
+   "stars": 31,
+   "pct": 58.55,
+   "attacks": 14
   },
   "them": {
    "tag": "#2QLP8UCR8",
@@ -244,6 +244,17 @@
       "o": 19,
       "n": 3,
       "dur": 157
+     },
+     {
+      "d": "#G089VGVQR",
+      "dn": "Queenmissy26",
+      "dpos": 15,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 25,
+      "n": 3,
+      "dur": 119
      }
     ],
     "def": {
@@ -387,7 +398,19 @@
     "name": "sgrassi",
     "th": 15,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y2CR9CYPJ",
+      "dn": "Lucky boy pro.",
+      "dpos": 20,
+      "dth": 14,
+      "s": 1,
+      "p": 89,
+      "o": 26,
+      "n": 1,
+      "dur": 126
+     }
+    ],
     "def": {
      "n": 1,
      "s": 1,
@@ -407,7 +430,7 @@
     }
    }
   ],
-  "snap": "2026-10-22T09:03:24Z"
+  "snap": "2026-10-22T09:08:24Z"
  },
  {
   "id": "war_20261018T190040Z_Y2GCPY02",
