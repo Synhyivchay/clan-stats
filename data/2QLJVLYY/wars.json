@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 18,
-   "pct": 29.4,
-   "attacks": 9
+   "stars": 20,
+   "pct": 33.24,
+   "attacks": 11
   },
   "them": {
    "tag": "#2RULQVLP0",
@@ -44,7 +44,19 @@
     "name": "naik",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QLQCL9V8R",
+      "dn": "KURTBEY",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 40,
+      "n": 1,
+      "dur": 139
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -307,7 +319,19 @@
     "name": "MR.KING",
     "th": 17,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L2L99RYPP",
+      "dn": "⛩️|Gamers64",
+      "dpos": 11,
+      "dth": 18,
+      "s": 1,
+      "p": 86,
+      "o": 41,
+      "n": 1,
+      "dur": 142
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -434,7 +458,7 @@
     }
    }
   ],
-  "snap": "2026-10-22T04:53:15Z"
+  "snap": "2026-10-22T04:58:15Z"
  },
  {
   "id": "war_20261018T183908Z_PJY2URC9",
