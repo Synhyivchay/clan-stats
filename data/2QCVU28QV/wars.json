@@ -22,9 +22,9 @@
    "name": "HitForHire",
    "badge": "https://api-assets.clashofclans.com/badges/200/_eyepw4_Rlj-eIcJQ6yIe44SrBnI4SRuK3vvrUQsp7U.png",
    "level": 24,
-   "stars": 21,
-   "pct": 17.5,
-   "attacks": 7
+   "stars": 30,
+   "pct": 26.12,
+   "attacks": 11
   },
   "members": [
    {
@@ -82,9 +82,9 @@
     "pos": 5,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 73
     }
    },
    {
@@ -94,9 +94,9 @@
     "pos": 6,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 93
     }
    },
    {
@@ -274,9 +274,9 @@
     "pos": 20,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -430,9 +430,9 @@
     "pos": 33,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 79
     }
    },
    {
@@ -520,7 +520,7 @@
     }
    }
   ],
-  "snap": "2026-10-22T22:29:03Z"
+  "snap": "2026-10-22T22:34:13Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
