@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 10,
-   "pct": 15.12,
-   "attacks": 5
+   "stars": 14,
+   "pct": 22.28,
+   "attacks": 7
   },
   "them": {
    "tag": "#2RULQVLP0",
@@ -127,7 +127,19 @@
     "name": "NumTorum",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QLQCL9V8R",
+      "dn": "KURTBEY",
+      "dpos": 2,
+      "dth": 18,
+      "s": 2,
+      "p": 90,
+      "o": 37,
+      "n": 2,
+      "dur": 107
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -283,7 +295,19 @@
     "name": "0777",
     "th": 16,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#20LQ2RCG0",
+      "dn": "ʟʊʐɨʄɛʀ",
+      "dpos": 18,
+      "dth": 16,
+      "s": 2,
+      "p": 89,
+      "o": 36,
+      "n": 2,
+      "dur": 150
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -386,7 +410,7 @@
     }
    }
   ],
-  "snap": "2026-10-22T04:03:15Z"
+  "snap": "2026-10-22T04:13:15Z"
  },
  {
   "id": "war_20261018T183908Z_PJY2URC9",
