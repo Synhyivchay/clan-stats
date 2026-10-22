@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 48,
-   "pct": 86.6,
-   "attacks": 22
+   "stars": 49,
+   "pct": 90.9,
+   "attacks": 23
   },
   "them": {
    "tag": "#2QLP8UCR8",
@@ -102,6 +102,17 @@
       "o": 41,
       "n": 3,
       "dur": 137
+     },
+     {
+      "d": "#LCPR9L902",
+      "dn": "Floki",
+      "dpos": 4,
+      "dth": 18,
+      "s": 1,
+      "p": 86,
+      "o": 42,
+      "n": 1,
+      "dur": 180
      }
     ],
     "def": {
@@ -523,7 +534,7 @@
     }
    }
   ],
-  "snap": "2026-10-22T17:29:03Z"
+  "snap": "2026-10-22T17:34:03Z"
  },
  {
   "id": "war_20261018T190040Z_Y2GCPY02",
