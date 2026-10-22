@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 52,
-   "pct": 93.45,
-   "attacks": 24
+   "pct": 93.75,
+   "attacks": 25
   },
   "them": {
    "tag": "#2QLP8UCR8",
@@ -67,7 +67,19 @@
     "name": "OO REEBOK OO",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LCPR9L902",
+      "dn": "Floki",
+      "dpos": 4,
+      "dth": 18,
+      "s": 1,
+      "p": 92,
+      "o": 44,
+      "n": 0,
+      "dur": 122
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -546,7 +558,7 @@
     }
    }
   ],
-  "snap": "2026-10-22T19:19:03Z"
+  "snap": "2026-10-22T19:24:03Z"
  },
  {
   "id": "war_20261018T190040Z_Y2GCPY02",
