@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 49,
-   "pct": 90.9,
-   "attacks": 23
+   "stars": 52,
+   "pct": 93.45,
+   "attacks": 24
   },
   "them": {
    "tag": "#2QLP8UCR8",
@@ -138,7 +138,19 @@
     "name": "Boston",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LLVUJYYQ8",
+      "dn": "shahid",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 43,
+      "n": 3,
+      "dur": 91
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -534,7 +546,7 @@
     }
    }
   ],
-  "snap": "2026-10-22T19:14:03Z"
+  "snap": "2026-10-22T19:19:03Z"
  },
  {
   "id": "war_20261018T190040Z_Y2GCPY02",
