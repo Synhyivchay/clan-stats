@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 37,
-   "pct": 68.55,
-   "attacks": 16
+   "stars": 40,
+   "pct": 73.55,
+   "attacks": 17
   },
   "them": {
    "tag": "#2QLP8UCR8",
@@ -197,7 +197,19 @@
     "name": "Aviasales",
     "th": 17,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L9Q92UQP2",
+      "dn": "mkuletz",
+      "dpos": 10,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 35,
+      "n": 3,
+      "dur": 80
+     }
+    ],
     "def": {
      "n": 1,
      "s": 1,
@@ -453,7 +465,7 @@
     }
    }
   ],
-  "snap": "2026-10-22T10:43:24Z"
+  "snap": "2026-10-22T10:48:24Z"
  },
  {
   "id": "war_20261018T190040Z_Y2GCPY02",
