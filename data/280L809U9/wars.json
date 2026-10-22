@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 44,
-   "pct": 76.1,
-   "attacks": 19
+   "stars": 45,
+   "pct": 81.6,
+   "attacks": 21
   },
   "them": {
    "tag": "#2QLP8UCR8",
@@ -233,7 +233,30 @@
     "name": "Jamshid",
     "th": 16,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LLVUJYYQ8",
+      "dn": "shahid",
+      "dpos": 9,
+      "dth": 18,
+      "s": 0,
+      "p": 49,
+      "o": 39,
+      "n": 0,
+      "dur": 69
+     },
+     {
+      "d": "#GPVRRGR2",
+      "dn": "arthur",
+      "dpos": 3,
+      "dth": 18,
+      "s": 1,
+      "p": 61,
+      "o": 40,
+      "n": 1,
+      "dur": 40
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -488,7 +511,7 @@
     }
    }
   ],
-  "snap": "2026-10-22T14:18:52Z"
+  "snap": "2026-10-22T14:28:52Z"
  },
  {
   "id": "war_20261018T190040Z_Y2GCPY02",
