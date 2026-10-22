@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 45,
-   "pct": 81.6,
-   "attacks": 21
+   "stars": 48,
+   "pct": 86.6,
+   "attacks": 22
   },
   "them": {
    "tag": "#2QLP8UCR8",
@@ -91,7 +91,19 @@
     "name": "GURU RANDHAWA",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q0PPQCPL9",
+      "dn": "Nala",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 41,
+      "n": 3,
+      "dur": 137
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -511,7 +523,7 @@
     }
    }
   ],
-  "snap": "2026-10-22T17:24:03Z"
+  "snap": "2026-10-22T17:29:03Z"
  },
  {
   "id": "war_20261018T190040Z_Y2GCPY02",
