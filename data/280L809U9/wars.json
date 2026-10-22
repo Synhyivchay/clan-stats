@@ -22,9 +22,9 @@
    "name": "Friends 2022",
    "badge": "https://api-assets.clashofclans.com/badges/200/wx7Rk1tpcjPCxedNtPCaQio4uY_ZXq1kYRR1x2fMH-Q.png",
    "level": 23,
-   "stars": 12,
-   "pct": 22.45,
-   "attacks": 5
+   "stars": 16,
+   "pct": 29.65,
+   "attacks": 7
   },
   "members": [
    {
@@ -247,9 +247,9 @@
     "pos": 13,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 72
     }
    },
    {
@@ -330,9 +330,9 @@
     "pos": 18,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 72
     }
    },
    {
@@ -360,7 +360,7 @@
     }
    }
   ],
-  "snap": "2026-10-22T01:28:15Z"
+  "snap": "2026-10-22T01:33:15Z"
  },
  {
   "id": "war_20261018T190040Z_Y2GCPY02",
