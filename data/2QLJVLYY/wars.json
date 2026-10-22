@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 60,
-   "pct": 87.16,
-   "attacks": 31
+   "stars": 67,
+   "pct": 94.2,
+   "attacks": 34
   },
   "them": {
    "tag": "#2RULQVLP0",
@@ -149,7 +149,19 @@
     "name": "000Roma000",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#J9UV89Y8",
+      "dn": "optimus prime",
+      "dpos": 7,
+      "dth": 18,
+      "s": 2,
+      "p": 73,
+      "o": 77,
+      "n": 2,
+      "dur": 148
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -278,6 +290,17 @@
       "o": 38,
       "n": 2,
       "dur": 126
+     },
+     {
+      "d": "#YCG8U9P2L",
+      "dn": "ayaz01",
+      "dpos": 6,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 76,
+      "n": 3,
+      "dur": 110
      }
     ],
     "def": {
@@ -326,6 +349,17 @@
       "o": 73,
       "n": 3,
       "dur": 117
+     },
+     {
+      "d": "#2PLY9Q2QV",
+      "dn": "【﻿Ｈａｌｄｕｎ】",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 75,
+      "n": 2,
+      "dur": 141
      }
     ],
     "def": {
@@ -688,7 +722,7 @@
     }
    }
   ],
-  "snap": "2026-10-22T17:34:03Z"
+  "snap": "2026-10-22T17:39:03Z"
  },
  {
   "id": "war_20261018T183908Z_PJY2URC9",
