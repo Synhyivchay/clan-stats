@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 16,
-   "pct": 29.6,
-   "attacks": 8
+   "stars": 18,
+   "pct": 34.1,
+   "attacks": 9
   },
   "them": {
    "tag": "#2QLP8UCR8",
@@ -245,7 +245,19 @@
     "name": "Дракс",
     "th": 16,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QR8G2Y9P2",
+      "dn": "Missy26 Gaming",
+      "dpos": 13,
+      "dth": 16,
+      "s": 2,
+      "p": 90,
+      "o": 16,
+      "n": 2,
+      "dur": 173
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -360,7 +372,7 @@
     }
    }
   ],
-  "snap": "2026-10-22T02:23:15Z"
+  "snap": "2026-10-22T02:33:15Z"
  },
  {
   "id": "war_20261018T190040Z_Y2GCPY02",
