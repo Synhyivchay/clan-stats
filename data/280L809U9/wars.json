@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 21,
-   "pct": 39.1,
-   "attacks": 10
+   "stars": 24,
+   "pct": 44.1,
+   "attacks": 11
   },
   "them": {
    "tag": "#2QLP8UCR8",
    "name": "Friends 2022",
    "badge": "https://api-assets.clashofclans.com/badges/200/wx7Rk1tpcjPCxedNtPCaQio4uY_ZXq1kYRR1x2fMH-Q.png",
    "level": 23,
-   "stars": 20,
-   "pct": 37.4,
-   "attacks": 9
+   "stars": 21,
+   "pct": 41.25,
+   "attacks": 10
   },
   "members": [
    {
@@ -199,9 +199,9 @@
     "pos": 9,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 77
     }
    },
    {
@@ -352,7 +352,19 @@
     "name": "Begbus",
     "th": 15,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QP2CUU9R8",
+      "dn": "Cat",
+      "dpos": 18,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 21,
+      "n": 3,
+      "dur": 111
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -384,7 +396,7 @@
     }
    }
   ],
-  "snap": "2026-10-22T05:23:15Z"
+  "snap": "2026-10-22T05:33:15Z"
  },
  {
   "id": "war_20261018T190040Z_Y2GCPY02",
