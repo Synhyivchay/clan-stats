@@ -15,10 +15,8 @@
  "capitalHall": 10,
  "warLogPublic": true,
  "trackingSince": "2026-10-15T22:46:46Z",
- "contribFetched": "2026-10-22T17:49:03Z",
- "updated": "2026-10-22T18:44:03Z",
- "errors": [
-  "КВ: 525 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-525/\",\"title\":\"Error 525: SSL handshake failed\",\"status\":525,\"detail\":\"The SSL/TLS hand (/clans/#2QLJVLYY/currentwar)"
- ],
+ "contribFetched": "2026-10-22T18:49:03Z",
+ "updated": "2026-10-22T18:49:03Z",
+ "errors": [],
  "show": true
 }
