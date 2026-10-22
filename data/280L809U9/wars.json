@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 40,
-   "pct": 73.55,
-   "attacks": 17
+   "stars": 44,
+   "pct": 76.1,
+   "attacks": 19
   },
   "them": {
    "tag": "#2QLP8UCR8",
@@ -374,7 +374,30 @@
     "name": "Johan",
     "th": 15,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y2CR9CYPJ",
+      "dn": "Lucky boy pro.",
+      "dpos": 20,
+      "dth": 14,
+      "s": 3,
+      "p": 100,
+      "o": 37,
+      "n": 2,
+      "dur": 80
+     },
+     {
+      "d": "#9Q2YG9UR",
+      "dn": "Emjah",
+      "dpos": 17,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 38,
+      "n": 2,
+      "dur": 133
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -465,7 +488,7 @@
     }
    }
   ],
-  "snap": "2026-10-22T11:08:24Z"
+  "snap": "2026-10-22T11:13:24Z"
  },
  {
   "id": "war_20261018T190040Z_Y2GCPY02",
