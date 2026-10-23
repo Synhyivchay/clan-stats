@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 13,
-   "pct": 12.32,
-   "attacks": 5
+   "stars": 15,
+   "pct": 14.28,
+   "attacks": 6
   },
   "them": {
    "tag": "#C2RGRQ0",
    "name": "HitForHire",
    "badge": "https://api-assets.clashofclans.com/badges/200/_eyepw4_Rlj-eIcJQ6yIe44SrBnI4SRuK3vvrUQsp7U.png",
    "level": 24,
-   "stars": 73,
-   "pct": 63.45,
-   "attacks": 28
+   "stars": 75,
+   "pct": 65.75,
+   "attacks": 29
   },
   "members": [
    {
@@ -285,9 +285,9 @@
     "pos": 18,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 92
     }
    },
    {
@@ -330,6 +330,17 @@
       "o": 33,
       "n": 1,
       "dur": 157
+     },
+     {
+      "d": "#PGJ08Y22",
+      "dn": "KENSHIRO",
+      "dpos": 10,
+      "dth": 18,
+      "s": 2,
+      "p": 78,
+      "o": 34,
+      "n": 2,
+      "dur": 180
      }
     ],
     "def": {
@@ -567,7 +578,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T03:29:13Z"
+  "snap": "2026-10-23T03:34:13Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
