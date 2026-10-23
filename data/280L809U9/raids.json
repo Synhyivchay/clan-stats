@@ -6,7 +6,7 @@
   "end": "2026-10-26T07:00:00Z",
   "loot": 274070,
   "raids": 2,
-  "attacks": 58,
+  "attacks": 59,
   "districts": 25,
   "offReward": 0,
   "defReward": 0,
@@ -84,7 +84,7 @@
    {
     "tag": "#GRU0U22GV",
     "name": "polat",
-    "a": 3,
+    "a": 4,
     "lim": 5,
     "loot": 6015
    }
