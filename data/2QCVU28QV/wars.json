@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 96,
-   "pct": 81.7,
-   "attacks": 43
+   "stars": 102,
+   "pct": 86.7,
+   "attacks": 45
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -24,7 +24,7 @@
    "level": 24,
    "stars": 120,
    "pct": 100.0,
-   "attacks": 52
+   "attacks": 54
   },
   "members": [
    {
@@ -92,7 +92,7 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 3,
      "p": 100
     }
@@ -174,7 +174,7 @@
     "pos": 5,
     "attacks": [],
     "def": {
-     "n": 2,
+     "n": 3,
      "s": 3,
      "p": 100
     }
@@ -819,7 +819,30 @@
     "name": "Chloè❤",
     "th": 18,
     "pos": 32,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2YLUR299",
+      "dn": "duday",
+      "dpos": 31,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 96,
+      "n": 3,
+      "dur": 126
+     },
+     {
+      "d": "#9Y0CG9VG",
+      "dn": "Resah",
+      "dpos": 29,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 98,
+      "n": 3,
+      "dur": 140
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -1004,7 +1027,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T15:19:54Z"
+  "snap": "2026-10-23T15:39:53Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",

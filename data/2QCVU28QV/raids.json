@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 362199,
+  "loot": 383591,
   "raids": 3,
-  "attacks": 77,
-  "districts": 33,
+  "attacks": 82,
+  "districts": 35,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -87,6 +87,13 @@
     "a": 6,
     "lim": 6,
     "loot": 23960
+   },
+   {
+    "tag": "#8RVQ2QV88",
+    "name": "Amelie❤",
+    "a": 5,
+    "lim": 6,
+    "loot": 21392
    },
    {
     "tag": "#QUVCCUY9J",
