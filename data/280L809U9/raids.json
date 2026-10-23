@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 62812,
+  "loot": 77133,
   "raids": 0,
-  "attacks": 13,
-  "districts": 5,
+  "attacks": 16,
+  "districts": 8,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -28,9 +28,9 @@
    {
     "tag": "#R0JGYGQ9J",
     "name": "Saemurod",
-    "a": 1,
+    "a": 4,
     "lim": 6,
-    "loot": 3958
+    "loot": 18279
    }
   ]
  },
