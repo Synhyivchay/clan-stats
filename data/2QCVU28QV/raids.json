@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 392451,
-  "raids": 3,
-  "attacks": 84,
-  "districts": 35,
+  "loot": 403249,
+  "raids": 4,
+  "attacks": 87,
+  "districts": 37,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -110,18 +110,18 @@
     "loot": 15973
    },
    {
+    "tag": "#QU2GPCCRJ",
+    "name": "Hornbär",
+    "a": 4,
+    "lim": 6,
+    "loot": 14808
+   },
+   {
     "tag": "#YU99PU9GQ",
     "name": "Luka Tate",
     "a": 2,
     "lim": 6,
     "loot": 10225
-   },
-   {
-    "tag": "#QU2GPCCRJ",
-    "name": "Hornbär",
-    "a": 1,
-    "lim": 5,
-    "loot": 4010
    }
   ]
  },
