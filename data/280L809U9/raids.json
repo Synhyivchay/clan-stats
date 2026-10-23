@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 274070,
+  "loot": 280881,
   "raids": 2,
-  "attacks": 59,
-  "districts": 25,
+  "attacks": 61,
+  "districts": 26,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -80,6 +80,13 @@
     "a": 2,
     "lim": 6,
     "loot": 10914
+   },
+   {
+    "tag": "#LQRY8VC2Q",
+    "name": "[DM] PIKACHULOL",
+    "a": 2,
+    "lim": 6,
+    "loot": 6811
    },
    {
     "tag": "#GRU0U22GV",
