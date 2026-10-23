@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 17,
-   "pct": 16.4,
-   "attacks": 7
+   "stars": 20,
+   "pct": 18.9,
+   "attacks": 8
   },
   "them": {
    "tag": "#C2RGRQ0",
    "name": "HitForHire",
    "badge": "https://api-assets.clashofclans.com/badges/200/_eyepw4_Rlj-eIcJQ6yIe44SrBnI4SRuK3vvrUQsp7U.png",
    "level": 24,
-   "stars": 82,
-   "pct": 71.03,
-   "attacks": 34
+   "stars": 83,
+   "pct": 71.22,
+   "attacks": 35
   },
   "members": [
    {
@@ -297,9 +297,9 @@
     "pos": 18,
     "attacks": [],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 92
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -307,7 +307,19 @@
     "name": "Bassko",
     "th": 18,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#CLUCQ8PC",
+      "dn": "カリー",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 42,
+      "n": 3,
+      "dur": 134
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -590,7 +602,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T05:44:30Z"
+  "snap": "2026-10-23T05:49:30Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
