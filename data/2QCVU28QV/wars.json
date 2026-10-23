@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 48,
-   "pct": 43.5,
-   "attacks": 18
+   "stars": 49,
+   "pct": 43.88,
+   "attacks": 19
   },
   "them": {
    "tag": "#C2RGRQ0",
    "name": "HitForHire",
    "badge": "https://api-assets.clashofclans.com/badges/200/_eyepw4_Rlj-eIcJQ6yIe44SrBnI4SRuK3vvrUQsp7U.png",
    "level": 24,
-   "stars": 88,
-   "pct": 76.22,
-   "attacks": 38
+   "stars": 90,
+   "pct": 78.15,
+   "attacks": 39
   },
   "members": [
    {
@@ -44,7 +44,19 @@
     "name": "Bigmac's sohn",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#28UCJ888",
+      "dn": "JDP",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 57,
+      "n": 1,
+      "dur": 166
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -485,9 +497,9 @@
     "pos": 25,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 77
     }
    },
    {
@@ -717,7 +729,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T08:34:30Z"
+  "snap": "2026-10-23T08:39:30Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
