@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 59,
-   "pct": 53.15,
-   "attacks": 24
+   "stars": 62,
+   "pct": 55.65,
+   "attacks": 25
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -554,7 +554,19 @@
     "name": "Alastor",
     "th": 18,
     "pos": 27,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RJJQGVYQ",
+      "dn": "Super HeroX",
+      "dpos": 27,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 66,
+      "n": 3,
+      "dur": 108
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -787,7 +799,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T09:39:30Z"
+  "snap": "2026-10-23T09:44:41Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
