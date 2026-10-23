@@ -4,19 +4,33 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 114081,
+  "loot": 164502,
   "raids": 1,
-  "attacks": 26,
-  "districts": 11,
+  "attacks": 35,
+  "districts": 15,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#LRR9VR0CY",
+    "name": "Begbus",
+    "a": 6,
+    "lim": 6,
+    "loot": 33566
+   },
    {
     "tag": "#GRQC2829L",
     "name": "ed_sans_123",
     "a": 6,
     "lim": 6,
     "loot": 30757
+   },
+   {
+    "tag": "#YUUQCGL2J",
+    "name": "SanixX",
+    "a": 5,
+    "lim": 6,
+    "loot": 28396
    },
    {
     "tag": "#LVVCQ82L0",
@@ -38,13 +52,6 @@
     "a": 6,
     "lim": 6,
     "loot": 19557
-   },
-   {
-    "tag": "#LRR9VR0CY",
-    "name": "Begbus",
-    "a": 2,
-    "lim": 6,
-    "loot": 11541
    }
   ]
  },

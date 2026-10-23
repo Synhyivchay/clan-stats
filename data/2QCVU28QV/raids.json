@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 169153,
+  "loot": 179379,
   "raids": 1,
-  "attacks": 36,
-  "districts": 15,
+  "attacks": 38,
+  "districts": 16,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -56,9 +56,9 @@
    {
     "tag": "#YQLLCGP0",
     "name": "Lennart",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
+    "a": 2,
+    "lim": 6,
+    "loot": 10226
    }
   ]
  },
