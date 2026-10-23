@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 83,
-   "pct": 71.62,
-   "attacks": 35
+   "stars": 84,
+   "pct": 71.78,
+   "attacks": 36
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -373,6 +373,17 @@
       "o": 63,
       "n": 2,
       "dur": 180
+     },
+     {
+      "d": "#80G990GYG",
+      "dn": "Wyro",
+      "dpos": 16,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 82,
+      "n": 1,
+      "dur": 163
      }
     ],
     "def": {
@@ -912,7 +923,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T13:49:41Z"
+  "snap": "2026-10-23T13:54:41Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
