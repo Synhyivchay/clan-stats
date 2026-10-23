@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 55,
-   "pct": 48.38,
-   "attacks": 22
+   "stars": 59,
+   "pct": 53.15,
+   "attacks": 24
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -602,7 +602,30 @@
     "name": "RyanGosling",
     "th": 18,
     "pos": 31,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#C8L99RU8",
+      "dn": "nltg",
+      "dpos": 18,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 64,
+      "n": 3,
+      "dur": 150
+     },
+     {
+      "d": "#2PQVU298",
+      "dn": "King Henry",
+      "dpos": 19,
+      "dth": 18,
+      "s": 1,
+      "p": 91,
+      "o": 65,
+      "n": 1,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -764,7 +787,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T09:29:30Z"
+  "snap": "2026-10-23T09:34:30Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
