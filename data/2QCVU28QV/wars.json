@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 110,
-   "pct": 94.17,
-   "attacks": 49
+   "stars": 111,
+   "pct": 94.5,
+   "attacks": 50
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -313,6 +313,17 @@
       "o": 105,
       "n": 0,
       "dur": 171
+     },
+     {
+      "d": "#Y088JPQG",
+      "dn": "NoChillWill",
+      "dpos": 25,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 107,
+      "n": 1,
+      "dur": 132
      }
     ],
     "def": {
@@ -1074,7 +1085,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T17:44:54Z"
+  "snap": "2026-10-23T17:49:53Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
