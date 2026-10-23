@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 25,
-   "pct": 23.65,
-   "attacks": 10
+   "stars": 28,
+   "pct": 26.15,
+   "attacks": 11
   },
   "them": {
    "tag": "#C2RGRQ0",
    "name": "HitForHire",
    "badge": "https://api-assets.clashofclans.com/badges/200/_eyepw4_Rlj-eIcJQ6yIe44SrBnI4SRuK3vvrUQsp7U.png",
    "level": 24,
-   "stars": 83,
-   "pct": 71.22,
-   "attacks": 35
+   "stars": 86,
+   "pct": 73.72,
+   "attacks": 36
   },
   "members": [
    {
@@ -390,9 +390,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -532,7 +532,19 @@
     "name": "Ampletrex",
     "th": 18,
     "pos": 33,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2C8Q8GY",
+      "dn": "TheFrozenBladeX",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 47,
+      "n": 3,
+      "dur": 115
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -624,7 +636,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T06:14:30Z"
+  "snap": "2026-10-23T06:24:30Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
