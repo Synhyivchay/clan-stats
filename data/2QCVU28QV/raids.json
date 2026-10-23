@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 352245,
+  "loot": 362199,
   "raids": 3,
-  "attacks": 75,
-  "districts": 32,
+  "attacks": 77,
+  "districts": 33,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -96,18 +96,18 @@
     "loot": 21199
    },
    {
+    "tag": "#9G0GVR8GQ",
+    "name": "アイドル",
+    "a": 3,
+    "lim": 6,
+    "loot": 15973
+   },
+   {
     "tag": "#YU99PU9GQ",
     "name": "Luka Tate",
     "a": 2,
     "lim": 6,
     "loot": 10225
-   },
-   {
-    "tag": "#9G0GVR8GQ",
-    "name": "アイドル",
-    "a": 1,
-    "lim": 6,
-    "loot": 6019
    }
   ]
  },
