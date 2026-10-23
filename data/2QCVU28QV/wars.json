@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 93,
-   "pct": 79.17,
-   "attacks": 41
+   "stars": 96,
+   "pct": 81.7,
+   "attacks": 43
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -43,6 +43,17 @@
       "o": 87,
       "n": 2,
       "dur": 161
+     },
+     {
+      "d": "#9LY0PCQYC",
+      "dn": "Ralph",
+      "dpos": 26,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 89,
+      "n": 3,
+      "dur": 130
      }
     ],
     "def": {
@@ -336,6 +347,17 @@
       "s": 2,
       "p": 91,
       "o": 86,
+      "n": 0,
+      "dur": 180
+     },
+     {
+      "d": "#Y088JPQG",
+      "dn": "NoChillWill",
+      "dpos": 25,
+      "dth": 18,
+      "s": 2,
+      "p": 87,
+      "o": 88,
       "n": 0,
       "dur": 180
      }
@@ -982,7 +1004,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T14:44:41Z"
+  "snap": "2026-10-23T14:49:41Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
