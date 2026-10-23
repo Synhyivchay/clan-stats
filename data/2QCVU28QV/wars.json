@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 20,
-   "pct": 18.9,
-   "attacks": 8
+   "stars": 25,
+   "pct": 23.65,
+   "attacks": 10
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -67,6 +67,17 @@
       "o": 40,
       "n": 2,
       "dur": 156
+     },
+     {
+      "d": "#28RUVVP0",
+      "dn": "Wardie",
+      "dpos": 5,
+      "dth": 18,
+      "s": 2,
+      "p": 90,
+      "o": 44,
+      "n": 2,
+      "dur": 180
      }
     ],
     "def": {
@@ -318,6 +329,17 @@
       "o": 42,
       "n": 3,
       "dur": 134
+     },
+     {
+      "d": "#QRV9RGRUY",
+      "dn": "sirEd",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 45,
+      "n": 3,
+      "dur": 142
      }
     ],
     "def": {
@@ -602,7 +624,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T05:49:30Z"
+  "snap": "2026-10-23T05:54:30Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
