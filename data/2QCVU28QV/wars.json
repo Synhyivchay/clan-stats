@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 84,
-   "pct": 71.78,
-   "attacks": 36
+   "stars": 88,
+   "pct": 74.53,
+   "attacks": 38
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -703,7 +703,19 @@
     "name": "AnoNymous",
     "th": 18,
     "pos": 30,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LQVQ998P",
+      "dn": "TheBayvie",
+      "dpos": 17,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 84,
+      "n": 1,
+      "dur": 158
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -821,7 +833,19 @@
     "name": "Shaun Ryan",
     "th": 18,
     "pos": 36,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2P8VRQ9PY",
+      "dn": "PaRdS",
+      "dpos": 36,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 83,
+      "n": 3,
+      "dur": 149
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -923,7 +947,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T14:14:41Z"
+  "snap": "2026-10-23T14:19:41Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
