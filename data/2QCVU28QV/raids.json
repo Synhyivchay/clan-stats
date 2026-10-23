@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 342020,
+  "loot": 347255,
   "raids": 3,
-  "attacks": 73,
+  "attacks": 74,
   "districts": 31,
   "offReward": 0,
   "defReward": 0,
@@ -101,6 +101,13 @@
     "a": 1,
     "lim": 6,
     "loot": 6019
+   },
+   {
+    "tag": "#YU99PU9GQ",
+    "name": "Luka Tate",
+    "a": 1,
+    "lim": 5,
+    "loot": 5235
    }
   ]
  },
