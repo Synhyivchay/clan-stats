@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 167328,
+  "loot": 176809,
   "raids": 1,
-  "attacks": 36,
-  "districts": 16,
+  "attacks": 38,
+  "districts": 17,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -52,6 +52,13 @@
     "a": 6,
     "lim": 6,
     "loot": 19557
+   },
+   {
+    "tag": "#GVYYYUG29",
+    "name": "kin",
+    "a": 2,
+    "lim": 6,
+    "loot": 9481
    }
   ]
  },
