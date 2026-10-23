@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 12,
-   "pct": 10.0,
-   "attacks": 4
+   "stars": 13,
+   "pct": 12.32,
+   "attacks": 5
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -319,7 +319,19 @@
     "name": "@Michi@",
     "th": 18,
     "pos": 21,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QJRC9G8U",
+      "dn": "carlos",
+      "dpos": 8,
+      "dth": 18,
+      "s": 1,
+      "p": 93,
+      "o": 33,
+      "n": 1,
+      "dur": 157
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -555,7 +567,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T03:24:13Z"
+  "snap": "2026-10-23T03:29:13Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
