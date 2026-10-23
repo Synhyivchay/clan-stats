@@ -115,6 +115,13 @@
     "a": 2,
     "lim": 6,
     "loot": 10225
+   },
+   {
+    "tag": "#QU2GPCCRJ",
+    "name": "Hornbär",
+    "a": 0,
+    "lim": 5,
+    "loot": 0
    }
   ]
  },
