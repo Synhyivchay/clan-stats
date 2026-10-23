@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 112,
-   "pct": 96.92,
-   "attacks": 54
+   "stars": 118,
+   "pct": 99.55,
+   "attacks": 59
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -265,6 +265,17 @@
       "o": 106,
       "n": 3,
       "dur": 119
+     },
+     {
+      "d": "#YJ2VY28L",
+      "dn": "hexachord",
+      "dpos": 22,
+      "dth": 18,
+      "s": 2,
+      "p": 96,
+      "o": 115,
+      "n": 0,
+      "dur": 162
      }
     ],
     "def": {
@@ -289,6 +300,17 @@
       "o": 52,
       "n": 2,
       "dur": 180
+     },
+     {
+      "d": "#92RJV28UQ",
+      "dn": "Nimweb",
+      "dpos": 32,
+      "dth": 18,
+      "s": 2,
+      "p": 76,
+      "o": 117,
+      "n": 0,
+      "dur": 122
      }
     ],
     "def": {
@@ -514,7 +536,19 @@
     "name": "Niklord",
     "th": 18,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2Q2GL298C",
+      "dn": "T£Đ",
+      "dpos": 33,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 114,
+      "n": 2,
+      "dur": 100
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -771,7 +805,30 @@
     "name": "RudiV2",
     "th": 18,
     "pos": 26,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8LVJP9GUR",
+      "dn": "asfandyar",
+      "dpos": 35,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 113,
+      "n": 3,
+      "dur": 124
+     },
+     {
+      "d": "#YJ2VY28L",
+      "dn": "hexachord",
+      "dpos": 22,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 116,
+      "n": 1,
+      "dur": 140
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -1131,7 +1188,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T19:19:54Z"
+  "snap": "2026-10-23T19:44:53Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
