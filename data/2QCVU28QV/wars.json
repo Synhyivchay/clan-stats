@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 51,
-   "pct": 44.05,
-   "attacks": 20
+   "stars": 53,
+   "pct": 46.3,
+   "attacks": 21
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -388,7 +388,19 @@
     "name": "LokiPhil",
     "th": 18,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LQVQ998P",
+      "dn": "TheBayvie",
+      "dpos": 17,
+      "dth": 18,
+      "s": 2,
+      "p": 90,
+      "o": 62,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -740,7 +752,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T09:04:30Z"
+  "snap": "2026-10-23T09:09:30Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
