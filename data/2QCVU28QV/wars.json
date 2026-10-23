@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 37,
-   "pct": 33.65,
-   "attacks": 14
+   "stars": 39,
+   "pct": 36.0,
+   "attacks": 15
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -186,7 +186,19 @@
     "name": "ThomasCzika",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#80G990GYG",
+      "dn": "Wyro",
+      "dpos": 16,
+      "dth": 18,
+      "s": 2,
+      "p": 94,
+      "o": 52,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -670,7 +682,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T07:54:30Z"
+  "snap": "2026-10-23T07:59:30Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
