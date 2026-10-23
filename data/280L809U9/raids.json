@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 298603,
+  "loot": 315887,
   "raids": 3,
-  "attacks": 66,
-  "districts": 27,
+  "attacks": 69,
+  "districts": 28,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -75,6 +75,13 @@
     "loot": 21008
    },
    {
+    "tag": "#QJYVP0JJU",
+    "name": "Partizan",
+    "a": 4,
+    "lim": 6,
+    "loot": 20809
+   },
+   {
     "tag": "#LCRPUCU2V",
     "name": "Хранитель",
     "a": 6,
@@ -94,13 +101,6 @@
     "a": 4,
     "lim": 5,
     "loot": 6015
-   },
-   {
-    "tag": "#QJYVP0JJU",
-    "name": "Partizan",
-    "a": 1,
-    "lim": 5,
-    "loot": 3525
    }
   ]
  },

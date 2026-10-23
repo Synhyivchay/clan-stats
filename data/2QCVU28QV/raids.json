@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 388441,
+  "loot": 392451,
   "raids": 3,
-  "attacks": 83,
+  "attacks": 84,
   "districts": 35,
   "offReward": 0,
   "defReward": 0,
@@ -119,9 +119,9 @@
    {
     "tag": "#QU2GPCCRJ",
     "name": "Hornbär",
-    "a": 0,
+    "a": 1,
     "lim": 5,
-    "loot": 0
+    "loot": 4010
    }
   ]
  },
