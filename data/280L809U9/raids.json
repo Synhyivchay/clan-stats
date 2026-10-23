@@ -108,6 +108,13 @@
     "a": 4,
     "lim": 5,
     "loot": 6015
+   },
+   {
+    "tag": "#GRGRRJLR9",
+    "name": "prime",
+    "a": 0,
+    "lim": 5,
+    "loot": 0
    }
   ]
  },
