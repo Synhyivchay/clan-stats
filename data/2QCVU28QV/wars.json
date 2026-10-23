@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 91,
-   "pct": 77.03,
-   "attacks": 39
+   "stars": 93,
+   "pct": 79.17,
+   "attacks": 41
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -32,7 +32,19 @@
     "name": "Amelie❤",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y088JPQG",
+      "dn": "NoChillWill",
+      "dpos": 25,
+      "dth": 18,
+      "s": 2,
+      "p": 86,
+      "o": 87,
+      "n": 2,
+      "dur": 161
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -315,7 +327,19 @@
     "name": "Hornbär",
     "th": 18,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YJ2VY28L",
+      "dn": "hexachord",
+      "dpos": 22,
+      "dth": 18,
+      "s": 2,
+      "p": 91,
+      "o": 86,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -958,7 +982,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T14:39:41Z"
+  "snap": "2026-10-23T14:44:41Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
