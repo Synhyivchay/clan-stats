@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 123572,
+  "loot": 148693,
   "raids": 1,
-  "attacks": 27,
-  "districts": 10,
+  "attacks": 32,
+  "districts": 13,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#9090P29L9",
+    "name": "Louis™️187",
+    "a": 6,
+    "lim": 6,
+    "loot": 31388
+   },
    {
     "tag": "#J9VRQ882",
     "name": "RudiV2",
@@ -40,11 +47,11 @@
     "loot": 21199
    },
    {
-    "tag": "#9090P29L9",
-    "name": "Louis™️187",
-    "a": 3,
+    "tag": "#8LCP8GR2L",
+    "name": "Leon",
+    "a": 2,
     "lim": 6,
-    "loot": 16543
+    "loot": 10276
    }
   ]
  },
