@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 70,
-   "pct": 62.73,
-   "attacks": 28
+   "stars": 73,
+   "pct": 65.22,
+   "attacks": 29
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -789,6 +789,17 @@
       "o": 69,
       "n": 3,
       "dur": 137
+     },
+     {
+      "d": "#9GGYCP08R",
+      "dn": "Levitator",
+      "dpos": 37,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 70,
+      "n": 3,
+      "dur": 104
      }
     ],
     "def": {
@@ -833,7 +844,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T10:19:41Z"
+  "snap": "2026-10-23T10:24:41Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
