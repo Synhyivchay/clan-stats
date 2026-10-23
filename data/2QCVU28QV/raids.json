@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 403249,
+  "loot": 412874,
   "raids": 4,
-  "attacks": 87,
-  "districts": 37,
+  "attacks": 89,
+  "districts": 38,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -89,6 +89,13 @@
     "loot": 25623
    },
    {
+    "tag": "#QU2GPCCRJ",
+    "name": "Hornbär",
+    "a": 6,
+    "lim": 6,
+    "loot": 24433
+   },
+   {
     "tag": "#P9C8Q9RCR",
     "name": "Hattrickser",
     "a": 6,
@@ -108,13 +115,6 @@
     "a": 3,
     "lim": 6,
     "loot": 15973
-   },
-   {
-    "tag": "#QU2GPCCRJ",
-    "name": "Hornbär",
-    "a": 4,
-    "lim": 6,
-    "loot": 14808
    },
    {
     "tag": "#YU99PU9GQ",
