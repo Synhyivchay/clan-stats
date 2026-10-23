@@ -22,9 +22,9 @@
    "name": "HitForHire",
    "badge": "https://api-assets.clashofclans.com/badges/200/_eyepw4_Rlj-eIcJQ6yIe44SrBnI4SRuK3vvrUQsp7U.png",
    "level": 24,
-   "stars": 98,
-   "pct": 83.35,
-   "attacks": 42
+   "stars": 100,
+   "pct": 83.9,
+   "attacks": 43
   },
   "members": [
    {
@@ -554,9 +554,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 1,
-     "p": 78
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -867,7 +867,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T11:14:41Z"
+  "snap": "2026-10-23T11:19:41Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
