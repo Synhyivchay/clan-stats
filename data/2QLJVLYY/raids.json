@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 174813,
+  "loot": 180607,
   "raids": 1,
-  "attacks": 44,
-  "districts": 16,
+  "attacks": 46,
+  "districts": 17,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -68,18 +68,18 @@
     "loot": 9537
    },
    {
+    "tag": "#GRLLYQQLV",
+    "name": "WOLF",
+    "a": 2,
+    "lim": 6,
+    "loot": 5794
+   },
+   {
     "tag": "#R02QVVJ20",
     "name": "Ibrohim",
     "a": 3,
     "lim": 6,
     "loot": 5496
-   },
-   {
-    "tag": "#GRLLYQQLV",
-    "name": "WOLF",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
    }
   ]
  },
