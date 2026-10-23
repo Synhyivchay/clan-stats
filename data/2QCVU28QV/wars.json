@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 49,
-   "pct": 43.88,
-   "attacks": 19
+   "stars": 51,
+   "pct": 44.05,
+   "attacks": 20
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -55,6 +55,17 @@
       "o": 57,
       "n": 1,
       "dur": 166
+     },
+     {
+      "d": "#QJRC9G8U",
+      "dn": "carlos",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 59,
+      "n": 2,
+      "dur": 112
      }
     ],
     "def": {
@@ -729,7 +740,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T08:39:30Z"
+  "snap": "2026-10-23T08:44:30Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
