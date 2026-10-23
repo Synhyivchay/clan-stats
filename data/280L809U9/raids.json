@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 77133,
+  "loot": 82983,
   "raids": 0,
-  "attacks": 16,
+  "attacks": 18,
   "districts": 8,
   "offReward": 0,
   "defReward": 0,
@@ -28,9 +28,16 @@
    {
     "tag": "#R0JGYGQ9J",
     "name": "Saemurod",
-    "a": 4,
+    "a": 6,
     "lim": 6,
-    "loot": 18279
+    "loot": 24129
+   },
+   {
+    "tag": "#LCRPUCU2V",
+    "name": "Хранитель",
+    "a": 0,
+    "lim": 5,
+    "loot": 0
    }
   ]
  },
