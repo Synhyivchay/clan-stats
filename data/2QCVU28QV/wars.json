@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 102,
-   "pct": 86.7,
-   "attacks": 45
+   "stars": 105,
+   "pct": 89.2,
+   "attacks": 46
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -666,7 +666,19 @@
     "name": "hazhir ro",
     "th": 18,
     "pos": 25,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#C0YP9URJ",
+      "dn": "the gold finch",
+      "dpos": 34,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 103,
+      "n": 3,
+      "dur": 116
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -1027,7 +1039,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T16:59:54Z"
+  "snap": "2026-10-23T17:04:54Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
