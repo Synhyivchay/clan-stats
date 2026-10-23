@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 118,
-   "pct": 99.55,
-   "attacks": 59
+   "stars": 120,
+   "pct": 100.0,
+   "attacks": 61
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -1039,7 +1039,30 @@
     "name": "؞۩׀ＰＲ０Ｔ０ＴＹＰＥ׀۩؞",
     "th": 18,
     "pos": 34,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#22PUQCJL",
+      "dn": "[.derek.]",
+      "dpos": 28,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 118,
+      "n": 1,
+      "dur": 122
+     },
+     {
+      "d": "#92RJV28UQ",
+      "dn": "Nimweb",
+      "dpos": 32,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 119,
+      "n": 1,
+      "dur": 116
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -1188,7 +1211,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T20:14:53Z"
+  "snap": "2026-10-23T20:24:53Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",
