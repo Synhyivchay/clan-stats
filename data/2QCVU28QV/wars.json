@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 53,
-   "pct": 46.3,
-   "attacks": 21
+   "stars": 55,
+   "pct": 48.38,
+   "attacks": 22
   },
   "them": {
    "tag": "#C2RGRQ0",
@@ -305,7 +305,19 @@
     "name": "Lennart",
     "th": 18,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YU2C0JP0R",
+      "dn": "Thanøs™️",
+      "dpos": 15,
+      "dth": 18,
+      "s": 2,
+      "p": 83,
+      "o": 63,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -752,7 +764,7 @@
     }
    }
   ],
-  "snap": "2026-10-23T09:24:30Z"
+  "snap": "2026-10-23T09:29:30Z"
  },
  {
   "id": "war_20261019T220133Z_92C8LVJ9",

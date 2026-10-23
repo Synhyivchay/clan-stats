@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 176809,
+  "loot": 187929,
   "raids": 1,
-  "attacks": 38,
+  "attacks": 40,
   "districts": 17,
   "offReward": 0,
   "defReward": 0,
@@ -47,18 +47,18 @@
     "loot": 24129
    },
    {
+    "tag": "#GVYYYUG29",
+    "name": "kin",
+    "a": 4,
+    "lim": 6,
+    "loot": 20601
+   },
+   {
     "tag": "#LCRPUCU2V",
     "name": "Хранитель",
     "a": 6,
     "lim": 6,
     "loot": 19557
-   },
-   {
-    "tag": "#GVYYYUG29",
-    "name": "kin",
-    "a": 2,
-    "lim": 6,
-    "loot": 9481
    }
   ]
  },
