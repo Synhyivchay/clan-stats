@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 297028,
-  "raids": 2,
-  "attacks": 63,
-  "districts": 26,
+  "loot": 304968,
+  "raids": 3,
+  "attacks": 65,
+  "districts": 27,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -84,9 +84,9 @@
    {
     "tag": "#P9C8Q9RCR",
     "name": "Hattrickser",
-    "a": 3,
-    "lim": 5,
-    "loot": 10610
+    "a": 5,
+    "lim": 6,
+    "loot": 18550
    }
   ]
  },
