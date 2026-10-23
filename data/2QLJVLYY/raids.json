@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 120233,
+  "loot": 144313,
   "raids": 1,
-  "attacks": 32,
-  "districts": 10,
+  "attacks": 37,
+  "districts": 12,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#LPQJQ2RJP",
+    "name": "Denton",
+    "a": 6,
+    "lim": 6,
+    "loot": 28540
+   },
    {
     "tag": "#8LVR2JGU",
     "name": "ELITE",
@@ -26,11 +33,11 @@
     "loot": 25460
    },
    {
-    "tag": "#LPQJQ2RJP",
-    "name": "Denton",
+    "tag": "#LG2JCP99G",
+    "name": "Потик_YT",
     "a": 5,
     "lim": 6,
-    "loot": 23855
+    "loot": 22960
    },
    {
     "tag": "#GJY0R0JCJ",
@@ -59,13 +66,6 @@
     "a": 3,
     "lim": 6,
     "loot": 5496
-   },
-   {
-    "tag": "#LG2JCP99G",
-    "name": "Потик_YT",
-    "a": 1,
-    "lim": 5,
-    "loot": 3565
    }
   ]
  },
