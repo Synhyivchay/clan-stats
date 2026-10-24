@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 303823,
+  "loot": 307788,
   "raids": 3,
-  "attacks": 74,
+  "attacks": 75,
   "districts": 29,
   "offReward": 0,
   "defReward": 0,
@@ -115,6 +115,13 @@
     "a": 3,
     "lim": 6,
     "loot": 5496
+   },
+   {
+    "tag": "#2LCGCPR80",
+    "name": "NumTorum",
+    "a": 1,
+    "lim": 5,
+    "loot": 3965
    }
   ]
  },
