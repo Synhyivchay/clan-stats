@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 21,
-   "pct": 28.0,
-   "attacks": 10
+   "stars": 28,
+   "pct": 38.72,
+   "attacks": 13
   },
   "them": {
    "tag": "#RYLC829V",
@@ -162,7 +162,19 @@
     "name": "~LuciFer~",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PQYRYRQQJ",
+      "dn": "mohamad reza",
+      "dpos": 7,
+      "dth": 18,
+      "s": 2,
+      "p": 73,
+      "o": 11,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -185,6 +197,17 @@
       "o": 7,
       "n": 3,
       "dur": 144
+     },
+     {
+      "d": "#YUQ2YPGY8",
+      "dn": "استادشیفو..",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 12,
+      "n": 3,
+      "dur": 168
      }
     ],
     "def": {
@@ -436,6 +459,17 @@
       "o": 10,
       "n": 3,
       "dur": 56
+     },
+     {
+      "d": "#GCYV02RQ9",
+      "dn": "GHOST HUNTER",
+      "dpos": 21,
+      "dth": 17,
+      "s": 2,
+      "p": 95,
+      "o": 13,
+      "n": 2,
+      "dur": 180
      }
     ],
     "def": {
@@ -445,7 +479,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T06:50:23Z"
+  "snap": "2026-10-24T06:55:23Z"
  },
  {
   "id": "war_20261020T202826Z_2RULQVLP0",
