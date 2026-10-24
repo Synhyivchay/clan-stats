@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 440691,
+  "loot": 446651,
   "raids": 5,
-  "attacks": 101,
+  "attacks": 103,
   "districts": 40,
   "offReward": 0,
   "defReward": 0,
@@ -75,6 +75,13 @@
     "loot": 24129
    },
    {
+    "tag": "#GRGRRJLR9",
+    "name": "prime",
+    "a": 6,
+    "lim": 6,
+    "loot": 23814
+   },
+   {
     "tag": "#9LQ2YUVUY",
     "name": "рома",
     "a": 5,
@@ -108,13 +115,6 @@
     "a": 3,
     "lim": 6,
     "loot": 18415
-   },
-   {
-    "tag": "#GRGRRJLR9",
-    "name": "prime",
-    "a": 4,
-    "lim": 6,
-    "loot": 17854
    },
    {
     "tag": "#G9CL20UQY",
