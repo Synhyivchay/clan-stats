@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 38,
-   "pct": 72.8,
-   "attacks": 16
+   "stars": 41,
+   "pct": 77.8,
+   "attacks": 17
   },
   "them": {
    "tag": "#2J8R9JRC2",
@@ -257,6 +257,17 @@
       "o": 33,
       "n": 3,
       "dur": 106
+     },
+     {
+      "d": "#YY9LLQRY0",
+      "dn": "☆ALMIGHTY THOR☆",
+      "dpos": 9,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 34,
+      "n": 3,
+      "dur": 146
      }
     ],
     "def": {
@@ -455,7 +466,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T14:50:52Z"
+  "snap": "2026-10-24T14:55:52Z"
  },
  {
   "id": "war_20261020T204359Z_2QLP8UCR8",
