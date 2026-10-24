@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 32,
-   "pct": 36.5,
-   "attacks": 11
+   "stars": 35,
+   "pct": 39.83,
+   "attacks": 12
   },
   "them": {
    "tag": "#QCUVYJLP",
@@ -352,6 +352,17 @@
       "o": 17,
       "n": 3,
       "dur": 107
+     },
+     {
+      "d": "#2QC0LJJVG",
+      "dn": "nino",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 19,
+      "n": 3,
+      "dur": 93
      }
     ],
     "def": {
@@ -515,7 +526,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T23:26:02Z"
+  "snap": "2026-10-24T23:31:01Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",
