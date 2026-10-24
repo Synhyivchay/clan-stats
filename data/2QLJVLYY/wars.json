@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 37,
-   "pct": 53.32,
-   "attacks": 17
+   "stars": 39,
+   "pct": 57.04,
+   "attacks": 18
   },
   "them": {
    "tag": "#RYLC829V",
    "name": "Request & Leave",
    "badge": "https://api-assets.clashofclans.com/badges/200/FzMhA6__gzUwLR8X4jdMIxhUazWSdmJM-ttSc7Ung-A.png",
    "level": 29,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 2,
+   "pct": 5.56,
+   "attacks": 2
   },
   "members": [
    {
@@ -362,7 +362,19 @@
     "name": "Адик",
     "th": 17,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QLCQ9RQPJ",
+      "dn": "GHOST HUNTER",
+      "dpos": 11,
+      "dth": 18,
+      "s": 2,
+      "p": 93,
+      "o": 20,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -376,9 +388,9 @@
     "pos": 18,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 60
     }
    },
    {
@@ -412,9 +424,9 @@
     "pos": 20,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 79
     }
    },
    {
@@ -524,7 +536,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T07:55:23Z"
+  "snap": "2026-10-24T08:10:33Z"
  },
  {
   "id": "war_20261020T202826Z_2RULQVLP0",

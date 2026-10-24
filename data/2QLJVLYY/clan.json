@@ -4,8 +4,8 @@
  "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
  "level": 34,
  "description": "Welcome. Рейды обязательно. ЛВК от 17тх, второй клан Badboys - лвк от 14тх",
- "members": 46,
- "points": 104700,
+ "members": 47,
+ "points": 105200,
  "warWins": 825,
  "warLosses": 490,
  "warTies": 12,
@@ -16,9 +16,9 @@
  "warLogPublic": true,
  "trackingSince": "2026-10-15T22:46:46Z",
  "contribFetched": "2026-10-24T07:20:23Z",
- "updated": "2026-10-24T08:05:33Z",
+ "updated": "2026-10-24T08:10:33Z",
  "errors": [
-  "КВ: 525 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-525/\",\"title\":\"Error 525: SSL handshake failed\",\"status\":525,\"detail\":\"The SSL/TLS hand (/clans/#2QLJVLYY/currentwar)"
+  "Рейды: 520 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/\",\"title\":\"Error 520: Web server is returning an unknown error\",\"status\":520,\"detai (/clans/#2QLJVLYY/capitalraidseasons?limit=4)"
  ],
  "show": true
 }
