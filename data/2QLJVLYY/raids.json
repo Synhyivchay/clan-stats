@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 372466,
-  "raids": 3,
-  "attacks": 89,
-  "districts": 35,
+  "loot": 388529,
+  "raids": 4,
+  "attacks": 92,
+  "districts": 37,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#8GGC8UY08",
+    "name": "Super Men",
+    "a": 6,
+    "lim": 6,
+    "loot": 34311
+   },
    {
     "tag": "#89RL09YL9",
     "name": "Разрушитель",
@@ -75,13 +82,6 @@
     "loot": 24267
    },
    {
-    "tag": "#8GGC8UY08",
-    "name": "Super Men",
-    "a": 4,
-    "lim": 6,
-    "loot": 23503
-   },
-   {
     "tag": "#QU0QU0Q80",
     "name": "Dream®",
     "a": 4,
@@ -89,18 +89,18 @@
     "loot": 22995
    },
    {
+    "tag": "#9GV90LCR8",
+    "name": "■◇LEGENDARNIY◇■",
+    "a": 6,
+    "lim": 6,
+    "loot": 21971
+   },
+   {
     "tag": "#LGLPJJ2VP",
     "name": "егор",
     "a": 6,
     "lim": 6,
     "loot": 18718
-   },
-   {
-    "tag": "#9GV90LCR8",
-    "name": "■◇LEGENDARNIY◇■",
-    "a": 5,
-    "lim": 6,
-    "loot": 16716
    },
    {
     "tag": "#GJY0R0JCJ",
