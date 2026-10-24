@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 46,
-   "pct": 85.2,
-   "attacks": 22
+   "stars": 48,
+   "pct": 88.2,
+   "attacks": 23
   },
   "them": {
    "tag": "#2J8R9JRC2",
@@ -126,6 +126,17 @@
       "o": 24,
       "n": 3,
       "dur": 101
+     },
+     {
+      "d": "#QY290CR8Y",
+      "dn": "Tippy-Toe",
+      "dpos": 4,
+      "dth": 18,
+      "s": 2,
+      "p": 60,
+      "o": 47,
+      "n": 2,
+      "dur": 119
      }
     ],
     "def": {
@@ -523,7 +534,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T20:46:01Z"
+  "snap": "2026-10-24T21:01:01Z"
  },
  {
   "id": "war_20261020T204359Z_2QLP8UCR8",
