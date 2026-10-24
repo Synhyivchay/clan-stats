@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 525909,
+  "loot": 535210,
   "raids": 6,
-  "attacks": 121,
-  "districts": 45,
+  "attacks": 123,
+  "districts": 46,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -75,6 +75,13 @@
     "loot": 27683
    },
    {
+    "tag": "#LCRQ8QCC0",
+    "name": "Mr Bubblu",
+    "a": 5,
+    "lim": 6,
+    "loot": 26316
+   },
+   {
     "tag": "#R0JGYGQ9J",
     "name": "Saemurod",
     "a": 6,
@@ -136,13 +143,6 @@
     "a": 3,
     "lim": 6,
     "loot": 18415
-   },
-   {
-    "tag": "#LCRQ8QCC0",
-    "name": "Mr Bubblu",
-    "a": 3,
-    "lim": 5,
-    "loot": 17015
    },
    {
     "tag": "#G9CL20UQY",
