@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 299071,
+  "loot": 303823,
   "raids": 3,
-  "attacks": 73,
-  "districts": 28,
+  "attacks": 74,
+  "districts": 29,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -68,18 +68,18 @@
     "loot": 24267
    },
    {
+    "tag": "#QU0QU0Q80",
+    "name": "Dream®",
+    "a": 4,
+    "lim": 6,
+    "loot": 22995
+   },
+   {
     "tag": "#LGLPJJ2VP",
     "name": "егор",
     "a": 6,
     "lim": 6,
     "loot": 18718
-   },
-   {
-    "tag": "#QU0QU0Q80",
-    "name": "Dream®",
-    "a": 3,
-    "lim": 6,
-    "loot": 18243
    },
    {
     "tag": "#GJY0R0JCJ",
