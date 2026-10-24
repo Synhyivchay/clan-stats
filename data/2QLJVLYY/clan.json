@@ -16,7 +16,9 @@
  "warLogPublic": true,
  "trackingSince": "2026-10-15T22:46:46Z",
  "contribFetched": "2026-10-24T10:20:32Z",
- "updated": "2026-10-24T10:25:32Z",
- "errors": [],
+ "updated": "2026-10-24T10:30:33Z",
+ "errors": [
+  "Рейды: 520 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/\",\"title\":\"Error 520: Web server is returning an unknown error\",\"status\":520,\"detai (/clans/#2QLJVLYY/capitalraidseasons?limit=4)"
+ ],
  "show": true
 }
