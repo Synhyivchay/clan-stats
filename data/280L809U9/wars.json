@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 30,
-   "pct": 58.2,
-   "attacks": 13
+   "stars": 33,
+   "pct": 63.2,
+   "attacks": 14
   },
   "them": {
    "tag": "#2J8R9JRC2",
@@ -163,7 +163,19 @@
     "name": "ed_sans_123",
     "th": 17,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2Y9J2YQ92",
+      "dn": "Natalie",
+      "dpos": 8,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 28,
+      "n": 3,
+      "dur": 153
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -420,7 +432,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T11:55:33Z"
+  "snap": "2026-10-24T12:05:33Z"
  },
  {
   "id": "war_20261020T204359Z_2QLP8UCR8",
