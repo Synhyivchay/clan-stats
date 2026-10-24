@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 601723,
+  "loot": 609488,
   "raids": 6,
-  "attacks": 126,
+  "attacks": 128,
   "districts": 55,
   "offReward": 0,
   "defReward": 0,
@@ -154,9 +154,9 @@
    {
     "tag": "#Y902V0099",
     "name": "Chloè❤",
-    "a": 4,
+    "a": 6,
     "lim": 6,
-    "loot": 10968
+    "loot": 18733
    },
    {
     "tag": "#LG8YC2Y92",
