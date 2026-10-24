@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 25,
-   "pct": 48.8,
-   "attacks": 11
+   "stars": 28,
+   "pct": 53.8,
+   "attacks": 12
   },
   "them": {
    "tag": "#2J8R9JRC2",
@@ -115,7 +115,19 @@
     "name": "Partizan",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YV8CYJJR",
+      "dn": "SquirrelBoy827",
+      "dpos": 6,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 24,
+      "n": 3,
+      "dur": 101
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -396,7 +408,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T09:25:32Z"
+  "snap": "2026-10-24T09:40:33Z"
  },
  {
   "id": "war_20261020T204359Z_2QLP8UCR8",
