@@ -16,7 +16,10 @@
  "warLogPublic": true,
  "trackingSince": "2026-10-15T13:52:34Z",
  "contribFetched": "2026-10-24T02:20:05Z",
- "updated": "2026-10-24T02:20:05Z",
- "errors": [],
+ "updated": "2026-10-24T02:30:23Z",
+ "errors": [
+  "ЛВК: 520 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/\",\"title\":\"Error 520: Web server is returning an unknown error\",\"status\":520,\"detai (/clans/#280L809U9/currentwar/leaguegroup)",
+  "Рейды: 520 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/\",\"title\":\"Error 520: Web server is returning an unknown error\",\"status\":520,\"detai (/clans/#280L809U9/capitalraidseasons?limit=4)"
+ ],
  "show": true
 }
