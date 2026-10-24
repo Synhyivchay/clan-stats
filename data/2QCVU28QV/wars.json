@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 3,
-   "pct": 3.33,
-   "attacks": 1
+   "stars": 6,
+   "pct": 6.67,
+   "attacks": 2
   },
   "them": {
    "tag": "#QCUVYJLP",
    "name": "PALOMA SURABAYA",
    "badge": "https://api-assets.clashofclans.com/badges/200/X2eeQt-s810PyiSiOdLYrIxTMTT_6S1Doouqac2w7II.png",
    "level": 32,
-   "stars": 5,
-   "pct": 5.93,
-   "attacks": 2
+   "stars": 9,
+   "pct": 11.97,
+   "attacks": 4
   },
   "members": [
    {
@@ -70,9 +70,9 @@
     "pos": 4,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -94,9 +94,9 @@
     "pos": 6,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 81
     }
    },
    {
@@ -235,6 +235,17 @@
       "o": 1,
       "n": 3,
       "dur": 106
+     },
+     {
+      "d": "#89JPLU9RQ",
+      "dn": "Andra",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 3,
+      "dur": 139
      }
     ],
     "def": {
@@ -400,7 +411,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T21:51:01Z"
+  "snap": "2026-10-24T21:56:01Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",
