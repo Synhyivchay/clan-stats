@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 486022,
-  "raids": 5,
-  "attacks": 112,
-  "districts": 44,
+  "loot": 525909,
+  "raids": 6,
+  "attacks": 121,
+  "districts": 45,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -96,6 +96,13 @@
     "loot": 23814
    },
    {
+    "tag": "#CUQYLPU",
+    "name": "ФЕРЗЬ",
+    "a": 6,
+    "lim": 6,
+    "loot": 22872
+   },
+   {
     "tag": "#9LQ2YUVUY",
     "name": "рома",
     "a": 5,
@@ -131,6 +138,13 @@
     "loot": 18415
    },
    {
+    "tag": "#LCRQ8QCC0",
+    "name": "Mr Bubblu",
+    "a": 3,
+    "lim": 5,
+    "loot": 17015
+   },
+   {
     "tag": "#G9CL20UQY",
     "name": "xavier",
     "a": 6,
@@ -157,13 +171,6 @@
     "a": 4,
     "lim": 5,
     "loot": 6015
-   },
-   {
-    "tag": "#CUQYLPU",
-    "name": "ФЕРЗЬ",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
    }
   ]
  },
