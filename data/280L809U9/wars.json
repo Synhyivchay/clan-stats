@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 35,
-   "pct": 67.8,
-   "attacks": 15
+   "stars": 38,
+   "pct": 72.8,
+   "attacks": 16
   },
   "them": {
    "tag": "#2J8R9JRC2",
@@ -246,7 +246,19 @@
     "name": "Дракс",
     "th": 16,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PQRQP08GU",
+      "dn": "Octacles",
+      "dpos": 12,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 33,
+      "n": 3,
+      "dur": 106
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -443,7 +455,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T14:40:52Z"
+  "snap": "2026-10-24T14:45:52Z"
  },
  {
   "id": "war_20261020T204359Z_2QLP8UCR8",
