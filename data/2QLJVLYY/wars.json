@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 7,
-   "pct": 11.48,
-   "attacks": 3
+   "stars": 11,
+   "pct": 15.88,
+   "attacks": 6
   },
   "them": {
    "tag": "#RYLC829V",
@@ -56,7 +56,30 @@
     "name": "■◇LEGENDARNIY◇■",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P00J9UPRY",
+      "dn": "• GHOST •",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 1,
+      "dur": 88
+     },
+     {
+      "d": "#YGLULGLJV",
+      "dn": "LEGENDARY KING",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 1,
+      "dur": 141
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -162,6 +185,17 @@
       "o": 3,
       "n": 2,
       "dur": 108
+     },
+     {
+      "d": "#QJ0L9L98V",
+      "dn": "mahan 1234",
+      "dpos": 3,
+      "dth": 18,
+      "s": 2,
+      "p": 97,
+      "o": 6,
+      "n": 2,
+      "dur": 109
      }
     ],
     "def": {
@@ -363,7 +397,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T05:20:23Z"
+  "snap": "2026-10-24T05:30:23Z"
  },
  {
   "id": "war_20261020T202826Z_2RULQVLP0",
