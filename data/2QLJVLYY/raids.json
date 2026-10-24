@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 280828,
+  "loot": 291946,
   "raids": 3,
-  "attacks": 70,
-  "districts": 27,
+  "attacks": 72,
+  "districts": 28,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -80,6 +80,13 @@
     "a": 6,
     "lim": 6,
     "loot": 14981
+   },
+   {
+    "tag": "#QU0QU0Q80",
+    "name": "Dream®",
+    "a": 2,
+    "lim": 6,
+    "loot": 11118
    },
    {
     "tag": "#PUCPRP9YV",
