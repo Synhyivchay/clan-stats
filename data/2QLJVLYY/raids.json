@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 404325,
+  "loot": 417299,
   "raids": 4,
-  "attacks": 95,
-  "districts": 39,
+  "attacks": 98,
+  "districts": 40,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -24,6 +24,13 @@
     "a": 6,
     "lim": 6,
     "loot": 29285
+   },
+   {
+    "tag": "#LQGGPPC92",
+    "name": "~LuciFer~",
+    "a": 6,
+    "lim": 6,
+    "loot": 28770
    },
    {
     "tag": "#LG2JCP99G",
@@ -101,13 +108,6 @@
     "a": 6,
     "lim": 6,
     "loot": 18718
-   },
-   {
-    "tag": "#LQGGPPC92",
-    "name": "~LuciFer~",
-    "a": 3,
-    "lim": 6,
-    "loot": 15796
    },
    {
     "tag": "#GJY0R0JCJ",
