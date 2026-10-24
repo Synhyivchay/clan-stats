@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 494918,
+  "loot": 505706,
   "raids": 6,
-  "attacks": 105,
-  "districts": 46,
+  "attacks": 107,
+  "districts": 47,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -31,6 +31,13 @@
     "a": 6,
     "lim": 6,
     "loot": 31685
+   },
+   {
+    "tag": "#LRV88C0RQ",
+    "name": "Bigmac's sohn",
+    "a": 6,
+    "lim": 6,
+    "loot": 31539
    },
    {
     "tag": "#9090P29L9",
@@ -115,13 +122,6 @@
     "a": 6,
     "lim": 6,
     "loot": 21199
-   },
-   {
-    "tag": "#LRV88C0RQ",
-    "name": "Bigmac's sohn",
-    "a": 4,
-    "lim": 6,
-    "loot": 20751
    },
    {
     "tag": "#YU99PU9GQ",
