@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 11,
-   "pct": 19.6,
-   "attacks": 4
+   "stars": 14,
+   "pct": 24.6,
+   "attacks": 5
   },
   "them": {
    "tag": "#2J8R9JRC2",
    "name": "One Bad PO",
    "badge": "https://api-assets.clashofclans.com/badges/200/gd5kZ3pZahs2AkftEIbHqGv0dKwVLM5IhnvCXaQbguQ.png",
    "level": 15,
-   "stars": 30,
-   "pct": 50.0,
-   "attacks": 11
+   "stars": 33,
+   "pct": 55.0,
+   "attacks": 12
   },
   "members": [
    {
@@ -177,9 +177,9 @@
     "pos": 10,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -211,7 +211,19 @@
     "name": "салфетка",
     "th": 16,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LVLGLUPPV",
+      "dn": "dextrin",
+      "dpos": 13,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 16,
+      "n": 3,
+      "dur": 142
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -315,7 +327,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T06:25:23Z"
+  "snap": "2026-10-24T06:30:23Z"
  },
  {
   "id": "war_20261020T204359Z_2QLP8UCR8",
