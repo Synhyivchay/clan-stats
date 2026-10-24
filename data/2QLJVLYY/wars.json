@@ -14,17 +14,17 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
    "stars": 63,
-   "pct": 87.08,
-   "attacks": 29
+   "pct": 87.24,
+   "attacks": 30
   },
   "them": {
    "tag": "#RYLC829V",
    "name": "Request & Leave",
    "badge": "https://api-assets.clashofclans.com/badges/200/FzMhA6__gzUwLR8X4jdMIxhUazWSdmJM-ttSc7Ung-A.png",
    "level": 29,
-   "stars": 23,
-   "pct": 39.24,
-   "attacks": 12
+   "stars": 25,
+   "pct": 42.96,
+   "attacks": 13
   },
   "members": [
    {
@@ -186,9 +186,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 93
     }
    },
    {
@@ -359,6 +359,17 @@
       "o": 41,
       "n": 3,
       "dur": 140
+     },
+     {
+      "d": "#QLCQ9RQPJ",
+      "dn": "GHOST HUNTER",
+      "dpos": 11,
+      "dth": 18,
+      "s": 2,
+      "p": 97,
+      "o": 43,
+      "n": 0,
+      "dur": 172
      }
     ],
     "def": {
@@ -663,7 +674,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T13:15:33Z"
+  "snap": "2026-10-24T13:20:33Z"
  },
  {
   "id": "war_20261020T202826Z_2RULQVLP0",
