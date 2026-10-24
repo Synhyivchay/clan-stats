@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 18,
-   "pct": 20.0,
-   "attacks": 6
+   "stars": 20,
+   "pct": 23.17,
+   "attacks": 7
   },
   "them": {
    "tag": "#QCUVYJLP",
@@ -306,7 +306,19 @@
     "name": "Luka Tate",
     "th": 18,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8LYQVC8V9",
+      "dn": "Yoedhie",
+      "dpos": 3,
+      "dth": 18,
+      "s": 2,
+      "p": 95,
+      "o": 13,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -457,7 +469,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T22:41:01Z"
+  "snap": "2026-10-24T22:46:02Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",
