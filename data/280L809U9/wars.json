@@ -15,7 +15,7 @@
    "level": 25,
    "stars": 44,
    "pct": 83.1,
-   "attacks": 19
+   "attacks": 20
   },
   "them": {
    "tag": "#2J8R9JRC2",
@@ -481,7 +481,19 @@
     "name": "RECORD",
     "th": 16,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PLQ0UC8LR",
+      "dn": "Angeltoorad",
+      "dpos": 19,
+      "dth": 15,
+      "s": 1,
+      "p": 70,
+      "o": 37,
+      "n": 0,
+      "dur": 85
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -489,7 +501,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T16:30:52Z"
+  "snap": "2026-10-24T16:40:52Z"
  },
  {
   "id": "war_20261020T204359Z_2QLP8UCR8",
