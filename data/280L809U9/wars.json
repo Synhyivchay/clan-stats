@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 21,
-   "pct": 37.5,
-   "attacks": 8
+   "stars": 22,
+   "pct": 41.65,
+   "attacks": 9
   },
   "them": {
    "tag": "#2J8R9JRC2",
@@ -246,7 +246,19 @@
     "name": "ФЕРЗЬ",
     "th": 17,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#UCUGV2G",
+      "dn": "YEEES_KING;)",
+      "dpos": 10,
+      "dth": 16,
+      "s": 1,
+      "p": 83,
+      "o": 21,
+      "n": 1,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -361,7 +373,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T07:50:23Z"
+  "snap": "2026-10-24T07:55:23Z"
  },
  {
   "id": "war_20261020T204359Z_2QLP8UCR8",
