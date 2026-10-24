@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 373449,
+  "loot": 377423,
   "raids": 3,
-  "attacks": 81,
-  "districts": 33,
+  "attacks": 82,
+  "districts": 34,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -129,6 +129,13 @@
     "a": 4,
     "lim": 5,
     "loot": 6015
+   },
+   {
+    "tag": "#G9CL20UQY",
+    "name": "xavier",
+    "a": 1,
+    "lim": 6,
+    "loot": 3974
    }
   ]
  },
