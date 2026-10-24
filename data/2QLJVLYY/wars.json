@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 54,
-   "pct": 75.16,
-   "attacks": 25
+   "stars": 57,
+   "pct": 79.16,
+   "attacks": 26
   },
   "them": {
    "tag": "#RYLC829V",
    "name": "Request & Leave",
    "badge": "https://api-assets.clashofclans.com/badges/200/FzMhA6__gzUwLR8X4jdMIxhUazWSdmJM-ttSc7Ung-A.png",
    "level": 29,
-   "stars": 14,
-   "pct": 21.56,
-   "attacks": 6
+   "stars": 20,
+   "pct": 29.56,
+   "attacks": 8
   },
   "members": [
    {
@@ -139,9 +139,9 @@
     "pos": 4,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -151,9 +151,9 @@
     "pos": 5,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -373,7 +373,19 @@
     "name": "sleace",
     "th": 18,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G0RPQY2VV",
+      "dn": "GHOST HUNTER",
+      "dpos": 15,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 33,
+      "n": 3,
+      "dur": 113
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -617,7 +629,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T10:55:33Z"
+  "snap": "2026-10-24T11:05:32Z"
  },
  {
   "id": "war_20261020T202826Z_2RULQVLP0",
