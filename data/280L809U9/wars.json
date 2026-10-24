@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 41,
-   "pct": 77.8,
-   "attacks": 17
+   "pct": 78.1,
+   "attacks": 18
   },
   "them": {
    "tag": "#2J8R9JRC2",
@@ -411,7 +411,19 @@
     "name": "sgrassi",
     "th": 15,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PLQ0UC8LR",
+      "dn": "Angeltoorad",
+      "dpos": 19,
+      "dth": 15,
+      "s": 2,
+      "p": 65,
+      "o": 35,
+      "n": 0,
+      "dur": 145
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -466,7 +478,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T15:25:52Z"
+  "snap": "2026-10-24T15:35:52Z"
  },
  {
   "id": "war_20261020T204359Z_2QLP8UCR8",
