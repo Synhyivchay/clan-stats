@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 12,
-   "pct": 13.33,
-   "attacks": 4
+   "stars": 15,
+   "pct": 16.67,
+   "attacks": 5
   },
   "them": {
    "tag": "#QCUVYJLP",
@@ -32,7 +32,19 @@
     "name": "Amelie❤",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QJURJQPGY",
+      "dn": "Yessy",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 9,
+      "n": 3,
+      "dur": 115
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -434,7 +446,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T22:21:01Z"
+  "snap": "2026-10-24T22:26:02Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",
