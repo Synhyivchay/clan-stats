@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 413444,
+  "loot": 431147,
   "raids": 5,
-  "attacks": 93,
-  "districts": 36,
+  "attacks": 98,
+  "districts": 38,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -75,6 +75,13 @@
     "loot": 24129
    },
    {
+    "tag": "#9LQ2YUVUY",
+    "name": "рома",
+    "a": 5,
+    "lim": 5,
+    "loot": 21375
+   },
+   {
     "tag": "#LQRY8VC2Q",
     "name": "[DM] PIKACHULOL",
     "a": 6,
@@ -96,11 +103,11 @@
     "loot": 18415
    },
    {
-    "tag": "#9LQ2YUVUY",
-    "name": "рома",
-    "a": 4,
-    "lim": 5,
-    "loot": 16910
+    "tag": "#GUPY0JL0C",
+    "name": "салфетка",
+    "a": 5,
+    "lim": 6,
+    "loot": 17193
    },
    {
     "tag": "#G9CL20UQY",
@@ -136,13 +143,6 @@
     "a": 2,
     "lim": 6,
     "loot": 10293
-   },
-   {
-    "tag": "#GUPY0JL0C",
-    "name": "салфетка",
-    "a": 2,
-    "lim": 5,
-    "loot": 7325
    },
    {
     "tag": "#GRU0U22GV",
