@@ -22,9 +22,9 @@
    "name": "Request & Leave",
    "badge": "https://api-assets.clashofclans.com/badges/200/FzMhA6__gzUwLR8X4jdMIxhUazWSdmJM-ttSc7Ung-A.png",
    "level": 29,
-   "stars": 39,
-   "pct": 63.8,
-   "attacks": 21
+   "stars": 40,
+   "pct": 67.28,
+   "attacks": 22
   },
   "members": [
    {
@@ -57,9 +57,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 87
     }
    },
    {
@@ -708,7 +708,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T19:21:02Z"
+  "snap": "2026-10-24T19:26:01Z"
  },
  {
   "id": "war_20261020T202826Z_2RULQVLP0",
