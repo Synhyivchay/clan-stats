@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 585829,
+  "loot": 596313,
   "raids": 6,
-  "attacks": 123,
-  "districts": 54,
+  "attacks": 125,
+  "districts": 55,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -96,6 +96,13 @@
     "loot": 26921
    },
    {
+    "tag": "#9G0GVR8GQ",
+    "name": "アイドル",
+    "a": 5,
+    "lim": 6,
+    "loot": 26457
+   },
+   {
     "tag": "#JGGCYUUG",
     "name": "Alastor",
     "a": 6,
@@ -143,13 +150,6 @@
     "a": 6,
     "lim": 6,
     "loot": 21199
-   },
-   {
-    "tag": "#9G0GVR8GQ",
-    "name": "アイドル",
-    "a": 3,
-    "lim": 6,
-    "loot": 15973
    },
    {
     "tag": "#Y902V0099",
