@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 543993,
+  "loot": 555711,
   "raids": 6,
-  "attacks": 125,
-  "districts": 47,
+  "attacks": 128,
+  "districts": 48,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -110,6 +110,13 @@
     "loot": 22872
    },
    {
+    "tag": "#GLCVPCCQ2",
+    "name": "Ragnar",
+    "a": 5,
+    "lim": 6,
+    "loot": 22632
+   },
+   {
     "tag": "#9LQ2YUVUY",
     "name": "рома",
     "a": 5,
@@ -157,13 +164,6 @@
     "a": 3,
     "lim": 6,
     "loot": 11835
-   },
-   {
-    "tag": "#GLCVPCCQ2",
-    "name": "Ragnar",
-    "a": 2,
-    "lim": 6,
-    "loot": 10914
    },
    {
     "tag": "#GRU0U22GV",
