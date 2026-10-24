@@ -22,9 +22,9 @@
    "name": "One Bad PO",
    "badge": "https://api-assets.clashofclans.com/badges/200/gd5kZ3pZahs2AkftEIbHqGv0dKwVLM5IhnvCXaQbguQ.png",
    "level": 15,
-   "stars": 10,
-   "pct": 18.2,
-   "attacks": 4
+   "stars": 18,
+   "pct": 30.0,
+   "attacks": 7
   },
   "members": [
    {
@@ -34,9 +34,9 @@
     "pos": 1,
     "attacks": [],
     "def": {
-     "n": 1,
-     "s": 1,
-     "p": 64
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -82,9 +82,9 @@
     "pos": 5,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -94,9 +94,9 @@
     "pos": 6,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -268,7 +268,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T03:10:23Z"
+  "snap": "2026-10-24T03:20:23Z"
  },
  {
   "id": "war_20261020T204359Z_2QLP8UCR8",
