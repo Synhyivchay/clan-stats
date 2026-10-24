@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 505706,
+  "loot": 527267,
   "raids": 6,
-  "attacks": 107,
-  "districts": 47,
+  "attacks": 111,
+  "districts": 48,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#YU99PU9GQ",
+    "name": "Luka Tate",
+    "a": 6,
+    "lim": 6,
+    "loot": 35906
+   },
    {
     "tag": "#8RGQ9U2R",
     "name": "GermanRuss",
@@ -124,13 +131,6 @@
     "loot": 21199
    },
    {
-    "tag": "#YU99PU9GQ",
-    "name": "Luka Tate",
-    "a": 3,
-    "lim": 6,
-    "loot": 18620
-   },
-   {
     "tag": "#9G0GVR8GQ",
     "name": "アイドル",
     "a": 3,
@@ -150,6 +150,13 @@
     "a": 1,
     "lim": 5,
     "loot": 6700
+   },
+   {
+    "tag": "#22L9YGQ2U",
+    "name": "slory",
+    "a": 1,
+    "lim": 5,
+    "loot": 4275
    }
   ]
  },
