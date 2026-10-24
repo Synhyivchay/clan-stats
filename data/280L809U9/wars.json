@@ -15,7 +15,7 @@
    "level": 25,
    "stars": 48,
    "pct": 88.2,
-   "attacks": 23
+   "attacks": 25
   },
   "them": {
    "tag": "#2J8R9JRC2",
@@ -397,7 +397,30 @@
     "name": "Johan",
     "th": 15,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y00PR9V9",
+      "dn": "colte",
+      "dpos": 1,
+      "dth": 18,
+      "s": 2,
+      "p": 71,
+      "o": 50,
+      "n": 0,
+      "dur": 93
+     },
+     {
+      "d": "#G99VPCVJG",
+      "dn": "Preacher",
+      "dpos": 2,
+      "dth": 18,
+      "s": 2,
+      "p": 66,
+      "o": 51,
+      "n": 0,
+      "dur": 77
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -534,7 +557,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T22:56:01Z"
+  "snap": "2026-10-24T23:01:01Z"
  },
  {
   "id": "war_20261020T204359Z_2QLP8UCR8",
