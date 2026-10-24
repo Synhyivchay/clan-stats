@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 41,
-   "pct": 78.1,
-   "attacks": 18
+   "stars": 44,
+   "pct": 83.1,
+   "attacks": 19
   },
   "them": {
    "tag": "#2J8R9JRC2",
@@ -398,6 +398,17 @@
       "o": 14,
       "n": 3,
       "dur": 82
+     },
+     {
+      "d": "#GV299YLQC",
+      "dn": "Sarkynn",
+      "dpos": 15,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 36,
+      "n": 3,
+      "dur": 101
      }
     ],
     "def": {
@@ -478,7 +489,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T15:45:52Z"
+  "snap": "2026-10-24T15:50:52Z"
  },
  {
   "id": "war_20261020T204359Z_2QLP8UCR8",
