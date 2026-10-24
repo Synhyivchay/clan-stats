@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 39,
-   "pct": 57.04,
-   "attacks": 18
+   "stars": 41,
+   "pct": 60.12,
+   "attacks": 19
   },
   "them": {
    "tag": "#RYLC829V",
    "name": "Request & Leave",
    "badge": "https://api-assets.clashofclans.com/badges/200/FzMhA6__gzUwLR8X4jdMIxhUazWSdmJM-ttSc7Ung-A.png",
    "level": 29,
-   "stars": 2,
-   "pct": 5.56,
-   "attacks": 2
+   "stars": 8,
+   "pct": 13.56,
+   "attacks": 4
   },
   "members": [
    {
@@ -373,6 +373,17 @@
       "o": 20,
       "n": 2,
       "dur": 180
+     },
+     {
+      "d": "#UCYQRPP0",
+      "dn": "pezhman",
+      "dpos": 6,
+      "dth": 18,
+      "s": 2,
+      "p": 77,
+      "o": 22,
+      "n": 2,
+      "dur": 180
      }
     ],
     "def": {
@@ -483,9 +494,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -530,13 +541,13 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    }
   ],
-  "snap": "2026-10-24T08:10:33Z"
+  "snap": "2026-10-24T08:15:33Z"
  },
  {
   "id": "war_20261020T202826Z_2RULQVLP0",
