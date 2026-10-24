@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 580508,
-  "raids": 5,
-  "attacks": 122,
-  "districts": 53,
+  "loot": 585829,
+  "raids": 6,
+  "attacks": 123,
+  "districts": 54,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -110,6 +110,13 @@
     "loot": 26242
    },
    {
+    "tag": "#RLGUULPP",
+    "name": "Ampletrex",
+    "a": 6,
+    "lim": 6,
+    "loot": 25757
+   },
+   {
     "tag": "#2JCQPL89R",
     "name": "؞۩׀ＰＲ０Ｔ０ＴＹＰＥ׀۩؞",
     "a": 6,
@@ -136,13 +143,6 @@
     "a": 6,
     "lim": 6,
     "loot": 21199
-   },
-   {
-    "tag": "#RLGUULPP",
-    "name": "Ampletrex",
-    "a": 5,
-    "lim": 6,
-    "loot": 20436
    },
    {
     "tag": "#9G0GVR8GQ",
