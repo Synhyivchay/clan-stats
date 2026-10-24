@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 15,
-   "pct": 16.67,
-   "attacks": 5
+   "stars": 18,
+   "pct": 20.0,
+   "attacks": 6
   },
   "them": {
    "tag": "#QCUVYJLP",
@@ -43,6 +43,17 @@
       "o": 9,
       "n": 3,
       "dur": 115
+     },
+     {
+      "d": "#P9V9VL9PQ",
+      "dn": "Erna",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 10,
+      "n": 3,
+      "dur": 126
      }
     ],
     "def": {
@@ -446,7 +457,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T22:26:02Z"
+  "snap": "2026-10-24T22:31:02Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",
