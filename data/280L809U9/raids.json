@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 555711,
+  "loot": 558427,
   "raids": 6,
-  "attacks": 128,
-  "districts": 48,
+  "attacks": 129,
+  "districts": 49,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -82,6 +82,13 @@
     "loot": 27683
    },
    {
+    "tag": "#GLCVPCCQ2",
+    "name": "Ragnar",
+    "a": 6,
+    "lim": 6,
+    "loot": 25348
+   },
+   {
     "tag": "#R0JGYGQ9J",
     "name": "Saemurod",
     "a": 6,
@@ -108,13 +115,6 @@
     "a": 6,
     "lim": 6,
     "loot": 22872
-   },
-   {
-    "tag": "#GLCVPCCQ2",
-    "name": "Ragnar",
-    "a": 5,
-    "lim": 6,
-    "loot": 22632
    },
    {
     "tag": "#9LQ2YUVUY",
