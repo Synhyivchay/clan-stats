@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 50,
-   "pct": 89.05,
-   "attacks": 26
+   "stars": 52,
+   "pct": 92.25,
+   "attacks": 27
   },
   "them": {
    "tag": "#2J8R9JRC2",
@@ -67,7 +67,19 @@
     "name": "OO REEBOK OO",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q99LJP2JQ",
+      "dn": "Reid Guaranteed",
+      "dpos": 3,
+      "dth": 18,
+      "s": 2,
+      "p": 64,
+      "o": 53,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -569,7 +581,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T23:21:01Z"
+  "snap": "2026-10-24T23:26:02Z"
  },
  {
   "id": "war_20261020T204359Z_2QLP8UCR8",
