@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 28,
-   "pct": 53.8,
-   "attacks": 12
+   "stars": 30,
+   "pct": 58.2,
+   "attacks": 13
   },
   "them": {
    "tag": "#2J8R9JRC2",
    "name": "One Bad PO",
    "badge": "https://api-assets.clashofclans.com/badges/200/gd5kZ3pZahs2AkftEIbHqGv0dKwVLM5IhnvCXaQbguQ.png",
    "level": 15,
-   "stars": 36,
-   "pct": 60.0,
-   "attacks": 13
+   "stars": 39,
+   "pct": 65.0,
+   "attacks": 14
   },
   "members": [
    {
@@ -199,7 +199,19 @@
     "name": "prime",
     "th": 17,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G2R290RQL",
+      "dn": "Milan",
+      "dpos": 11,
+      "dth": 16,
+      "s": 2,
+      "p": 88,
+      "o": 27,
+      "n": 2,
+      "dur": 145
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -213,9 +225,9 @@
     "pos": 12,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -408,7 +420,7 @@
     }
    }
   ],
-  "snap": "2026-10-24T11:40:33Z"
+  "snap": "2026-10-24T11:50:32Z"
  },
  {
   "id": "war_20261020T204359Z_2QLP8UCR8",
