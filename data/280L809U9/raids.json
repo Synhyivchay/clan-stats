@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 771578,
+  "loot": 793469,
   "raids": 9,
-  "attacks": 178,
-  "districts": 68,
+  "attacks": 182,
+  "districts": 70,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -24,6 +24,13 @@
     "a": 6,
     "lim": 6,
     "loot": 33566
+   },
+   {
+    "tag": "#GYGUJ800C",
+    "name": "Мурадил06",
+    "a": 6,
+    "lim": 6,
+    "loot": 32183
    },
    {
     "tag": "#YUUQCGL2J",
@@ -213,13 +220,6 @@
     "a": 6,
     "lim": 6,
     "loot": 15109
-   },
-   {
-    "tag": "#GYGUJ800C",
-    "name": "Мурадил06",
-    "a": 2,
-    "lim": 6,
-    "loot": 10292
    },
    {
     "tag": "#GRU0U22GV",
