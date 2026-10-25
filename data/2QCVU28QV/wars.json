@@ -22,9 +22,9 @@
    "name": "PALOMA SURABAYA",
    "badge": "https://api-assets.clashofclans.com/badges/200/X2eeQt-s810PyiSiOdLYrIxTMTT_6S1Doouqac2w7II.png",
    "level": 32,
-   "stars": 44,
-   "pct": 52.67,
-   "attacks": 20
+   "stars": 46,
+   "pct": 55.53,
+   "attacks": 21
   },
   "members": [
    {
@@ -532,13 +532,13 @@
     "pos": 30,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 86
     }
    }
   ],
-  "snap": "2026-10-25T03:01:42Z"
+  "snap": "2026-10-25T03:06:42Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",

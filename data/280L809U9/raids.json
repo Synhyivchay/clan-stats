@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 615303,
+  "loot": 630948,
   "raids": 7,
-  "attacks": 145,
+  "attacks": 147,
   "districts": 54,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#GQLRPL8Q0",
+    "name": "Jamshid",
+    "a": 6,
+    "lim": 6,
+    "loot": 41415
+   },
    {
     "tag": "#LRR9VR0CY",
     "name": "Begbus",
@@ -80,13 +87,6 @@
     "a": 6,
     "lim": 6,
     "loot": 27683
-   },
-   {
-    "tag": "#GQLRPL8Q0",
-    "name": "Jamshid",
-    "a": 4,
-    "lim": 6,
-    "loot": 25770
    },
    {
     "tag": "#GLCVPCCQ2",
