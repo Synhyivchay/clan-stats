@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 633453,
+  "loot": 638458,
   "raids": 6,
-  "attacks": 133,
+  "attacks": 134,
   "districts": 57,
   "offReward": 0,
   "defReward": 0,
@@ -89,6 +89,13 @@
     "loot": 29135
    },
    {
+    "tag": "#YL0QYGP0V",
+    "name": "Bassko",
+    "a": 6,
+    "lim": 6,
+    "loot": 28970
+   },
+   {
     "tag": "#2GG9VVGQJ",
     "name": "Rudi",
     "a": 6,
@@ -136,13 +143,6 @@
     "a": 6,
     "lim": 6,
     "loot": 24433
-   },
-   {
-    "tag": "#YL0QYGP0V",
-    "name": "Bassko",
-    "a": 5,
-    "lim": 6,
-    "loot": 23965
    },
    {
     "tag": "#P9C8Q9RCR",
