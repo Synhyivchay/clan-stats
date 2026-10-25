@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 66,
-   "pct": 74.87,
-   "attacks": 24
+   "stars": 76,
+   "pct": 85.1,
+   "attacks": 28
   },
   "them": {
    "tag": "#QCUVYJLP",
@@ -161,7 +161,30 @@
     "name": "Louis™️187",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YU28YYJJJ",
+      "dn": "Pemain Clash",
+      "dpos": 20,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 61,
+      "n": 3,
+      "dur": 126
+     },
+     {
+      "d": "#2U0VUU8G",
+      "dn": "AsXu'",
+      "dpos": 21,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 62,
+      "n": 1,
+      "dur": 143
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -208,6 +231,17 @@
       "o": 59,
       "n": 2,
       "dur": 147
+     },
+     {
+      "d": "#2298R9UQV",
+      "dn": "❌Don_Clasher❌",
+      "dpos": 26,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 60,
+      "n": 3,
+      "dur": 136
      }
     ],
     "def": {
@@ -269,7 +303,19 @@
     "name": "Hattrickser",
     "th": 18,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2JPU0CPV0",
+      "dn": "fazwimi",
+      "dpos": 25,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 63,
+      "n": 3,
+      "dur": 116
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -666,7 +712,7 @@
     }
    }
   ],
-  "snap": "2026-10-25T08:36:51Z"
+  "snap": "2026-10-25T09:36:51Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",
