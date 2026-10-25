@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 44,
-   "pct": 49.83,
-   "attacks": 15
+   "stars": 47,
+   "pct": 53.17,
+   "attacks": 16
   },
   "them": {
    "tag": "#QCUVYJLP",
@@ -90,6 +90,17 @@
       "o": 46,
       "n": 3,
       "dur": 166
+     },
+     {
+      "d": "#800L9U00L",
+      "dn": "ilham trees",
+      "dpos": 12,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 47,
+      "n": 3,
+      "dur": 140
      }
     ],
     "def": {
@@ -562,7 +573,7 @@
     }
    }
   ],
-  "snap": "2026-10-25T06:26:51Z"
+  "snap": "2026-10-25T06:31:51Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",
