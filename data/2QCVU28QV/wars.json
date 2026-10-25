@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 50,
-   "pct": 56.5,
-   "attacks": 17
+   "stars": 53,
+   "pct": 59.83,
+   "attacks": 18
   },
   "them": {
    "tag": "#QCUVYJLP",
@@ -67,7 +67,19 @@
     "name": "Bigmac's sohn",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QL9JURJVG",
+      "dn": "kingdom of god",
+      "dpos": 18,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 51,
+      "n": 3,
+      "dur": 121
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -584,7 +596,7 @@
     }
    }
   ],
-  "snap": "2026-10-25T07:06:51Z"
+  "snap": "2026-10-25T07:11:51Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",
