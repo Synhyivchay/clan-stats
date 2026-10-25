@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 687159,
-  "raids": 8,
-  "attacks": 160,
-  "districts": 64,
+  "loot": 728498,
+  "raids": 9,
+  "attacks": 168,
+  "districts": 67,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -19,11 +19,25 @@
     "loot": 34311
    },
    {
+    "tag": "#YRYYYGY90",
+    "name": "naik",
+    "a": 6,
+    "lim": 6,
+    "loot": 30500
+   },
+   {
     "tag": "#LJQU0Q0VV",
     "name": "Azek",
     "a": 6,
     "lim": 6,
     "loot": 30494
+   },
+   {
+    "tag": "#9P28CV0L0",
+    "name": "0777",
+    "a": 6,
+    "lim": 6,
+    "loot": 30479
    },
    {
     "tag": "#QU0QU0Q80",
@@ -180,32 +194,18 @@
     "loot": 14981
    },
    {
+    "tag": "#R02QVVJ20",
+    "name": "Ibrohim",
+    "a": 6,
+    "lim": 6,
+    "loot": 14235
+   },
+   {
     "tag": "#YPR9QR0G8",
     "name": "hunter",
     "a": 5,
     "lim": 6,
     "loot": 13913
-   },
-   {
-    "tag": "#YRYYYGY90",
-    "name": "naik",
-    "a": 3,
-    "lim": 6,
-    "loot": 11916
-   },
-   {
-    "tag": "#R02QVVJ20",
-    "name": "Ibrohim",
-    "a": 5,
-    "lim": 6,
-    "loot": 11755
-   },
-   {
-    "tag": "#9P28CV0L0",
-    "name": "0777",
-    "a": 2,
-    "lim": 6,
-    "loot": 10204
    },
    {
     "tag": "#9289UJLQ",

@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 737116,
+  "loot": 772212,
   "raids": 7,
-  "attacks": 160,
-  "districts": 68,
+  "attacks": 170,
+  "districts": 71,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -173,11 +173,25 @@
     "loot": 22816
    },
    {
+    "tag": "#LYVCYUQCR",
+    "name": "Jeffrey_Chicken",
+    "a": 6,
+    "lim": 6,
+    "loot": 21287
+   },
+   {
     "tag": "#QUVCCUY9J",
     "name": "RudiV4",
     "a": 6,
     "lim": 6,
     "loot": 21199
+   },
+   {
+    "tag": "#9U20UCLV2",
+    "name": "LokiPhil",
+    "a": 6,
+    "lim": 6,
+    "loot": 20702
    },
    {
     "tag": "#Y902V0099",
@@ -194,13 +208,6 @@
     "loot": 11741
    },
    {
-    "tag": "#9U20UCLV2",
-    "name": "LokiPhil",
-    "a": 3,
-    "lim": 6,
-    "loot": 9005
-   },
-   {
     "tag": "#LG8YC2Y92",
     "name": "Kingdingeling",
     "a": 1,
@@ -213,6 +220,13 @@
     "a": 2,
     "lim": 6,
     "loot": 6135
+   },
+   {
+    "tag": "#G29QC0G0G",
+    "name": "Riesen_Stinker",
+    "a": 1,
+    "lim": 6,
+    "loot": 2112
    }
   ]
  },
