@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 44
+   "attacks": 45
   },
   "them": {
    "tag": "#QCUVYJLP",
@@ -137,7 +137,19 @@
     "name": "Cnyse",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9GPC900LJ",
+      "dn": "king",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 102,
+      "n": 0,
+      "dur": 85
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -895,7 +907,7 @@
     }
    }
   ],
-  "snap": "2026-10-25T19:52:49Z"
+  "snap": "2026-10-25T19:57:49Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",
