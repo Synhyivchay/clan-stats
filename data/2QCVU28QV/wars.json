@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 59,
-   "pct": 65.3,
-   "attacks": 21
+   "stars": 62,
+   "pct": 68.63,
+   "attacks": 22
   },
   "them": {
    "tag": "#QCUVYJLP",
@@ -173,7 +173,19 @@
     "name": "Kingdingeling",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#VV8R0RYV",
+      "dn": "Hellboy",
+      "dpos": 19,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 56,
+      "n": 3,
+      "dur": 94
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -630,7 +642,7 @@
     }
    }
   ],
-  "snap": "2026-10-25T08:16:51Z"
+  "snap": "2026-10-25T08:21:51Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",
