@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 712973,
+  "loot": 720971,
   "raids": 8,
-  "attacks": 165,
-  "districts": 63,
+  "attacks": 167,
+  "districts": 64,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -203,9 +203,9 @@
    {
     "tag": "#80QQP0V2C",
     "name": "Danis 1 2 3",
-    "a": 1,
-    "lim": 5,
-    "loot": 6175
+    "a": 3,
+    "lim": 6,
+    "loot": 14173
    },
    {
     "tag": "#GRU0U22GV",
