@@ -15,16 +15,16 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 35
+   "attacks": 37
   },
   "them": {
    "tag": "#QCUVYJLP",
    "name": "PALOMA SURABAYA",
    "badge": "https://api-assets.clashofclans.com/badges/200/X2eeQt-s810PyiSiOdLYrIxTMTT_6S1Doouqac2w7II.png",
    "level": 32,
-   "stars": 78,
-   "pct": 93.83,
-   "attacks": 44
+   "stars": 79,
+   "pct": 94.17,
+   "attacks": 46
   },
   "members": [
    {
@@ -433,9 +433,9 @@
     "pos": 16,
     "attacks": [],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 90
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -642,7 +642,30 @@
     "name": "AnoNymous",
     "th": 18,
     "pos": 23,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9GPC900LJ",
+      "dn": "king",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 80,
+      "n": 0,
+      "dur": 121
+     },
+     {
+      "d": "#89JPLU9RQ",
+      "dn": "Andra",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 83,
+      "n": 0,
+      "dur": 108
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -679,7 +702,7 @@
      }
     ],
     "def": {
-     "n": 2,
+     "n": 3,
      "s": 2,
      "p": 62
     }
@@ -792,7 +815,7 @@
     }
    }
   ],
-  "snap": "2026-10-25T13:17:29Z"
+  "snap": "2026-10-25T13:22:29Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",
