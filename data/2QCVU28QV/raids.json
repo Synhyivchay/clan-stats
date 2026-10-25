@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 609488,
+  "loot": 615023,
   "raids": 6,
-  "attacks": 128,
+  "attacks": 129,
   "districts": 55,
   "offReward": 0,
   "defReward": 0,
@@ -164,6 +164,13 @@
     "a": 1,
     "lim": 5,
     "loot": 6700
+   },
+   {
+    "tag": "#YL0QYGP0V",
+    "name": "Bassko",
+    "a": 1,
+    "lim": 5,
+    "loot": 5535
    },
    {
     "tag": "#2CCJVQ08V",

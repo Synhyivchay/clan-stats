@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 47,
-   "pct": 53.17,
-   "attacks": 16
+   "stars": 50,
+   "pct": 56.5,
+   "attacks": 17
   },
   "them": {
    "tag": "#QCUVYJLP",
@@ -328,6 +328,17 @@
       "o": 45,
       "n": 3,
       "dur": 132
+     },
+     {
+      "d": "#G80Q0PJQY",
+      "dn": "HELLBOY_22",
+      "dpos": 17,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 48,
+      "n": 3,
+      "dur": 126
      }
     ],
     "def": {
@@ -573,7 +584,7 @@
     }
    }
   ],
-  "snap": "2026-10-25T06:31:51Z"
+  "snap": "2026-10-25T06:36:51Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",
