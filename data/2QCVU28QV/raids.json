@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 615023,
+  "loot": 633453,
   "raids": 6,
-  "attacks": 129,
-  "districts": 55,
+  "attacks": 133,
+  "districts": 57,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -138,6 +138,13 @@
     "loot": 24433
    },
    {
+    "tag": "#YL0QYGP0V",
+    "name": "Bassko",
+    "a": 5,
+    "lim": 6,
+    "loot": 23965
+   },
+   {
     "tag": "#P9C8Q9RCR",
     "name": "Hattrickser",
     "a": 6,
@@ -164,13 +171,6 @@
     "a": 1,
     "lim": 5,
     "loot": 6700
-   },
-   {
-    "tag": "#YL0QYGP0V",
-    "name": "Bassko",
-    "a": 1,
-    "lim": 5,
-    "loot": 5535
    },
    {
     "tag": "#2CCJVQ08V",
