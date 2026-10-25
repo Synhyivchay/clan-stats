@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 732880,
+  "loot": 737915,
   "raids": 9,
-  "attacks": 170,
+  "attacks": 171,
   "districts": 65,
   "offReward": 0,
   "defReward": 0,
@@ -213,6 +213,13 @@
     "a": 4,
     "lim": 5,
     "loot": 6015
+   },
+   {
+    "tag": "#L9GQPGPYV",
+    "name": "Johan",
+    "a": 1,
+    "lim": 5,
+    "loot": 5035
    },
    {
     "tag": "#QPG999QV0",
