@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 667409,
-  "raids": 6,
-  "attacks": 142,
-  "districts": 62,
+  "loot": 728111,
+  "raids": 7,
+  "attacks": 157,
+  "districts": 67,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -110,6 +110,13 @@
     "loot": 26921
    },
    {
+    "tag": "#2CCJVQ08V",
+    "name": "Shaun Ryan",
+    "a": 6,
+    "lim": 6,
+    "loot": 26774
+   },
+   {
     "tag": "#JGGCYUUG",
     "name": "Alastor",
     "a": 6,
@@ -122,6 +129,13 @@
     "a": 6,
     "lim": 6,
     "loot": 26242
+   },
+   {
+    "tag": "#9CJ9U0LL",
+    "name": "Evil Kruemel",
+    "a": 6,
+    "lim": 6,
+    "loot": 26029
    },
    {
     "tag": "#RLGUULPP",
@@ -173,6 +187,13 @@
     "loot": 18733
    },
    {
+    "tag": "#20PCYY998",
+    "name": "Jan2000",
+    "a": 4,
+    "lim": 6,
+    "loot": 11741
+   },
+   {
     "tag": "#LG8YC2Y92",
     "name": "Kingdingeling",
     "a": 1,
@@ -185,13 +206,6 @@
     "a": 2,
     "lim": 6,
     "loot": 6135
-   },
-   {
-    "tag": "#2CCJVQ08V",
-    "name": "Shaun Ryan",
-    "a": 1,
-    "lim": 6,
-    "loot": 3842
    }
   ]
  },

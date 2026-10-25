@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 76,
-   "pct": 85.1,
-   "attacks": 28
+   "stars": 90,
+   "pct": 100.0,
+   "attacks": 35
   },
   "them": {
    "tag": "#QCUVYJLP",
    "name": "PALOMA SURABAYA",
    "badge": "https://api-assets.clashofclans.com/badges/200/X2eeQt-s810PyiSiOdLYrIxTMTT_6S1Doouqac2w7II.png",
    "level": 32,
-   "stars": 68,
-   "pct": 83.73,
-   "attacks": 35
+   "stars": 76,
+   "pct": 91.07,
+   "attacks": 42
   },
   "members": [
    {
@@ -210,9 +210,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 91
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -266,6 +266,17 @@
       "o": 23,
       "n": 3,
       "dur": 111
+     },
+     {
+      "d": "#QJ0VVGP2Q",
+      "dn": "UwU",
+      "dpos": 22,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 67,
+      "n": 1,
+      "dur": 118
      }
     ],
     "def": {
@@ -293,9 +304,9 @@
     "pos": 11,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -314,12 +325,23 @@
       "o": 63,
       "n": 3,
       "dur": 116
+     },
+     {
+      "d": "#8RLCPUGVP",
+      "dn": "FRANKENSTAIN",
+      "dpos": 27,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 64,
+      "n": 3,
+      "dur": 119
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -329,9 +351,9 @@
     "pos": 13,
     "attacks": [],
     "def": {
-     "n": 2,
-     "s": 2,
-     "p": 89
+     "n": 4,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -350,6 +372,17 @@
       "o": 58,
       "n": 2,
       "dur": 180
+     },
+     {
+      "d": "#9JUJUQUG0",
+      "dn": "AZKA",
+      "dpos": 28,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 68,
+      "n": 3,
+      "dur": 160
      }
     ],
     "def": {
@@ -363,7 +396,30 @@
     "name": "Lennart",
     "th": 18,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QJ0VVGP2Q",
+      "dn": "UwU",
+      "dpos": 22,
+      "dth": 18,
+      "s": 2,
+      "p": 94,
+      "o": 65,
+      "n": 0,
+      "dur": 139
+     },
+     {
+      "d": "#PLPVVYLV",
+      "dn": "BLACK MAMBA",
+      "dpos": 24,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 66,
+      "n": 1,
+      "dur": 144
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -457,7 +513,19 @@
     "name": "@Michi@",
     "th": 18,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9UU0JCCQ",
+      "dn": "Risat",
+      "dpos": 30,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 70,
+      "n": 3,
+      "dur": 157
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -692,7 +760,19 @@
     "name": "Monkey D. Lorik",
     "th": 18,
     "pos": 29,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2R2P090CR",
+      "dn": "Guz",
+      "dpos": 29,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 69,
+      "n": 3,
+      "dur": 116
+     }
+    ],
     "def": {
      "n": 2,
      "s": 2,
@@ -712,7 +792,7 @@
     }
    }
   ],
-  "snap": "2026-10-25T09:36:51Z"
+  "snap": "2026-10-25T13:12:29Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",

@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 653720,
+  "loot": 678534,
   "raids": 7,
-  "attacks": 153,
-  "districts": 58,
+  "attacks": 158,
+  "districts": 61,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -89,6 +89,13 @@
     "loot": 27683
    },
    {
+    "tag": "#Y9YQV8CUR",
+    "name": "GURU RANDHAWA",
+    "a": 6,
+    "lim": 6,
+    "loot": 25809
+   },
+   {
     "tag": "#GLCVPCCQ2",
     "name": "Ragnar",
     "a": 6,
@@ -129,6 +136,13 @@
     "a": 6,
     "lim": 6,
     "loot": 22772
+   },
+   {
+    "tag": "#82QQ2QY0V",
+    "name": "Дракс",
+    "a": 5,
+    "lim": 6,
+    "loot": 22705
    },
    {
     "tag": "#GC0V2V2Y0",
@@ -178,20 +192,6 @@
     "a": 6,
     "lim": 6,
     "loot": 15109
-   },
-   {
-    "tag": "#82QQ2QY0V",
-    "name": "Дракс",
-    "a": 3,
-    "lim": 6,
-    "loot": 12045
-   },
-   {
-    "tag": "#Y9YQV8CUR",
-    "name": "GURU RANDHAWA",
-    "a": 3,
-    "lim": 6,
-    "loot": 11655
    },
    {
     "tag": "#GRU0U22GV",

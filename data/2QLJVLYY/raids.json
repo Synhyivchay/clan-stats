@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 599363,
-  "raids": 7,
-  "attacks": 140,
-  "districts": 57,
+  "loot": 687159,
+  "raids": 8,
+  "attacks": 160,
+  "districts": 64,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -17,6 +17,13 @@
     "a": 6,
     "lim": 6,
     "loot": 34311
+   },
+   {
+    "tag": "#LJQU0Q0VV",
+    "name": "Azek",
+    "a": 6,
+    "lim": 6,
+    "loot": 30494
    },
    {
     "tag": "#QU0QU0Q80",
@@ -82,11 +89,25 @@
     "loot": 27951
    },
    {
+    "tag": "#Q9JRVCUYY",
+    "name": "Melata",
+    "a": 6,
+    "lim": 6,
+    "loot": 27634
+   },
+   {
     "tag": "#8LVR2JGU",
     "name": "ELITE",
     "a": 6,
     "lim": 6,
     "loot": 27249
+   },
+   {
+    "tag": "#PUCPRP9YV",
+    "name": "малько",
+    "a": 6,
+    "lim": 6,
+    "loot": 25767
    },
    {
     "tag": "#LYQL2PCL0",
@@ -138,13 +159,6 @@
     "loot": 21971
    },
    {
-    "tag": "#PUCPRP9YV",
-    "name": "малько",
-    "a": 5,
-    "lim": 6,
-    "loot": 20017
-   },
-   {
     "tag": "#LGLPJJ2VP",
     "name": "егор",
     "a": 6,
@@ -166,6 +180,13 @@
     "loot": 14981
    },
    {
+    "tag": "#YPR9QR0G8",
+    "name": "hunter",
+    "a": 5,
+    "lim": 6,
+    "loot": 13913
+   },
+   {
     "tag": "#YRYYYGY90",
     "name": "naik",
     "a": 3,
@@ -185,6 +206,13 @@
     "a": 2,
     "lim": 6,
     "loot": 10204
+   },
+   {
+    "tag": "#9289UJLQ",
+    "name": "AkiloFF_17",
+    "a": 2,
+    "lim": 5,
+    "loot": 10005
    },
    {
     "tag": "#GRLLYQQLV",
