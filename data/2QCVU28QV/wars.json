@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 53,
-   "pct": 59.83,
-   "attacks": 18
+   "stars": 56,
+   "pct": 61.97,
+   "attacks": 20
   },
   "them": {
    "tag": "#QCUVYJLP",
@@ -78,6 +78,17 @@
       "o": 51,
       "n": 3,
       "dur": 121
+     },
+     {
+      "d": "#8LYQVC8V9",
+      "dn": "Yoedhie",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 53,
+      "n": 1,
+      "dur": 123
      }
     ],
     "def": {
@@ -446,7 +457,19 @@
     "name": "Alastor",
     "th": 18,
     "pos": 22,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QJ0VVGP2Q",
+      "dn": "UwU",
+      "dpos": 22,
+      "dth": 18,
+      "s": 2,
+      "p": 59,
+      "o": 52,
+      "n": 2,
+      "dur": 87
+     }
+    ],
     "def": {
      "n": 2,
      "s": 2,
@@ -596,7 +619,7 @@
     }
    }
   ],
-  "snap": "2026-10-25T07:11:51Z"
+  "snap": "2026-10-25T07:16:51Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",
