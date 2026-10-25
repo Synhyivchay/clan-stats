@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 875369,
-  "raids": 8,
-  "attacks": 195,
-  "districts": 80,
+  "loot": 905085,
+  "raids": 9,
+  "attacks": 202,
+  "districts": 82,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -124,6 +124,13 @@
     "loot": 26774
    },
    {
+    "tag": "#Y82GLVV9U",
+    "name": "kevin",
+    "a": 6,
+    "lim": 6,
+    "loot": 26556
+   },
+   {
     "tag": "#JGGCYUUG",
     "name": "Alastor",
     "a": 6,
@@ -159,6 +166,13 @@
     "loot": 25623
    },
    {
+    "tag": "#LG8YC2Y92",
+    "name": "Kingdingeling",
+    "a": 6,
+    "lim": 6,
+    "loot": 25460
+   },
+   {
     "tag": "#QU2GPCCRJ",
     "name": "Hornbär",
     "a": 6,
@@ -192,13 +206,6 @@
     "a": 6,
     "lim": 6,
     "loot": 22789
-   },
-   {
-    "tag": "#LG8YC2Y92",
-    "name": "Kingdingeling",
-    "a": 5,
-    "lim": 6,
-    "loot": 22300
    },
    {
     "tag": "#LYVCYUQCR",
