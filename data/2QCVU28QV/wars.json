@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 56,
-   "pct": 61.97,
-   "attacks": 20
+   "stars": 59,
+   "pct": 65.3,
+   "attacks": 21
   },
   "them": {
    "tag": "#QCUVYJLP",
@@ -468,6 +468,17 @@
       "o": 52,
       "n": 2,
       "dur": 87
+     },
+     {
+      "d": "#8G9L08PV9",
+      "dn": "Lord blue",
+      "dpos": 23,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 54,
+      "n": 3,
+      "dur": 89
      }
     ],
     "def": {
@@ -619,7 +630,7 @@
     }
    }
   ],
-  "snap": "2026-10-25T07:51:51Z"
+  "snap": "2026-10-25T07:56:51Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",
