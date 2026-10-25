@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 38,
-   "pct": 43.17,
-   "attacks": 13
+   "stars": 41,
+   "pct": 46.5,
+   "attacks": 14
   },
   "them": {
    "tag": "#QCUVYJLP",
@@ -294,7 +294,19 @@
     "name": "Bassko",
     "th": 18,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LR8GQV2VC",
+      "dn": "sativa",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 45,
+      "n": 3,
+      "dur": 132
+     }
+    ],
     "def": {
      "n": 2,
      "s": 2,
@@ -538,7 +550,7 @@
     }
    }
   ],
-  "snap": "2026-10-25T06:11:42Z"
+  "snap": "2026-10-25T06:21:42Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",
