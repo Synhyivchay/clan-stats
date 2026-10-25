@@ -6,7 +6,7 @@
   "end": "2026-10-26T07:00:00Z",
   "loot": 737418,
   "raids": 9,
-  "attacks": 170,
+  "attacks": 171,
   "districts": 67,
   "offReward": 0,
   "defReward": 0,
@@ -217,7 +217,7 @@
    {
     "tag": "#GRLLYQQLV",
     "name": "WOLF",
-    "a": 2,
+    "a": 3,
     "lim": 6,
     "loot": 5794
    }
