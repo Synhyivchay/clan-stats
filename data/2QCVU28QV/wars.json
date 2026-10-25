@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 62,
-   "pct": 68.63,
-   "attacks": 22
+   "stars": 64,
+   "pct": 71.73,
+   "attacks": 23
   },
   "them": {
    "tag": "#QCUVYJLP",
    "name": "PALOMA SURABAYA",
    "badge": "https://api-assets.clashofclans.com/badges/200/X2eeQt-s810PyiSiOdLYrIxTMTT_6S1Doouqac2w7II.png",
    "level": 32,
-   "stars": 66,
-   "pct": 81.43,
-   "attacks": 34
+   "stars": 68,
+   "pct": 83.73,
+   "attacks": 35
   },
   "members": [
    {
@@ -281,11 +281,23 @@
     "name": "Hornbär",
     "th": 18,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2U0VUU8G",
+      "dn": "AsXu'",
+      "dpos": 21,
+      "dth": 18,
+      "s": 2,
+      "p": 93,
+      "o": 58,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 69
     }
    },
    {
@@ -642,7 +654,7 @@
     }
    }
   ],
-  "snap": "2026-10-25T08:26:51Z"
+  "snap": "2026-10-25T08:31:51Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",
