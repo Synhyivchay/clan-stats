@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 64,
-   "pct": 71.73,
-   "attacks": 23
+   "stars": 66,
+   "pct": 74.87,
+   "attacks": 24
   },
   "them": {
    "tag": "#QCUVYJLP",
@@ -197,7 +197,19 @@
     "name": "ThomasCzika",
     "th": 18,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PLPVVYLV",
+      "dn": "BLACK MAMBA",
+      "dpos": 24,
+      "dth": 18,
+      "s": 2,
+      "p": 94,
+      "o": 59,
+      "n": 2,
+      "dur": 147
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -654,7 +666,7 @@
     }
    }
   ],
-  "snap": "2026-10-25T08:31:51Z"
+  "snap": "2026-10-25T08:36:51Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",
