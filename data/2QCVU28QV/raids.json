@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 839022,
+  "loot": 859769,
   "raids": 8,
-  "attacks": 186,
-  "districts": 76,
+  "attacks": 191,
+  "districts": 79,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -166,6 +166,13 @@
     "loot": 24433
    },
    {
+    "tag": "#9J0QP2CU8",
+    "name": "xXDamage",
+    "a": 6,
+    "lim": 6,
+    "loot": 24302
+   },
+   {
     "tag": "#P9C8Q9RCR",
     "name": "Hattrickser",
     "a": 6,
@@ -178,6 +185,13 @@
     "a": 6,
     "lim": 6,
     "loot": 22816
+   },
+   {
+    "tag": "#QJRR2Y809",
+    "name": "Cazerr",
+    "a": 6,
+    "lim": 6,
+    "loot": 22789
    },
    {
     "tag": "#LYVCYUQCR",
@@ -208,13 +222,6 @@
     "loot": 20702
    },
    {
-    "tag": "#QJRR2Y809",
-    "name": "Cazerr",
-    "a": 5,
-    "lim": 6,
-    "loot": 20209
-   },
-   {
     "tag": "#Y902V0099",
     "name": "Chloè❤",
     "a": 6,
@@ -234,13 +241,6 @@
     "a": 1,
     "lim": 5,
     "loot": 6700
-   },
-   {
-    "tag": "#9J0QP2CU8",
-    "name": "xXDamage",
-    "a": 2,
-    "lim": 6,
-    "loot": 6135
    }
   ]
  },
