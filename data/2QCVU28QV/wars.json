@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 35,
-   "pct": 39.83,
-   "attacks": 12
+   "stars": 38,
+   "pct": 43.17,
+   "attacks": 13
   },
   "them": {
    "tag": "#QCUVYJLP",
@@ -151,7 +151,19 @@
     "name": "Rudi",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#22RGRRYJV",
+      "dn": "Zoro Senpai",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 23,
+      "n": 3,
+      "dur": 111
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -526,7 +538,7 @@
     }
    }
   ],
-  "snap": "2026-10-25T00:16:01Z"
+  "snap": "2026-10-25T00:31:01Z"
  },
  {
   "id": "war_20261021T231003Z_C2RGRQ0",
