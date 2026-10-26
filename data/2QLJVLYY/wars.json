@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 33,
-   "pct": 45.72,
-   "attacks": 15
+   "stars": 36,
+   "pct": 49.72,
+   "attacks": 16
   },
   "them": {
    "tag": "#PGR2CPQ0",
@@ -102,6 +102,17 @@
       "o": 21,
       "n": 2,
       "dur": 93
+     },
+     {
+      "d": "#PULQCQCR2",
+      "dn": "Pro Janaab YT",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 22,
+      "n": 3,
+      "dur": 104
      }
     ],
     "def": {
@@ -501,7 +512,7 @@
     }
    }
   ],
-  "snap": "2026-10-26T17:53:36Z"
+  "snap": "2026-10-26T17:58:36Z"
  },
  {
   "id": "war_20261023T025553Z_RYLC829V",
