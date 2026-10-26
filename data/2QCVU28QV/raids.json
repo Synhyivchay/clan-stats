@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 932100,
+  "loot": 937523,
   "raids": 9,
-  "attacks": 207,
-  "districts": 84,
+  "attacks": 208,
+  "districts": 85,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -31,6 +31,13 @@
     "a": 6,
     "lim": 6,
     "loot": 33238
+   },
+   {
+    "tag": "#QUUCY9VYQ",
+    "name": "Marc",
+    "a": 6,
+    "lim": 6,
+    "loot": 32438
    },
    {
     "tag": "#GLPYJCYCY",
@@ -101,13 +108,6 @@
     "a": 6,
     "lim": 6,
     "loot": 27702
-   },
-   {
-    "tag": "#QUUCY9VYQ",
-    "name": "Marc",
-    "a": 5,
-    "lim": 6,
-    "loot": 27015
    },
    {
     "tag": "#2GG9VVGQJ",
