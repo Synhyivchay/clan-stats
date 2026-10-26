@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 870815,
+  "loot": 885112,
   "raids": 11,
-  "attacks": 205,
-  "districts": 81,
+  "attacks": 208,
+  "districts": 83,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -59,6 +59,13 @@
     "a": 6,
     "lim": 6,
     "loot": 29767
+   },
+   {
+    "tag": "#9289UJLQ",
+    "name": "AkiloFF_17",
+    "a": 6,
+    "lim": 6,
+    "loot": 29367
    },
    {
     "tag": "#89RL09YL9",
@@ -213,13 +220,6 @@
     "a": 6,
     "lim": 6,
     "loot": 17178
-   },
-   {
-    "tag": "#9289UJLQ",
-    "name": "AkiloFF_17",
-    "a": 3,
-    "lim": 5,
-    "loot": 15070
    },
    {
     "tag": "#GJY0R0JCJ",
