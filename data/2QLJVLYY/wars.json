@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 16,
-   "pct": 23.28,
-   "attacks": 6
+   "stars": 19,
+   "pct": 26.32,
+   "attacks": 8
   },
   "them": {
    "tag": "#PGR2CPQ0",
@@ -151,7 +151,19 @@
     "name": "~LuciFer~",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8Y889QLGC",
+      "dn": "MoNsteR AMRIT",
+      "dpos": 10,
+      "dth": 18,
+      "s": 2,
+      "p": 59,
+      "o": 10,
+      "n": 2,
+      "dur": 105
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -246,7 +258,19 @@
     "name": "sleace",
     "th": 18,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8P00UR08P",
+      "dn": "THE FOOL",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 9,
+      "n": 1,
+      "dur": 113
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -397,7 +421,7 @@
     }
    }
   ],
-  "snap": "2026-10-26T15:48:22Z"
+  "snap": "2026-10-26T15:53:22Z"
  },
  {
   "id": "war_20261023T025553Z_RYLC829V",

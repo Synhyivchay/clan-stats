@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 6.04,
+   "attacks": 2
   },
   "them": {
    "tag": "#2YQGCLV22",
    "name": "SL DarkWarriors",
    "badge": "https://api-assets.clashofclans.com/badges/200/Z0I7O9sk0K9eAlaCUOIrXieA0NFNnCi6vUvI4Men9Jo.png",
    "level": 22,
-   "stars": 11,
-   "pct": 15.8,
-   "attacks": 4
+   "stars": 14,
+   "pct": 19.8,
+   "attacks": 5
   },
   "members": [
    {
@@ -104,7 +104,30 @@
     "name": "Partizan",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L2G90GVQ9",
+      "dn": "ChiRA",
+      "dpos": 7,
+      "dth": 17,
+      "s": 1,
+      "p": 77,
+      "o": 5,
+      "n": 1,
+      "dur": 82
+     },
+     {
+      "d": "#P2QU8VLG0",
+      "dn": ": Ishara.",
+      "dpos": 6,
+      "dth": 18,
+      "s": 2,
+      "p": 74,
+      "o": 6,
+      "n": 2,
+      "dur": 97
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -118,9 +141,9 @@
     "pos": 8,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -328,7 +351,7 @@
     }
    }
   ],
-  "snap": "2026-10-26T15:48:22Z"
+  "snap": "2026-10-26T15:53:22Z"
  },
  {
   "id": "war_20261023T032519Z_2J8R9JRC2",
