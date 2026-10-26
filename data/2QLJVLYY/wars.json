@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 46,
-   "pct": 61.76,
-   "attacks": 20
+   "stars": 47,
+   "pct": 63.4,
+   "attacks": 21
   },
   "them": {
    "tag": "#PGR2CPQ0",
@@ -255,6 +255,17 @@
       "o": 23,
       "n": 3,
       "dur": 113
+     },
+     {
+      "d": "#8Y889QLGC",
+      "dn": "MoNsteR AMRIT",
+      "dpos": 10,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 28,
+      "n": 1,
+      "dur": 122
      }
     ],
     "def": {
@@ -559,7 +570,7 @@
     }
    }
   ],
-  "snap": "2026-10-26T18:08:36Z"
+  "snap": "2026-10-26T18:13:36Z"
  },
  {
   "id": "war_20261023T025553Z_RYLC829V",
