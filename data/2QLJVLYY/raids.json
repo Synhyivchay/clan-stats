@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 785150,
+  "loot": 800494,
   "raids": 10,
-  "attacks": 186,
-  "districts": 73,
+  "attacks": 189,
+  "districts": 75,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -192,6 +192,13 @@
     "a": 6,
     "lim": 6,
     "loot": 17178
+   },
+   {
+    "tag": "#PQCYUY90C",
+    "name": "Артёмчик",
+    "a": 3,
+    "lim": 6,
+    "loot": 15344
    },
    {
     "tag": "#GJY0R0JCJ",
