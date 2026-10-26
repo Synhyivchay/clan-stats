@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 21,
-   "pct": 29.08,
-   "attacks": 9
+   "stars": 22,
+   "pct": 33.04,
+   "attacks": 10
   },
   "them": {
    "tag": "#PGR2CPQ0",
@@ -44,7 +44,19 @@
     "name": "naik",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8P2UJ9Q82",
+      "dn": "AnmOl IdO",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 99,
+      "o": 12,
+      "n": 1,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -432,7 +444,7 @@
     }
    }
   ],
-  "snap": "2026-10-26T16:08:36Z"
+  "snap": "2026-10-26T16:13:36Z"
  },
  {
   "id": "war_20261023T025553Z_RYLC829V",
