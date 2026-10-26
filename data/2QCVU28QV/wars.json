@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 12,
+   "pct": 13.33,
+   "attacks": 4
   },
   "them": {
    "tag": "#YC820RLP",
@@ -32,7 +32,30 @@
     "name": "Amelie❤",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9RLULVCCP",
+      "dn": "dennis38",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 2,
+      "n": 3,
+      "dur": 114
+     },
+     {
+      "d": "#L0LQLU9QR",
+      "dn": "Twandestroyer",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 3,
+      "dur": 112
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -380,7 +403,30 @@
     "name": "GermanRuss",
     "th": 18,
     "pos": 30,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YGYCGLJ0P",
+      "dn": "Just a pro",
+      "dpos": 30,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 3,
+      "n": 3,
+      "dur": 156
+     },
+     {
+      "d": "#PRV9G20",
+      "dn": "clashofwar",
+      "dpos": 29,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 161
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -388,7 +434,7 @@
     }
    }
   ],
-  "snap": "2026-10-26T22:28:59Z"
+  "snap": "2026-10-26T22:43:59Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
