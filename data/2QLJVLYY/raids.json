@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 923090,
+  "loot": 929580,
   "raids": 11,
-  "attacks": 216,
+  "attacks": 217,
   "districts": 87,
   "offReward": 0,
   "defReward": 0,
@@ -266,9 +266,9 @@
    {
     "tag": "#PVCPGJL9R",
     "name": "000Roma000",
-    "a": 1,
+    "a": 2,
     "lim": 5,
-    "loot": 6095
+    "loot": 12585
    }
   ]
  },
