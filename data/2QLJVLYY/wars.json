@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 47,
-   "pct": 63.4,
-   "attacks": 21
+   "stars": 50,
+   "pct": 67.4,
+   "attacks": 22
   },
   "them": {
    "tag": "#PGR2CPQ0",
@@ -196,6 +196,17 @@
       "o": 24,
       "n": 1,
       "dur": 88
+     },
+     {
+      "d": "#2L8CGV0P2",
+      "dn": "kamang king",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 29,
+      "n": 3,
+      "dur": 103
      }
     ],
     "def": {
@@ -570,7 +581,7 @@
     }
    }
   ],
-  "snap": "2026-10-26T18:13:36Z"
+  "snap": "2026-10-26T18:18:36Z"
  },
  {
   "id": "war_20261023T025553Z_RYLC829V",
