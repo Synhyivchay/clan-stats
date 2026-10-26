@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 773911,
+  "loot": 778625,
   "raids": 10,
-  "attacks": 182,
-  "districts": 72,
+  "attacks": 184,
+  "districts": 73,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -222,6 +222,13 @@
     "loot": 12050
    },
    {
+    "tag": "#GRLLYQQLV",
+    "name": "WOLF",
+    "a": 5,
+    "lim": 6,
+    "loot": 10508
+   },
+   {
     "tag": "#9289UJLQ",
     "name": "AkiloFF_17",
     "a": 2,
@@ -234,13 +241,6 @@
     "a": 2,
     "lim": 5,
     "loot": 7265
-   },
-   {
-    "tag": "#GRLLYQQLV",
-    "name": "WOLF",
-    "a": 3,
-    "lim": 6,
-    "loot": 5794
    }
   ]
  },
