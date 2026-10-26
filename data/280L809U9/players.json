@@ -6,8 +6,8 @@
    "F.A.N.T.O.M"
   ],
   "th": 18,
-  "inClan": false,
-  "role": null,
+  "inClan": true,
+  "role": "member",
   "firstSeen": "2026-10-15T13:52:34Z",
   "events": [
    {
@@ -25,16 +25,20 @@
    {
     "t": "leave",
     "at": "2026-10-26T09:48:11Z"
+   },
+   {
+    "t": "join",
+    "at": "2026-10-26T09:53:11Z"
    }
   ],
   "exp": 232,
   "trophies": 0,
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "donations": 505,
+  "donations": 0,
   "received": 0,
   "rank": 1,
-  "lastSeen": "2026-10-26T09:43:11Z",
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -73,8 +77,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
   "donations": 841,
   "received": 2631,
-  "rank": 6,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 7,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -113,8 +117,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
   "donations": 192,
   "received": 0,
-  "rank": 5,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 6,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -173,8 +177,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
   "donations": 49,
   "received": 0,
-  "rank": 3,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 4,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -213,8 +217,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
   "donations": 354,
   "received": 113,
-  "rank": 4,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 5,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -253,8 +257,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
   "donations": 2764,
   "received": 0,
-  "rank": 2,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 3,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -293,8 +297,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png",
   "donations": 144,
   "received": 0,
-  "rank": 1,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 2,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -333,8 +337,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
   "donations": 385,
   "received": 560,
-  "rank": 7,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 8,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -365,8 +369,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png",
   "donations": 1454,
   "received": 0,
-  "rank": 11,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 12,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -409,8 +413,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
   "donations": 216,
   "received": 3679,
-  "rank": 8,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 9,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -441,8 +445,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png",
   "donations": 15,
   "received": 279,
-  "rank": 10,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 11,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -481,8 +485,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png",
   "donations": 231,
   "received": 453,
-  "rank": 12,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 13,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -517,8 +521,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png",
   "donations": 38,
   "received": 0,
-  "rank": 13,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 14,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -561,8 +565,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png",
   "donations": 0,
   "received": 0,
-  "rank": 17,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 18,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -601,8 +605,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png",
   "donations": 0,
   "received": 0,
-  "rank": 15,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 16,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -657,8 +661,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png",
   "donations": 144,
   "received": 2,
-  "rank": 16,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 17,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -697,8 +701,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png",
   "donations": 113,
   "received": 136,
-  "rank": 18,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 19,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -773,8 +777,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/vxV7LI0votsz0_n-8lW-Lag96D5HwKsEgEk_7247zC4.png",
   "donations": 50,
   "received": 0,
-  "rank": 20,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 21,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -817,8 +821,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/JLqVXdNkAGjD_yqMRDgu9KK-hDrulNPjsKU4EugHqX8.png",
   "donations": 162,
   "received": 789,
-  "rank": 19,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 20,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -853,8 +857,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/0eDMQmsiZ0gs8xzViGfVETnYjwzgELTKwYhH3izevT4.png",
   "donations": 0,
   "received": 0,
-  "rank": 21,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 22,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -889,8 +893,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/WkqDvnK0CXI-Nc0TNTKG_fSuzRYoLRC54HFOdMCxVTI.png",
   "donations": 0,
   "received": 0,
-  "rank": 24,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 25,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -929,8 +933,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/WkqDvnK0CXI-Nc0TNTKG_fSuzRYoLRC54HFOdMCxVTI.png",
   "donations": 239,
   "received": 0,
-  "rank": 25,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 26,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -997,8 +1001,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/uizNRh8glQZuAbLdCa-EQSf3oJnge3nqoXHjtQ6O8pw.png",
   "donations": 0,
   "received": 0,
-  "rank": 26,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 27,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -1029,8 +1033,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/uizNRh8glQZuAbLdCa-EQSf3oJnge3nqoXHjtQ6O8pw.png",
   "donations": 0,
   "received": 719,
-  "rank": 28,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 29,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -1097,8 +1101,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/uizNRh8glQZuAbLdCa-EQSf3oJnge3nqoXHjtQ6O8pw.png",
   "donations": 0,
   "received": 0,
-  "rank": 29,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 30,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -1137,8 +1141,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png",
   "donations": 45,
   "received": 0,
-  "rank": 30,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 31,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -1205,8 +1209,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png",
   "donations": 0,
   "received": 266,
-  "rank": 31,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 32,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -1241,8 +1245,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/vT-0ssHYx5zJbBbbjB5NHPXnlHk76MDxJmG7iKmghc4.png",
   "donations": 45,
   "received": 0,
-  "rank": 34,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 35,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -1277,8 +1281,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/3mEMvpajLceJ3EKu7u_JIh_cOEsT7wyh701zum9hqCY.png",
   "donations": 0,
   "received": 242,
-  "rank": 32,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 33,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -1317,8 +1321,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/7AbbZbiV6whmfa6CZtqt6Ml4NgFH1B-UqCxc59ziqfk.png",
   "donations": 187,
   "received": 231,
-  "rank": 38,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 39,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -1349,8 +1353,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/7AbbZbiV6whmfa6CZtqt6Ml4NgFH1B-UqCxc59ziqfk.png",
   "donations": 0,
   "received": 0,
-  "rank": 37,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 38,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -1385,8 +1389,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/vT-0ssHYx5zJbBbbjB5NHPXnlHk76MDxJmG7iKmghc4.png",
   "donations": 21,
   "received": 1002,
-  "rank": 33,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 34,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -1429,8 +1433,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/vT-0ssHYx5zJbBbbjB5NHPXnlHk76MDxJmG7iKmghc4.png",
   "donations": 471,
   "received": 644,
-  "rank": 35,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 36,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -1509,8 +1513,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/vT-0ssHYx5zJbBbbjB5NHPXnlHk76MDxJmG7iKmghc4.png",
   "donations": 0,
   "received": 233,
-  "rank": 36,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 37,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -1549,8 +1553,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
   "donations": 877,
   "received": 1089,
-  "rank": 41,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 42,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -1585,8 +1589,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
   "donations": 1759,
   "received": 1099,
-  "rank": 42,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 43,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -1621,8 +1625,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
   "donations": 0,
   "received": 0,
-  "rank": 43,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 44,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -1661,8 +1665,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
   "donations": 16,
   "received": 0,
-  "rank": 44,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 45,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -1737,8 +1741,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/yyYo5DUFeFBZvmMEQh0ZxvG-1sUOZ_S3kDMB7RllXX0.png",
   "donations": 998,
   "received": 846,
-  "rank": 45,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 46,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-15T20:07:11Z",
@@ -1929,8 +1933,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/lzneKpnJ_ADL1Xb1rceH7-svqRN1UaLnI7ldd8BbyxI.png",
   "donations": 4,
   "received": 268,
-  "rank": 40,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 41,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-17T03:07:03Z",
@@ -1961,8 +1965,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/3kJYaYpDwKF8AEkwRLkm-947_t2mAhpEQcZJYulPPIA.png",
   "donations": 1,
   "received": 0,
-  "rank": 39,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 40,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-17T06:07:03Z",
@@ -2102,8 +2106,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/0eDMQmsiZ0gs8xzViGfVETnYjwzgELTKwYhH3izevT4.png",
   "donations": 50,
   "received": 0,
-  "rank": 23,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 24,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-22T04:03:15Z",
@@ -2134,8 +2138,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/uizNRh8glQZuAbLdCa-EQSf3oJnge3nqoXHjtQ6O8pw.png",
   "donations": 0,
   "received": 0,
-  "rank": 27,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 28,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-22T05:03:15Z",
@@ -2166,8 +2170,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/0eDMQmsiZ0gs8xzViGfVETnYjwzgELTKwYhH3izevT4.png",
   "donations": 0,
   "received": 0,
-  "rank": 22,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 23,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-22T06:03:24Z",
@@ -2198,8 +2202,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png",
   "donations": 273,
   "received": 89,
-  "rank": 14,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 15,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-24T16:50:52Z",
@@ -2230,8 +2234,8 @@
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png",
   "donations": 0,
   "received": 0,
-  "rank": 9,
-  "lastSeen": "2026-10-26T09:48:11Z",
+  "rank": 10,
+  "lastSeen": "2026-10-26T09:53:11Z",
   "capHist": [
    [
     "2026-10-25T16:27:29Z",
