@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 808261,
+  "loot": 818869,
   "raids": 10,
-  "attacks": 189,
-  "districts": 72,
+  "attacks": 191,
+  "districts": 73,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -227,6 +227,13 @@
     "a": 6,
     "lim": 6,
     "loot": 12410
+   },
+   {
+    "tag": "#PGQJC0CG2",
+    "name": "pistolet",
+    "a": 2,
+    "lim": 6,
+    "loot": 10608
    },
    {
     "tag": "#GRU0U22GV",
