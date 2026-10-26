@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 798039,
+  "loot": 805879,
   "raids": 9,
-  "attacks": 185,
+  "attacks": 188,
   "districts": 71,
   "offReward": 0,
   "defReward": 0,
@@ -222,18 +222,18 @@
     "loot": 15109
    },
    {
+    "tag": "#QQ90VV9L2",
+    "name": "Aviasales",
+    "a": 6,
+    "lim": 6,
+    "loot": 12410
+   },
+   {
     "tag": "#GRU0U22GV",
     "name": "polat",
     "a": 4,
     "lim": 5,
     "loot": 6015
-   },
-   {
-    "tag": "#QQ90VV9L2",
-    "name": "Aviasales",
-    "a": 3,
-    "lim": 6,
-    "loot": 4570
    },
    {
     "tag": "#QPG999QV0",
