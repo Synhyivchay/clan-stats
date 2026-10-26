@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 9,
-   "pct": 14.04,
-   "attacks": 4
+   "stars": 15,
+   "pct": 22.04,
+   "attacks": 6
   },
   "them": {
    "tag": "#2YQGCLV22",
    "name": "SL DarkWarriors",
    "badge": "https://api-assets.clashofclans.com/badges/200/Z0I7O9sk0K9eAlaCUOIrXieA0NFNnCi6vUvI4Men9Jo.png",
    "level": 22,
-   "stars": 28,
-   "pct": 38.6,
-   "attacks": 10
+   "stars": 33,
+   "pct": 45.72,
+   "attacks": 12
   },
   "members": [
    {
@@ -82,9 +82,9 @@
     "pos": 5,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -94,9 +94,9 @@
     "pos": 6,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 78
     }
    },
    {
@@ -151,7 +151,30 @@
     "name": "ed_sans_123",
     "th": 17,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LL92CL2CG",
+      "dn": "senu_ja",
+      "dpos": 8,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 16,
+      "n": 3,
+      "dur": 152
+     },
+     {
+      "d": "#GQ0V8VUV2",
+      "dn": "©~Ghost rider~©",
+      "dpos": 9,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 17,
+      "n": 3,
+      "dur": 139
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -374,7 +397,7 @@
     }
    }
   ],
-  "snap": "2026-10-26T17:48:36Z"
+  "snap": "2026-10-26T17:53:36Z"
  },
  {
   "id": "war_20261023T032519Z_2J8R9JRC2",
