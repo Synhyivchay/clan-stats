@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 988980,
+  "loot": 1008466,
   "raids": 12,
-  "attacks": 229,
-  "districts": 93,
+  "attacks": 233,
+  "districts": 95,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -31,6 +31,13 @@
     "a": 6,
     "lim": 6,
     "loot": 32263
+   },
+   {
+    "tag": "#PVCPGJL9R",
+    "name": "000Roma000",
+    "a": 6,
+    "lim": 6,
+    "loot": 31286
    },
    {
     "tag": "#YRVR292UG",
@@ -138,6 +145,13 @@
     "loot": 27951
    },
    {
+    "tag": "#YR9GYYQC2",
+    "name": "Stars",
+    "a": 6,
+    "lim": 6,
+    "loot": 27922
+   },
+   {
     "tag": "#Q9JRVCUYY",
     "name": "Melata",
     "a": 6,
@@ -208,13 +222,6 @@
     "loot": 23213
    },
    {
-    "tag": "#PVCPGJL9R",
-    "name": "000Roma000",
-    "a": 4,
-    "lim": 6,
-    "loot": 23165
-   },
-   {
     "tag": "#9GV90LCR8",
     "name": "■◇LEGENDARNIY◇■",
     "a": 6,
@@ -248,13 +255,6 @@
     "a": 6,
     "lim": 6,
     "loot": 17178
-   },
-   {
-    "tag": "#YR9GYYQC2",
-    "name": "Stars",
-    "a": 4,
-    "lim": 6,
-    "loot": 16557
    },
    {
     "tag": "#GJY0R0JCJ",
