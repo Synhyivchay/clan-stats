@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 754961,
+  "loot": 761861,
   "raids": 9,
-  "attacks": 177,
+  "attacks": 179,
   "districts": 71,
   "offReward": 0,
   "defReward": 0,
@@ -187,6 +187,13 @@
     "loot": 17331
    },
    {
+    "tag": "#8J09CQQQQ",
+    "name": "о000оо00",
+    "a": 6,
+    "lim": 6,
+    "loot": 17178
+   },
+   {
     "tag": "#GJY0R0JCJ",
     "name": "denchik",
     "a": 6,
@@ -206,13 +213,6 @@
     "a": 5,
     "lim": 6,
     "loot": 13913
-   },
-   {
-    "tag": "#8J09CQQQQ",
-    "name": "о000оо00",
-    "a": 4,
-    "lim": 6,
-    "loot": 10278
    },
    {
     "tag": "#9289UJLQ",
