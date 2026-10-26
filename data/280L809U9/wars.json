@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 15,
-   "pct": 22.04,
-   "attacks": 6
+   "stars": 17,
+   "pct": 22.96,
+   "attacks": 7
   },
   "them": {
    "tag": "#2YQGCLV22",
@@ -139,7 +139,19 @@
     "name": "DimagFM",
     "th": 17,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L2G90GVQ9",
+      "dn": "ChiRA",
+      "dpos": 7,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 23,
+      "n": 2,
+      "dur": 114
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -397,7 +409,7 @@
     }
    }
   ],
-  "snap": "2026-10-26T19:03:36Z"
+  "snap": "2026-10-26T19:08:36Z"
  },
  {
   "id": "war_20261023T032519Z_2J8R9JRC2",
