@@ -22,9 +22,9 @@
    "name": "SL DarkWarriors",
    "badge": "https://api-assets.clashofclans.com/badges/200/Z0I7O9sk0K9eAlaCUOIrXieA0NFNnCi6vUvI4Men9Jo.png",
    "level": 22,
-   "stars": 40,
-   "pct": 54.6,
-   "attacks": 17
+   "stars": 46,
+   "pct": 62.6,
+   "attacks": 19
   },
   "members": [
    {
@@ -212,9 +212,9 @@
     "pos": 11,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -224,9 +224,9 @@
     "pos": 12,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -409,7 +409,7 @@
     }
    }
   ],
-  "snap": "2026-10-26T20:28:36Z"
+  "snap": "2026-10-26T20:33:36Z"
  },
  {
   "id": "war_20261023T032519Z_2J8R9JRC2",
