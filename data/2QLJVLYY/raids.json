@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 859315,
+  "loot": 865750,
   "raids": 11,
-  "attacks": 203,
+  "attacks": 204,
   "districts": 81,
   "offReward": 0,
   "defReward": 0,
@@ -250,18 +250,18 @@
     "loot": 12050
    },
    {
+    "tag": "#P2GULCL8G",
+    "name": "000Sergey000",
+    "a": 2,
+    "lim": 6,
+    "loot": 11902
+   },
+   {
     "tag": "#9289UJLQ",
     "name": "AkiloFF_17",
     "a": 2,
     "lim": 5,
     "loot": 10005
-   },
-   {
-    "tag": "#P2GULCL8G",
-    "name": "000Sergey000",
-    "a": 1,
-    "lim": 6,
-    "loot": 5467
    }
   ]
  },
