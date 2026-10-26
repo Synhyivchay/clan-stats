@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 900253,
+  "loot": 904393,
   "raids": 10,
-  "attacks": 209,
+  "attacks": 210,
   "districts": 80,
   "offReward": 0,
   "defReward": 0,
@@ -194,6 +194,13 @@
     "loot": 22547
    },
    {
+    "tag": "#8QUG9QQ8G",
+    "name": "ReTrO",
+    "a": 6,
+    "lim": 6,
+    "loot": 21853
+   },
+   {
     "tag": "#9LQ2YUVUY",
     "name": "рома",
     "a": 5,
@@ -220,13 +227,6 @@
     "a": 6,
     "lim": 6,
     "loot": 19176
-   },
-   {
-    "tag": "#8QUG9QQ8G",
-    "name": "ReTrO",
-    "a": 5,
-    "lim": 6,
-    "loot": 17713
    },
    {
     "tag": "#G9CL20UQY",
