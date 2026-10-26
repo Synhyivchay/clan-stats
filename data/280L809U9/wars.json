@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 6,
-   "pct": 10.04,
-   "attacks": 3
+   "stars": 9,
+   "pct": 14.04,
+   "attacks": 4
   },
   "them": {
    "tag": "#2YQGCLV22",
    "name": "SL DarkWarriors",
    "badge": "https://api-assets.clashofclans.com/badges/200/Z0I7O9sk0K9eAlaCUOIrXieA0NFNnCi6vUvI4Men9Jo.png",
    "level": 22,
-   "stars": 25,
-   "pct": 34.6,
-   "attacks": 9
+   "stars": 28,
+   "pct": 38.6,
+   "attacks": 10
   },
   "members": [
    {
@@ -258,6 +258,17 @@
       "o": 11,
       "n": 3,
       "dur": 150
+     },
+     {
+      "d": "#L02PURYL8",
+      "dn": "☣️WarLordX☣️",
+      "dpos": 18,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 14,
+      "n": 3,
+      "dur": 77
      }
     ],
     "def": {
@@ -345,9 +356,9 @@
     "pos": 24,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -363,7 +374,7 @@
     }
    }
   ],
-  "snap": "2026-10-26T16:48:36Z"
+  "snap": "2026-10-26T16:53:36Z"
  },
  {
   "id": "war_20261023T032519Z_2J8R9JRC2",
