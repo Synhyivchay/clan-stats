@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 10,
-   "pct": 15.28,
-   "attacks": 4
+   "stars": 16,
+   "pct": 23.28,
+   "attacks": 6
   },
   "them": {
    "tag": "#PGR2CPQ0",
    "name": "Clan Of Monster",
    "badge": "https://api-assets.clashofclans.com/badges/200/ViuTejXc8JLsV4w8bFx9UjkLwN_dkqxs9CtANiuMbjw.png",
    "level": 31,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 6,
+   "pct": 8.0,
+   "attacks": 2
   },
   "members": [
    {
@@ -115,6 +115,17 @@
       "o": 2,
       "n": 2,
       "dur": 180
+     },
+     {
+      "d": "#P8G8CVJUC",
+      "dn": "YOUR MÄSTER",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 132
      }
     ],
     "def": {
@@ -273,9 +284,9 @@
     "pos": 18,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -285,9 +296,9 @@
     "pos": 19,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -354,6 +365,17 @@
       "o": 3,
       "n": 3,
       "dur": 132
+     },
+     {
+      "d": "#GU2VVGGVP",
+      "dn": "infinity",
+      "dpos": 23,
+      "dth": 13,
+      "s": 3,
+      "p": 100,
+      "o": 6,
+      "n": 3,
+      "dur": 120
      }
     ],
     "def": {
@@ -375,7 +397,7 @@
     }
    }
   ],
-  "snap": "2026-10-26T14:48:22Z"
+  "snap": "2026-10-26T14:53:22Z"
  },
  {
   "id": "war_20261023T025553Z_RYLC829V",
