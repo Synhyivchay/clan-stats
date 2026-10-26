@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 30,
-   "pct": 41.08,
-   "attacks": 13
+   "stars": 31,
+   "pct": 42.32,
+   "attacks": 14
   },
   "them": {
    "tag": "#PGR2CPQ0",
@@ -55,6 +55,17 @@
       "o": 12,
       "n": 1,
       "dur": 180
+     },
+     {
+      "d": "#900Q8JPVG",
+      "dn": "kheem shrestha",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 20,
+      "n": 1,
+      "dur": 168
      }
     ],
     "def": {
@@ -478,7 +489,7 @@
     }
    }
   ],
-  "snap": "2026-10-26T17:33:36Z"
+  "snap": "2026-10-26T17:43:36Z"
  },
  {
   "id": "war_20261023T025553Z_RYLC829V",
