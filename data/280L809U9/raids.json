@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 846749,
+  "loot": 850829,
   "raids": 10,
-  "attacks": 196,
+  "attacks": 197,
   "districts": 75,
   "offReward": 0,
   "defReward": 0,
@@ -131,6 +131,13 @@
     "loot": 25809
    },
    {
+    "tag": "#G0GP90YCL",
+    "name": "Boston",
+    "a": 5,
+    "lim": 6,
+    "loot": 25500
+   },
+   {
     "tag": "#GLCVPCCQ2",
     "name": "Ragnar",
     "a": 6,
@@ -178,13 +185,6 @@
     "a": 6,
     "lim": 6,
     "loot": 22547
-   },
-   {
-    "tag": "#G0GP90YCL",
-    "name": "Boston",
-    "a": 4,
-    "lim": 6,
-    "loot": 21420
    },
    {
     "tag": "#9LQ2YUVUY",
