@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 10,
+   "pct": 15.28,
+   "attacks": 4
   },
   "them": {
    "tag": "#PGR2CPQ0",
@@ -104,7 +104,19 @@
     "name": "Разрушитель",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8QRCLQQP0",
+      "dn": "COMMANDO AAKASH",
+      "dpos": 7,
+      "dth": 18,
+      "s": 2,
+      "p": 99,
+      "o": 2,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -152,7 +164,30 @@
     "name": "ebobo",
     "th": 18,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8VV09P8UU",
+      "dn": "Anhsirk",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 1,
+      "n": 3,
+      "dur": 165
+     },
+     {
+      "d": "#8P00UR08P",
+      "dn": "THE FOOL",
+      "dpos": 5,
+      "dth": 18,
+      "s": 2,
+      "p": 83,
+      "o": 4,
+      "n": 2,
+      "dur": 171
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -308,7 +343,19 @@
     "name": "егор",
     "th": 13,
     "pos": 24,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GJU9G2JJU",
+      "dn": "Bijay Thapa",
+      "dpos": 24,
+      "dth": 12,
+      "s": 3,
+      "p": 100,
+      "o": 3,
+      "n": 3,
+      "dur": 132
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -328,7 +375,7 @@
     }
    }
   ],
-  "snap": "2026-10-26T14:43:22Z"
+  "snap": "2026-10-26T14:48:22Z"
  },
  {
   "id": "war_20261023T025553Z_RYLC829V",
