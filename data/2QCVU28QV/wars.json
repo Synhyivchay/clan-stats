@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 15,
-   "pct": 16.67,
-   "attacks": 5
+   "stars": 18,
+   "pct": 20.0,
+   "attacks": 6
   },
   "them": {
    "tag": "#YC820RLP",
    "name": "Dutch Loyality",
    "badge": "https://api-assets.clashofclans.com/badges/200/KhY5zSch2Mrvn09G8fWU408MYU977WQ_CwVJft0mTl8.png",
    "level": 34,
-   "stars": 8,
-   "pct": 9.4,
-   "attacks": 4
+   "stars": 10,
+   "pct": 12.17,
+   "attacks": 5
   },
   "members": [
    {
@@ -81,9 +81,9 @@
     "pos": 3,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 83
     }
    },
    {
@@ -354,6 +354,17 @@
       "o": 9,
       "n": 3,
       "dur": 102
+     },
+     {
+      "d": "#VLV0PPUU",
+      "dn": "Walter Sobchak",
+      "dpos": 20,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 11,
+      "n": 3,
+      "dur": 161
      }
     ],
     "def": {
@@ -446,7 +457,7 @@
     }
    }
   ],
-  "snap": "2026-10-26T22:58:59Z"
+  "snap": "2026-10-26T23:08:59Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
