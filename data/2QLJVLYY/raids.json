@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-23T07:00:00Z",
   "end": "2026-10-26T07:00:00Z",
-  "loot": 846143,
+  "loot": 853848,
   "raids": 10,
-  "attacks": 199,
+  "attacks": 202,
   "districts": 80,
   "offReward": 0,
   "defReward": 0,
@@ -187,6 +187,13 @@
     "loot": 21971
    },
    {
+    "tag": "#QL0J0RY8Q",
+    "name": "ebobo",
+    "a": 6,
+    "lim": 6,
+    "loot": 20768
+   },
+   {
     "tag": "#LGLPJJ2VP",
     "name": "егор",
     "a": 6,
@@ -234,13 +241,6 @@
     "a": 6,
     "lim": 6,
     "loot": 13188
-   },
-   {
-    "tag": "#QL0J0RY8Q",
-    "name": "ebobo",
-    "a": 3,
-    "lim": 6,
-    "loot": 13063
    },
    {
     "tag": "#28Q8J0RYG",
