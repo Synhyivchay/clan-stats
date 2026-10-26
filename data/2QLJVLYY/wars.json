@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 25,
-   "pct": 37.04,
-   "attacks": 11
+   "stars": 28,
+   "pct": 41.04,
+   "attacks": 12
   },
   "them": {
    "tag": "#PGR2CPQ0",
@@ -352,6 +352,17 @@
       "o": 17,
       "n": 3,
       "dur": 117
+     },
+     {
+      "d": "#LV2R82PCJ",
+      "dn": "MoNsteR DAVID",
+      "dpos": 18,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 18,
+      "n": 3,
+      "dur": 176
      }
     ],
     "def": {
@@ -456,7 +467,7 @@
     }
    }
   ],
-  "snap": "2026-10-26T16:43:36Z"
+  "snap": "2026-10-26T16:48:36Z"
  },
  {
   "id": "war_20261023T025553Z_RYLC829V",
