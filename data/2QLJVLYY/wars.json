@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 39,
-   "pct": 53.72,
-   "attacks": 17
+   "stars": 46,
+   "pct": 61.76,
+   "attacks": 20
   },
   "them": {
    "tag": "#PGR2CPQ0",
    "name": "Clan Of Monster",
    "badge": "https://api-assets.clashofclans.com/badges/200/ViuTejXc8JLsV4w8bFx9UjkLwN_dkqxs9CtANiuMbjw.png",
    "level": 31,
-   "stars": 17,
-   "pct": 23.96,
-   "attacks": 6
+   "stars": 20,
+   "pct": 27.96,
+   "attacks": 7
   },
   "members": [
    {
@@ -34,9 +34,9 @@
     "pos": 1,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -185,7 +185,19 @@
     "name": "NumTorum",
     "th": 18,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8QRCLQQP0",
+      "dn": "COMMANDO AAKASH",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 24,
+      "n": 1,
+      "dur": 88
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -457,7 +469,30 @@
     "name": "Legenda",
     "th": 15,
     "pos": 22,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QVLY2GCJG",
+      "dn": "om mgr",
+      "dpos": 22,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 26,
+      "n": 3,
+      "dur": 106
+     },
+     {
+      "d": "#9PRR0Q28L",
+      "dn": "AmritJungChetri",
+      "dpos": 21,
+      "dth": 14,
+      "s": 3,
+      "p": 100,
+      "o": 27,
+      "n": 3,
+      "dur": 126
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -524,7 +559,7 @@
     }
    }
   ],
-  "snap": "2026-10-26T18:03:36Z"
+  "snap": "2026-10-26T18:08:36Z"
  },
  {
   "id": "war_20261023T025553Z_RYLC829V",
