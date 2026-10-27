@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 33,
-   "pct": 36.67,
-   "attacks": 11
+   "stars": 37,
+   "pct": 42.2,
+   "attacks": 13
   },
   "them": {
    "tag": "#YC820RLP",
@@ -115,7 +115,30 @@
     "name": "Marc",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L9RUCL9L",
+      "dn": "droppie2",
+      "dpos": 10,
+      "dth": 18,
+      "s": 1,
+      "p": 66,
+      "o": 19,
+      "n": 1,
+      "dur": 112
+     },
+     {
+      "d": "#2PLG8PVJU",
+      "dn": "Ome Bart",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 20,
+      "n": 3,
+      "dur": 147
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -515,7 +538,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T04:19:12Z"
+  "snap": "2026-10-27T04:24:12Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
