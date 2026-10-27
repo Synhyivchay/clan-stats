@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 64,
-   "pct": 87.08,
-   "attacks": 28
+   "stars": 67,
+   "pct": 92.4,
+   "attacks": 30
   },
   "them": {
    "tag": "#PGR2CPQ0",
@@ -642,7 +642,30 @@
     "name": "denchik",
     "th": 13,
     "pos": 25,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#R2G8LVP29",
+      "dn": "MoNsteR AMRIT",
+      "dpos": 25,
+      "dth": 12,
+      "s": 3,
+      "p": 100,
+      "o": 38,
+      "n": 3,
+      "dur": 70
+     },
+     {
+      "d": "#8R8Q02U9Y",
+      "dn": "nerz",
+      "dpos": 15,
+      "dth": 17,
+      "s": 0,
+      "p": 33,
+      "o": 39,
+      "n": 0,
+      "dur": 86
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -650,7 +673,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T01:34:00Z"
+  "snap": "2026-10-27T01:38:59Z"
  },
  {
   "id": "war_20261023T025553Z_RYLC829V",
