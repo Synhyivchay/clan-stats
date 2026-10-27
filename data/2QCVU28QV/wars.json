@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 39,
-   "pct": 45.17,
-   "attacks": 14
+   "stars": 44,
+   "pct": 51.7,
+   "attacks": 16
   },
   "them": {
    "tag": "#YC820RLP",
    "name": "Dutch Loyality",
    "badge": "https://api-assets.clashofclans.com/badges/200/KhY5zSch2Mrvn09G8fWU408MYU977WQ_CwVJft0mTl8.png",
    "level": 34,
-   "stars": 20,
-   "pct": 24.8,
-   "attacks": 9
+   "stars": 26,
+   "pct": 31.47,
+   "attacks": 11
   },
   "members": [
    {
@@ -79,7 +79,19 @@
     "name": "slory",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GY92YG9V8",
+      "dn": "Nickname",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 26,
+      "n": 3,
+      "dur": 153
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -140,9 +152,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -152,9 +164,9 @@
     "pos": 7,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -222,7 +234,19 @@
     "name": "Hornbär",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#29R29Y82U",
+      "dn": "tjendoborgonjon",
+      "dpos": 12,
+      "dth": 18,
+      "s": 2,
+      "p": 96,
+      "o": 25,
+      "n": 2,
+      "dur": 168
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -550,7 +574,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T05:44:12Z"
+  "snap": "2026-10-27T05:49:12Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
