@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 37,
-   "pct": 42.2,
-   "attacks": 13
+   "stars": 39,
+   "pct": 45.17,
+   "attacks": 14
   },
   "them": {
    "tag": "#YC820RLP",
@@ -377,7 +377,19 @@
     "name": "Alastor",
     "th": 18,
     "pos": 23,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#22Y8V089P",
+      "dn": "BIRDY",
+      "dpos": 23,
+      "dth": 18,
+      "s": 2,
+      "p": 89,
+      "o": 23,
+      "n": 2,
+      "dur": 163
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -538,7 +550,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T05:39:12Z"
+  "snap": "2026-10-27T05:44:12Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
