@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 49
+   "attacks": 52
   },
   "them": {
    "tag": "#YC820RLP",
@@ -698,6 +698,17 @@
       "o": 97,
       "n": 0,
       "dur": 29
+     },
+     {
+      "d": "#9RLULVCCP",
+      "dn": "dennis38",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 52,
+      "o": 98,
+      "n": 0,
+      "dur": 35
      }
     ],
     "def": {
@@ -864,7 +875,30 @@
     "name": "RudiV3",
     "th": 18,
     "pos": 27,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QGGJC2LGQ",
+      "dn": "Twan X",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 35,
+      "o": 99,
+      "n": 0,
+      "dur": 23
+     },
+     {
+      "d": "#9RLULVCCP",
+      "dn": "dennis38",
+      "dpos": 2,
+      "dth": 18,
+      "s": 0,
+      "p": 44,
+      "o": 100,
+      "n": 0,
+      "dur": 64
+     }
+    ],
     "def": {
      "n": 4,
      "s": 3,
@@ -954,7 +988,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T18:57:06Z"
+  "snap": "2026-10-27T19:02:06Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
