@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 52
+   "attacks": 54
   },
   "them": {
    "tag": "#YC820RLP",
@@ -24,7 +24,7 @@
    "level": 34,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 48
+   "attacks": 49
   },
   "members": [
    {
@@ -57,7 +57,7 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 3,
      "p": 100
     }
@@ -910,7 +910,30 @@
     "name": "RudiV4",
     "th": 18,
     "pos": 28,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QGGJC2LGQ",
+      "dn": "Twan X",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 26,
+      "o": 101,
+      "n": 0,
+      "dur": 22
+     },
+     {
+      "d": "#GP929YL",
+      "dn": "FC Jerre",
+      "dpos": 4,
+      "dth": 18,
+      "s": 1,
+      "p": 8,
+      "o": 103,
+      "n": 0,
+      "dur": 19
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -988,7 +1011,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T19:02:06Z"
+  "snap": "2026-10-27T19:07:07Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
