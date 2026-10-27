@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 62,
-   "pct": 69.63,
-   "attacks": 27
+   "stars": 65,
+   "pct": 72.97,
+   "attacks": 28
   },
   "them": {
    "tag": "#YC820RLP",
    "name": "Dutch Loyality",
    "badge": "https://api-assets.clashofclans.com/badges/200/KhY5zSch2Mrvn09G8fWU408MYU977WQ_CwVJft0mTl8.png",
    "level": 34,
-   "stars": 29,
-   "pct": 34.8,
-   "attacks": 12
+   "stars": 32,
+   "pct": 38.13,
+   "attacks": 13
   },
   "members": [
    {
@@ -233,9 +233,9 @@
     "pos": 8,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -479,7 +479,19 @@
     "name": "Ｍ Λ Ｘ",
     "th": 18,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2YQ8J8U2P",
+      "dn": "Pjotr de Eerste",
+      "dpos": 17,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 41,
+      "n": 3,
+      "dur": 133
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -700,7 +712,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T08:49:21Z"
+  "snap": "2026-10-27T08:54:21Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
