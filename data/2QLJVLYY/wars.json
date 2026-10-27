@@ -15,7 +15,7 @@
    "level": 34,
    "stars": 75,
    "pct": 100.0,
-   "attacks": 42
+   "attacks": 46
   },
   "them": {
    "tag": "#PGR2CPQ0",
@@ -172,7 +172,30 @@
     "name": "000Roma000",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8P2UJ9Q82",
+      "dn": "AnmOl IdO",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 13,
+      "o": 60,
+      "n": 0,
+      "dur": 9
+     },
+     {
+      "d": "#9UU9QVY09",
+      "dn": "MoNsteR PøøJAN",
+      "dpos": 3,
+      "dth": 18,
+      "s": 1,
+      "p": 16,
+      "o": 61,
+      "n": 0,
+      "dur": 23
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -184,7 +207,30 @@
     "name": "000Sergey000",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8P2UJ9Q82",
+      "dn": "AnmOl IdO",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 11,
+      "o": 62,
+      "n": 0,
+      "dur": 5
+     },
+     {
+      "d": "#9UU9QVY09",
+      "dn": "MoNsteR PøøJAN",
+      "dpos": 3,
+      "dth": 18,
+      "s": 1,
+      "p": 14,
+      "o": 63,
+      "n": 0,
+      "dur": 24
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -811,7 +857,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T07:39:12Z"
+  "snap": "2026-10-27T07:44:12Z"
  },
  {
   "id": "war_20261023T025553Z_RYLC829V",
