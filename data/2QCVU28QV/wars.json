@@ -22,9 +22,9 @@
    "name": "Dutch Loyality",
    "badge": "https://api-assets.clashofclans.com/badges/200/KhY5zSch2Mrvn09G8fWU408MYU977WQ_CwVJft0mTl8.png",
    "level": 34,
-   "stars": 61,
-   "pct": 72.87,
-   "attacks": 27
+   "stars": 62,
+   "pct": 73.8,
+   "attacks": 28
   },
   "members": [
    {
@@ -410,9 +410,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 72
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -781,7 +781,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T14:14:22Z"
+  "snap": "2026-10-27T14:27:06Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
