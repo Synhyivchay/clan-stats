@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 87,
    "pct": 96.67,
-   "attacks": 39
+   "attacks": 40
   },
   "them": {
    "tag": "#YC820RLP",
@@ -395,7 +395,19 @@
     "name": "Lennart",
     "th": 18,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QGGJC2LGQ",
+      "dn": "Twan X",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 86,
+      "n": 0,
+      "dur": 147
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -838,7 +850,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T18:07:06Z"
+  "snap": "2026-10-27T18:12:06Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
