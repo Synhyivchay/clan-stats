@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 87,
-   "pct": 96.67,
-   "attacks": 40
+   "stars": 90,
+   "pct": 100.0,
+   "attacks": 45
   },
   "them": {
    "tag": "#YC820RLP",
@@ -172,7 +172,19 @@
     "name": "Cnyse",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9C9U8V0Y",
+      "dn": "Dokter W",
+      "dpos": 25,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 89,
+      "n": 3,
+      "dur": 110
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -289,7 +301,19 @@
     "name": "Rudi",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QGGJC2LGQ",
+      "dn": "Twan X",
+      "dpos": 1,
+      "dth": 18,
+      "s": 2,
+      "p": 86,
+      "o": 91,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -301,7 +325,30 @@
     "name": "Killer 2000",
     "th": 18,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GP929YL",
+      "dn": "FC Jerre",
+      "dpos": 4,
+      "dth": 18,
+      "s": 1,
+      "p": 5,
+      "o": 90,
+      "n": 0,
+      "dur": 11
+     },
+     {
+      "d": "#L28J8PPLC",
+      "dn": "droppie",
+      "dpos": 7,
+      "dth": 18,
+      "s": 1,
+      "p": 12,
+      "o": 93,
+      "n": 0,
+      "dur": 16
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -478,7 +525,19 @@
     "name": "LokiPhil",
     "th": 18,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YGYCGLJ0P",
+      "dn": "Just a pro",
+      "dpos": 30,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 92,
+      "n": 0,
+      "dur": 127
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -850,7 +909,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T18:37:06Z"
+  "snap": "2026-10-27T18:42:06Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
