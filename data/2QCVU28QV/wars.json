@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 71,
-   "pct": 79.63,
-   "attacks": 30
+   "stars": 74,
+   "pct": 82.97,
+   "attacks": 31
   },
   "them": {
    "tag": "#YC820RLP",
@@ -432,7 +432,19 @@
     "name": "xXDamage",
     "th": 18,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#V92UG2CY",
+      "dn": "Borinho",
+      "dpos": 18,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 51,
+      "n": 3,
+      "dur": 131
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -734,7 +746,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T11:09:21Z"
+  "snap": "2026-10-27T11:19:21Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
