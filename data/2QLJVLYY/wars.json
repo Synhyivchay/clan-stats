@@ -15,7 +15,7 @@
    "level": 34,
    "stars": 75,
    "pct": 100.0,
-   "attacks": 48
+   "attacks": 50
   },
   "them": {
    "tag": "#PGR2CPQ0",
@@ -417,7 +417,30 @@
     "name": "SHANARA",
     "th": 18,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#900Q8JPVG",
+      "dn": "kheem shrestha",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 24,
+      "o": 76,
+      "n": 0,
+      "dur": 30
+     },
+     {
+      "d": "#8P2UJ9Q82",
+      "dn": "AnmOl IdO",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 5,
+      "o": 77,
+      "n": 0,
+      "dur": 16
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -880,7 +903,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T12:54:22Z"
+  "snap": "2026-10-27T12:59:21Z"
  },
  {
   "id": "war_20261023T025553Z_RYLC829V",
