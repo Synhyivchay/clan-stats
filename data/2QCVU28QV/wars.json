@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 79,
-   "pct": 89.33,
-   "attacks": 33
+   "stars": 80,
+   "pct": 89.63,
+   "attacks": 34
   },
   "them": {
    "tag": "#YC820RLP",
@@ -219,7 +219,19 @@
     "name": "Louis™️187",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#VCGPY9",
+      "dn": "tharde",
+      "dpos": 19,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 60,
+      "n": 1,
+      "dur": 130
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -769,7 +781,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T12:59:21Z"
+  "snap": "2026-10-27T13:04:21Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
