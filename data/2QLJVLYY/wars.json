@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 74,
-   "pct": 99.68,
-   "attacks": 34
+   "stars": 75,
+   "pct": 100.0,
+   "attacks": 35
   },
   "them": {
    "tag": "#PGR2CPQ0",
@@ -102,7 +102,19 @@
     "name": "малько",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QJUYQGVCR",
+      "dn": "BHuDeY❤️",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 47,
+      "n": 1,
+      "dur": 123
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -719,7 +731,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T04:14:12Z"
+  "snap": "2026-10-27T04:19:12Z"
  },
  {
   "id": "war_20261023T025553Z_RYLC829V",
