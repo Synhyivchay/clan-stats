@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 45,
-   "pct": 61.36,
-   "attacks": 17
+   "stars": 48,
+   "pct": 65.36,
+   "attacks": 18
   },
   "them": {
    "tag": "#2YQGCLV22",
@@ -326,6 +326,17 @@
       "o": 53,
       "n": 3,
       "dur": 148
+     },
+     {
+      "d": "#2Y8QJQGG2",
+      "dn": "DR.HASAA",
+      "dpos": 15,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 54,
+      "n": 3,
+      "dur": 137
      }
     ],
     "def": {
@@ -525,7 +536,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T13:04:21Z"
+  "snap": "2026-10-27T13:14:22Z"
  },
  {
   "id": "war_20261023T032519Z_2J8R9JRC2",
