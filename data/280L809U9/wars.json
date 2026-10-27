@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 36,
-   "pct": 49.36,
-   "attacks": 14
+   "stars": 39,
+   "pct": 53.36,
+   "attacks": 15
   },
   "them": {
    "tag": "#2YQGCLV22",
@@ -267,6 +267,17 @@
       "o": 38,
       "n": 3,
       "dur": 142
+     },
+     {
+      "d": "#2CYPJUVCV",
+      "dn": "Chintha...",
+      "dpos": 11,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 51,
+      "n": 3,
+      "dur": 159
      }
     ],
     "def": {
@@ -490,7 +501,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T10:44:21Z"
+  "snap": "2026-10-27T10:54:21Z"
  },
  {
   "id": "war_20261023T032519Z_2J8R9JRC2",
