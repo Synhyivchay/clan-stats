@@ -8,7 +8,7 @@
  "points": 155001,
  "warWins": 223,
  "warLosses": 171,
- "warTies": 55,
+ "warTies": 56,
  "warStreak": 8,
  "warLeague": "Champion League II",
  "capitalLeague": "Titan League III",
@@ -16,7 +16,7 @@
  "warLogPublic": true,
  "trackingSince": "2026-10-16T21:01:41Z",
  "contribFetched": "2026-10-27T20:48:32Z",
- "updated": "2026-10-27T20:58:32Z",
+ "updated": "2026-10-27T21:03:32Z",
  "errors": [],
  "show": true
 }
