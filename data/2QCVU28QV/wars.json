@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 55,
-   "pct": 65.0,
-   "attacks": 21
+   "stars": 56,
+   "pct": 65.37,
+   "attacks": 22
   },
   "them": {
    "tag": "#YC820RLP",
@@ -279,6 +279,17 @@
       "o": 25,
       "n": 2,
       "dur": 168
+     },
+     {
+      "d": "#QJ2UV8V2L",
+      "dn": "Big Fat Daddy",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 33,
+      "n": 1,
+      "dur": 173
      }
     ],
     "def": {
@@ -631,7 +642,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T06:49:12Z"
+  "snap": "2026-10-27T06:54:12Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",

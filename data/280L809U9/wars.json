@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 33,
-   "pct": 45.36,
-   "attacks": 13
+   "stars": 36,
+   "pct": 49.36,
+   "attacks": 14
   },
   "them": {
    "tag": "#2YQGCLV22",
    "name": "SL DarkWarriors",
    "badge": "https://api-assets.clashofclans.com/badges/200/Z0I7O9sk0K9eAlaCUOIrXieA0NFNnCi6vUvI4Men9Jo.png",
    "level": 22,
-   "stars": 63,
-   "pct": 85.64,
-   "attacks": 27
+   "stars": 64,
+   "pct": 88.44,
+   "attacks": 28
   },
   "members": [
    {
@@ -173,6 +173,17 @@
       "o": 23,
       "n": 2,
       "dur": 114
+     },
+     {
+      "d": "#LV2L2GJVV",
+      "dn": "Hashan",
+      "dpos": 10,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 42,
+      "n": 3,
+      "dur": 101
      }
     ],
     "def": {
@@ -414,9 +425,9 @@
     "pos": 22,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 70
     }
    },
    {
@@ -479,7 +490,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T06:49:12Z"
+  "snap": "2026-10-27T06:54:12Z"
  },
  {
   "id": "war_20261023T032519Z_2J8R9JRC2",
