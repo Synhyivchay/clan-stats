@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 44,
-   "pct": 51.7,
-   "attacks": 16
+   "stars": 46,
+   "pct": 54.67,
+   "attacks": 17
   },
   "them": {
    "tag": "#YC820RLP",
@@ -270,7 +270,19 @@
     "name": "Bassko",
     "th": 18,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QJ2UV8V2L",
+      "dn": "Big Fat Daddy",
+      "dpos": 13,
+      "dth": 18,
+      "s": 2,
+      "p": 89,
+      "o": 28,
+      "n": 2,
+      "dur": 140
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -574,7 +586,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T05:49:12Z"
+  "snap": "2026-10-27T05:54:12Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
