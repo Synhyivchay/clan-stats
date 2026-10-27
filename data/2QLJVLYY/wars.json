@@ -15,7 +15,7 @@
    "level": 34,
    "stars": 75,
    "pct": 100.0,
-   "attacks": 38
+   "attacks": 39
   },
   "them": {
    "tag": "#PGR2CPQ0",
@@ -535,7 +535,19 @@
     "name": "0777",
     "th": 16,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#900Q8JPVG",
+      "dn": "kheem shrestha",
+      "dpos": 1,
+      "dth": 18,
+      "s": 2,
+      "p": 54,
+      "o": 54,
+      "n": 0,
+      "dur": 109
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -765,7 +777,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T06:54:12Z"
+  "snap": "2026-10-27T06:59:12Z"
  },
  {
   "id": "war_20261023T025553Z_RYLC829V",
