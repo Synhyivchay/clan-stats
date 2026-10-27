@@ -15,7 +15,7 @@
    "level": 34,
    "stars": 75,
    "pct": 100.0,
-   "attacks": 46
+   "attacks": 48
   },
   "them": {
    "tag": "#PGR2CPQ0",
@@ -779,7 +779,30 @@
     "name": "WOLF",
     "th": 16,
     "pos": 23,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#R2G8LVP29",
+      "dn": "MoNsteR AMRIT",
+      "dpos": 25,
+      "dth": 12,
+      "s": 3,
+      "p": 100,
+      "o": 66,
+      "n": 0,
+      "dur": 40
+     },
+     {
+      "d": "#GJU9G2JJU",
+      "dn": "Bijay Thapa",
+      "dpos": 24,
+      "dth": 12,
+      "s": 3,
+      "p": 100,
+      "o": 67,
+      "n": 0,
+      "dur": 35
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -857,7 +880,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T07:54:12Z"
+  "snap": "2026-10-27T07:59:12Z"
  },
  {
   "id": "war_20261023T025553Z_RYLC829V",
