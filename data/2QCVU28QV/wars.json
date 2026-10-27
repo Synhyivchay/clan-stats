@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 30,
-   "pct": 33.33,
-   "attacks": 10
+   "stars": 33,
+   "pct": 36.67,
+   "attacks": 11
   },
   "them": {
    "tag": "#YC820RLP",
@@ -235,7 +235,19 @@
     "name": "アイドル",
     "th": 18,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2800QJL9",
+      "dn": "ruudTonkes",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 18,
+      "n": 3,
+      "dur": 132
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -503,7 +515,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T01:28:59Z"
+  "snap": "2026-10-27T01:34:00Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
