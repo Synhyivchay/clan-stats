@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 84,
-   "pct": 93.33,
-   "attacks": 36
+   "stars": 87,
+   "pct": 96.67,
+   "attacks": 37
   },
   "them": {
    "tag": "#YC820RLP",
@@ -595,7 +595,19 @@
     "name": "hazhir ro",
     "th": 18,
     "pos": 22,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#99QJ28QPP",
+      "dn": "totti",
+      "dpos": 26,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 81,
+      "n": 3,
+      "dur": 168
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -803,7 +815,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T17:42:06Z"
+  "snap": "2026-10-27T17:47:06Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
