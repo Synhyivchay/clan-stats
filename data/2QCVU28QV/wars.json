@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 83,
-   "pct": 92.97,
-   "attacks": 35
+   "stars": 84,
+   "pct": 93.33,
+   "attacks": 36
   },
   "them": {
    "tag": "#YC820RLP",
@@ -230,6 +230,17 @@
       "o": 60,
       "n": 1,
       "dur": 130
+     },
+     {
+      "d": "#22Y8V089P",
+      "dn": "BIRDY",
+      "dpos": 23,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 72,
+      "n": 1,
+      "dur": 170
      }
     ],
     "def": {
@@ -792,7 +803,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T16:42:06Z"
+  "snap": "2026-10-27T16:47:06Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
