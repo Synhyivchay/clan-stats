@@ -22,9 +22,9 @@
    "name": "Clan Of Monster",
    "badge": "https://api-assets.clashofclans.com/badges/200/ViuTejXc8JLsV4w8bFx9UjkLwN_dkqxs9CtANiuMbjw.png",
    "level": 31,
-   "stars": 58,
-   "pct": 83.12,
-   "attacks": 26
+   "stars": 59,
+   "pct": 85.2,
+   "attacks": 27
   },
   "members": [
    {
@@ -594,9 +594,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 52
     }
    },
    {
@@ -880,7 +880,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T10:19:21Z"
+  "snap": "2026-10-27T10:24:21Z"
  },
  {
   "id": "war_20261023T025553Z_RYLC829V",
