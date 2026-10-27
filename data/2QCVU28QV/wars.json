@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 46,
-   "pct": 54.67,
-   "attacks": 17
+   "stars": 51,
+   "pct": 61.3,
+   "attacks": 19
   },
   "them": {
    "tag": "#YC820RLP",
@@ -90,6 +90,17 @@
       "o": 26,
       "n": 3,
       "dur": 153
+     },
+     {
+      "d": "#L28J8PPLC",
+      "dn": "droppie",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 29,
+      "n": 3,
+      "dur": 141
      }
     ],
     "def": {
@@ -281,6 +292,17 @@
       "o": 28,
       "n": 2,
       "dur": 140
+     },
+     {
+      "d": "#28UJRUP0",
+      "dn": "kiekeboe",
+      "dpos": 14,
+      "dth": 18,
+      "s": 2,
+      "p": 99,
+      "o": 30,
+      "n": 2,
+      "dur": 180
      }
     ],
     "def": {
@@ -586,7 +608,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T05:54:12Z"
+  "snap": "2026-10-27T05:59:12Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
