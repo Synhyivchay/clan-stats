@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 56,
-   "pct": 65.37,
-   "attacks": 22
+   "stars": 60,
+   "pct": 68.73,
+   "attacks": 25
   },
   "them": {
    "tag": "#YC820RLP",
@@ -67,7 +67,30 @@
     "name": "Bigmac's sohn",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#29R29Y82U",
+      "dn": "tjendoborgonjon",
+      "dpos": 12,
+      "dth": 18,
+      "s": 0,
+      "p": 46,
+      "o": 36,
+      "n": 0,
+      "dur": 55
+     },
+     {
+      "d": "#28UJRUP0",
+      "dn": "kiekeboe",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 37,
+      "n": 1,
+      "dur": 118
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -599,7 +622,19 @@
     "name": "Monkey D. Lorik",
     "th": 18,
     "pos": 29,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9R8GJ2QRQ",
+      "dn": "baron pit",
+      "dpos": 28,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 35,
+      "n": 3,
+      "dur": 156
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -642,7 +677,7 @@
     }
    }
   ],
-  "snap": "2026-10-27T08:14:12Z"
+  "snap": "2026-10-27T08:19:12Z"
  },
  {
   "id": "war_20261023T222943Z_QCUVYJLP",
