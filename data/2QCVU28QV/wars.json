@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 6,
-   "pct": 6.67,
-   "attacks": 2
+   "stars": 11,
+   "pct": 12.77,
+   "attacks": 4
   },
   "them": {
    "tag": "#9GYJG2P2",
    "name": "Carabistouille",
    "badge": "https://api-assets.clashofclans.com/badges/200/rMxbfXX85H5tPTLfMqwrRBFrx4Ve6kr73c0Ob9QWjF8.png",
    "level": 32,
-   "stars": 10,
-   "pct": 11.27,
-   "attacks": 4
+   "stars": 13,
+   "pct": 14.6,
+   "attacks": 5
   },
   "members": [
    {
@@ -188,7 +188,30 @@
     "name": "アイドル",
     "th": 18,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G9U0JCYL",
+      "dn": "p-everett",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 8,
+      "n": 3,
+      "dur": 117
+     },
+     {
+      "d": "#GUYYYUUJ",
+      "dn": "Veuss",
+      "dpos": 4,
+      "dth": 18,
+      "s": 2,
+      "p": 83,
+      "o": 9,
+      "n": 2,
+      "dur": 117
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -393,9 +416,9 @@
     "pos": 29,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -411,7 +434,7 @@
     }
    }
   ],
-  "snap": "2026-10-28T21:10:18Z"
+  "snap": "2026-10-28T21:15:14Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
