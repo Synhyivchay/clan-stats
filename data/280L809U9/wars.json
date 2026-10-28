@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 15,
-   "pct": 25.0,
-   "attacks": 5
+   "stars": 17,
+   "pct": 29.15,
+   "attacks": 6
   },
   "them": {
    "tag": "#LPR8VPUJ",
    "name": "سرزمین دهکده ها",
    "badge": "https://api-assets.clashofclans.com/badges/200/lPp-R_NBLFWlPhQLPD8Q3dl-AnYbDrQjVMiOWjKlT58.png",
    "level": 23,
-   "stars": 14,
-   "pct": 24.35,
-   "attacks": 5
+   "stars": 17,
+   "pct": 29.35,
+   "attacks": 6
   },
   "members": [
    {
@@ -82,9 +82,9 @@
     "pos": 5,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -259,7 +259,19 @@
     "name": "grootich",
     "th": 15,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L0JJJ9V8G",
+      "dn": "moein",
+      "dpos": 16,
+      "dth": 17,
+      "s": 2,
+      "p": 83,
+      "o": 12,
+      "n": 2,
+      "dur": 118
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -326,7 +338,7 @@
     }
    }
   ],
-  "snap": "2026-10-28T23:45:13Z"
+  "snap": "2026-10-28T23:55:13Z"
  },
  {
   "id": "war_20261025T153902Z_2YQGCLV22",
