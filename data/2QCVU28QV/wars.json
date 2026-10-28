@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 17,
-   "pct": 19.43,
-   "attacks": 6
+   "stars": 28,
+   "pct": 32.67,
+   "attacks": 10
   },
   "them": {
    "tag": "#9GYJG2P2",
@@ -389,7 +389,30 @@
     "name": "Ampletrex",
     "th": 18,
     "pos": 25,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G9QYPG0V",
+      "dn": "ALIEN",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 17,
+      "n": 3,
+      "dur": 118
+     },
+     {
+      "d": "#YYUJU2LV0",
+      "dn": "Olivier 1er",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 19,
+      "n": 3,
+      "dur": 129
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -449,7 +472,30 @@
     "name": "GermanRuss",
     "th": 18,
     "pos": 30,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#20GC2LLG0",
+      "dn": "Aurélienbkt",
+      "dpos": 23,
+      "dth": 18,
+      "s": 2,
+      "p": 97,
+      "o": 16,
+      "n": 2,
+      "dur": 180
+     },
+     {
+      "d": "#Q9C9PJJ8J",
+      "dn": "yoyo2",
+      "dpos": 30,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 18,
+      "n": 3,
+      "dur": 101
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -457,7 +503,7 @@
     }
    }
   ],
-  "snap": "2026-10-28T22:30:13Z"
+  "snap": "2026-10-28T22:40:13Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
