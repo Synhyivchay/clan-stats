@@ -2,7 +2,7 @@
  {
   "id": "war_20261027T210150Z_LPR8VPUJ",
   "type": "war",
-  "state": "preparation",
+  "state": "inWar",
   "prep": "2026-10-27T21:01:50Z",
   "start": "2026-10-28T20:01:50Z",
   "end": "2026-10-29T20:01:50Z",
@@ -162,7 +162,7 @@
    {
     "tag": "#GQLRPL8Q0",
     "name": "Jamshid",
-    "th": 16,
+    "th": 17,
     "pos": 12,
     "attacks": [],
     "def": {
@@ -210,7 +210,7 @@
    {
     "tag": "#CUQYLPU",
     "name": "ФЕРЗЬ",
-    "th": 17,
+    "th": 18,
     "pos": 16,
     "attacks": [],
     "def": {
@@ -246,7 +246,7 @@
    {
     "tag": "#GC0V2V2Y0",
     "name": "sgrassi",
-    "th": 15,
+    "th": 16,
     "pos": 19,
     "attacks": [],
     "def": {
@@ -268,7 +268,7 @@
     }
    }
   ],
-  "snap": "2026-10-28T19:50:13Z"
+  "snap": "2026-10-28T20:05:14Z"
  },
  {
   "id": "war_20261025T153902Z_2YQGCLV22",
