@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 11,
-   "pct": 12.77,
-   "attacks": 4
+   "stars": 17,
+   "pct": 19.43,
+   "attacks": 6
   },
   "them": {
    "tag": "#9GYJG2P2",
@@ -282,7 +282,30 @@
     "name": "Ｍ Λ Ｘ",
     "th": 18,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RQ2QR2G2",
+      "dn": "phiphi",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 10,
+      "n": 3,
+      "dur": 176
+     },
+     {
+      "d": "#RGLVJU2G",
+      "dn": "Frevel",
+      "dpos": 6,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 11,
+      "n": 3,
+      "dur": 124
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -434,7 +457,7 @@
     }
    }
   ],
-  "snap": "2026-10-28T21:15:14Z"
+  "snap": "2026-10-28T21:25:13Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
