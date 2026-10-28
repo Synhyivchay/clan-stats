@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 4,
-   "pct": 6.64,
-   "attacks": 2
+   "stars": 7,
+   "pct": 10.64,
+   "attacks": 3
   },
   "them": {
    "tag": "#292V2RVUY",
    "name": "Cornballers",
    "badge": "https://api-assets.clashofclans.com/badges/200/u110Pao1wui6SDvQ7vXN5szorsfJheFdNmLM4tKPfL8.png",
    "level": 27,
-   "stars": 18,
-   "pct": 25.52,
-   "attacks": 8
+   "stars": 20,
+   "pct": 29.48,
+   "attacks": 9
   },
   "members": [
    {
@@ -297,9 +297,9 @@
     "pos": 21,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 99
     }
    },
    {
@@ -331,7 +331,19 @@
     "name": "WOLF",
     "th": 16,
     "pos": 24,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8P88JCGYU",
+      "dn": "hhg 2.0",
+      "dpos": 25,
+      "dth": 13,
+      "s": 3,
+      "p": 100,
+      "o": 12,
+      "n": 3,
+      "dur": 96
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -351,7 +363,7 @@
     }
    }
   ],
-  "snap": "2026-10-28T21:45:13Z"
+  "snap": "2026-10-28T21:55:13Z"
  },
  {
   "id": "war_20261025T153842Z_PGR2CPQ0",
