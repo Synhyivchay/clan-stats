@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 3,
-   "pct": 5.0,
-   "attacks": 1
+   "stars": 6,
+   "pct": 10.0,
+   "attacks": 2
   },
   "them": {
    "tag": "#LPR8VPUJ",
    "name": "سرزمین دهکده ها",
    "badge": "https://api-assets.clashofclans.com/badges/200/lPp-R_NBLFWlPhQLPD8Q3dl-AnYbDrQjVMiOWjKlT58.png",
    "level": 23,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 5.0,
+   "attacks": 1
   },
   "members": [
    {
@@ -106,9 +106,9 @@
     "pos": 7,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -247,6 +247,17 @@
       "o": 1,
       "n": 3,
       "dur": 81
+     },
+     {
+      "d": "#UYGQ02UL",
+      "dn": "artam",
+      "dpos": 17,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 3,
+      "n": 3,
+      "dur": 83
      }
     ],
     "def": {
@@ -280,7 +291,7 @@
     }
    }
   ],
-  "snap": "2026-10-28T20:15:13Z"
+  "snap": "2026-10-28T20:20:13Z"
  },
  {
   "id": "war_20261025T153902Z_2YQGCLV22",
