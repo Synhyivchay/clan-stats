@@ -4,8 +4,8 @@
  "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
  "level": 34,
  "description": "Welcome. Рейды обязательно. ЛВК от 17тх, второй клан Badboys - лвк от 14тх",
- "members": 41,
- "points": 107000,
+ "members": 42,
+ "points": 107100,
  "warWins": 826,
  "warLosses": 490,
  "warTies": 13,
@@ -16,10 +16,7 @@
  "warLogPublic": true,
  "trackingSince": "2026-10-15T22:46:46Z",
  "contribFetched": "2026-10-28T12:20:35Z",
- "updated": "2026-10-28T13:00:46Z",
- "errors": [
-  "ЛВК: 520 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/\",\"title\":\"Error 520: Web server is returning an unknown error\",\"status\":520,\"detai (/clans/#2QLJVLYY/currentwar/leaguegroup)",
-  "Рейды: 520 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/\",\"title\":\"Error 520: Web server is returning an unknown error\",\"status\":520,\"detai (/clans/#2QLJVLYY/capitalraidseasons?limit=4)"
- ],
+ "updated": "2026-10-28T13:05:46Z",
+ "errors": [],
  "show": true
 }
