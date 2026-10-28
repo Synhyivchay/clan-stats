@@ -15,10 +15,8 @@
  "capitalHall": 10,
  "warLogPublic": true,
  "trackingSince": "2026-10-16T21:01:41Z",
- "contribFetched": "2026-10-28T19:50:13Z",
- "updated": "2026-10-28T20:45:23Z",
- "errors": [
-  "ЛВК: 520 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/\",\"title\":\"Error 520: Web server is returning an unknown error\",\"status\":520,\"detai (/clans/#2QCVU28QV/currentwar/leaguegroup)"
- ],
+ "contribFetched": "2026-10-28T20:50:14Z",
+ "updated": "2026-10-28T20:50:14Z",
+ "errors": [],
  "show": true
 }
