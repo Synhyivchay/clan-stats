@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 10,
-   "pct": 14.64,
-   "attacks": 4
+   "stars": 14,
+   "pct": 21.24,
+   "attacks": 6
   },
   "them": {
    "tag": "#292V2RVUY",
@@ -319,7 +319,30 @@
     "name": "Legenda",
     "th": 15,
     "pos": 23,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q89802CQL",
+      "dn": "BxBadBoy",
+      "dpos": 22,
+      "dth": 14,
+      "s": 3,
+      "p": 100,
+      "o": 16,
+      "n": 3,
+      "dur": 105
+     },
+     {
+      "d": "#GPQU0VPUQ",
+      "dn": "Donimator",
+      "dpos": 20,
+      "dth": 18,
+      "s": 1,
+      "p": 65,
+      "o": 17,
+      "n": 1,
+      "dur": 119
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -374,7 +397,7 @@
     }
    }
   ],
-  "snap": "2026-10-28T23:20:13Z"
+  "snap": "2026-10-28T23:30:13Z"
  },
  {
   "id": "war_20261025T153842Z_PGR2CPQ0",
