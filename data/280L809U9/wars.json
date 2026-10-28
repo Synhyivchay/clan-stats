@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 12,
-   "pct": 20.0,
-   "attacks": 4
+   "stars": 15,
+   "pct": 25.0,
+   "attacks": 5
   },
   "them": {
    "tag": "#LPR8VPUJ",
@@ -104,7 +104,19 @@
     "name": "Partizan",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GRPGLQJU8",
+      "dn": "setia",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 9,
+      "n": 3,
+      "dur": 125
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -314,7 +326,7 @@
     }
    }
   ],
-  "snap": "2026-10-28T22:05:13Z"
+  "snap": "2026-10-28T22:15:13Z"
  },
  {
   "id": "war_20261025T153902Z_2YQGCLV22",
