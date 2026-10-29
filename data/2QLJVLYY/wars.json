@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 44,
-   "pct": 66.8,
-   "attacks": 22
+   "stars": 47,
+   "pct": 70.8,
+   "attacks": 23
   },
   "them": {
    "tag": "#292V2RVUY",
    "name": "Cornballers",
    "badge": "https://api-assets.clashofclans.com/badges/200/u110Pao1wui6SDvQ7vXN5szorsfJheFdNmLM4tKPfL8.png",
    "level": 27,
-   "stars": 34,
-   "pct": 51.08,
-   "attacks": 17
+   "stars": 35,
+   "pct": 50.8,
+   "attacks": 18
   },
   "members": [
    {
@@ -58,9 +58,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 1,
-     "p": 98
+     "n": 2,
+     "s": 2,
+     "p": 91
     }
    },
    {
@@ -267,6 +267,17 @@
       "o": 39,
       "n": 0,
       "dur": 180
+     },
+     {
+      "d": "#2GCVC0Q2J",
+      "dn": "Emoji Hell",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 40,
+      "n": 3,
+      "dur": 174
      }
     ],
     "def": {
@@ -583,7 +594,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T05:25:25Z"
+  "snap": "2026-10-29T05:35:25Z"
  },
  {
   "id": "war_20261025T153842Z_PGR2CPQ0",
