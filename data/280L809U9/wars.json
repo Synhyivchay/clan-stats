@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 59,
-   "pct": 97.85,
-   "attacks": 28
+   "pct": 98.95,
+   "attacks": 29
   },
   "them": {
    "tag": "#LPR8VPUJ",
@@ -24,7 +24,7 @@
    "level": 23,
    "stars": 59,
    "pct": 99.6,
-   "attacks": 30
+   "attacks": 31
   },
   "members": [
    {
@@ -67,9 +67,21 @@
     "name": "ReTrO",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GPGYC0P98",
+      "dn": "Alireza",
+      "dpos": 3,
+      "dth": 18,
+      "s": 2,
+      "p": 79,
+      "o": 60,
+      "n": 0,
+      "dur": 131
+     }
+    ],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 3,
      "p": 100
     }
@@ -592,7 +604,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T19:11:03Z"
+  "snap": "2026-10-29T19:16:03Z"
  },
  {
   "id": "war_20261025T153902Z_2YQGCLV22",
