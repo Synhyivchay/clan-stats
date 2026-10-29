@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 39,
-   "pct": 44.53,
-   "attacks": 15
+   "stars": 46,
+   "pct": 54.17,
+   "attacks": 18
   },
   "them": {
    "tag": "#9GYJG2P2",
    "name": "Carabistouille",
    "badge": "https://api-assets.clashofclans.com/badges/200/rMxbfXX85H5tPTLfMqwrRBFrx4Ve6kr73c0Ob9QWjF8.png",
    "level": 32,
-   "stars": 57,
-   "pct": 69.03,
-   "attacks": 26
+   "stars": 59,
+   "pct": 72.03,
+   "attacks": 27
   },
   "members": [
    {
@@ -44,7 +44,19 @@
     "name": "Bigmac's sohn",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#VVYJJLCV",
+      "dn": "morgan1",
+      "dpos": 11,
+      "dth": 18,
+      "s": 1,
+      "p": 89,
+      "o": 44,
+      "n": 1,
+      "dur": 145
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -211,7 +223,30 @@
     "name": "Bassko",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#20GPUQLYP",
+      "dn": "Noé Galates",
+      "dpos": 12,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 43,
+      "n": 3,
+      "dur": 143
+     },
+     {
+      "d": "#P09000Q9",
+      "dn": "BOOGY SHOW",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 45,
+      "n": 3,
+      "dur": 123
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -425,9 +460,9 @@
     "pos": 23,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 90
     }
    },
    {
@@ -561,7 +596,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T06:55:38Z"
+  "snap": "2026-10-29T07:00:38Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",

@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 34,
-   "pct": 58.3,
-   "attacks": 13
+   "stars": 36,
+   "pct": 62.1,
+   "attacks": 14
   },
   "them": {
    "tag": "#LPR8VPUJ",
@@ -410,7 +410,19 @@
     "name": "pistolet",
     "th": 16,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q98JLLGRG",
+      "dn": "♠️ ابوالفضل♦️",
+      "dpos": 20,
+      "dth": 14,
+      "s": 2,
+      "p": 76,
+      "o": 26,
+      "n": 2,
+      "dur": 128
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -418,7 +430,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T06:55:38Z"
+  "snap": "2026-10-29T07:00:38Z"
  },
  {
   "id": "war_20261025T153902Z_2YQGCLV22",
