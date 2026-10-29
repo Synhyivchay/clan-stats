@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 78,
-   "pct": 88.97,
-   "attacks": 33
+   "stars": 81,
+   "pct": 92.3,
+   "attacks": 34
   },
   "them": {
    "tag": "#9GYJG2P2",
    "name": "Carabistouille",
    "badge": "https://api-assets.clashofclans.com/badges/200/rMxbfXX85H5tPTLfMqwrRBFrx4Ve6kr73c0Ob9QWjF8.png",
    "level": 32,
-   "stars": 77,
-   "pct": 93.27,
-   "attacks": 40
+   "stars": 78,
+   "pct": 93.33,
+   "attacks": 41
   },
   "members": [
    {
@@ -242,6 +242,17 @@
       "o": 73,
       "n": 3,
       "dur": 91
+     },
+     {
+      "d": "#YRQRJCPR8",
+      "dn": "theogcnice",
+      "dpos": 29,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 74,
+      "n": 3,
+      "dur": 113
      }
     ],
     "def": {
@@ -339,9 +350,9 @@
      }
     ],
     "def": {
-     "n": 2,
-     "s": 2,
-     "p": 98
+     "n": 3,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -768,7 +779,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T14:55:48Z"
+  "snap": "2026-10-29T15:00:48Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
