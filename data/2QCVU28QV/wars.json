@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 89,
-   "pct": 99.9,
-   "attacks": 40
+   "stars": 90,
+   "pct": 100.0,
+   "attacks": 41
   },
   "them": {
    "tag": "#9GYJG2P2",
    "name": "Carabistouille",
    "badge": "https://api-assets.clashofclans.com/badges/200/rMxbfXX85H5tPTLfMqwrRBFrx4Ve6kr73c0Ob9QWjF8.png",
    "level": 32,
-   "stars": 81,
-   "pct": 96.93,
-   "attacks": 50
+   "stars": 82,
+   "pct": 97.2,
+   "attacks": 51
   },
   "members": [
    {
@@ -781,6 +781,17 @@
       "o": 89,
       "n": 3,
       "dur": 159
+     },
+     {
+      "d": "#20GC2LLG0",
+      "dn": "Aurélienbkt",
+      "dpos": 23,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 92,
+      "n": 1,
+      "dur": 140
      }
     ],
     "def": {
@@ -843,13 +854,13 @@
      }
     ],
     "def": {
-     "n": 4,
-     "s": 2,
-     "p": 92
+     "n": 5,
+     "s": 3,
+     "p": 100
     }
    }
   ],
-  "snap": "2026-10-29T18:36:03Z"
+  "snap": "2026-10-29T18:41:03Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
