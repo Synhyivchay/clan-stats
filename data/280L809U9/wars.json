@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 38,
-   "pct": 65.3,
-   "attacks": 15
+   "stars": 39,
+   "pct": 66.5,
+   "attacks": 16
   },
   "them": {
    "tag": "#LPR8VPUJ",
@@ -398,7 +398,19 @@
     "name": "sgrassi",
     "th": 16,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q98JLLGRG",
+      "dn": "♠️ ابوالفضل♦️",
+      "dpos": 20,
+      "dth": 14,
+      "s": 3,
+      "p": 100,
+      "o": 28,
+      "n": 1,
+      "dur": 145
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -441,7 +453,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T07:10:38Z"
+  "snap": "2026-10-29T07:15:38Z"
  },
  {
   "id": "war_20261025T153902Z_2YQGCLV22",
