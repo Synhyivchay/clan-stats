@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 46
+   "attacks": 51
   },
   "them": {
    "tag": "#9GYJG2P2",
@@ -593,7 +593,30 @@
     "name": "RudiV2",
     "th": 18,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2YY2LR0CG",
+      "dn": "darkmaster",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 23,
+      "o": 107,
+      "n": 0,
+      "dur": 30
+     },
+     {
+      "d": "#GQJ89JUR",
+      "dn": "[_]Julien[_]",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 23,
+      "o": 108,
+      "n": 0,
+      "dur": 28
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -792,7 +815,30 @@
     "name": "RudiV3",
     "th": 18,
     "pos": 26,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2YY2LR0CG",
+      "dn": "darkmaster",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 22,
+      "o": 109,
+      "n": 0,
+      "dur": 30
+     },
+     {
+      "d": "#GQJ89JUR",
+      "dn": "[_]Julien[_]",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 32,
+      "o": 110,
+      "n": 0,
+      "dur": 34
+     }
+    ],
     "def": {
      "n": 4,
      "s": 2,
@@ -839,7 +885,19 @@
     "name": "RudiV4",
     "th": 18,
     "pos": 28,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2YY2LR0CG",
+      "dn": "darkmaster",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 11,
+      "o": 111,
+      "n": 0,
+      "dur": 16
+     }
+    ],
     "def": {
      "n": 3,
      "s": 3,
@@ -917,7 +975,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T20:26:03Z"
+  "snap": "2026-10-29T20:31:03Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
