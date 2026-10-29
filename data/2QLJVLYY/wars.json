@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 35,
-   "pct": 50.48,
-   "attacks": 14
+   "stars": 37,
+   "pct": 55.56,
+   "attacks": 16
   },
   "them": {
    "tag": "#292V2RVUY",
@@ -174,7 +174,19 @@
     "name": "~LuciFer~",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2CJGC90QP",
+      "dn": "hhg",
+      "dpos": 9,
+      "dth": 18,
+      "s": 2,
+      "p": 85,
+      "o": 32,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -483,7 +495,19 @@
     "name": "denchik",
     "th": 13,
     "pos": 25,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QUV208Q8Y",
+      "dn": "CornStar",
+      "dpos": 21,
+      "dth": 16,
+      "s": 0,
+      "p": 42,
+      "o": 33,
+      "n": 0,
+      "dur": 72
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -491,7 +515,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T04:45:25Z"
+  "snap": "2026-10-29T04:50:25Z"
  },
  {
   "id": "war_20261025T153842Z_PGR2CPQ0",
