@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 47,
-   "pct": 70.8,
-   "attacks": 23
+   "stars": 52,
+   "pct": 78.4,
+   "attacks": 26
   },
   "them": {
    "tag": "#292V2RVUY",
@@ -68,7 +68,30 @@
     "name": "малько",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q9QQPRLLR",
+      "dn": "Bazzmondo",
+      "dpos": 1,
+      "dth": 18,
+      "s": 2,
+      "p": 90,
+      "o": 44,
+      "n": 2,
+      "dur": 172
+     },
+     {
+      "d": "#PJCG9QQVL",
+      "dn": "Will",
+      "dpos": 4,
+      "dth": 18,
+      "s": 1,
+      "p": 89,
+      "o": 45,
+      "n": 0,
+      "dur": 153
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -363,7 +386,19 @@
     "name": "Адик",
     "th": 17,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QGCLP09GC",
+      "dn": "captain levi",
+      "dpos": 17,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 43,
+      "n": 3,
+      "dur": 160
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -594,7 +629,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T06:20:38Z"
+  "snap": "2026-10-29T06:30:38Z"
  },
  {
   "id": "war_20261025T153842Z_PGR2CPQ0",
