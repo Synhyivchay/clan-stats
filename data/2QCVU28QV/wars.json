@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 85,
-   "pct": 96.5,
-   "attacks": 38
+   "stars": 86,
+   "pct": 96.57,
+   "attacks": 39
   },
   "them": {
    "tag": "#9GYJG2P2",
@@ -453,7 +453,19 @@
     "name": "xXDamage",
     "th": 18,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#89YUVU80U",
+      "dn": "¥RastaFou¥",
+      "dpos": 22,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 85,
+      "n": 1,
+      "dur": 138
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -825,7 +837,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T17:16:03Z"
+  "snap": "2026-10-29T17:21:03Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
