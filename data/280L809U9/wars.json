@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 57,
-   "pct": 96.75,
-   "attacks": 26
+   "stars": 59,
+   "pct": 97.85,
+   "attacks": 28
   },
   "them": {
    "tag": "#LPR8VPUJ",
@@ -24,7 +24,7 @@
    "level": 23,
    "stars": 59,
    "pct": 99.6,
-   "attacks": 29
+   "attacks": 30
   },
   "members": [
    {
@@ -57,7 +57,7 @@
      }
     ],
     "def": {
-     "n": 2,
+     "n": 3,
      "s": 2,
      "p": 92
     }
@@ -138,7 +138,30 @@
     "name": "Boston",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8V0LQCLG8",
+      "dn": "navid",
+      "dpos": 15,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 56,
+      "n": 1,
+      "dur": 92
+     },
+     {
+      "d": "#GYL0QGLLY",
+      "dn": "_astatice_",
+      "dpos": 10,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 57,
+      "n": 1,
+      "dur": 106
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -569,7 +592,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T19:06:04Z"
+  "snap": "2026-10-29T19:11:03Z"
  },
  {
   "id": "war_20261025T153902Z_2YQGCLV22",
