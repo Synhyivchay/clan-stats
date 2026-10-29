@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 71,
-   "pct": 99.36,
-   "attacks": 42
+   "stars": 72,
+   "pct": 99.2,
+   "attacks": 44
   },
   "them": {
    "tag": "#292V2RVUY",
@@ -149,7 +149,19 @@
     "name": "000Roma000",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q2902C8C2",
+      "dn": "BazzFTP",
+      "dpos": 10,
+      "dth": 18,
+      "s": 2,
+      "p": 90,
+      "o": 88,
+      "n": 1,
+      "dur": 144
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -172,6 +184,17 @@
       "o": 86,
       "n": 3,
       "dur": 125
+     },
+     {
+      "d": "#QGUQV8UG0",
+      "dn": "Mukuro",
+      "dpos": 12,
+      "dth": 18,
+      "s": 1,
+      "p": 80,
+      "o": 87,
+      "n": 0,
+      "dur": 180
      }
     ],
     "def": {
@@ -812,7 +835,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T18:46:03Z"
+  "snap": "2026-10-29T18:51:03Z"
  },
  {
   "id": "war_20261025T153842Z_PGR2CPQ0",
