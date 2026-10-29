@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
    "stars": 85,
-   "pct": 95.8,
-   "attacks": 37
+   "pct": 96.5,
+   "attacks": 38
   },
   "them": {
    "tag": "#9GYJG2P2",
@@ -148,6 +148,17 @@
       "o": 79,
       "n": 0,
       "dur": 175
+     },
+     {
+      "d": "#89YUVU80U",
+      "dn": "¥RastaFou¥",
+      "dpos": 22,
+      "dth": 18,
+      "s": 2,
+      "p": 98,
+      "o": 80,
+      "n": 0,
+      "dur": 180
      }
     ],
     "def": {
@@ -814,7 +825,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T15:25:48Z"
+  "snap": "2026-10-29T15:30:48Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
