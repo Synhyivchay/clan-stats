@@ -22,9 +22,9 @@
    "name": "Carabistouille",
    "badge": "https://api-assets.clashofclans.com/badges/200/rMxbfXX85H5tPTLfMqwrRBFrx4Ve6kr73c0Ob9QWjF8.png",
    "level": 32,
-   "stars": 79,
-   "pct": 96.3,
-   "attacks": 47
+   "stars": 80,
+   "pct": 96.8,
+   "attacks": 48
   },
   "members": [
    {
@@ -631,9 +631,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 85
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -837,7 +837,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T18:11:03Z"
+  "snap": "2026-10-29T18:16:03Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
