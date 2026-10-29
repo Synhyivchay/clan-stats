@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 20,
-   "pct": 34.15,
-   "attacks": 7
+   "stars": 23,
+   "pct": 39.15,
+   "attacks": 8
   },
   "them": {
    "tag": "#LPR8VPUJ",
@@ -32,7 +32,19 @@
     "name": "Ragnar",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LRLPRQVV",
+      "dn": "nêrvõû$ʕ•ᴥ•ʔbºÿ",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 16,
+      "n": 3,
+      "dur": 106
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -349,7 +361,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T03:35:25Z"
+  "snap": "2026-10-29T03:40:25Z"
  },
  {
   "id": "war_20261025T153902Z_2YQGCLV22",
