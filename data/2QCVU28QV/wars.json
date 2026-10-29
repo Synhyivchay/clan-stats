@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 60,
-   "pct": 71.2,
-   "attacks": 24
+   "stars": 62,
+   "pct": 73.77,
+   "attacks": 25
   },
   "them": {
    "tag": "#9GYJG2P2",
@@ -526,6 +526,17 @@
       "o": 54,
       "n": 1,
       "dur": 137
+     },
+     {
+      "d": "#89YUVU80U",
+      "dn": "¥RastaFou¥",
+      "dpos": 22,
+      "dth": 18,
+      "s": 2,
+      "p": 77,
+      "o": 55,
+      "n": 2,
+      "dur": 161
      }
     ],
     "def": {
@@ -665,7 +676,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T08:05:38Z"
+  "snap": "2026-10-29T08:10:38Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
