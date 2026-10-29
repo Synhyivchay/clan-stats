@@ -15,16 +15,16 @@
    "level": 34,
    "stars": 54,
    "pct": 82.4,
-   "attacks": 29
+   "attacks": 30
   },
   "them": {
    "tag": "#292V2RVUY",
    "name": "Cornballers",
    "badge": "https://api-assets.clashofclans.com/badges/200/u110Pao1wui6SDvQ7vXN5szorsfJheFdNmLM4tKPfL8.png",
    "level": 27,
-   "stars": 37,
-   "pct": 54.64,
-   "attacks": 19
+   "stars": 42,
+   "pct": 62.52,
+   "attacks": 21
   },
   "members": [
    {
@@ -219,6 +219,17 @@
       "o": 48,
       "n": 0,
       "dur": 180
+     },
+     {
+      "d": "#Q2902C8C2",
+      "dn": "BazzFTP",
+      "dpos": 10,
+      "dth": 18,
+      "s": 1,
+      "p": 88,
+      "o": 51,
+      "n": 0,
+      "dur": 180
      }
     ],
     "def": {
@@ -257,9 +268,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 97
     }
    },
    {
@@ -292,9 +303,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -663,7 +674,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T06:45:38Z"
+  "snap": "2026-10-29T06:55:38Z"
  },
  {
   "id": "war_20261025T153842Z_PGR2CPQ0",
