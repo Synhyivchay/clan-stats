@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 85,
    "pct": 95.8,
-   "attacks": 36
+   "attacks": 37
   },
   "them": {
    "tag": "#9GYJG2P2",
@@ -137,7 +137,19 @@
     "name": "Evil Kruemel",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#20GC2LLG0",
+      "dn": "Aurélienbkt",
+      "dpos": 23,
+      "dth": 18,
+      "s": 2,
+      "p": 82,
+      "o": 79,
+      "n": 0,
+      "dur": 175
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -802,7 +814,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T15:15:48Z"
+  "snap": "2026-10-29T15:25:48Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
