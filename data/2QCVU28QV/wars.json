@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 31,
-   "pct": 36.0,
-   "attacks": 11
+   "stars": 34,
+   "pct": 38.7,
+   "attacks": 13
   },
   "them": {
    "tag": "#9GYJG2P2",
@@ -103,6 +103,17 @@
       "o": 30,
       "n": 3,
       "dur": 123
+     },
+     {
+      "d": "#GUYYYUUJ",
+      "dn": "Veuss",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 31,
+      "n": 1,
+      "dur": 134
      }
     ],
     "def": {
@@ -282,7 +293,19 @@
     "name": "@Michi@",
     "th": 18,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GUP8G9G9",
+      "dn": "chachou85230",
+      "dpos": 16,
+      "dth": 18,
+      "s": 2,
+      "p": 64,
+      "o": 32,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -515,7 +538,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T04:20:25Z"
+  "snap": "2026-10-29T04:25:25Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
