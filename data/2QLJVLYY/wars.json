@@ -22,9 +22,9 @@
    "name": "Cornballers",
    "badge": "https://api-assets.clashofclans.com/badges/200/u110Pao1wui6SDvQ7vXN5szorsfJheFdNmLM4tKPfL8.png",
    "level": 27,
-   "stars": 23,
-   "pct": 33.32,
-   "attacks": 12
+   "stars": 24,
+   "pct": 37.24,
+   "attacks": 13
   },
   "members": [
    {
@@ -46,9 +46,9 @@
     "pos": 2,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 98
     }
    },
    {
@@ -397,7 +397,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T01:05:25Z"
+  "snap": "2026-10-29T01:10:25Z"
  },
  {
   "id": "war_20261025T153842Z_PGR2CPQ0",
