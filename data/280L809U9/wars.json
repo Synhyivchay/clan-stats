@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 42,
-   "pct": 71.5,
-   "attacks": 17
+   "stars": 45,
+   "pct": 76.5,
+   "attacks": 18
   },
   "them": {
    "tag": "#LPR8VPUJ",
@@ -304,7 +304,19 @@
     "name": "Дракс",
     "th": 16,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LYQUQ9CQ0",
+      "dn": "کلانتر",
+      "dpos": 13,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 30,
+      "n": 3,
+      "dur": 129
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -465,7 +477,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T08:25:38Z"
+  "snap": "2026-10-29T08:30:38Z"
  },
  {
   "id": "war_20261025T153902Z_2YQGCLV22",
