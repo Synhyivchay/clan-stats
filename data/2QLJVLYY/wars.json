@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
    "stars": 44,
-   "pct": 66.56,
-   "attacks": 21
+   "pct": 66.8,
+   "attacks": 22
   },
   "them": {
    "tag": "#292V2RVUY",
@@ -256,7 +256,19 @@
     "name": "ebobo",
     "th": 18,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QC999CJG",
+      "dn": "hewie",
+      "dpos": 7,
+      "dth": 18,
+      "s": 2,
+      "p": 96,
+      "o": 39,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -571,7 +583,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T05:20:25Z"
+  "snap": "2026-10-29T05:25:25Z"
  },
  {
   "id": "war_20261025T153842Z_PGR2CPQ0",
