@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 59,
-   "pct": 98.95,
-   "attacks": 29
+   "pct": 99.5,
+   "attacks": 30
   },
   "them": {
    "tag": "#LPR8VPUJ",
@@ -91,7 +91,19 @@
     "name": "OO REEBOK OO",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GPGYC0P98",
+      "dn": "Alireza",
+      "dpos": 3,
+      "dth": 18,
+      "s": 2,
+      "p": 90,
+      "o": 61,
+      "n": 0,
+      "dur": 157
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -604,7 +616,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T19:16:03Z"
+  "snap": "2026-10-29T19:21:03Z"
  },
  {
   "id": "war_20261025T153902Z_2YQGCLV22",
