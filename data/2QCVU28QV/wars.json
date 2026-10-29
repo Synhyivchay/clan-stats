@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 71,
-   "pct": 81.47,
-   "attacks": 30
+   "stars": 74,
+   "pct": 84.8,
+   "attacks": 31
   },
   "them": {
    "tag": "#9GYJG2P2",
@@ -607,6 +607,17 @@
       "o": 63,
       "n": 3,
       "dur": 107
+     },
+     {
+      "d": "#CU8CCJU0",
+      "dn": "Esaviell",
+      "dpos": 26,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 65,
+      "n": 3,
+      "dur": 116
      }
     ],
     "def": {
@@ -734,7 +745,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T12:10:48Z"
+  "snap": "2026-10-29T12:15:48Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
