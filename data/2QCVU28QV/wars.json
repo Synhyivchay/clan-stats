@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 56,
-   "pct": 65.37,
-   "attacks": 22
+   "stars": 59,
+   "pct": 68.7,
+   "attacks": 23
   },
   "them": {
    "tag": "#9GYJG2P2",
@@ -173,6 +173,17 @@
       "o": 48,
       "n": 1,
       "dur": 121
+     },
+     {
+      "d": "#YQV9U0VY",
+      "dn": "Grumf",
+      "dpos": 18,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 50,
+      "n": 3,
+      "dur": 128
      }
     ],
     "def": {
@@ -642,7 +653,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T07:10:38Z"
+  "snap": "2026-10-29T07:20:38Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
