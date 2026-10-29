@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 32,
-   "pct": 46.48,
-   "attacks": 13
+   "stars": 35,
+   "pct": 50.48,
+   "attacks": 14
   },
   "them": {
    "tag": "#292V2RVUY",
@@ -389,7 +389,19 @@
     "name": "Фалирит",
     "th": 16,
     "pos": 22,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L00C0C0VQ",
+      "dn": "TED",
+      "dpos": 24,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 31,
+      "n": 3,
+      "dur": 81
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -479,7 +491,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T04:40:25Z"
+  "snap": "2026-10-29T04:45:25Z"
  },
  {
   "id": "war_20261025T153842Z_PGR2CPQ0",
