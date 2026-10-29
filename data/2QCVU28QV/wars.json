@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 64,
-   "pct": 74.13,
-   "attacks": 26
+   "stars": 65,
+   "pct": 74.2,
+   "attacks": 27
   },
   "them": {
    "tag": "#9GYJG2P2",
@@ -244,6 +244,17 @@
       "o": 58,
       "n": 2,
       "dur": 91
+     },
+     {
+      "d": "#QPYPU0C8L",
+      "dn": "TRAUMATEAZE",
+      "dpos": 19,
+      "dth": 18,
+      "s": 2,
+      "p": 77,
+      "o": 59,
+      "n": 1,
+      "dur": 180
      }
     ],
     "def": {
@@ -688,7 +699,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T09:10:38Z"
+  "snap": "2026-10-29T09:20:38Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
