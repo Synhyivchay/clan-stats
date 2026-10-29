@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
    "stars": 54,
-   "pct": 82.2,
-   "attacks": 27
+   "pct": 82.4,
+   "attacks": 28
   },
   "them": {
    "tag": "#292V2RVUY",
@@ -55,6 +55,17 @@
       "o": 37,
       "n": 3,
       "dur": 153
+     },
+     {
+      "d": "#Q9QQPRLLR",
+      "dn": "Bazzmondo",
+      "dpos": 1,
+      "dth": 18,
+      "s": 2,
+      "p": 95,
+      "o": 47,
+      "n": 0,
+      "dur": 171
      }
     ],
     "def": {
@@ -640,7 +651,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T06:35:38Z"
+  "snap": "2026-10-29T06:40:38Z"
  },
  {
   "id": "war_20261025T153842Z_PGR2CPQ0",
