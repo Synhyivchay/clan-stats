@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 81,
-   "pct": 92.3,
-   "attacks": 34
+   "stars": 84,
+   "pct": 95.63,
+   "attacks": 35
   },
   "them": {
    "tag": "#9GYJG2P2",
@@ -23,8 +23,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/rMxbfXX85H5tPTLfMqwrRBFrx4Ve6kr73c0Ob9QWjF8.png",
    "level": 32,
    "stars": 78,
-   "pct": 93.33,
-   "attacks": 41
+   "pct": 94.03,
+   "attacks": 42
   },
   "members": [
    {
@@ -467,9 +467,9 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 2,
-     "p": 78
+     "p": 99
     }
    },
    {
@@ -571,7 +571,19 @@
     "name": "Leon",
     "th": 18,
     "pos": 21,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q8VRU8QU2",
+      "dn": "Odul",
+      "dpos": 28,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 77,
+      "n": 3,
+      "dur": 84
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -779,7 +791,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T15:05:48Z"
+  "snap": "2026-10-29T15:10:48Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
