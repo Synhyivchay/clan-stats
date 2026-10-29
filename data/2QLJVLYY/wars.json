@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 61,
-   "pct": 88.68,
-   "attacks": 36
+   "stars": 64,
+   "pct": 92.68,
+   "attacks": 37
   },
   "them": {
    "tag": "#292V2RVUY",
    "name": "Cornballers",
    "badge": "https://api-assets.clashofclans.com/badges/200/u110Pao1wui6SDvQ7vXN5szorsfJheFdNmLM4tKPfL8.png",
    "level": 27,
-   "stars": 72,
-   "pct": 98.56,
-   "attacks": 38
+   "stars": 73,
+   "pct": 99.68,
+   "attacks": 39
   },
   "members": [
    {
@@ -430,6 +430,17 @@
       "o": 23,
       "n": 3,
       "dur": 144
+     },
+     {
+      "d": "#QGYQRCJUC",
+      "dn": "DisasterArea",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 76,
+      "n": 3,
+      "dur": 145
      }
     ],
     "def": {
@@ -468,9 +479,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 72
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -743,7 +754,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T15:40:48Z"
+  "snap": "2026-10-29T15:45:48Z"
  },
  {
   "id": "war_20261025T153842Z_PGR2CPQ0",
