@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 36,
-   "pct": 41.2,
-   "attacks": 14
+   "stars": 39,
+   "pct": 44.53,
+   "attacks": 15
   },
   "them": {
    "tag": "#9GYJG2P2",
    "name": "Carabistouille",
    "badge": "https://api-assets.clashofclans.com/badges/200/rMxbfXX85H5tPTLfMqwrRBFrx4Ve6kr73c0Ob9QWjF8.png",
    "level": 32,
-   "stars": 55,
-   "pct": 66.53,
-   "attacks": 25
+   "stars": 57,
+   "pct": 69.03,
+   "attacks": 26
   },
   "members": [
    {
@@ -56,7 +56,19 @@
     "name": "slory",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GRYQ22Q9V",
+      "dn": "drogon",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 41,
+      "n": 3,
+      "dur": 152
+     }
+    ],
     "def": {
      "n": 3,
      "s": 3,
@@ -117,9 +129,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 75
     }
    },
    {
@@ -549,7 +561,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T06:35:38Z"
+  "snap": "2026-10-29T06:45:38Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
