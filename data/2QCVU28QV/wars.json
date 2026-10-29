@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 28,
-   "pct": 32.67,
-   "attacks": 10
+   "stars": 31,
+   "pct": 36.0,
+   "attacks": 11
   },
   "them": {
    "tag": "#9GYJG2P2",
@@ -92,7 +92,19 @@
     "name": "Marc",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L29YYLQUP",
+      "dn": "RA la fouf",
+      "dpos": 10,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 30,
+      "n": 3,
+      "dur": 123
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -503,7 +515,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T04:10:25Z"
+  "snap": "2026-10-29T04:20:25Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
