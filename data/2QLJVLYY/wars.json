@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 37,
-   "pct": 55.56,
-   "attacks": 16
+   "stars": 39,
+   "pct": 58.76,
+   "attacks": 19
   },
   "them": {
    "tag": "#292V2RVUY",
@@ -208,6 +208,17 @@
       "p": 90,
       "o": 30,
       "n": 2,
+      "dur": 180
+     },
+     {
+      "d": "#Q2902C8C2",
+      "dn": "BazzFTP",
+      "dpos": 10,
+      "dth": 18,
+      "s": 1,
+      "p": 94,
+      "o": 35,
+      "n": 0,
       "dur": 180
      }
     ],
@@ -412,6 +423,17 @@
       "o": 31,
       "n": 3,
       "dur": 81
+     },
+     {
+      "d": "#QUV208Q8Y",
+      "dn": "CornStar",
+      "dpos": 21,
+      "dth": 16,
+      "s": 1,
+      "p": 63,
+      "o": 36,
+      "n": 1,
+      "dur": 73
      }
     ],
     "def": {
@@ -506,6 +528,17 @@
       "o": 33,
       "n": 0,
       "dur": 72
+     },
+     {
+      "d": "#GJL98LPCJ",
+      "dn": "h3w1e",
+      "dpos": 18,
+      "dth": 17,
+      "s": 1,
+      "p": 31,
+      "o": 34,
+      "n": 1,
+      "dur": 68
      }
     ],
     "def": {
@@ -515,7 +548,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T04:50:25Z"
+  "snap": "2026-10-29T04:55:25Z"
  },
  {
   "id": "war_20261025T153842Z_PGR2CPQ0",
