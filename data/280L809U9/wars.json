@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 55,
-   "pct": 93.4,
-   "attacks": 23
+   "pct": 94.95,
+   "attacks": 24
   },
   "them": {
    "tag": "#LPR8VPUJ",
@@ -362,7 +362,19 @@
     "name": "салфетка",
     "th": 16,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8V0LQCLG8",
+      "dn": "navid",
+      "dpos": 15,
+      "dth": 16,
+      "s": 2,
+      "p": 95,
+      "o": 51,
+      "n": 0,
+      "dur": 176
+     }
+    ],
     "def": {
      "n": 3,
      "s": 3,
@@ -534,7 +546,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T15:30:48Z"
+  "snap": "2026-10-29T15:35:48Z"
  },
  {
   "id": "war_20261025T153902Z_2YQGCLV22",
