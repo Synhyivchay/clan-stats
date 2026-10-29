@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 43
+   "attacks": 44
   },
   "them": {
    "tag": "#9GYJG2P2",
@@ -594,7 +594,19 @@
     "name": "hazhir ro",
     "th": 18,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2YY2LR0CG",
+      "dn": "darkmaster",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 75,
+      "o": 101,
+      "n": 0,
+      "dur": 66
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -883,7 +895,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T19:56:03Z"
+  "snap": "2026-10-29T20:01:03Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
