@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 49,
-   "pct": 57.5,
-   "attacks": 19
+   "stars": 56,
+   "pct": 65.37,
+   "attacks": 22
   },
   "them": {
    "tag": "#9GYJG2P2",
@@ -79,6 +79,17 @@
       "o": 41,
       "n": 3,
       "dur": 152
+     },
+     {
+      "d": "#J9YJ8QU9",
+      "dn": "Eren Jaeger",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 47,
+      "n": 3,
+      "dur": 140
      }
     ],
     "def": {
@@ -151,7 +162,19 @@
     "name": "Louis™️187",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GUP8G9G9",
+      "dn": "chachou85230",
+      "dpos": 16,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 48,
+      "n": 1,
+      "dur": 121
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -222,6 +245,17 @@
       "o": 46,
       "n": 3,
       "dur": 141
+     },
+     {
+      "d": "#2LL2VRPJ0",
+      "dn": "yoyo",
+      "dpos": 17,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 49,
+      "n": 3,
+      "dur": 163
      }
     ],
     "def": {
@@ -608,7 +642,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T07:05:38Z"
+  "snap": "2026-10-29T07:10:38Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
