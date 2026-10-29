@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 41
+   "attacks": 42
   },
   "them": {
    "tag": "#9GYJG2P2",
@@ -817,7 +817,19 @@
     "name": "Monkey D. Lorik",
     "th": 18,
     "pos": 29,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2YY2LR0CG",
+      "dn": "darkmaster",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 95,
+      "o": 97,
+      "n": 0,
+      "dur": 116
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -860,7 +872,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T19:41:03Z"
+  "snap": "2026-10-29T19:51:03Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
