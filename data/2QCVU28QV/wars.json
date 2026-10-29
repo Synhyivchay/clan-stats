@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 86,
-   "pct": 96.57,
-   "attacks": 39
+   "stars": 89,
+   "pct": 99.9,
+   "attacks": 40
   },
   "them": {
    "tag": "#9GYJG2P2",
    "name": "Carabistouille",
    "badge": "https://api-assets.clashofclans.com/badges/200/rMxbfXX85H5tPTLfMqwrRBFrx4Ve6kr73c0Ob9QWjF8.png",
    "level": 32,
-   "stars": 80,
-   "pct": 96.8,
-   "attacks": 49
+   "stars": 81,
+   "pct": 96.93,
+   "attacks": 50
   },
   "members": [
    {
@@ -443,9 +443,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 96
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -770,7 +770,19 @@
     "name": "Shaun Ryan",
     "th": 18,
     "pos": 27,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9PLVV0L9",
+      "dn": "master",
+      "dpos": 27,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 89,
+      "n": 3,
+      "dur": 159
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -837,7 +849,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T18:31:03Z"
+  "snap": "2026-10-29T18:36:03Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",

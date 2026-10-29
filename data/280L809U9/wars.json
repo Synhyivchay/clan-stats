@@ -22,9 +22,9 @@
    "name": "سرزمین دهکده ها",
    "badge": "https://api-assets.clashofclans.com/badges/200/lPp-R_NBLFWlPhQLPD8Q3dl-AnYbDrQjVMiOWjKlT58.png",
    "level": 23,
-   "stars": 58,
-   "pct": 98.85,
-   "attacks": 28
+   "stars": 59,
+   "pct": 99.6,
+   "attacks": 29
   },
   "members": [
    {
@@ -81,9 +81,9 @@
     "pos": 3,
     "attacks": [],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 85
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -569,7 +569,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T18:31:03Z"
+  "snap": "2026-10-29T18:36:03Z"
  },
  {
   "id": "war_20261025T153902Z_2YQGCLV22",
