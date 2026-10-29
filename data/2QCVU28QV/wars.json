@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 67,
-   "pct": 77.37,
-   "attacks": 28
+   "stars": 70,
+   "pct": 80.7,
+   "attacks": 29
   },
   "them": {
    "tag": "#9GYJG2P2",
@@ -585,7 +585,19 @@
     "name": "Chloè❤",
     "th": 18,
     "pos": 24,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#20L29GPVJ",
+      "dn": "Ludo",
+      "dpos": 24,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 63,
+      "n": 3,
+      "dur": 107
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -711,7 +723,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T12:00:48Z"
+  "snap": "2026-10-29T12:05:48Z"
  },
  {
   "id": "war_20261025T215721Z_YC820RLP",
