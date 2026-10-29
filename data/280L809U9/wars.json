@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 48,
-   "pct": 81.5,
-   "attacks": 19
+   "stars": 49,
+   "pct": 82.35,
+   "attacks": 20
   },
   "them": {
    "tag": "#LPR8VPUJ",
@@ -351,6 +351,17 @@
       "o": 38,
       "n": 3,
       "dur": 120
+     },
+     {
+      "d": "#28282JY9R",
+      "dn": "King Matin",
+      "dpos": 11,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 44,
+      "n": 1,
+      "dur": 131
      }
     ],
     "def": {
@@ -489,7 +500,7 @@
     }
    }
   ],
-  "snap": "2026-10-29T12:45:48Z"
+  "snap": "2026-10-29T12:50:48Z"
  },
  {
   "id": "war_20261025T153902Z_2YQGCLV22",
