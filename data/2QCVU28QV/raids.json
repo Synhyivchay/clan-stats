@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 315067,
+  "loot": 323277,
   "raids": 4,
-  "attacks": 69,
+  "attacks": 71,
   "districts": 27,
   "offReward": 0,
   "defReward": 0,
@@ -82,6 +82,13 @@
     "loot": 21055
    },
    {
+    "tag": "#YU99PU9GQ",
+    "name": "Luka Tate",
+    "a": 3,
+    "lim": 5,
+    "loot": 15275
+   },
+   {
     "tag": "#2YRLLG9JC",
     "name": "Monkey D. Lorik",
     "a": 3,
@@ -101,13 +108,6 @@
     "a": 3,
     "lim": 6,
     "loot": 11222
-   },
-   {
-    "tag": "#YU99PU9GQ",
-    "name": "Luka Tate",
-    "a": 1,
-    "lim": 5,
-    "loot": 7065
    }
   ]
  },
