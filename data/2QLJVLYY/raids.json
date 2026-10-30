@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 136659,
+  "loot": 140637,
   "raids": 1,
-  "attacks": 33,
-  "districts": 12,
+  "attacks": 34,
+  "districts": 13,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -61,6 +61,13 @@
     "loot": 5070
    },
    {
+    "tag": "#LGLPJJ2VP",
+    "name": "егор",
+    "a": 1,
+    "lim": 6,
+    "loot": 3978
+   },
+   {
     "tag": "#QUULVGRYQ",
     "name": "MR.KING",
     "a": 1,
@@ -71,13 +78,6 @@
     "tag": "#LG2JCP99G",
     "name": "Потик_YT",
     "a": 1,
-    "lim": 5,
-    "loot": 0
-   },
-   {
-    "tag": "#LGLPJJ2VP",
-    "name": "егор",
-    "a": 0,
     "lim": 5,
     "loot": 0
    }
