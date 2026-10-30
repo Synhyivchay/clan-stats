@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 12,
-   "pct": 13.33,
-   "attacks": 4
+   "stars": 17,
+   "pct": 19.37,
+   "attacks": 6
   },
   "them": {
    "tag": "#UCGURP9L",
    "name": "اصدقاء العمر",
    "badge": "https://api-assets.clashofclans.com/badges/200/48qQ-zx6t16odaSeKocs5vYCxKbXvZi1qg3FnVHUYlo.png",
    "level": 29,
-   "stars": 6,
-   "pct": 6.67,
-   "attacks": 2
+   "stars": 9,
+   "pct": 10.0,
+   "attacks": 3
   },
   "members": [
    {
@@ -46,9 +46,9 @@
     "pos": 2,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -247,6 +247,17 @@
       "o": 2,
       "n": 3,
       "dur": 151
+     },
+     {
+      "d": "#YCUCPL2U0",
+      "dn": "Oliver Zain",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 7,
+      "n": 3,
+      "dur": 161
      }
     ],
     "def": {
@@ -426,6 +437,17 @@
       "o": 3,
       "n": 3,
       "dur": 135
+     },
+     {
+      "d": "#99JRCJPL8",
+      "dn": "علي المنتظر",
+      "dpos": 20,
+      "dth": 18,
+      "s": 2,
+      "p": 81,
+      "o": 8,
+      "n": 2,
+      "dur": 168
      }
     ],
     "def": {
@@ -435,7 +457,7 @@
     }
    }
   ],
-  "snap": "2026-10-30T21:08:50Z"
+  "snap": "2026-10-30T21:13:50Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
