@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 35009,
+  "loot": 39544,
   "raids": 1,
-  "attacks": 6,
+  "attacks": 7,
   "districts": 3,
   "offReward": 0,
   "defReward": 0,
@@ -17,6 +17,13 @@
     "a": 6,
     "lim": 6,
     "loot": 35009
+   },
+   {
+    "tag": "#8LCP8GR2L",
+    "name": "Leon",
+    "a": 1,
+    "lim": 5,
+    "loot": 4535
    }
   ]
  },
