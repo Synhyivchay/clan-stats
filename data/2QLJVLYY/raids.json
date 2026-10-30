@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 98037,
+  "loot": 101357,
   "raids": 1,
-  "attacks": 22,
+  "attacks": 23,
   "districts": 9,
   "offReward": 0,
   "defReward": 0,
@@ -35,9 +35,9 @@
    {
     "tag": "#YRVR292UG",
     "name": "Адик",
-    "a": 5,
+    "a": 6,
     "lim": 6,
-    "loot": 14057
+    "loot": 17377
    },
    {
     "tag": "#GJY0R0JCJ",
