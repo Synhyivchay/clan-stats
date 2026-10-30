@@ -4,19 +4,19 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 16991,
+  "loot": 27672,
   "raids": 1,
-  "attacks": 3,
-  "districts": 1,
+  "attacks": 5,
+  "districts": 2,
   "offReward": 0,
   "defReward": 0,
   "members": [
    {
     "tag": "#QUUCY9VYQ",
     "name": "Marc",
-    "a": 3,
+    "a": 5,
     "lim": 6,
-    "loot": 16991
+    "loot": 27672
    }
   ]
  },
