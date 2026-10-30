@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 56835,
+  "loot": 69737,
   "raids": 0,
-  "attacks": 13,
-  "districts": 4,
+  "attacks": 16,
+  "districts": 5,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -24,6 +24,13 @@
     "a": 6,
     "lim": 6,
     "loot": 20470
+   },
+   {
+    "tag": "#GRQC2829L",
+    "name": "ed_sans_123",
+    "a": 3,
+    "lim": 6,
+    "loot": 12902
    },
    {
     "tag": "#GQLRPL8Q0",
