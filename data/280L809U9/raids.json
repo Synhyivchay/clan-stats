@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 263152,
+  "loot": 272104,
   "raids": 2,
-  "attacks": 63,
-  "districts": 21,
+  "attacks": 65,
+  "districts": 23,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#LQRY8VC2Q",
+    "name": "[DM] PIKACHULOL",
+    "a": 6,
+    "lim": 6,
+    "loot": 32234
+   },
    {
     "tag": "#LRR9VR0CY",
     "name": "Begbus",
@@ -45,13 +52,6 @@
     "a": 6,
     "lim": 6,
     "loot": 25004
-   },
-   {
-    "tag": "#LQRY8VC2Q",
-    "name": "[DM] PIKACHULOL",
-    "a": 4,
-    "lim": 6,
-    "loot": 23282
    },
    {
     "tag": "#YC9G9Y0YQ",
