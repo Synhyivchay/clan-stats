@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 5070,
+  "loot": 10905,
   "raids": 0,
-  "attacks": 1,
+  "attacks": 2,
   "districts": 0,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#9J02VCC8J",
+    "name": "Денис",
+    "a": 1,
+    "lim": 5,
+    "loot": 5835
+   },
    {
     "tag": "#GJY0R0JCJ",
     "name": "denchik",
