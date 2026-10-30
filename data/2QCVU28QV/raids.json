@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 337889,
+  "loot": 341144,
   "raids": 4,
-  "attacks": 74,
+  "attacks": 75,
   "districts": 28,
   "offReward": 0,
   "defReward": 0,
@@ -91,9 +91,9 @@
    {
     "tag": "#2YRLLG9JC",
     "name": "Monkey D. Lorik",
-    "a": 3,
+    "a": 4,
     "lim": 6,
-    "loot": 11865
+    "loot": 15120
    },
    {
     "tag": "#9G0GVR8GQ",
