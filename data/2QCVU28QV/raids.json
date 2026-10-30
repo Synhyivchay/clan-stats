@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 127804,
+  "loot": 132824,
   "raids": 2,
-  "attacks": 29,
+  "attacks": 30,
   "districts": 11,
   "offReward": 0,
   "defReward": 0,
@@ -40,18 +40,18 @@
     "loot": 21055
    },
    {
+    "tag": "#RLGUULPP",
+    "name": "Ampletrex",
+    "a": 4,
+    "lim": 6,
+    "loot": 16740
+   },
+   {
     "tag": "#9G0GVR8GQ",
     "name": "アイドル",
     "a": 3,
     "lim": 6,
     "loot": 11744
-   },
-   {
-    "tag": "#RLGUULPP",
-    "name": "Ampletrex",
-    "a": 3,
-    "lim": 6,
-    "loot": 11720
    }
   ]
  },
