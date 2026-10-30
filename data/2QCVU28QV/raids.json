@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 326754,
+  "loot": 330484,
   "raids": 4,
-  "attacks": 72,
+  "attacks": 73,
   "districts": 28,
   "offReward": 0,
   "defReward": 0,
@@ -68,6 +68,13 @@
     "loot": 23532
    },
    {
+    "tag": "#YU99PU9GQ",
+    "name": "Luka Tate",
+    "a": 5,
+    "lim": 6,
+    "loot": 22482
+   },
+   {
     "tag": "#J9VRQ882",
     "name": "RudiV2",
     "a": 6,
@@ -80,13 +87,6 @@
     "a": 5,
     "lim": 6,
     "loot": 21055
-   },
-   {
-    "tag": "#YU99PU9GQ",
-    "name": "Luka Tate",
-    "a": 4,
-    "lim": 6,
-    "loot": 18752
    },
    {
     "tag": "#2YRLLG9JC",
