@@ -4,19 +4,26 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 10905,
+  "loot": 22324,
   "raids": 0,
-  "attacks": 2,
-  "districts": 0,
+  "attacks": 4,
+  "districts": 1,
   "offReward": 0,
   "defReward": 0,
   "members": [
    {
     "tag": "#9J02VCC8J",
     "name": "Денис",
+    "a": 2,
+    "lim": 6,
+    "loot": 10344
+   },
+   {
+    "tag": "#89RL09YL9",
+    "name": "Разрушитель",
     "a": 1,
     "lim": 5,
-    "loot": 5835
+    "loot": 6910
    },
    {
     "tag": "#GJY0R0JCJ",
