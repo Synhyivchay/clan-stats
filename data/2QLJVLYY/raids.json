@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 232520,
+  "loot": 250631,
   "raids": 3,
-  "attacks": 61,
-  "districts": 20,
+  "attacks": 65,
+  "districts": 22,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -17,6 +17,13 @@
     "a": 6,
     "lim": 6,
     "loot": 33043
+   },
+   {
+    "tag": "#8LVR2JGU",
+    "name": "ELITE",
+    "a": 6,
+    "lim": 6,
+    "loot": 25896
    },
    {
     "tag": "#QUULVGRYQ",
@@ -80,13 +87,6 @@
     "a": 3,
     "lim": 6,
     "loot": 10523
-   },
-   {
-    "tag": "#8LVR2JGU",
-    "name": "ELITE",
-    "a": 2,
-    "lim": 5,
-    "loot": 7785
    },
    {
     "tag": "#GJY0R0JCJ",

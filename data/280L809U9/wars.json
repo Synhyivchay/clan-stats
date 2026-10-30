@@ -2,7 +2,7 @@
  {
   "id": "war_20261029T214951Z_UQLYQCPR",
   "type": "war",
-  "state": "preparation",
+  "state": "inWar",
   "prep": "2026-10-29T21:49:51Z",
   "start": "2026-10-30T20:49:51Z",
   "end": "2026-10-31T20:49:51Z",
@@ -222,7 +222,7 @@
    {
     "tag": "#2P0JQ09CY",
     "name": "grootich",
-    "th": 15,
+    "th": 16,
     "pos": 17,
     "attacks": [],
     "def": {
@@ -268,7 +268,7 @@
     }
    }
   ],
-  "snap": "2026-10-30T20:48:50Z"
+  "snap": "2026-10-30T20:53:50Z"
  },
  {
   "id": "war_20261027T210150Z_LPR8VPUJ",
