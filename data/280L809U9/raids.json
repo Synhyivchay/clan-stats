@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 272104,
+  "loot": 296810,
   "raids": 2,
-  "attacks": 65,
-  "districts": 23,
+  "attacks": 70,
+  "districts": 26,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -52,6 +52,13 @@
     "a": 6,
     "lim": 6,
     "loot": 25004
+   },
+   {
+    "tag": "#9LLUUULPG",
+    "name": "F.A.N.T.O.M",
+    "a": 5,
+    "lim": 6,
+    "loot": 24706
    },
    {
     "tag": "#YC9G9Y0YQ",
