@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 210688,
+  "loot": 213418,
   "raids": 1,
-  "attacks": 52,
+  "attacks": 53,
   "districts": 17,
   "offReward": 0,
   "defReward": 0,
@@ -80,6 +80,13 @@
     "a": 1,
     "lim": 6,
     "loot": 7506
+   },
+   {
+    "tag": "#GRGRRJLR9",
+    "name": "prime",
+    "a": 1,
+    "lim": 5,
+    "loot": 2730
    }
   ]
  },
