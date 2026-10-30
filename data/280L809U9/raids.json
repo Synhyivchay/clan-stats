@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 250032,
+  "loot": 263152,
   "raids": 2,
-  "attacks": 61,
+  "attacks": 63,
   "districts": 21,
   "offReward": 0,
   "defReward": 0,
@@ -47,6 +47,13 @@
     "loot": 25004
    },
    {
+    "tag": "#LQRY8VC2Q",
+    "name": "[DM] PIKACHULOL",
+    "a": 4,
+    "lim": 6,
+    "loot": 23282
+   },
+   {
     "tag": "#YC9G9Y0YQ",
     "name": "чёрт",
     "a": 6,
@@ -80,13 +87,6 @@
     "a": 3,
     "lim": 6,
     "loot": 11856
-   },
-   {
-    "tag": "#LQRY8VC2Q",
-    "name": "[DM] PIKACHULOL",
-    "a": 2,
-    "lim": 6,
-    "loot": 10162
    },
    {
     "tag": "#GQLRPL8Q0",
