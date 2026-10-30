@@ -4,13 +4,28 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 0,
+  "loot": 24365,
   "raids": 0,
-  "attacks": 0,
-  "districts": 0,
+  "attacks": 6,
+  "districts": 2,
   "offReward": 0,
   "defReward": 0,
-  "members": []
+  "members": [
+   {
+    "tag": "#9LQ2YUVUY",
+    "name": "рома",
+    "a": 4,
+    "lim": 6,
+    "loot": 13065
+   },
+   {
+    "tag": "#LVVCQ82L0",
+    "name": "uchiha_obito",
+    "a": 2,
+    "lim": 5,
+    "loot": 11300
+   }
+  ]
  },
  {
   "id": "2026-10-23",
