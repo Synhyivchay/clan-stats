@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 5.0,
+   "attacks": 1
   },
   "them": {
    "tag": "#UQLYQCPR",
@@ -212,7 +212,19 @@
     "name": "sgrassi",
     "th": 16,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q0J29LYQY",
+      "dn": "التاريخCR7",
+      "dpos": 16,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 1,
+      "n": 3,
+      "dur": 156
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -268,7 +280,7 @@
     }
    }
   ],
-  "snap": "2026-10-30T20:58:50Z"
+  "snap": "2026-10-30T21:03:50Z"
  },
  {
   "id": "war_20261027T210150Z_LPR8VPUJ",
