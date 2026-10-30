@@ -6,7 +6,7 @@
   "end": "2026-11-02T07:00:00Z",
   "loot": 119200,
   "raids": 1,
-  "attacks": 27,
+  "attacks": 28,
   "districts": 11,
   "offReward": 0,
   "defReward": 0,
@@ -59,6 +59,13 @@
     "a": 1,
     "lim": 5,
     "loot": 5070
+   },
+   {
+    "tag": "#LG2JCP99G",
+    "name": "Потик_YT",
+    "a": 1,
+    "lim": 5,
+    "loot": 0
    }
   ]
  },
