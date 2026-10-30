@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 200108,
+  "loot": 201078,
   "raids": 2,
-  "attacks": 52,
+  "attacks": 53,
   "districts": 18,
   "offReward": 0,
   "defReward": 0,
@@ -80,6 +80,13 @@
     "a": 1,
     "lim": 5,
     "loot": 5070
+   },
+   {
+    "tag": "#GRLLYQQLV",
+    "name": "WOLF",
+    "a": 1,
+    "lim": 5,
+    "loot": 970
    },
    {
     "tag": "#LG2JCP99G",
