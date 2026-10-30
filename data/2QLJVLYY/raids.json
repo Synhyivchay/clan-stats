@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 204893,
+  "loot": 215356,
   "raids": 2,
-  "attacks": 54,
-  "districts": 18,
+  "attacks": 57,
+  "districts": 19,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -68,6 +68,13 @@
     "loot": 17377
    },
    {
+    "tag": "#YRYYYGY90",
+    "name": "naik",
+    "a": 4,
+    "lim": 6,
+    "loot": 14278
+   },
+   {
     "tag": "#Q2UQLVQQJ",
     "name": "женя",
     "a": 3,
@@ -80,13 +87,6 @@
     "a": 1,
     "lim": 5,
     "loot": 5070
-   },
-   {
-    "tag": "#YRYYYGY90",
-    "name": "naik",
-    "a": 1,
-    "lim": 5,
-    "loot": 3815
    },
    {
     "tag": "#GRLLYQQLV",
