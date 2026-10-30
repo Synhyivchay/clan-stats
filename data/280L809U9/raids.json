@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 115746,
+  "loot": 120841,
   "raids": 1,
-  "attacks": 28,
+  "attacks": 30,
   "districts": 9,
   "offReward": 0,
   "defReward": 0,
@@ -52,6 +52,13 @@
     "a": 1,
     "lim": 6,
     "loot": 7506
+   },
+   {
+    "tag": "#2P0JQ09CY",
+    "name": "grootich",
+    "a": 2,
+    "lim": 5,
+    "loot": 5095
    }
   ]
  },
