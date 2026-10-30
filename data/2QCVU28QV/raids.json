@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 258881,
+  "loot": 260774,
   "raids": 3,
-  "attacks": 56,
-  "districts": 22,
+  "attacks": 57,
+  "districts": 23,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -80,6 +80,13 @@
     "a": 3,
     "lim": 6,
     "loot": 11744
+   },
+   {
+    "tag": "#QYYUPGYR",
+    "name": "Niklord",
+    "a": 1,
+    "lim": 6,
+    "loot": 1893
    }
   ]
  },
