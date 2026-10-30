@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 260774,
+  "loot": 283019,
   "raids": 3,
-  "attacks": 57,
-  "districts": 23,
+  "attacks": 61,
+  "districts": 24,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -75,6 +75,13 @@
     "loot": 21055
    },
    {
+    "tag": "#QYYUPGYR",
+    "name": "Niklord",
+    "a": 4,
+    "lim": 6,
+    "loot": 20318
+   },
+   {
     "tag": "#9G0GVR8GQ",
     "name": "アイドル",
     "a": 3,
@@ -82,11 +89,11 @@
     "loot": 11744
    },
    {
-    "tag": "#QYYUPGYR",
-    "name": "Niklord",
+    "tag": "#2YRLLG9JC",
+    "name": "Monkey D. Lorik",
     "a": 1,
-    "lim": 6,
-    "loot": 1893
+    "lim": 5,
+    "loot": 3820
    }
   ]
  },
