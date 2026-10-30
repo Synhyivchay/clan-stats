@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 17,
-   "pct": 19.37,
-   "attacks": 6
+   "stars": 20,
+   "pct": 22.7,
+   "attacks": 7
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -414,7 +414,19 @@
     "name": "Monkey D. Lorik",
     "th": 18,
     "pos": 29,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2Y00YVJLL",
+      "dn": "مـؖلهمᴾᵁFALA7 .",
+      "dpos": 30,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 18,
+      "n": 3,
+      "dur": 117
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -457,7 +469,7 @@
     }
    }
   ],
-  "snap": "2026-10-30T22:34:01Z"
+  "snap": "2026-10-30T22:39:01Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
