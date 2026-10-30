@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 12,
+   "pct": 13.33,
+   "attacks": 4
   },
   "them": {
    "tag": "#UCGURP9L",
    "name": "اصدقاء العمر",
    "badge": "https://api-assets.clashofclans.com/badges/200/48qQ-zx6t16odaSeKocs5vYCxKbXvZi1qg3FnVHUYlo.png",
    "level": 29,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 6,
+   "pct": 6.67,
+   "attacks": 2
   },
   "members": [
    {
@@ -34,9 +34,9 @@
     "pos": 1,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -226,9 +226,9 @@
     "pos": 17,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -236,7 +236,19 @@
     "name": "Luka Tate",
     "th": 18,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2LVLGG8VR",
+      "dn": "Roni",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 2,
+      "n": 3,
+      "dur": 151
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -308,7 +320,30 @@
     "name": "Ampletrex",
     "th": 18,
     "pos": 24,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P0CLV8R2V",
+      "dn": "محمد",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 3,
+      "dur": 124
+     },
+     {
+      "d": "#8QGLYUPLY",
+      "dn": "كنان",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 97
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -380,7 +415,19 @@
     "name": "GermanRuss",
     "th": 18,
     "pos": 30,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LU9UL228C",
+      "dn": "حمادي بوريشة❤️",
+      "dpos": 29,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 3,
+      "n": 3,
+      "dur": 135
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -388,7 +435,7 @@
     }
    }
   ],
-  "snap": "2026-10-30T21:03:50Z"
+  "snap": "2026-10-30T21:08:50Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
