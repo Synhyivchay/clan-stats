@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 92552,
+  "loot": 101992,
   "raids": 1,
-  "attacks": 20,
+  "attacks": 23,
   "districts": 8,
   "offReward": 0,
   "defReward": 0,
@@ -38,6 +38,13 @@
     "a": 3,
     "lim": 6,
     "loot": 11744
+   },
+   {
+    "tag": "#9090P29L9",
+    "name": "Louis™️187",
+    "a": 3,
+    "lim": 5,
+    "loot": 9440
    }
   ]
  },
