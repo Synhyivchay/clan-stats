@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 202958,
+  "loot": 210688,
   "raids": 1,
-  "attacks": 49,
+  "attacks": 52,
   "districts": 17,
   "offReward": 0,
   "defReward": 0,
@@ -54,18 +54,18 @@
     "loot": 20470
    },
    {
+    "tag": "#LCRPUCU2V",
+    "name": "Хранитель",
+    "a": 6,
+    "lim": 6,
+    "loot": 20346
+   },
+   {
     "tag": "#2P0JQ09CY",
     "name": "grootich",
     "a": 6,
     "lim": 6,
     "loot": 19020
-   },
-   {
-    "tag": "#LCRPUCU2V",
-    "name": "Хранитель",
-    "a": 3,
-    "lim": 6,
-    "loot": 12616
    },
    {
     "tag": "#GC0V2V2Y0",
