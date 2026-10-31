@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 350357,
+  "loot": 358762,
   "raids": 3,
-  "attacks": 83,
+  "attacks": 85,
   "districts": 30,
   "offReward": 0,
   "defReward": 0,
@@ -96,18 +96,18 @@
     "loot": 20346
    },
    {
+    "tag": "#GC0V2V2Y0",
+    "name": "sgrassi",
+    "a": 5,
+    "lim": 6,
+    "loot": 20261
+   },
+   {
     "tag": "#2P0JQ09CY",
     "name": "grootich",
     "a": 6,
     "lim": 6,
     "loot": 19020
-   },
-   {
-    "tag": "#GC0V2V2Y0",
-    "name": "sgrassi",
-    "a": 3,
-    "lim": 6,
-    "loot": 11856
    },
    {
     "tag": "#GQLRPL8Q0",
