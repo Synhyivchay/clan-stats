@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 65,
-   "pct": 92.36,
-   "attacks": 32
+   "stars": 66,
+   "pct": 92.88,
+   "attacks": 33
   },
   "them": {
    "tag": "#YJV208YY",
@@ -325,7 +325,19 @@
     "name": "Relax",
     "th": 18,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#22JVQYL02",
+      "dn": "UK",
+      "dpos": 22,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 76,
+      "n": 1,
+      "dur": 108
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -696,7 +708,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T19:59:45Z"
+  "snap": "2026-10-31T20:04:45Z"
  },
  {
   "id": "war_20261027T203413Z_292V2RVUY",
