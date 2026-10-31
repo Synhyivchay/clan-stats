@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 48,
-   "pct": 79.05,
-   "attacks": 18
+   "stars": 54,
+   "pct": 89.05,
+   "attacks": 20
   },
   "them": {
    "tag": "#UQLYQCPR",
@@ -23,8 +23,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/pn0HWGPaZTkMoFh9fGAyJoBJ1heJzVLRR2uEDZhbNnM.png",
    "level": 21,
    "stars": 53,
-   "pct": 91.85,
-   "attacks": 23
+   "pct": 92.85,
+   "attacks": 24
   },
   "members": [
    {
@@ -103,7 +103,30 @@
     "name": "ㅤㅤㅤㅤ",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9RJLL8RLU",
+      "dn": "⚔️THE PUNISHER⚔",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 42,
+      "n": 3,
+      "dur": 96
+     },
+     {
+      "d": "#Q90GY8V29",
+      "dn": "Alsmo",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 44,
+      "n": 3,
+      "dur": 85
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -377,9 +400,9 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 2,
-     "p": 75
+     "p": 95
     }
    },
    {
@@ -477,7 +500,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T16:54:34Z"
+  "snap": "2026-10-31T16:59:34Z"
  },
  {
   "id": "war_20261027T210150Z_LPR8VPUJ",
