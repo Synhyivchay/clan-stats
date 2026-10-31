@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 23,
-   "pct": 26.03,
-   "attacks": 8
+   "stars": 26,
+   "pct": 29.37,
+   "attacks": 9
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -32,7 +32,19 @@
     "name": "Amelie❤",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LUYVJ0CQC",
+      "dn": "سيمو الملكي",
+      "dpos": 19,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 26,
+      "n": 3,
+      "dur": 140
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -480,7 +492,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T03:34:12Z"
+  "snap": "2026-10-31T03:44:12Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
