@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 46
+   "attacks": 48
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -675,7 +675,30 @@
     "name": "hazhir ro",
     "th": 18,
     "pos": 22,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2LVLGG8VR",
+      "dn": "Roni",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 36,
+      "o": 94,
+      "n": 0,
+      "dur": 58
+     },
+     {
+      "d": "#YCUCPL2U0",
+      "dn": "Oliver Zain",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 40,
+      "o": 95,
+      "n": 0,
+      "dur": 71
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -917,7 +940,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T18:44:34Z"
+  "snap": "2026-10-31T18:54:34Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
