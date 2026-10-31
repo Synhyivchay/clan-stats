@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 8,
-   "pct": 14.6,
-   "attacks": 3
+   "stars": 11,
+   "pct": 19.6,
+   "attacks": 4
   },
   "them": {
    "tag": "#UQLYQCPR",
@@ -295,7 +295,19 @@
     "name": "RECORD",
     "th": 16,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LR0VYQQVR",
+      "dn": "❤EZlDl❤Sidand❤",
+      "dpos": 20,
+      "dth": 13,
+      "s": 3,
+      "p": 100,
+      "o": 8,
+      "n": 3,
+      "dur": 102
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -303,7 +315,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T05:54:12Z"
+  "snap": "2026-10-31T05:59:12Z"
  },
  {
   "id": "war_20261027T210150Z_LPR8VPUJ",
