@@ -2,7 +2,7 @@
  {
   "id": "war_20261029T214951Z_UQLYQCPR",
   "type": "war",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-10-29T21:49:51Z",
   "start": "2026-10-30T20:49:51Z",
   "end": "2026-10-31T20:49:51Z",
@@ -614,6 +614,7 @@
     }
    }
   ],
+  "result": "tie",
   "snap": "2026-10-31T20:49:45Z"
  },
  {
