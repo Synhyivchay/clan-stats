@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 317528,
+  "loot": 322238,
   "raids": 3,
-  "attacks": 76,
-  "districts": 27,
+  "attacks": 77,
+  "districts": 28,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -61,6 +61,13 @@
     "loot": 25004
    },
    {
+    "tag": "#VV02PYVV",
+    "name": "Patrik",
+    "a": 6,
+    "lim": 6,
+    "loot": 22248
+   },
+   {
     "tag": "#YC9G9Y0YQ",
     "name": "чёрт",
     "a": 6,
@@ -87,13 +94,6 @@
     "a": 6,
     "lim": 6,
     "loot": 19020
-   },
-   {
-    "tag": "#VV02PYVV",
-    "name": "Patrik",
-    "a": 5,
-    "lim": 6,
-    "loot": 17538
    },
    {
     "tag": "#GC0V2V2Y0",
