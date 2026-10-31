@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 41,
-   "pct": 50.4,
-   "attacks": 16
+   "stars": 44,
+   "pct": 53.73,
+   "attacks": 17
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -79,7 +79,19 @@
     "name": "slory",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P98PYCC9P",
+      "dn": "Ahmed",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 37,
+      "n": 3,
+      "dur": 152
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -573,7 +585,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T06:44:12Z"
+  "snap": "2026-10-31T06:49:12Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
