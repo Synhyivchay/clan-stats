@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 577934,
+  "loot": 585581,
   "raids": 6,
-  "attacks": 145,
-  "districts": 51,
+  "attacks": 147,
+  "districts": 52,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -166,6 +166,13 @@
     "loot": 15479
    },
    {
+    "tag": "#LV9VQJ8GP",
+    "name": "Фалирит",
+    "a": 3,
+    "lim": 6,
+    "loot": 13352
+   },
+   {
     "tag": "#LG2JCP99G",
     "name": "Потик_YT",
     "a": 6,
@@ -185,13 +192,6 @@
     "a": 5,
     "lim": 6,
     "loot": 9845
-   },
-   {
-    "tag": "#LV9VQJ8GP",
-    "name": "Фалирит",
-    "a": 1,
-    "lim": 5,
-    "loot": 5705
    },
    {
     "tag": "#GJY0R0JCJ",
