@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
    "stars": 70,
-   "pct": 97.72,
-   "attacks": 37
+   "pct": 97.76,
+   "attacks": 38
   },
   "them": {
    "tag": "#YJV208YY",
@@ -348,6 +348,17 @@
       "o": 79,
       "n": 1,
       "dur": 147
+     },
+     {
+      "d": "#22RCJ0LGG",
+      "dn": "RAYAN",
+      "dpos": 1,
+      "dth": 18,
+      "s": 2,
+      "p": 99,
+      "o": 81,
+      "n": 0,
+      "dur": 180
      }
     ],
     "def": {
@@ -755,7 +766,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T20:19:45Z"
+  "snap": "2026-10-31T20:24:45Z"
  },
  {
   "id": "war_20261027T203413Z_292V2RVUY",
