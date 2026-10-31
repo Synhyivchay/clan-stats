@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 299990,
+  "loot": 308820,
   "raids": 2,
-  "attacks": 71,
+  "attacks": 73,
   "districts": 26,
   "offReward": 0,
   "defReward": 0,
@@ -94,6 +94,13 @@
     "a": 3,
     "lim": 6,
     "loot": 11856
+   },
+   {
+    "tag": "#VV02PYVV",
+    "name": "Patrik",
+    "a": 2,
+    "lim": 5,
+    "loot": 8830
    },
    {
     "tag": "#GQLRPL8Q0",
