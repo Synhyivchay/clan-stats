@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 376313,
+  "loot": 389258,
   "raids": 3,
-  "attacks": 90,
-  "districts": 32,
+  "attacks": 93,
+  "districts": 33,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -110,6 +110,13 @@
     "loot": 19020
    },
    {
+    "tag": "#GJ8PJY2PJ",
+    "name": "RECORD",
+    "a": 4,
+    "lim": 6,
+    "loot": 16940
+   },
+   {
     "tag": "#GRGRRJLR9",
     "name": "prime",
     "a": 2,
@@ -129,13 +136,6 @@
     "a": 2,
     "lim": 5,
     "loot": 4325
-   },
-   {
-    "tag": "#GJ8PJY2PJ",
-    "name": "RECORD",
-    "a": 1,
-    "lim": 5,
-    "loot": 3995
    }
   ]
  },
