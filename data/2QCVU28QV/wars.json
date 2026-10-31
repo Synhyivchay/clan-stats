@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 50
+   "attacks": 51
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -312,7 +312,19 @@
     "name": "Rudi",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2LVLGG8VR",
+      "dn": "Roni",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 99,
+      "n": 0,
+      "dur": 121
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -963,7 +975,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T20:29:45Z"
+  "snap": "2026-10-31T20:34:45Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
