@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 34,
-   "pct": 41.03,
-   "attacks": 13
+   "stars": 37,
+   "pct": 44.37,
+   "attacks": 14
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -103,7 +103,19 @@
     "name": "Marc",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9R22Q0G8U",
+      "dn": "المهلهل",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 31,
+      "n": 3,
+      "dur": 141
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -538,7 +550,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T05:49:12Z"
+  "snap": "2026-10-31T05:54:12Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
