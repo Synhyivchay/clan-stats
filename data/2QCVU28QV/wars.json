@@ -22,9 +22,9 @@
    "name": "اصدقاء العمر",
    "badge": "https://api-assets.clashofclans.com/badges/200/48qQ-zx6t16odaSeKocs5vYCxKbXvZi1qg3FnVHUYlo.png",
    "level": 29,
-   "stars": 41,
-   "pct": 45.73,
-   "attacks": 18
+   "stars": 44,
+   "pct": 49.07,
+   "attacks": 19
   },
   "members": [
    {
@@ -236,9 +236,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -561,7 +561,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T06:04:12Z"
+  "snap": "2026-10-31T06:09:12Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",

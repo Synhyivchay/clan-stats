@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 423132,
+  "loot": 428531,
   "raids": 5,
-  "attacks": 106,
-  "districts": 37,
+  "attacks": 108,
+  "districts": 38,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -89,6 +89,13 @@
     "loot": 22687
    },
    {
+    "tag": "#8GGC8UY08",
+    "name": "Super Men",
+    "a": 6,
+    "lim": 6,
+    "loot": 22344
+   },
+   {
     "tag": "#2LCGCPR80",
     "name": "NumTorum",
     "a": 6,
@@ -115,13 +122,6 @@
     "a": 6,
     "lim": 6,
     "loot": 17377
-   },
-   {
-    "tag": "#8GGC8UY08",
-    "name": "Super Men",
-    "a": 4,
-    "lim": 6,
-    "loot": 16945
    },
    {
     "tag": "#LG2JCP99G",
