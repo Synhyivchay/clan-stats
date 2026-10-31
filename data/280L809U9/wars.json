@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 40,
-   "pct": 68.3,
-   "attacks": 14
+   "stars": 43,
+   "pct": 73.3,
+   "attacks": 15
   },
   "them": {
    "tag": "#UQLYQCPR",
@@ -423,6 +423,17 @@
       "o": 8,
       "n": 3,
       "dur": 102
+     },
+     {
+      "d": "#8VQQG8UR8",
+      "dn": "محارب الشهواني",
+      "dpos": 18,
+      "dth": 14,
+      "s": 3,
+      "p": 100,
+      "o": 25,
+      "n": 3,
+      "dur": 78
      }
     ],
     "def": {
@@ -432,7 +443,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T11:24:24Z"
+  "snap": "2026-10-31T11:34:24Z"
  },
  {
   "id": "war_20261027T210150Z_LPR8VPUJ",
