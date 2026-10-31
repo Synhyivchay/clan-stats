@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 69,
-   "pct": 97.4,
-   "attacks": 35
+   "stars": 70,
+   "pct": 97.72,
+   "attacks": 37
   },
   "them": {
    "tag": "#YJV208YY",
@@ -137,7 +137,19 @@
     "name": "000Roma000",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#22RCJ0LGG",
+      "dn": "RAYAN",
+      "dpos": 1,
+      "dth": 18,
+      "s": 2,
+      "p": 61,
+      "o": 80,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -325,7 +337,19 @@
     "name": "Mi4man",
     "th": 18,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QJVC8QPR",
+      "dn": "3mmar",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 79,
+      "n": 1,
+      "dur": 147
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -731,7 +755,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T20:14:45Z"
+  "snap": "2026-10-31T20:19:45Z"
  },
  {
   "id": "war_20261027T203413Z_292V2RVUY",
