@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 55,
-   "pct": 64.37,
-   "attacks": 23
+   "stars": 58,
+   "pct": 67.7,
+   "attacks": 24
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -78,6 +78,17 @@
       "o": 47,
       "n": 2,
       "dur": 115
+     },
+     {
+      "d": "#9RC0QRYYR",
+      "dn": "✌✌المحارب✌✌",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 49,
+      "n": 3,
+      "dur": 105
      }
     ],
     "def": {
@@ -654,7 +665,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T09:54:24Z"
+  "snap": "2026-10-31T09:59:24Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
