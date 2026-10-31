@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 334158,
+  "loot": 344253,
   "raids": 4,
-  "attacks": 86,
-  "districts": 29,
+  "attacks": 88,
+  "districts": 30,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -24,6 +24,13 @@
     "a": 6,
     "lim": 6,
     "loot": 30110
+   },
+   {
+    "tag": "#9GV90LCR8",
+    "name": "■◇LEGENDARNIY◇■",
+    "a": 6,
+    "lim": 6,
+    "loot": 29825
    },
    {
     "tag": "#8LVR2JGU",
@@ -80,13 +87,6 @@
     "a": 6,
     "lim": 6,
     "loot": 20505
-   },
-   {
-    "tag": "#9GV90LCR8",
-    "name": "■◇LEGENDARNIY◇■",
-    "a": 4,
-    "lim": 6,
-    "loot": 19730
    },
    {
     "tag": "#LGLPJJ2VP",
