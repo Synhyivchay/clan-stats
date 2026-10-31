@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 61,
-   "pct": 71.03,
-   "attacks": 25
+   "stars": 62,
+   "pct": 71.3,
+   "attacks": 26
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -195,6 +195,17 @@
       "o": 44,
       "n": 0,
       "dur": 180
+     },
+     {
+      "d": "#9QC9YLQY2",
+      "dn": "احمد العدنيM,A",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 59,
+      "n": 1,
+      "dur": 132
      }
     ],
     "def": {
@@ -677,7 +688,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T13:34:24Z"
+  "snap": "2026-10-31T13:39:24Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
