@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 85,
-   "pct": 96.0,
-   "attacks": 35
+   "stars": 88,
+   "pct": 99.33,
+   "attacks": 36
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -701,7 +701,19 @@
     "name": "Shaun Ryan",
     "th": 18,
     "pos": 27,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YYLL9UQUQ",
+      "dn": "✌✌المحاربdz✌✌",
+      "dpos": 27,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 76,
+      "n": 3,
+      "dur": 161
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -791,7 +803,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T15:54:34Z"
+  "snap": "2026-10-31T15:59:34Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
