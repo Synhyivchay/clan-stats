@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 470882,
+  "loot": 476652,
   "raids": 5,
-  "attacks": 117,
+  "attacks": 119,
   "districts": 42,
   "offReward": 0,
   "defReward": 0,
@@ -96,6 +96,13 @@
     "loot": 22491
    },
    {
+    "tag": "#GP2RPRRYY",
+    "name": "Mr.King",
+    "a": 5,
+    "lim": 6,
+    "loot": 22432
+   },
+   {
     "tag": "#8GGC8UY08",
     "name": "Super Men",
     "a": 6,
@@ -129,13 +136,6 @@
     "a": 6,
     "lim": 6,
     "loot": 17377
-   },
-   {
-    "tag": "#GP2RPRRYY",
-    "name": "Mr.King",
-    "a": 3,
-    "lim": 6,
-    "loot": 16662
    },
    {
     "tag": "#LG2JCP99G",
