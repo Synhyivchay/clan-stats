@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 49,
-   "pct": 71.84,
-   "attacks": 26
+   "stars": 55,
+   "pct": 79.84,
+   "attacks": 28
   },
   "them": {
    "tag": "#YJV208YY",
    "name": "الخليج",
    "badge": "https://api-assets.clashofclans.com/badges/200/6KfwEuEDPsn_mWe6XqoytWxrRI-4d_RBbJ2lXRNMINk.png",
    "level": 22,
-   "stars": 65,
-   "pct": 87.0,
-   "attacks": 29
+   "stars": 68,
+   "pct": 91.0,
+   "attacks": 30
   },
   "members": [
    {
@@ -151,9 +151,9 @@
     "pos": 5,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -478,7 +478,30 @@
     "name": "алексей3",
     "th": 16,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8LRJPYGLJ",
+      "dn": "AC milan",
+      "dpos": 19,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 56,
+      "n": 3,
+      "dur": 112
+     },
+     {
+      "d": "#GR2RRGYPU",
+      "dn": "eren yeager",
+      "dpos": 18,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 57,
+      "n": 3,
+      "dur": 121
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -627,7 +650,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T16:24:34Z"
+  "snap": "2026-10-31T16:29:34Z"
  },
  {
   "id": "war_20261027T203413Z_292V2RVUY",
