@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 59,
-   "pct": 98.9,
-   "attacks": 26
+   "stars": 60,
+   "pct": 100.0,
+   "attacks": 28
   },
   "them": {
    "tag": "#UQLYQCPR",
@@ -78,6 +78,17 @@
       "o": 57,
       "n": 1,
       "dur": 148
+     },
+     {
+      "d": "#9PYQUC2J8",
+      "dn": "Rael/Madrid",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 10,
+      "o": 59,
+      "n": 0,
+      "dur": 14
      }
     ],
     "def": {
@@ -184,6 +195,17 @@
       "o": 56,
       "n": 1,
       "dur": 160
+     },
+     {
+      "d": "#9VUYV8LLG",
+      "dn": "❤️EZIDI❤️KHUDED",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 58,
+      "n": 1,
+      "dur": 161
      }
     ],
     "def": {
@@ -569,7 +591,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T19:49:34Z"
+  "snap": "2026-10-31T19:54:45Z"
  },
  {
   "id": "war_20261027T210150Z_LPR8VPUJ",
