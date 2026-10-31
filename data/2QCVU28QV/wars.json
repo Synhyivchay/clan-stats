@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 50,
-   "pct": 60.67,
-   "attacks": 20
+   "stars": 53,
+   "pct": 64.0,
+   "attacks": 21
   },
   "them": {
    "tag": "#UCGURP9L",
    "name": "اصدقاء العمر",
    "badge": "https://api-assets.clashofclans.com/badges/200/48qQ-zx6t16odaSeKocs5vYCxKbXvZi1qg3FnVHUYlo.png",
    "level": 29,
-   "stars": 45,
-   "pct": 51.47,
-   "attacks": 20
+   "stars": 46,
+   "pct": 54.43,
+   "attacks": 21
   },
   "members": [
    {
@@ -235,9 +235,9 @@
     "pos": 12,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 89
     }
    },
    {
@@ -292,6 +292,17 @@
       "o": 40,
       "n": 0,
       "dur": 180
+     },
+     {
+      "d": "#29CRPGRPQ",
+      "dn": "بروك ليسنر",
+      "dpos": 12,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 41,
+      "n": 3,
+      "dur": 177
      }
     ],
     "def": {
@@ -619,7 +630,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T08:09:12Z"
+  "snap": "2026-10-31T08:14:12Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
