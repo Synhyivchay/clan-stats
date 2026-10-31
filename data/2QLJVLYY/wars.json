@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 9,
-   "pct": 12.0,
-   "attacks": 3
+   "stars": 12,
+   "pct": 16.0,
+   "attacks": 4
   },
   "them": {
    "tag": "#YJV208YY",
@@ -104,7 +104,19 @@
     "name": "NumTorum",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#UURVUPCR",
+      "dn": "adel ali",
+      "dpos": 6,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 86
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -364,7 +376,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T00:29:01Z"
+  "snap": "2026-10-31T00:34:01Z"
  },
  {
   "id": "war_20261027T203413Z_292V2RVUY",
