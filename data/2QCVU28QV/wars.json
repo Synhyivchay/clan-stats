@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 43
+   "attacks": 45
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -324,7 +324,30 @@
     "name": "Niklord",
     "th": 18,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2LVLGG8VR",
+      "dn": "Roni",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 89,
+      "n": 0,
+      "dur": 148
+     },
+     {
+      "d": "#YCUCPL2U0",
+      "dn": "Oliver Zain",
+      "dpos": 2,
+      "dth": 18,
+      "s": 2,
+      "p": 97,
+      "o": 90,
+      "n": 0,
+      "dur": 125
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -883,7 +906,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T18:04:34Z"
+  "snap": "2026-10-31T18:14:34Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
