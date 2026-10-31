@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 515365,
+  "loot": 545367,
   "raids": 6,
-  "attacks": 132,
-  "districts": 45,
+  "attacks": 138,
+  "districts": 47,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -24,6 +24,13 @@
     "a": 6,
     "lim": 6,
     "loot": 30110
+   },
+   {
+    "tag": "#LLUP8P8L0",
+    "name": "sleace",
+    "a": 6,
+    "lim": 6,
+    "loot": 30002
    },
    {
     "tag": "#9GV90LCR8",

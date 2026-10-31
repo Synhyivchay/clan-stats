@@ -15,7 +15,7 @@
    "level": 25,
    "stars": 60,
    "pct": 100.0,
-   "attacks": 28
+   "attacks": 30
   },
   "them": {
    "tag": "#UQLYQCPR",
@@ -102,7 +102,30 @@
     "name": "ReTrO",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9PYQUC2J8",
+      "dn": "Rael/Madrid",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 12,
+      "o": 60,
+      "n": 0,
+      "dur": 18
+     },
+     {
+      "d": "#PR202PYUU",
+      "dn": "لحن الموت",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 11,
+      "o": 61,
+      "n": 0,
+      "dur": 28
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -591,7 +614,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T19:54:45Z"
+  "snap": "2026-10-31T19:59:45Z"
  },
  {
   "id": "war_20261027T210150Z_LPR8VPUJ",
