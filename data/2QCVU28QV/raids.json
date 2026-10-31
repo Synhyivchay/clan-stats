@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 401809,
+  "loot": 405479,
   "raids": 4,
-  "attacks": 92,
+  "attacks": 93,
   "districts": 35,
   "offReward": 0,
   "defReward": 0,
@@ -122,6 +122,13 @@
     "a": 3,
     "lim": 6,
     "loot": 11222
+   },
+   {
+    "tag": "#LRV88C0RQ",
+    "name": "Bigmac's sohn",
+    "a": 1,
+    "lim": 5,
+    "loot": 3670
    }
   ]
  },
