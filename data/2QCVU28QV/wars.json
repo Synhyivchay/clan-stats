@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 54
+   "attacks": 56
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -24,7 +24,7 @@
    "level": 29,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 50
+   "attacks": 51
   },
   "members": [
    {
@@ -92,7 +92,7 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 3,
      "p": 100
     }
@@ -884,7 +884,30 @@
     "name": "RudiV3",
     "th": 18,
     "pos": 26,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2LVLGG8VR",
+      "dn": "Roni",
+      "dpos": 1,
+      "dth": 18,
+      "s": 2,
+      "p": 59,
+      "o": 106,
+      "n": 0,
+      "dur": 88
+     },
+     {
+      "d": "#YCUCPL2U0",
+      "dn": "Oliver Zain",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 64,
+      "o": 107,
+      "n": 0,
+      "dur": 50
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -1009,7 +1032,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T20:39:45Z"
+  "snap": "2026-10-31T20:44:45Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
