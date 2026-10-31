@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 57,
-   "pct": 95.8,
-   "attacks": 22
+   "pct": 96.85,
+   "attacks": 24
   },
   "them": {
    "tag": "#UQLYQCPR",
@@ -91,7 +91,30 @@
     "name": "GURU RANDHAWA",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9VUYV8LLG",
+      "dn": "❤️EZIDI❤️KHUDED",
+      "dpos": 5,
+      "dth": 18,
+      "s": 2,
+      "p": 78,
+      "o": 54,
+      "n": 0,
+      "dur": 180
+     },
+     {
+      "d": "#98LJ9RC0Q",
+      "dn": "خلف العراقي",
+      "dpos": 6,
+      "dth": 18,
+      "s": 1,
+      "p": 55,
+      "o": 55,
+      "n": 0,
+      "dur": 53
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -522,7 +545,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T19:29:34Z"
+  "snap": "2026-10-31T19:34:34Z"
  },
  {
   "id": "war_20261027T210150Z_LPR8VPUJ",
