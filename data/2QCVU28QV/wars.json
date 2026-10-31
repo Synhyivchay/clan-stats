@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 53,
-   "pct": 64.0,
-   "attacks": 22
+   "stars": 55,
+   "pct": 64.37,
+   "attacks": 23
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -67,7 +67,19 @@
     "name": "Bigmac's sohn",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LYU09G8LG",
+      "dn": "الوحش المدمر",
+      "dpos": 10,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 47,
+      "n": 2,
+      "dur": 115
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -642,7 +654,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T09:44:24Z"
+  "snap": "2026-10-31T09:49:24Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
