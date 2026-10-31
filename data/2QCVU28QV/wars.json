@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 74,
-   "pct": 84.63,
-   "attacks": 30
+   "stars": 77,
+   "pct": 87.97,
+   "attacks": 31
   },
   "them": {
    "tag": "#UCGURP9L",
    "name": "اصدقاء العمر",
    "badge": "https://api-assets.clashofclans.com/badges/200/48qQ-zx6t16odaSeKocs5vYCxKbXvZi1qg3FnVHUYlo.png",
    "level": 29,
-   "stars": 77,
-   "pct": 87.97,
-   "attacks": 35
+   "stars": 80,
+   "pct": 91.3,
+   "attacks": 36
   },
   "members": [
    {
@@ -148,6 +148,17 @@
       "o": 64,
       "n": 3,
       "dur": 137
+     },
+     {
+      "d": "#GY2LQPR82",
+      "dn": "lane",
+      "dpos": 21,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 66,
+      "n": 3,
+      "dur": 144
      }
     ],
     "def": {
@@ -634,9 +645,9 @@
     "pos": 26,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -734,7 +745,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T14:24:34Z"
+  "snap": "2026-10-31T14:29:34Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
