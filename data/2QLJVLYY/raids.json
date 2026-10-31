@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 550052,
+  "loot": 556476,
   "raids": 6,
-  "attacks": 139,
-  "districts": 47,
+  "attacks": 140,
+  "districts": 48,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -173,6 +173,13 @@
     "loot": 11456
    },
    {
+    "tag": "#YPR9QR0G8",
+    "name": "hunter",
+    "a": 2,
+    "lim": 6,
+    "loot": 11109
+   },
+   {
     "tag": "#GRLLYQQLV",
     "name": "WOLF",
     "a": 5,
@@ -185,13 +192,6 @@
     "a": 1,
     "lim": 5,
     "loot": 5070
-   },
-   {
-    "tag": "#YPR9QR0G8",
-    "name": "hunter",
-    "a": 1,
-    "lim": 5,
-    "loot": 4685
    }
   ]
  },
