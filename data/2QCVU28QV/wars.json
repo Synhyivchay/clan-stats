@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 89,
-   "pct": 99.73,
-   "attacks": 38
+   "stars": 90,
+   "pct": 100.0,
+   "attacks": 39
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -630,6 +630,17 @@
       "o": 78,
       "n": 1,
       "dur": 104
+     },
+     {
+      "d": "#99JRCJPL8",
+      "dn": "علي المنتظر",
+      "dpos": 20,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 79,
+      "n": 1,
+      "dur": 92
      }
     ],
     "def": {
@@ -827,7 +838,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T16:09:34Z"
+  "snap": "2026-10-31T16:14:34Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
