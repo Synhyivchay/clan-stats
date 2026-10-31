@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 592773,
+  "loot": 598643,
   "raids": 7,
-  "attacks": 131,
+  "attacks": 132,
   "districts": 53,
   "offReward": 0,
   "defReward": 0,
@@ -152,18 +152,18 @@
     "loot": 21055
    },
    {
+    "tag": "#QU2GPCCRJ",
+    "name": "Hornbär",
+    "a": 3,
+    "lim": 6,
+    "loot": 17769
+   },
+   {
     "tag": "#LYVCYUQCR",
     "name": "Jeffrey_Chicken",
     "a": 6,
     "lim": 6,
     "loot": 16480
-   },
-   {
-    "tag": "#QU2GPCCRJ",
-    "name": "Hornbär",
-    "a": 2,
-    "lim": 6,
-    "loot": 11899
    },
    {
     "tag": "#20PC0PL2L",
