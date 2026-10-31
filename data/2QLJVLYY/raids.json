@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 428531,
+  "loot": 432176,
   "raids": 5,
-  "attacks": 108,
+  "attacks": 109,
   "districts": 38,
   "offReward": 0,
   "defReward": 0,
@@ -124,18 +124,18 @@
     "loot": 17377
    },
    {
+    "tag": "#Q2UQLVQQJ",
+    "name": "женя",
+    "a": 4,
+    "lim": 6,
+    "loot": 14168
+   },
+   {
     "tag": "#LG2JCP99G",
     "name": "Потик_YT",
     "a": 6,
     "lim": 6,
     "loot": 12304
-   },
-   {
-    "tag": "#Q2UQLVQQJ",
-    "name": "женя",
-    "a": 3,
-    "lim": 6,
-    "loot": 10523
    },
    {
     "tag": "#GRLLYQQLV",
