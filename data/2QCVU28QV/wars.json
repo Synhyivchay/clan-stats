@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 82,
-   "pct": 92.67,
-   "attacks": 33
+   "stars": 85,
+   "pct": 96.0,
+   "attacks": 34
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -265,6 +265,17 @@
       "o": 52,
       "n": 3,
       "dur": 119
+     },
+     {
+      "d": "#8LU0V8L9R",
+      "dn": "ABD☆Elmajid",
+      "dpos": 23,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 70,
+      "n": 3,
+      "dur": 115
      }
     ],
     "def": {
@@ -768,7 +779,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T14:39:34Z"
+  "snap": "2026-10-31T14:49:34Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
