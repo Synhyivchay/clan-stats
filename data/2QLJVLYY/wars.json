@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 34,
-   "pct": 52.08,
-   "attacks": 15
+   "stars": 36,
+   "pct": 55.52,
+   "attacks": 16
   },
   "them": {
    "tag": "#YJV208YY",
@@ -315,7 +315,19 @@
     "name": "Адик",
     "th": 17,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PYU0CL0UR",
+      "dn": "HA ED AR",
+      "dpos": 15,
+      "dth": 18,
+      "s": 2,
+      "p": 86,
+      "o": 22,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -501,7 +513,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T07:19:12Z"
+  "snap": "2026-10-31T07:24:12Z"
  },
  {
   "id": "war_20261027T203413Z_292V2RVUY",

@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 362110,
+  "loot": 366435,
   "raids": 3,
-  "attacks": 86,
+  "attacks": 88,
   "districts": 31,
   "offReward": 0,
   "defReward": 0,
@@ -115,6 +115,13 @@
     "a": 1,
     "lim": 6,
     "loot": 7506
+   },
+   {
+    "tag": "#GRU0U22GV",
+    "name": "polat",
+    "a": 2,
+    "lim": 5,
+    "loot": 4325
    },
    {
     "tag": "#GRGRRJLR9",
