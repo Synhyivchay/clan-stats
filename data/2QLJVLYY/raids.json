@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 476652,
+  "loot": 482795,
   "raids": 5,
-  "attacks": 119,
-  "districts": 42,
+  "attacks": 120,
+  "districts": 43,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -38,6 +38,13 @@
     "a": 6,
     "lim": 6,
     "loot": 29599
+   },
+   {
+    "tag": "#GP2RPRRYY",
+    "name": "Mr.King",
+    "a": 6,
+    "lim": 6,
+    "loot": 28575
    },
    {
     "tag": "#8LVR2JGU",
@@ -94,13 +101,6 @@
     "a": 6,
     "lim": 6,
     "loot": 22491
-   },
-   {
-    "tag": "#GP2RPRRYY",
-    "name": "Mr.King",
-    "a": 5,
-    "lim": 6,
-    "loot": 22432
    },
    {
     "tag": "#8GGC8UY08",
