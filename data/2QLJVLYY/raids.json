@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 498274,
+  "loot": 502694,
   "raids": 5,
-  "attacks": 126,
+  "attacks": 129,
   "districts": 44,
   "offReward": 0,
   "defReward": 0,
@@ -171,6 +171,13 @@
     "a": 1,
     "lim": 5,
     "loot": 5070
+   },
+   {
+    "tag": "#P0GUJ290P",
+    "name": "алексей3",
+    "a": 3,
+    "lim": 5,
+    "loot": 4420
    }
   ]
  },
