@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 88,
-   "pct": 99.7,
-   "attacks": 37
+   "stars": 89,
+   "pct": 99.73,
+   "attacks": 38
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -619,7 +619,19 @@
     "name": "Leon",
     "th": 18,
     "pos": 23,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2VC292V8J",
+      "dn": "✌✌المحاربdz✌✌",
+      "dpos": 26,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 78,
+      "n": 1,
+      "dur": 104
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -815,7 +827,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T16:04:34Z"
+  "snap": "2026-10-31T16:09:34Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
