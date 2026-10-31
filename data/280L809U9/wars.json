@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 34,
-   "pct": 58.3,
-   "attacks": 12
+   "stars": 37,
+   "pct": 63.3,
+   "attacks": 13
   },
   "them": {
    "tag": "#UQLYQCPR",
@@ -245,6 +245,17 @@
       "o": 21,
       "n": 3,
       "dur": 160
+     },
+     {
+      "d": "#PUGQRJYQ2",
+      "dn": "❤EZIDI❤C4❤K❤m❤",
+      "dpos": 13,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 22,
+      "n": 3,
+      "dur": 153
      }
     ],
     "def": {
@@ -409,7 +420,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T09:39:24Z"
+  "snap": "2026-10-31T09:44:24Z"
  },
  {
   "id": "war_20261027T210150Z_LPR8VPUJ",
