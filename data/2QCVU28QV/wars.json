@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 77,
-   "pct": 87.97,
-   "attacks": 31
+   "stars": 80,
+   "pct": 91.3,
+   "attacks": 32
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -525,7 +525,19 @@
     "name": "LokiPhil",
     "th": 18,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#922JR0LCP",
+      "dn": "mysterios",
+      "dpos": 22,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 68,
+      "n": 3,
+      "dur": 171
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -745,7 +757,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T14:29:34Z"
+  "snap": "2026-10-31T14:34:34Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
