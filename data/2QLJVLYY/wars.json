@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
    "stars": 66,
-   "pct": 92.88,
-   "attacks": 33
+   "pct": 93.4,
+   "attacks": 34
   },
   "them": {
    "tag": "#YJV208YY",
@@ -336,6 +336,17 @@
       "o": 76,
       "n": 1,
       "dur": 108
+     },
+     {
+      "d": "#PYU0CL0UR",
+      "dn": "HA ED AR",
+      "dpos": 15,
+      "dth": 18,
+      "s": 2,
+      "p": 99,
+      "o": 77,
+      "n": 0,
+      "dur": 174
      }
     ],
     "def": {
@@ -708,7 +719,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T20:04:45Z"
+  "snap": "2026-10-31T20:09:45Z"
  },
  {
   "id": "war_20261027T203413Z_292V2RVUY",
