@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 11,
-   "pct": 19.6,
-   "attacks": 4
+   "stars": 14,
+   "pct": 24.6,
+   "attacks": 5
   },
   "them": {
    "tag": "#UQLYQCPR",
@@ -163,7 +163,19 @@
     "name": "Aviasales",
     "th": 17,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#920JU828R",
+      "dn": "شنكال دمي",
+      "dpos": 11,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 9,
+      "n": 3,
+      "dur": 103
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -315,7 +327,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T05:59:12Z"
+  "snap": "2026-10-31T06:04:12Z"
  },
  {
   "id": "war_20261027T210150Z_LPR8VPUJ",
