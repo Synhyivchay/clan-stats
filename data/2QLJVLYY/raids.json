@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 482795,
+  "loot": 487565,
   "raids": 5,
-  "attacks": 120,
+  "attacks": 122,
   "districts": 43,
   "offReward": 0,
   "defReward": 0,
@@ -164,6 +164,13 @@
     "a": 1,
     "lim": 5,
     "loot": 5070
+   },
+   {
+    "tag": "#9289UJLQ",
+    "name": "AkiloFF_17",
+    "a": 2,
+    "lim": 5,
+    "loot": 4770
    }
   ]
  },
