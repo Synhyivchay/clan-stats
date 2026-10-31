@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 40,
-   "pct": 47.7,
-   "attacks": 15
+   "stars": 41,
+   "pct": 50.4,
+   "attacks": 16
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -270,7 +270,19 @@
     "name": "Bassko",
     "th": 18,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LYU09G8LG",
+      "dn": "الوحش المدمر",
+      "dpos": 10,
+      "dth": 18,
+      "s": 1,
+      "p": 81,
+      "o": 36,
+      "n": 1,
+      "dur": 170
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -561,7 +573,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T06:39:12Z"
+  "snap": "2026-10-31T06:44:12Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
