@@ -22,9 +22,9 @@
    "name": "ابناء تل عزير",
    "badge": "https://api-assets.clashofclans.com/badges/200/pn0HWGPaZTkMoFh9fGAyJoBJ1heJzVLRR2uEDZhbNnM.png",
    "level": 21,
-   "stars": 51,
-   "pct": 87.25,
-   "attacks": 22
+   "stars": 53,
+   "pct": 91.85,
+   "attacks": 23
   },
   "members": [
    {
@@ -353,9 +353,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 92
     }
    },
    {
@@ -477,7 +477,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T16:49:34Z"
+  "snap": "2026-10-31T16:54:34Z"
  },
  {
   "id": "war_20261027T210150Z_LPR8VPUJ",
