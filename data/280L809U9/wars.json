@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 47,
-   "pct": 78.65,
-   "attacks": 17
+   "stars": 48,
+   "pct": 79.05,
+   "attacks": 18
   },
   "them": {
    "tag": "#UQLYQCPR",
@@ -162,6 +162,17 @@
       "o": 17,
       "n": 3,
       "dur": 102
+     },
+     {
+      "d": "#LJV9UVGPJ",
+      "dn": "نابليون",
+      "dpos": 9,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 34,
+      "n": 1,
+      "dur": 106
      }
     ],
     "def": {
@@ -466,7 +477,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T16:19:34Z"
+  "snap": "2026-10-31T16:24:34Z"
  },
  {
   "id": "war_20261027T210150Z_LPR8VPUJ",
