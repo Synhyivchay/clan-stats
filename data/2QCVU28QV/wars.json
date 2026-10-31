@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
    "stars": 50,
-   "pct": 60.4,
-   "attacks": 19
+   "pct": 60.67,
+   "attacks": 20
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -281,7 +281,19 @@
     "name": "Hornbär",
     "th": 18,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LYU09G8LG",
+      "dn": "الوحش المدمر",
+      "dpos": 10,
+      "dth": 18,
+      "s": 1,
+      "p": 89,
+      "o": 40,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -607,7 +619,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T07:34:12Z"
+  "snap": "2026-10-31T07:44:12Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
