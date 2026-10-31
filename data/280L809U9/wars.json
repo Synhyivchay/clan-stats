@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 57,
-   "pct": 94.05,
-   "attacks": 21
+   "pct": 95.8,
+   "attacks": 22
   },
   "them": {
    "tag": "#UQLYQCPR",
@@ -161,6 +161,17 @@
       "o": 18,
       "n": 2,
       "dur": 95
+     },
+     {
+      "d": "#98LJ9RC0Q",
+      "dn": "خلف العراقي",
+      "dpos": 6,
+      "dth": 18,
+      "s": 2,
+      "p": 85,
+      "o": 51,
+      "n": 0,
+      "dur": 131
      }
     ],
     "def": {
@@ -511,7 +522,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T19:04:34Z"
+  "snap": "2026-10-31T19:09:34Z"
  },
  {
   "id": "war_20261027T210150Z_LPR8VPUJ",
