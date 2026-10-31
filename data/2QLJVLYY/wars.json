@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 24,
-   "pct": 35.16,
-   "attacks": 9
+   "stars": 27,
+   "pct": 39.16,
+   "attacks": 10
   },
   "them": {
    "tag": "#YJV208YY",
    "name": "الخليج",
    "badge": "https://api-assets.clashofclans.com/badges/200/6KfwEuEDPsn_mWe6XqoytWxrRI-4d_RBbJ2lXRNMINk.png",
    "level": 22,
-   "stars": 7,
-   "pct": 11.28,
-   "attacks": 3
+   "stars": 10,
+   "pct": 15.28,
+   "attacks": 4
   },
   "members": [
    {
@@ -152,9 +152,9 @@
     "pos": 7,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -376,7 +376,19 @@
     "name": "Legenda",
     "th": 15,
     "pos": 22,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GJ8RJYURC",
+      "dn": "spider",
+      "dpos": 24,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 14,
+      "n": 3,
+      "dur": 119
+     }
+    ],
     "def": {
      "n": 1,
      "s": 1,
@@ -432,7 +444,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T04:44:12Z"
+  "snap": "2026-10-31T04:49:12Z"
  },
  {
   "id": "war_20261027T203413Z_292V2RVUY",
