@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 28,
-   "pct": 48.3,
-   "attacks": 10
+   "stars": 31,
+   "pct": 53.3,
+   "attacks": 11
   },
   "them": {
    "tag": "#UQLYQCPR",
@@ -43,6 +43,17 @@
       "o": 19,
       "n": 3,
       "dur": 101
+     },
+     {
+      "d": "#PR202PYUU",
+      "dn": "لحن الموت",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 20,
+      "n": 3,
+      "dur": 94
      }
     ],
     "def": {
@@ -386,7 +397,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T08:59:24Z"
+  "snap": "2026-10-31T09:04:24Z"
  },
  {
   "id": "war_20261027T210150Z_LPR8VPUJ",
