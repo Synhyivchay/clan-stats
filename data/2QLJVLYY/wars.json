@@ -22,9 +22,9 @@
    "name": "الخليج",
    "badge": "https://api-assets.clashofclans.com/badges/200/6KfwEuEDPsn_mWe6XqoytWxrRI-4d_RBbJ2lXRNMINk.png",
    "level": 22,
-   "stars": 13,
-   "pct": 19.28,
-   "attacks": 5
+   "stars": 16,
+   "pct": 23.28,
+   "attacks": 6
   },
   "members": [
    {
@@ -81,9 +81,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -455,7 +455,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T05:29:12Z"
+  "snap": "2026-10-31T05:34:12Z"
  },
  {
   "id": "war_20261027T203413Z_292V2RVUY",
