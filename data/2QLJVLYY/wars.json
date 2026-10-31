@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 27,
-   "pct": 39.16,
-   "attacks": 10
+   "stars": 28,
+   "pct": 41.52,
+   "attacks": 11
   },
   "them": {
    "tag": "#YJV208YY",
    "name": "الخليج",
    "badge": "https://api-assets.clashofclans.com/badges/200/6KfwEuEDPsn_mWe6XqoytWxrRI-4d_RBbJ2lXRNMINk.png",
    "level": 22,
-   "stars": 10,
-   "pct": 15.28,
-   "attacks": 4
+   "stars": 13,
+   "pct": 19.28,
+   "attacks": 5
   },
   "members": [
    {
@@ -387,6 +387,17 @@
       "o": 14,
       "n": 3,
       "dur": 119
+     },
+     {
+      "d": "#QCLUQ9V8L",
+      "dn": "HA ED AR",
+      "dpos": 23,
+      "dth": 15,
+      "s": 1,
+      "p": 59,
+      "o": 15,
+      "n": 1,
+      "dur": 95
      }
     ],
     "def": {
@@ -426,9 +437,9 @@
     "pos": 24,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -444,7 +455,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T04:49:12Z"
+  "snap": "2026-10-31T04:54:12Z"
  },
  {
   "id": "war_20261027T203413Z_292V2RVUY",
