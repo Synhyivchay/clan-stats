@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 32,
-   "pct": 37.97,
-   "attacks": 12
+   "stars": 34,
+   "pct": 41.03,
+   "attacks": 13
   },
   "them": {
    "tag": "#UCGURP9L",
@@ -199,7 +199,19 @@
     "name": "Hattrickser",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9QC9YLQY2",
+      "dn": "احمد العدنيM,A",
+      "dpos": 13,
+      "dth": 18,
+      "s": 2,
+      "p": 92,
+      "o": 30,
+      "n": 2,
+      "dur": 98
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -526,7 +538,7 @@
     }
    }
   ],
-  "snap": "2026-10-31T05:04:12Z"
+  "snap": "2026-10-31T05:14:12Z"
  },
  {
   "id": "war_20261027T214501Z_9GYJG2P2",
