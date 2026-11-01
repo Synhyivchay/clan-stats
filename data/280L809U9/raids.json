@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 442828,
+  "loot": 451884,
   "raids": 5,
-  "attacks": 110,
-  "districts": 38,
+  "attacks": 112,
+  "districts": 39,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -124,6 +124,13 @@
     "loot": 19020
    },
    {
+    "tag": "#GVYYYUG29",
+    "name": "kin",
+    "a": 3,
+    "lim": 6,
+    "loot": 14526
+   },
+   {
     "tag": "#GRGRRJLR9",
     "name": "prime",
     "a": 4,
@@ -143,13 +150,6 @@
     "a": 1,
     "lim": 6,
     "loot": 7506
-   },
-   {
-    "tag": "#GVYYYUG29",
-    "name": "kin",
-    "a": 1,
-    "lim": 5,
-    "loot": 5470
    },
    {
     "tag": "#GRU0U22GV",
