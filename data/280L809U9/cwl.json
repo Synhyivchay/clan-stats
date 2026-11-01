@@ -1,1 +1,335 @@
-{}
+{
+ "2026-11-01": {
+  "season": "2026-11-01",
+  "wars": {
+   "#8RV2GVGVG": "cwl_20261101T171731Z_92RYQ2JJ"
+  },
+  "others": {
+   "#8RV2GVQRP": {
+    "round": 1,
+    "state": "preparation",
+    "a": {
+     "tag": "#2R88JLG9C",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#PV0VP2RC",
+     "stars": 0,
+     "pct": 0.0
+    }
+   },
+   "#8RV2GVLY0": {
+    "round": 1,
+    "state": "preparation",
+    "a": {
+     "tag": "#2RLYP9GP9",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#2YUGPCGLJ",
+     "stars": 0,
+     "pct": 0.0
+    }
+   },
+   "#8RV2GVY0J": {
+    "round": 1,
+    "state": "preparation",
+    "a": {
+     "tag": "#29P0GGRRP",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#LGLP9RC2",
+     "stars": 0,
+     "pct": 0.0
+    }
+   }
+  },
+  "state": "preparation",
+  "clans": [
+   {
+    "tag": "#2R88JLG9C",
+    "name": "The Greek Iowan",
+    "badge": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
+    "level": 21
+   },
+   {
+    "tag": "#2RLYP9GP9",
+    "name": "CC Elite 3",
+    "badge": "https://api-assets.clashofclans.com/badges/200/atxCig_FxoMyU12NE4BDIe_MY6O93w18z6-LN75JT3w.png",
+    "level": 16
+   },
+   {
+    "tag": "#29P0GGRRP",
+    "name": "ROYAL ■ THIEVES",
+    "badge": "https://api-assets.clashofclans.com/badges/200/yOPDYGJfKVXbF0-RT5gmRY5U6gPjen5Ew6oYUjAIYkU.png",
+    "level": 23
+   },
+   {
+    "tag": "#2YUGPCGLJ",
+    "name": "# MAHABHARAT",
+    "badge": "https://api-assets.clashofclans.com/badges/200/vAK2_2gB9hh-TIBUhvh0B_1fzYJflCtk0i32r_Nsr6I.png",
+    "level": 27
+   },
+   {
+    "tag": "#LGLP9RC2",
+    "name": "Hansika Motwani",
+    "badge": "https://api-assets.clashofclans.com/badges/200/CF_0OcTYtORuiSq5J6qGC3Qa_pM5Pdoy-fVhnB0eEks.png",
+    "level": 25
+   },
+   {
+    "tag": "#PV0VP2RC",
+    "name": "ASSAMESE UNITED",
+    "badge": "https://api-assets.clashofclans.com/badges/200/1WmtRM2W_-WTE_MRxjud4E2GfNYVYZ5TyPmPiLhf8Bs.png",
+    "level": 29
+   },
+   {
+    "tag": "#92RYQ2JJ",
+    "name": "A.M.C PASAMAN",
+    "badge": "https://api-assets.clashofclans.com/badges/200/n4bWHSbVp4soB70kpzV1UAqK-zGvAC-5pg0TGcR-iZ0.png",
+    "level": 31
+   },
+   {
+    "tag": "#280L809U9",
+    "name": "Badboys",
+    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
+    "level": 25
+   }
+  ],
+  "roster": [
+   {
+    "tag": "#P0GUJ290P",
+    "name": "алексей3",
+    "th": 16
+   },
+   {
+    "tag": "#GUPY0JL0C",
+    "name": "салфетка",
+    "th": 16
+   },
+   {
+    "tag": "#GRGRRJLR9",
+    "name": "prime",
+    "th": 17
+   },
+   {
+    "tag": "#G9CL20UQY",
+    "name": "xavier",
+    "th": 12
+   },
+   {
+    "tag": "#GVYYYUG29",
+    "name": "kin",
+    "th": 17
+   },
+   {
+    "tag": "#QQ90VV9L2",
+    "name": "Aviasales",
+    "th": 17
+   },
+   {
+    "tag": "#GC0V2V2Y0",
+    "name": "sgrassi",
+    "th": 16
+   },
+   {
+    "tag": "#GLL20U2Q9",
+    "name": "ㅤㅤㅤㅤ",
+    "th": 18
+   },
+   {
+    "tag": "#9LQ2YUVUY",
+    "name": "рома",
+    "th": 15
+   },
+   {
+    "tag": "#LCRPUCU2V",
+    "name": "Хранитель",
+    "th": 18
+   },
+   {
+    "tag": "#GRQC2829L",
+    "name": "ed_sans_123",
+    "th": 17
+   },
+   {
+    "tag": "#G298UUQQL",
+    "name": "Қыран) •_•",
+    "th": 17
+   },
+   {
+    "tag": "#YUUQCGL2J",
+    "name": "SanixX",
+    "th": 18
+   },
+   {
+    "tag": "#2P0JQ09CY",
+    "name": "grootich",
+    "th": 16
+   },
+   {
+    "tag": "#YC9G9Y0YQ",
+    "name": "чёрт",
+    "th": 16
+   },
+   {
+    "tag": "#LRR9VR0CY",
+    "name": "Begbus",
+    "th": 15
+   },
+   {
+    "tag": "#9LLUUULPG",
+    "name": "F.A.N.T.O.M",
+    "th": 18
+   },
+   {
+    "tag": "#LGRVJULJJ",
+    "name": "DimagFM",
+    "th": 17
+   },
+   {
+    "tag": "#VV02PYVV",
+    "name": "Patrik",
+    "th": 18
+   },
+   {
+    "tag": "#9P28CV0L0",
+    "name": "0777",
+    "th": 16
+   },
+   {
+    "tag": "#9VGPL8VRL",
+    "name": "bek",
+    "th": 17
+   },
+   {
+    "tag": "#YVP0G0V2G",
+    "name": "Relax",
+    "th": 18
+   },
+   {
+    "tag": "#QU0QU0Q80",
+    "name": "Dream®",
+    "th": 17
+   },
+   {
+    "tag": "#YRVR292UG",
+    "name": "Адик",
+    "th": 17
+   },
+   {
+    "tag": "#PCUY9YUYU",
+    "name": "OO REEBOK OO",
+    "th": 18
+   },
+   {
+    "tag": "#R0JGYGQ9J",
+    "name": "Saemurod",
+    "th": 17
+   },
+   {
+    "tag": "#QUULVGRYQ",
+    "name": "MR.KING",
+    "th": 17
+   },
+   {
+    "tag": "#GYGUJ800C",
+    "name": "Мурадил06",
+    "th": 17
+   },
+   {
+    "tag": "#PGQJC0CG2",
+    "name": "pistolet",
+    "th": 16
+   },
+   {
+    "tag": "#29QLJ0YY",
+    "name": "ReTrO",
+    "th": 18
+   },
+   {
+    "tag": "#YR9GYYQC2",
+    "name": "Stars",
+    "th": 18
+   },
+   {
+    "tag": "#PJY8GUQVR",
+    "name": "doe",
+    "th": 15
+   },
+   {
+    "tag": "#80QQP0V2C",
+    "name": "Danis 1 2 3",
+    "th": 16
+   },
+   {
+    "tag": "#L9GQPGPYV",
+    "name": "Johan",
+    "th": 16
+   },
+   {
+    "tag": "#Q0UVRVLQ8",
+    "name": "sunshine",
+    "th": 13
+   },
+   {
+    "tag": "#QJYVP0JJU",
+    "name": "Partizan",
+    "th": 18
+   },
+   {
+    "tag": "#82QQ2QY0V",
+    "name": "Дракс",
+    "th": 16
+   },
+   {
+    "tag": "#GLCVPCCQ2",
+    "name": "Ragnar",
+    "th": 18
+   },
+   {
+    "tag": "#G0GP90YCL",
+    "name": "Boston",
+    "th": 18
+   },
+   {
+    "tag": "#Y0VLYQQ0J",
+    "name": "KARAN AUJLA",
+    "th": 16
+   },
+   {
+    "tag": "#GQLRPL8Q0",
+    "name": "Jamshid",
+    "th": 17
+   },
+   {
+    "tag": "#Y9YQV8CUR",
+    "name": "GURU RANDHAWA",
+    "th": 18
+   },
+   {
+    "tag": "#GRU0U22GV",
+    "name": "polat",
+    "th": 16
+   },
+   {
+    "tag": "#GJ8PJY2PJ",
+    "name": "RECORD",
+    "th": 16
+   },
+   {
+    "tag": "#8QUG9QQ8G",
+    "name": "ReTrO",
+    "th": 18
+   },
+   {
+    "tag": "#CUQYLPU",
+    "name": "ФЕРЗЬ",
+    "th": 18
+   }
+  ]
+ }
+}
