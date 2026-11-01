@@ -1,1 +1,295 @@
-{}
+{
+ "2026-11-01": {
+  "season": "2026-11-01",
+  "wars": {
+   "#8RUGCL89G": "cwl_20261101T171138Z_2J0UVYRQL"
+  },
+  "others": {
+   "#8RUGCLPU8": {
+    "round": 1,
+    "state": "preparation",
+    "a": {
+     "tag": "#20UV9220Y",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#2L8LLRCYU",
+     "stars": 0,
+     "pct": 0.0
+    }
+   },
+   "#8RUGCL9QU": {
+    "round": 1,
+    "state": "preparation",
+    "a": {
+     "tag": "#22JU9JLCG",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#QLLVY9QQ",
+     "stars": 0,
+     "pct": 0.0
+    }
+   },
+   "#8RUGCLL8L": {
+    "round": 1,
+    "state": "preparation",
+    "a": {
+     "tag": "#Y9JCRJG9",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#2RPQU8PQ9",
+     "stars": 0,
+     "pct": 0.0
+    }
+   }
+  },
+  "state": "preparation",
+  "clans": [
+   {
+    "tag": "#20UV9220Y",
+    "name": "Güler Ailesi",
+    "badge": "https://api-assets.clashofclans.com/badges/200/9fDruY8JBBMlBJ8ngaObvEFZurd55NPgaz3j29Nt228.png",
+    "level": 33
+   },
+   {
+    "tag": "#22JU9JLCG",
+    "name": "Leisure Time",
+    "badge": "https://api-assets.clashofclans.com/badges/200/62QBJEipC5NakkwFVQygTuFhK76DaYvqU3Ea3nl6-gM.png",
+    "level": 30
+   },
+   {
+    "tag": "#2J0UVYRQL",
+    "name": "FREDOM FITHER71",
+    "badge": "https://api-assets.clashofclans.com/badges/200/bqFd13bErESIIgKOtkfOTIZ_kkHSjYihaqkjHk6xAl8.png",
+    "level": 17
+   },
+   {
+    "tag": "#Y9JCRJG9",
+    "name": "CENTRALIZED",
+    "badge": "https://api-assets.clashofclans.com/badges/200/GnCL1tUEf6rcrk6oRJMQ-uw7Kepc9KF3z-dEEV0dJqM.png",
+    "level": 24
+   },
+   {
+    "tag": "#2RPQU8PQ9",
+    "name": "SLAYERS 4",
+    "badge": "https://api-assets.clashofclans.com/badges/200/pkSFAwuu9oeoFQHoHZ4o_k1ZcNbWQw-lkTsNj0JKj4M.png",
+    "level": 7
+   },
+   {
+    "tag": "#2L8LLRCYU",
+    "name": "kaven999gamer",
+    "badge": "https://api-assets.clashofclans.com/badges/200/6mh6F2vbeqCazzLEHB1xZIFlU4vKdqgM0i-MJkLpwJk.png",
+    "level": 17
+   },
+   {
+    "tag": "#2QLJVLYY",
+    "name": "slivki sow",
+    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
+    "level": 34
+   },
+   {
+    "tag": "#QLLVY9QQ",
+    "name": "WAR COMMANDER",
+    "badge": "https://api-assets.clashofclans.com/badges/200/zcSr4_oKqxozqCjjuY161EEUggLQl5t9jDXRqyTviWQ.png",
+    "level": 25
+   }
+  ],
+  "roster": [
+   {
+    "tag": "#GJY0R0JCJ",
+    "name": "denchik",
+    "th": 13
+   },
+   {
+    "tag": "#GJ89L8LCG",
+    "name": "WOLF",
+    "th": 14
+   },
+   {
+    "tag": "#YPR9QR0G8",
+    "name": "hunter",
+    "th": 14
+   },
+   {
+    "tag": "#QRYL0QY9C",
+    "name": "DAVRON",
+    "th": 13
+   },
+   {
+    "tag": "#LGLPJJ2VP",
+    "name": "егор",
+    "th": 13
+   },
+   {
+    "tag": "#GU9UY0L98",
+    "name": "Alinyaa",
+    "th": 13
+   },
+   {
+    "tag": "#YRQQ80QQ",
+    "name": "nurik",
+    "th": 13
+   },
+   {
+    "tag": "#LPYUQRQPQ",
+    "name": "Saiev_095",
+    "th": 15
+   },
+   {
+    "tag": "#LVCQPQ822",
+    "name": "Legenda",
+    "th": 15
+   },
+   {
+    "tag": "#LYQL2PCL0",
+    "name": "Родион",
+    "th": 18
+   },
+   {
+    "tag": "#GPLUJ2QCL",
+    "name": "Thatrandomdude",
+    "th": 12
+   },
+   {
+    "tag": "#92JVL0YVC",
+    "name": "King",
+    "th": 14
+   },
+   {
+    "tag": "#9GV90LCR8",
+    "name": "■◇LEGENDARNIY◇■",
+    "th": 18
+   },
+   {
+    "tag": "#LLUP8P8L0",
+    "name": "sleace",
+    "th": 18
+   },
+   {
+    "tag": "#28Q8J0RYG",
+    "name": "Mi4man",
+    "th": 18
+   },
+   {
+    "tag": "#GRLLYQQLV",
+    "name": "WOLF",
+    "th": 16
+   },
+   {
+    "tag": "#LPQJQ2RJP",
+    "name": "Denton",
+    "th": 18
+   },
+   {
+    "tag": "#8LVR2JGU",
+    "name": "ELITE",
+    "th": 18
+   },
+   {
+    "tag": "#YRYYYGY90",
+    "name": "naik",
+    "th": 18
+   },
+   {
+    "tag": "#PVCPGJL9R",
+    "name": "000Roma000",
+    "th": 18
+   },
+   {
+    "tag": "#LV9VQJ8GP",
+    "name": "Фалирит",
+    "th": 16
+   },
+   {
+    "tag": "#QUGLJVJP9",
+    "name": "ТЕЛЕПУЗИК",
+    "th": 12
+   },
+   {
+    "tag": "#Q9JRVCUYY",
+    "name": "Melata",
+    "th": 18
+   },
+   {
+    "tag": "#PQCYUY90C",
+    "name": "Артёмчик",
+    "th": 16
+   },
+   {
+    "tag": "#YCU8JR28U",
+    "name": "SHANARA",
+    "th": 18
+   },
+   {
+    "tag": "#Q2UQLVQQJ",
+    "name": "женя",
+    "th": 14
+   },
+   {
+    "tag": "#89RL09YL9",
+    "name": "Разрушитель",
+    "th": 18
+   },
+   {
+    "tag": "#2QR2RYQ9G",
+    "name": "isma1L_777",
+    "th": 17
+   },
+   {
+    "tag": "#PUCPRP9YV",
+    "name": "малько",
+    "th": 18
+   },
+   {
+    "tag": "#8J09CQQQQ",
+    "name": "о000оо00",
+    "th": 15
+   },
+   {
+    "tag": "#LQGGPPC92",
+    "name": "~LuciFer~",
+    "th": 18
+   },
+   {
+    "tag": "#QL0J0RY8Q",
+    "name": "ebobo",
+    "th": 18
+   },
+   {
+    "tag": "#LJQU0Q0VV",
+    "name": "Azek",
+    "th": 18
+   },
+   {
+    "tag": "#8GGC8UY08",
+    "name": "Super Men",
+    "th": 18
+   },
+   {
+    "tag": "#LG2JCP99G",
+    "name": "Потик_YT",
+    "th": 14
+   },
+   {
+    "tag": "#2LCGCPR80",
+    "name": "NumTorum",
+    "th": 18
+   },
+   {
+    "tag": "#Y0CPG29L8",
+    "name": "Артем",
+    "th": 18
+   },
+   {
+    "tag": "#P2GULCL8G",
+    "name": "000Sergey000",
+    "th": 18
+   }
+  ]
+ }
+}
