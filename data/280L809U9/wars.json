@@ -52,10 +52,46 @@
     }
    },
    {
+    "tag": "#YVP0G0V2G",
+    "name": "Relax",
+    "th": 18,
+    "pos": 3,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#PCUY9YUYU",
+    "name": "OO REEBOK OO",
+    "th": 18,
+    "pos": 4,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#8QUG9QQ8G",
+    "name": "ReTrO",
+    "th": 18,
+    "pos": 5,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
     "tag": "#Y9YQV8CUR",
     "name": "GURU RANDHAWA",
     "th": 18,
-    "pos": 3,
+    "pos": 6,
     "attacks": [],
     "def": {
      "n": 0,
@@ -67,7 +103,7 @@
     "tag": "#YUUQCGL2J",
     "name": "SanixX",
     "th": 18,
-    "pos": 4,
+    "pos": 7,
     "attacks": [],
     "def": {
      "n": 0,
@@ -79,7 +115,19 @@
     "tag": "#9LLUUULPG",
     "name": "F.A.N.T.O.M",
     "th": 18,
-    "pos": 5,
+    "pos": 8,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#29QLJ0YY",
+    "name": "ReTrO",
+    "th": 18,
+    "pos": 9,
     "attacks": [],
     "def": {
      "n": 0,
@@ -91,7 +139,31 @@
     "tag": "#GLL20U2Q9",
     "name": "ㅤㅤㅤㅤ",
     "th": 18,
-    "pos": 6,
+    "pos": 10,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YR9GYYQC2",
+    "name": "Stars",
+    "th": 18,
+    "pos": 11,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#G0GP90YCL",
+    "name": "Boston",
+    "th": 18,
+    "pos": 12,
     "attacks": [],
     "def": {
      "n": 0,
@@ -103,7 +175,7 @@
     "tag": "#QJYVP0JJU",
     "name": "Partizan",
     "th": 18,
-    "pos": 7,
+    "pos": 13,
     "attacks": [],
     "def": {
      "n": 0,
@@ -115,7 +187,7 @@
     "tag": "#YRVR292UG",
     "name": "Адик",
     "th": 17,
-    "pos": 8,
+    "pos": 14,
     "attacks": [],
     "def": {
      "n": 0,
@@ -127,7 +199,7 @@
     "tag": "#QUULVGRYQ",
     "name": "MR.KING",
     "th": 17,
-    "pos": 9,
+    "pos": 15,
     "attacks": [],
     "def": {
      "n": 0,
@@ -139,7 +211,7 @@
     "tag": "#LGRVJULJJ",
     "name": "DimagFM",
     "th": 17,
-    "pos": 10,
+    "pos": 16,
     "attacks": [],
     "def": {
      "n": 0,
@@ -151,7 +223,7 @@
     "tag": "#GRQC2829L",
     "name": "ed_sans_123",
     "th": 17,
-    "pos": 11,
+    "pos": 17,
     "attacks": [],
     "def": {
      "n": 0,
@@ -163,31 +235,7 @@
     "tag": "#9VGPL8VRL",
     "name": "bek",
     "th": 17,
-    "pos": 12,
-    "attacks": [],
-    "def": {
-     "n": 0,
-     "s": null,
-     "p": null
-    }
-   },
-   {
-    "tag": "#LCRPUCU2V",
-    "name": "Хранитель",
-    "th": 18,
-    "pos": 13,
-    "attacks": [],
-    "def": {
-     "n": 0,
-     "s": null,
-     "p": null
-    }
-   },
-   {
-    "tag": "#G298UUQQL",
-    "name": "Қыран) •_•",
-    "th": 17,
-    "pos": 14,
+    "pos": 18,
     "attacks": [],
     "def": {
      "n": 0,
@@ -199,7 +247,7 @@
     "tag": "#QQ90VV9L2",
     "name": "Aviasales",
     "th": 17,
-    "pos": 15,
+    "pos": 19,
     "attacks": [],
     "def": {
      "n": 0,
@@ -211,7 +259,7 @@
     "tag": "#GYGUJ800C",
     "name": "Мурадил06",
     "th": 17,
-    "pos": 16,
+    "pos": 20,
     "attacks": [],
     "def": {
      "n": 0,
@@ -223,19 +271,7 @@
     "tag": "#QU0QU0Q80",
     "name": "Dream®",
     "th": 17,
-    "pos": 17,
-    "attacks": [],
-    "def": {
-     "n": 0,
-     "s": null,
-     "p": null
-    }
-   },
-   {
-    "tag": "#GVYYYUG29",
-    "name": "kin",
-    "th": 17,
-    "pos": 18,
+    "pos": 21,
     "attacks": [],
     "def": {
      "n": 0,
@@ -247,19 +283,7 @@
     "tag": "#GRGRRJLR9",
     "name": "prime",
     "th": 17,
-    "pos": 19,
-    "attacks": [],
-    "def": {
-     "n": 0,
-     "s": null,
-     "p": null
-    }
-   },
-   {
-    "tag": "#9P28CV0L0",
-    "name": "0777",
-    "th": 16,
-    "pos": 20,
+    "pos": 22,
     "attacks": [],
     "def": {
      "n": 0,
@@ -271,7 +295,7 @@
     "tag": "#82QQ2QY0V",
     "name": "Дракс",
     "th": 16,
-    "pos": 21,
+    "pos": 23,
     "attacks": [],
     "def": {
      "n": 0,
@@ -283,7 +307,7 @@
     "tag": "#GUPY0JL0C",
     "name": "салфетка",
     "th": 16,
-    "pos": 22,
+    "pos": 24,
     "attacks": [],
     "def": {
      "n": 0,
@@ -295,7 +319,7 @@
     "tag": "#CUQYLPU",
     "name": "ФЕРЗЬ",
     "th": 18,
-    "pos": 23,
+    "pos": 25,
     "attacks": [],
     "def": {
      "n": 0,
@@ -307,7 +331,7 @@
     "tag": "#GQLRPL8Q0",
     "name": "Jamshid",
     "th": 17,
-    "pos": 24,
+    "pos": 26,
     "attacks": [],
     "def": {
      "n": 0,
@@ -319,7 +343,7 @@
     "tag": "#P0GUJ290P",
     "name": "алексей3",
     "th": 16,
-    "pos": 25,
+    "pos": 27,
     "attacks": [],
     "def": {
      "n": 0,
@@ -331,7 +355,7 @@
     "tag": "#2P0JQ09CY",
     "name": "grootich",
     "th": 16,
-    "pos": 26,
+    "pos": 28,
     "attacks": [],
     "def": {
      "n": 0,
@@ -343,7 +367,7 @@
     "tag": "#L9GQPGPYV",
     "name": "Johan",
     "th": 16,
-    "pos": 27,
+    "pos": 29,
     "attacks": [],
     "def": {
      "n": 0,
@@ -355,30 +379,6 @@
     "tag": "#GC0V2V2Y0",
     "name": "sgrassi",
     "th": 16,
-    "pos": 28,
-    "attacks": [],
-    "def": {
-     "n": 0,
-     "s": null,
-     "p": null
-    }
-   },
-   {
-    "tag": "#LRR9VR0CY",
-    "name": "Begbus",
-    "th": 15,
-    "pos": 29,
-    "attacks": [],
-    "def": {
-     "n": 0,
-     "s": null,
-     "p": null
-    }
-   },
-   {
-    "tag": "#R0JGYGQ9J",
-    "name": "Saemurod",
-    "th": 17,
     "pos": 30,
     "attacks": [],
     "def": {
@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 1,
   "warTag": "#8RV2GVGVG",
-  "snap": "2026-11-01T19:46:04Z"
+  "snap": "2026-11-01T19:51:04Z"
  },
  {
   "id": "war_20261029T214951Z_UQLYQCPR",
