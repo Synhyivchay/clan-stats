@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 808166,
-  "raids": 10,
-  "attacks": 180,
-  "districts": 71,
+  "loot": 810076,
+  "raids": 11,
+  "attacks": 181,
+  "districts": 72,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -238,9 +238,9 @@
    {
     "tag": "#20VPVYUVY",
     "name": "max",
-    "a": 1,
-    "lim": 5,
-    "loot": 3320
+    "a": 2,
+    "lim": 6,
+    "loot": 5230
    }
   ]
  },
