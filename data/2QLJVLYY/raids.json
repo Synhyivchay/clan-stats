@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 695566,
+  "loot": 700406,
   "raids": 9,
-  "attacks": 175,
+  "attacks": 176,
   "districts": 63,
   "offReward": 0,
   "defReward": 0,
@@ -227,6 +227,13 @@
     "a": 1,
     "lim": 5,
     "loot": 5070
+   },
+   {
+    "tag": "#YVP0G0V2G",
+    "name": "Relax",
+    "a": 1,
+    "lim": 5,
+    "loot": 4840
    }
   ]
  },
