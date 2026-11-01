@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 498379,
+  "loot": 504524,
   "raids": 6,
-  "attacks": 121,
+  "attacks": 123,
   "districts": 44,
   "offReward": 0,
   "defReward": 0,
@@ -75,6 +75,13 @@
     "loot": 25996
    },
    {
+    "tag": "#LCRQ8QCC0",
+    "name": "Mr Bubblu",
+    "a": 6,
+    "lim": 6,
+    "loot": 25579
+   },
+   {
     "tag": "#GRQC2829L",
     "name": "ed_sans_123",
     "a": 6,
@@ -129,13 +136,6 @@
     "a": 6,
     "lim": 6,
     "loot": 20346
-   },
-   {
-    "tag": "#LCRQ8QCC0",
-    "name": "Mr Bubblu",
-    "a": 4,
-    "lim": 6,
-    "loot": 19434
    },
    {
     "tag": "#2P0JQ09CY",
