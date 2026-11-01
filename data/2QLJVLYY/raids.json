@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 685088,
+  "loot": 690938,
   "raids": 8,
-  "attacks": 172,
+  "attacks": 173,
   "districts": 62,
   "offReward": 0,
   "defReward": 0,
@@ -213,6 +213,13 @@
     "a": 5,
     "lim": 6,
     "loot": 9845
+   },
+   {
+    "tag": "#LJQU0Q0VV",
+    "name": "Azek",
+    "a": 1,
+    "lim": 5,
+    "loot": 5850
    },
    {
     "tag": "#GJY0R0JCJ",
