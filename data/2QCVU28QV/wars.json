@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 6,
-   "pct": 10.0,
-   "attacks": 2
+   "stars": 9,
+   "pct": 15.0,
+   "attacks": 3
   },
   "them": {
    "tag": "#2PRY220U",
@@ -235,7 +235,19 @@
     "name": "hazhir ro",
     "th": 18,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9UU9JL99J",
+      "dn": "RIDE IT",
+      "dpos": 20,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 8,
+      "n": 3,
+      "dur": 152
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -291,7 +303,7 @@
     }
    }
   ],
-  "snap": "2026-11-01T21:46:04Z"
+  "snap": "2026-11-01T21:51:04Z"
  },
  {
   "id": "war_20261029T215923Z_UCGURP9L",
