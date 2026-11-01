@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 410768,
+  "loot": 412848,
   "raids": 4,
-  "attacks": 102,
+  "attacks": 103,
   "districts": 35,
   "offReward": 0,
   "defReward": 0,
@@ -126,9 +126,9 @@
    {
     "tag": "#GUPY0JL0C",
     "name": "салфетка",
-    "a": 5,
+    "a": 6,
     "lim": 6,
-    "loot": 9477
+    "loot": 11557
    },
    {
     "tag": "#GQLRPL8Q0",
