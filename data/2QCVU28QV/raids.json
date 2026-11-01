@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 740278,
+  "loot": 765639,
   "raids": 10,
-  "attacks": 163,
-  "districts": 65,
+  "attacks": 169,
+  "districts": 66,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -108,6 +108,13 @@
     "a": 6,
     "lim": 6,
     "loot": 26034
+   },
+   {
+    "tag": "#Y82GLVV9U",
+    "name": "kevin",
+    "a": 6,
+    "lim": 6,
+    "loot": 25361
    },
    {
     "tag": "#P9C8Q9RCR",
