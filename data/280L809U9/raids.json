@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 437358,
+  "loot": 442828,
   "raids": 5,
-  "attacks": 109,
+  "attacks": 110,
   "districts": 38,
   "offReward": 0,
   "defReward": 0,
@@ -143,6 +143,13 @@
     "a": 1,
     "lim": 6,
     "loot": 7506
+   },
+   {
+    "tag": "#GVYYYUG29",
+    "name": "kin",
+    "a": 1,
+    "lim": 5,
+    "loot": 5470
    },
    {
     "tag": "#GRU0U22GV",
