@@ -4,8 +4,8 @@
  "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
  "level": 25,
  "description": "Ждём активных игроков, кв, лвк по желанию. Рейды - важная часть игры. Войсками делимся. Кик за неактив 5 дней и пропуск рейдов. ЛВК от 14тх. Есть второй клан, куда выносим столичное золото после рейдов. Пропуск рейдов - кик",
- "members": 43,
- "points": 100500,
+ "members": 44,
+ "points": 101250,
  "warWins": 326,
  "warLosses": 197,
  "warTies": 17,
@@ -16,9 +16,7 @@
  "warLogPublic": true,
  "trackingSince": "2026-10-15T13:52:34Z",
  "contribFetched": "2026-11-01T15:05:35Z",
- "updated": "2026-11-01T15:20:35Z",
- "errors": [
-  "Рейды: 520 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/\",\"title\":\"Error 520: Web server is returning an unknown error\",\"status\":520,\"detai (/clans/#280L809U9/capitalraidseasons?limit=4)"
- ],
+ "updated": "2026-11-01T15:25:35Z",
+ "errors": [],
  "show": true
 }
