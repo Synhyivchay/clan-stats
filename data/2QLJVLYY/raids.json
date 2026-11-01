@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 681813,
+  "loot": 685088,
   "raids": 8,
-  "attacks": 171,
+  "attacks": 172,
   "districts": 62,
   "offReward": 0,
   "defReward": 0,
@@ -103,6 +103,13 @@
     "loot": 24094
    },
    {
+    "tag": "#Q9JRVCUYY",
+    "name": "Melata",
+    "a": 6,
+    "lim": 6,
+    "loot": 23971
+   },
+   {
     "tag": "#LPQJQ2RJP",
     "name": "Denton",
     "a": 6,
@@ -150,13 +157,6 @@
     "a": 6,
     "lim": 6,
     "loot": 22123
-   },
-   {
-    "tag": "#Q9JRVCUYY",
-    "name": "Melata",
-    "a": 5,
-    "lim": 6,
-    "loot": 20696
    },
    {
     "tag": "#LVCQPQ822",
