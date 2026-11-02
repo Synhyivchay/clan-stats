@@ -22,9 +22,9 @@
    "name": "les vikings",
    "badge": "https://api-assets.clashofclans.com/badges/200/1lYGZmeLI2IrBEdLdSW-d9sXUahwi2FBJOtGLqCWkXk.png",
    "level": 36,
-   "stars": 45,
-   "pct": 78.3,
-   "attacks": 25
+   "stars": 50,
+   "pct": 91.1,
+   "attacks": 28
   },
   "members": [
    {
@@ -479,9 +479,9 @@
     "pos": 17,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 75
     }
    },
    {
@@ -503,9 +503,9 @@
     "pos": 19,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 96
     }
    },
    {
@@ -527,13 +527,13 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 85
     }
    }
   ],
-  "snap": "2026-11-02T16:31:56Z"
+  "snap": "2026-11-02T18:17:38Z"
  },
  {
   "id": "war_20261029T215923Z_UCGURP9L",
