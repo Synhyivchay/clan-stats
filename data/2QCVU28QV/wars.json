@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 35,
-   "pct": 59.75,
-   "attacks": 12
+   "stars": 38,
+   "pct": 64.75,
+   "attacks": 13
   },
   "them": {
    "tag": "#2PRY220U",
@@ -32,7 +32,19 @@
     "name": "Bigmac's sohn",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YG0G0RPR",
+      "dn": "MrLepet",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 24,
+      "n": 3,
+      "dur": 151
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -408,7 +420,7 @@
     }
    }
   ],
-  "snap": "2026-11-02T07:21:32Z"
+  "snap": "2026-11-02T07:26:32Z"
  },
  {
   "id": "war_20261029T215923Z_UCGURP9L",
