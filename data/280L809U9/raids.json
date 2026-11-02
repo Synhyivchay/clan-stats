@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 665981,
+  "loot": 676735,
   "raids": 8,
-  "attacks": 158,
-  "districts": 59,
+  "attacks": 160,
+  "districts": 61,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -180,6 +180,13 @@
     "loot": 19020
    },
    {
+    "tag": "#CUQYLPU",
+    "name": "ФЕРЗЬ",
+    "a": 4,
+    "lim": 6,
+    "loot": 16905
+   },
+   {
     "tag": "#GUPY0JL0C",
     "name": "салфетка",
     "a": 6,
@@ -199,13 +206,6 @@
     "a": 3,
     "lim": 6,
     "loot": 7008
-   },
-   {
-    "tag": "#CUQYLPU",
-    "name": "ФЕРЗЬ",
-    "a": 2,
-    "lim": 6,
-    "loot": 6151
    },
    {
     "tag": "#GRU0U22GV",
