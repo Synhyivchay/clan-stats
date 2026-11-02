@@ -15,16 +15,16 @@
    "level": 27,
    "stars": 60,
    "pct": 100.0,
-   "attacks": 25
+   "attacks": 26
   },
   "them": {
    "tag": "#2PRY220U",
    "name": "les vikings",
    "badge": "https://api-assets.clashofclans.com/badges/200/1lYGZmeLI2IrBEdLdSW-d9sXUahwi2FBJOtGLqCWkXk.png",
    "level": 36,
-   "stars": 53,
-   "pct": 95.05,
-   "attacks": 34
+   "stars": 54,
+   "pct": 95.8,
+   "attacks": 36
   },
   "members": [
    {
@@ -490,7 +490,7 @@
      }
     ],
     "def": {
-     "n": 4,
+     "n": 5,
      "s": 2,
      "p": 96
     }
@@ -500,7 +500,19 @@
     "name": "AnoNymous",
     "th": 18,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2LCCR002Y",
+      "dn": "Joce",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 62,
+      "n": 0,
+      "dur": 152
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -550,13 +562,13 @@
      }
     ],
     "def": {
-     "n": 3,
-     "s": 2,
-     "p": 85
+     "n": 4,
+     "s": 3,
+     "p": 100
     }
    }
   ],
-  "snap": "2026-11-02T19:22:39Z"
+  "snap": "2026-11-02T19:32:38Z"
  },
  {
   "id": "war_20261029T215923Z_UCGURP9L",
