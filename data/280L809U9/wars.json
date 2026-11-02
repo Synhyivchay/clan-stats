@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 2,
   "warTag": "#8RV9L2QRP",
-  "snap": "2026-11-02T19:52:38Z"
+  "snap": "2026-11-02T19:57:38Z"
  },
  {
   "id": "cwl_20261101T171731Z_92RYQ2JJ",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 14,
-   "pct": 16.6,
-   "attacks": 5
+   "stars": 15,
+   "pct": 19.07,
+   "attacks": 6
   },
   "them": {
    "tag": "#92RYQ2JJ",
@@ -582,7 +582,19 @@
     "name": "Адик",
     "th": 17,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QJ22JU28L",
+      "dn": "Dendam77Beradik",
+      "dpos": 14,
+      "dth": 18,
+      "s": 1,
+      "p": 74,
+      "o": 12,
+      "n": 1,
+      "dur": 161
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -845,7 +857,7 @@
   "season": "2026-11-01",
   "round": 1,
   "warTag": "#8RV2GVGVG",
-  "snap": "2026-11-02T19:52:38Z"
+  "snap": "2026-11-02T19:57:38Z"
  },
  {
   "id": "war_20261029T214951Z_UQLYQCPR",
