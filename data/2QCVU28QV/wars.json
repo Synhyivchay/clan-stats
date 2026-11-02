@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 38,
-   "pct": 64.75,
-   "attacks": 13
+   "stars": 41,
+   "pct": 69.75,
+   "attacks": 14
   },
   "them": {
    "tag": "#2PRY220U",
@@ -150,6 +150,17 @@
       "o": 13,
       "n": 3,
       "dur": 120
+     },
+     {
+      "d": "#YPGQUYCP",
+      "dn": "Meillant1",
+      "dpos": 12,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 30,
+      "n": 3,
+      "dur": 99
      }
     ],
     "def": {
@@ -420,7 +431,7 @@
     }
    }
   ],
-  "snap": "2026-11-02T08:41:32Z"
+  "snap": "2026-11-02T08:51:32Z"
  },
  {
   "id": "war_20261029T215923Z_UCGURP9L",
