@@ -16,7 +16,9 @@
  "warLogPublic": true,
  "trackingSince": "2026-10-15T13:52:34Z",
  "contribFetched": "2026-11-02T05:06:16Z",
- "updated": "2026-11-02T05:11:16Z",
- "errors": [],
+ "updated": "2026-11-02T05:16:16Z",
+ "errors": [
+  "ЛВК война #8RV2GVY0J: 520 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/\",\"title\":\"Error 520: Web server is returning an unknown error\",\"status\":520,\"detai (/clanwarleagues/wars/#8RV2GVY0J)"
+ ],
  "show": true
 }
