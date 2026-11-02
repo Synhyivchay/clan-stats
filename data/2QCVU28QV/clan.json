@@ -16,7 +16,9 @@
  "warLogPublic": true,
  "trackingSince": "2026-10-16T21:01:41Z",
  "contribFetched": "2026-11-02T02:11:16Z",
- "updated": "2026-11-02T02:21:16Z",
- "errors": [],
+ "updated": "2026-11-02T02:26:16Z",
+ "errors": [
+  "ЛВК: 525 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-525/\",\"title\":\"Error 525: SSL handshake failed\",\"status\":525,\"detail\":\"The SSL/TLS hand (/clans/#2QCVU28QV/currentwar/leaguegroup)"
+ ],
  "show": true
 }
