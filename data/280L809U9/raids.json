@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 765124,
+  "loot": 784125,
   "raids": 9,
-  "attacks": 179,
-  "districts": 68,
+  "attacks": 183,
+  "districts": 69,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -208,6 +208,13 @@
     "loot": 19020
    },
    {
+    "tag": "#PCUY9YUYU",
+    "name": "OO REEBOK OO",
+    "a": 4,
+    "lim": 6,
+    "loot": 19001
+   },
+   {
     "tag": "#GUPY0JL0C",
     "name": "салфетка",
     "a": 6,
@@ -227,13 +234,6 @@
     "a": 2,
     "lim": 5,
     "loot": 4325
-   },
-   {
-    "tag": "#PCUY9YUYU",
-    "name": "OO REEBOK OO",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
    }
   ]
  },
