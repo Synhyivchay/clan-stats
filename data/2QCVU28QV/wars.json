@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 46,
-   "pct": 79.45,
-   "attacks": 16
+   "stars": 51,
+   "pct": 89.2,
+   "attacks": 18
   },
   "them": {
    "tag": "#2PRY220U",
@@ -67,6 +67,17 @@
       "o": 36,
       "n": 3,
       "dur": 159
+     },
+     {
+      "d": "#28CGVGUU2",
+      "dn": "AstralS",
+      "dpos": 14,
+      "dth": 18,
+      "s": 2,
+      "p": 95,
+      "o": 37,
+      "n": 2,
+      "dur": 180
      }
     ],
     "def": {
@@ -233,6 +244,17 @@
       "o": 35,
       "n": 2,
       "dur": 180
+     },
+     {
+      "d": "#28VYRR9YP",
+      "dn": "bouch",
+      "dpos": 15,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 38,
+      "n": 3,
+      "dur": 127
      }
     ],
     "def": {
@@ -455,7 +477,7 @@
     }
    }
   ],
-  "snap": "2026-11-02T10:51:32Z"
+  "snap": "2026-11-02T11:01:55Z"
  },
  {
   "id": "war_20261029T215923Z_UCGURP9L",
