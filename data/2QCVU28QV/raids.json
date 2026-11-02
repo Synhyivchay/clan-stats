@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 886716,
-  "raids": 11,
-  "attacks": 199,
-  "districts": 80,
+  "loot": 893726,
+  "raids": 12,
+  "attacks": 201,
+  "districts": 81,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -252,9 +252,9 @@
    {
     "tag": "#GRYQY8Q",
     "name": "@Michi@",
-    "a": 1,
-    "lim": 5,
-    "loot": 2950
+    "a": 3,
+    "lim": 6,
+    "loot": 9960
    }
   ]
  },
