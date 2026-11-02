@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 865522,
+  "loot": 873441,
   "raids": 11,
-  "attacks": 193,
-  "districts": 78,
+  "attacks": 195,
+  "districts": 79,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -245,9 +245,9 @@
    {
     "tag": "#JGGCYUUG",
     "name": "Alastor",
-    "a": 1,
-    "lim": 5,
-    "loot": 4370
+    "a": 3,
+    "lim": 6,
+    "loot": 12289
    }
   ]
  },
