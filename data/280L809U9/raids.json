@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 655425,
+  "loot": 659830,
   "raids": 8,
-  "attacks": 155,
+  "attacks": 156,
   "districts": 58,
   "offReward": 0,
   "defReward": 0,
@@ -103,6 +103,13 @@
     "loot": 25579
    },
    {
+    "tag": "#QQ90VV9L2",
+    "name": "Aviasales",
+    "a": 6,
+    "lim": 6,
+    "loot": 25216
+   },
+   {
     "tag": "#GRQC2829L",
     "name": "ed_sans_123",
     "a": 6,
@@ -150,13 +157,6 @@
     "a": 6,
     "lim": 6,
     "loot": 22051
-   },
-   {
-    "tag": "#QQ90VV9L2",
-    "name": "Aviasales",
-    "a": 5,
-    "lim": 6,
-    "loot": 20811
    },
    {
     "tag": "#9LQ2YUVUY",
