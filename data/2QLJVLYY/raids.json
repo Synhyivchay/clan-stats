@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 816299,
+  "loot": 819904,
   "raids": 10,
-  "attacks": 206,
+  "attacks": 207,
   "districts": 73,
   "offReward": 0,
   "defReward": 0,
@@ -262,6 +262,13 @@
     "a": 1,
     "lim": 5,
     "loot": 5070
+   },
+   {
+    "tag": "#Y0CPG29L8",
+    "name": "Артем",
+    "a": 1,
+    "lim": 5,
+    "loot": 3605
    }
   ]
  },
