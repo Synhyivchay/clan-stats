@@ -4,8 +4,8 @@
  "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
  "level": 34,
  "description": "Welcome. Рейды обязательно. ЛВК от 17тх, второй клан Badboys - лвк от 14тх",
- "members": 36,
- "points": 92700,
+ "members": 37,
+ "points": 95100,
  "warWins": 826,
  "warLosses": 492,
  "warTies": 13,
@@ -16,7 +16,9 @@
  "warLogPublic": true,
  "trackingSince": "2026-10-15T22:46:46Z",
  "contribFetched": "2026-11-02T08:21:32Z",
- "updated": "2026-11-02T08:21:32Z",
- "errors": [],
+ "updated": "2026-11-02T08:26:32Z",
+ "errors": [
+  "ЛВК война #8RUGCL89G: 525 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-525/\",\"title\":\"Error 525: SSL handshake failed\",\"status\":525,\"detail\":\"The SSL/TLS hand (/clanwarleagues/wars/#8RUGCL89G)"
+ ],
  "show": true
 }
