@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 683720,
+  "loot": 687479,
   "raids": 8,
-  "attacks": 162,
-  "districts": 61,
+  "attacks": 163,
+  "districts": 62,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -59,6 +59,13 @@
     "a": 6,
     "lim": 6,
     "loot": 28859
+   },
+   {
+    "tag": "#G0GP90YCL",
+    "name": "Boston",
+    "a": 6,
+    "lim": 6,
+    "loot": 28422
    },
    {
     "tag": "#GLCVPCCQ2",
@@ -115,13 +122,6 @@
     "a": 6,
     "lim": 6,
     "loot": 25004
-   },
-   {
-    "tag": "#G0GP90YCL",
-    "name": "Boston",
-    "a": 5,
-    "lim": 6,
-    "loot": 24663
    },
    {
     "tag": "#QJYVP0JJU",
