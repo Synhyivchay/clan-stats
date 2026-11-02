@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 29,
-   "pct": 49.75,
-   "attacks": 10
+   "stars": 32,
+   "pct": 54.75,
+   "attacks": 11
   },
   "them": {
    "tag": "#2PRY220U",
@@ -56,7 +56,19 @@
     "name": "Evil Kruemel",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2JJP0YC0G",
+      "dn": "Ragnar",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 20,
+      "n": 3,
+      "dur": 174
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -385,7 +397,7 @@
     }
    }
   ],
-  "snap": "2026-11-02T07:01:32Z"
+  "snap": "2026-11-02T07:06:32Z"
  },
  {
   "id": "war_20261029T215923Z_UCGURP9L",
