@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 819904,
+  "loot": 837594,
   "raids": 10,
-  "attacks": 207,
-  "districts": 73,
+  "attacks": 212,
+  "districts": 75,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -187,6 +187,13 @@
     "loot": 22123
    },
    {
+    "tag": "#Y0CPG29L8",
+    "name": "Артем",
+    "a": 6,
+    "lim": 6,
+    "loot": 21295
+   },
+   {
     "tag": "#LVCQPQ822",
     "name": "Legenda",
     "a": 6,
@@ -262,13 +269,6 @@
     "a": 1,
     "lim": 5,
     "loot": 5070
-   },
-   {
-    "tag": "#Y0CPG29L8",
-    "name": "Артем",
-    "a": 1,
-    "lim": 5,
-    "loot": 3605
    }
   ]
  },
