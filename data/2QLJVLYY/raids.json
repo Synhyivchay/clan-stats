@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 910161,
+  "loot": 916271,
   "raids": 12,
-  "attacks": 230,
+  "attacks": 231,
   "districts": 81,
   "offReward": 0,
   "defReward": 0,
@@ -52,6 +52,13 @@
     "a": 6,
     "lim": 6,
     "loot": 29599
+   },
+   {
+    "tag": "#YR9GYYQC2",
+    "name": "Stars",
+    "a": 6,
+    "lim": 6,
+    "loot": 29366
    },
    {
     "tag": "#YVP0G0V2G",
@@ -150,13 +157,6 @@
     "a": 6,
     "lim": 6,
     "loot": 23657
-   },
-   {
-    "tag": "#YR9GYYQC2",
-    "name": "Stars",
-    "a": 5,
-    "lim": 6,
-    "loot": 23256
    },
    {
     "tag": "#GU9UY0L98",
