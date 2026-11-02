@@ -283,6 +283,13 @@
     "a": 1,
     "lim": 5,
     "loot": 3230
+   },
+   {
+    "tag": "#YR9GYYQC2",
+    "name": "Stars",
+    "a": 0,
+    "lim": 5,
+    "loot": 0
    }
   ]
  },
