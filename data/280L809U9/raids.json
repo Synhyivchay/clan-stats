@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 633721,
+  "loot": 655425,
   "raids": 8,
-  "attacks": 151,
-  "districts": 56,
+  "attacks": 155,
+  "districts": 58,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#GQLRPL8Q0",
+    "name": "Jamshid",
+    "a": 6,
+    "lim": 6,
+    "loot": 35912
+   },
    {
     "tag": "#LQRY8VC2Q",
     "name": "[DM] PIKACHULOL",
@@ -117,13 +124,6 @@
     "loot": 24510
    },
    {
-    "tag": "#GQLRPL8Q0",
-    "name": "Jamshid",
-    "a": 4,
-    "lim": 6,
-    "loot": 24045
-   },
-   {
     "tag": "#GJ8PJY2PJ",
     "name": "RECORD",
     "a": 6,
@@ -152,6 +152,13 @@
     "loot": 22051
    },
    {
+    "tag": "#QQ90VV9L2",
+    "name": "Aviasales",
+    "a": 5,
+    "lim": 6,
+    "loot": 20811
+   },
+   {
     "tag": "#9LQ2YUVUY",
     "name": "рома",
     "a": 6,
@@ -178,13 +185,6 @@
     "a": 6,
     "lim": 6,
     "loot": 11557
-   },
-   {
-    "tag": "#QQ90VV9L2",
-    "name": "Aviasales",
-    "a": 3,
-    "lim": 6,
-    "loot": 10974
    },
    {
     "tag": "#GLL20U2Q9",
