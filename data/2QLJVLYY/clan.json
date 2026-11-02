@@ -15,11 +15,8 @@
  "capitalHall": 10,
  "warLogPublic": true,
  "trackingSince": "2026-10-15T22:46:46Z",
- "contribFetched": "2026-11-02T08:21:32Z",
- "updated": "2026-11-02T09:11:32Z",
- "errors": [
-  "ЛВК война #8RUGCL9QU: 520 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/\",\"title\":\"Error 520: Web server is returning an unknown error\",\"status\":520,\"detai (/clanwarleagues/wars/#8RUGCL9QU)",
-  "Рейды: 520 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/\",\"title\":\"Error 520: Web server is returning an unknown error\",\"status\":520,\"detai (/clans/#2QLJVLYY/capitalraidseasons?limit=4)"
- ],
+ "contribFetched": "2026-11-02T09:21:32Z",
+ "updated": "2026-11-02T09:21:32Z",
+ "errors": [],
  "show": true
 }
