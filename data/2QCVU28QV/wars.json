@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 32,
-   "pct": 54.75,
-   "attacks": 11
+   "stars": 35,
+   "pct": 59.75,
+   "attacks": 12
   },
   "them": {
    "tag": "#2PRY220U",
    "name": "les vikings",
    "badge": "https://api-assets.clashofclans.com/badges/200/1lYGZmeLI2IrBEdLdSW-d9sXUahwi2FBJOtGLqCWkXk.png",
    "level": 36,
-   "stars": 21,
-   "pct": 38.35,
-   "attacks": 9
+   "stars": 24,
+   "pct": 43.35,
+   "attacks": 10
   },
   "members": [
    {
@@ -67,6 +67,17 @@
       "o": 20,
       "n": 3,
       "dur": 174
+     },
+     {
+      "d": "#YGU0QRYV",
+      "dn": "OA Faz",
+      "dpos": 10,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 21,
+      "n": 3,
+      "dur": 148
      }
     ],
     "def": {
@@ -94,9 +105,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -397,7 +408,7 @@
     }
    }
   ],
-  "snap": "2026-11-02T07:06:32Z"
+  "snap": "2026-11-02T07:11:32Z"
  },
  {
   "id": "war_20261029T215923Z_UCGURP9L",
