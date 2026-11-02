@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 54,
-   "pct": 90.0,
-   "attacks": 21
+   "stars": 57,
+   "pct": 95.0,
+   "attacks": 22
   },
   "them": {
    "tag": "#2PRY220U",
@@ -230,6 +230,17 @@
       "o": 44,
       "n": 1,
       "dur": 150
+     },
+     {
+      "d": "#9PCPL2CJ9",
+      "dn": "TantePlace",
+      "dpos": 17,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 45,
+      "n": 3,
+      "dur": 173
      }
     ],
     "def": {
@@ -511,7 +522,7 @@
     }
    }
   ],
-  "snap": "2026-11-02T14:01:55Z"
+  "snap": "2026-11-02T14:06:55Z"
  },
  {
   "id": "war_20261029T215923Z_UCGURP9L",
