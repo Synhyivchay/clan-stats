@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 862728,
+  "loot": 866218,
   "raids": 10,
-  "attacks": 218,
+  "attacks": 219,
   "districts": 77,
   "offReward": 0,
   "defReward": 0,
@@ -243,18 +243,18 @@
     "loot": 17091
    },
    {
+    "tag": "#PVCPGJL9R",
+    "name": "000Roma000",
+    "a": 4,
+    "lim": 6,
+    "loot": 15960
+   },
+   {
     "tag": "#9289UJLQ",
     "name": "AkiloFF_17",
     "a": 6,
     "lim": 6,
     "loot": 15479
-   },
-   {
-    "tag": "#PVCPGJL9R",
-    "name": "000Roma000",
-    "a": 3,
-    "lim": 6,
-    "loot": 12470
    },
    {
     "tag": "#LG2JCP99G",
