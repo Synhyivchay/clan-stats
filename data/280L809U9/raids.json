@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 755109,
+  "loot": 761034,
   "raids": 9,
-  "attacks": 177,
-  "districts": 67,
+  "attacks": 178,
+  "districts": 68,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -87,6 +87,13 @@
     "a": 6,
     "lim": 6,
     "loot": 27886
+   },
+   {
+    "tag": "#8QUG9QQ8G",
+    "name": "ReTrO",
+    "a": 5,
+    "lim": 6,
+    "loot": 27147
    },
    {
     "tag": "#YUUQCGL2J",
@@ -178,13 +185,6 @@
     "a": 6,
     "lim": 6,
     "loot": 22051
-   },
-   {
-    "tag": "#8QUG9QQ8G",
-    "name": "ReTrO",
-    "a": 4,
-    "lim": 6,
-    "loot": 21222
    },
    {
     "tag": "#9LQ2YUVUY",
