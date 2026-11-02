@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 60,
    "pct": 100.0,
-   "attacks": 28
+   "attacks": 31
   },
   "them": {
    "tag": "#2PRY220U",
@@ -535,7 +535,19 @@
     "name": "RudiV3",
     "th": 18,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2LCCR002Y",
+      "dn": "Joce",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 22,
+      "o": 67,
+      "n": 0,
+      "dur": 15
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -547,7 +559,30 @@
     "name": "RudiV4",
     "th": 18,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2LCCR002Y",
+      "dn": "Joce",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 23,
+      "o": 65,
+      "n": 0,
+      "dur": 20
+     },
+     {
+      "d": "#YVLGYG0",
+      "dn": "gabyii",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 16,
+      "o": 66,
+      "n": 0,
+      "dur": 15
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -590,7 +625,7 @@
     }
    }
   ],
-  "snap": "2026-11-02T19:57:38Z"
+  "snap": "2026-11-02T20:02:38Z"
  },
  {
   "id": "war_20261029T215923Z_UCGURP9L",
