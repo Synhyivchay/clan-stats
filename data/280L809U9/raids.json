@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-10-30T07:00:00Z",
   "end": "2026-11-02T07:00:00Z",
-  "loot": 700380,
+  "loot": 728042,
   "raids": 9,
-  "attacks": 166,
-  "districts": 63,
+  "attacks": 172,
+  "districts": 65,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -110,6 +110,13 @@
     "loot": 25579
    },
    {
+    "tag": "#GLL20U2Q9",
+    "name": "ㅤㅤㅤㅤ",
+    "a": 6,
+    "lim": 6,
+    "loot": 25381
+   },
+   {
     "tag": "#QQ90VV9L2",
     "name": "Aviasales",
     "a": 6,
@@ -129,6 +136,13 @@
     "a": 6,
     "lim": 6,
     "loot": 24510
+   },
+   {
+    "tag": "#29QLJ0YY",
+    "name": "ReTrO",
+    "a": 5,
+    "lim": 6,
+    "loot": 24280
    },
    {
     "tag": "#GJ8PJY2PJ",
@@ -187,25 +201,11 @@
     "loot": 19020
    },
    {
-    "tag": "#29QLJ0YY",
-    "name": "ReTrO",
-    "a": 3,
-    "lim": 6,
-    "loot": 12901
-   },
-   {
     "tag": "#GUPY0JL0C",
     "name": "салфетка",
     "a": 6,
     "lim": 6,
     "loot": 11557
-   },
-   {
-    "tag": "#GLL20U2Q9",
-    "name": "ㅤㅤㅤㅤ",
-    "a": 2,
-    "lim": 6,
-    "loot": 9098
    },
    {
     "tag": "#LGRVJULJJ",
