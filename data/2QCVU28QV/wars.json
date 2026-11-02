@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 41,
-   "pct": 69.75,
-   "attacks": 14
+   "stars": 46,
+   "pct": 79.45,
+   "attacks": 16
   },
   "them": {
    "tag": "#2PRY220U",
@@ -56,7 +56,19 @@
     "name": "slory",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QU8JYVUR",
+      "dn": "⚔️FOLLOW_SAHBI",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 36,
+      "n": 3,
+      "dur": 159
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -210,7 +222,19 @@
     "name": "Bassko",
     "th": 18,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#98VU928J",
+      "dn": "MaRmOtToNs",
+      "dpos": 11,
+      "dth": 18,
+      "s": 2,
+      "p": 94,
+      "o": 35,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -431,7 +455,7 @@
     }
    }
   ],
-  "snap": "2026-11-02T10:41:32Z"
+  "snap": "2026-11-02T10:51:32Z"
  },
  {
   "id": "war_20261029T215923Z_UCGURP9L",
