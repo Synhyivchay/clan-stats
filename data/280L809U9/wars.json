@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 2,
   "warTag": "#8RV9L2QRP",
-  "snap": "2026-11-03T03:37:32Z"
+  "snap": "2026-11-03T03:42:32Z"
  },
  {
   "id": "cwl_20261101T171731Z_92RYQ2JJ",
@@ -416,9 +416,9 @@
    "name": "A.M.C PASAMAN",
    "badge": "https://api-assets.clashofclans.com/badges/200/n4bWHSbVp4soB70kpzV1UAqK-zGvAC-5pg0TGcR-iZ0.png",
    "level": 31,
-   "stars": 32,
-   "pct": 38.97,
-   "attacks": 12
+   "stars": 34,
+   "pct": 41.33,
+   "attacks": 13
   },
   "members": [
    {
@@ -500,9 +500,9 @@
     "pos": 6,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 71
     }
    },
    {
@@ -905,7 +905,7 @@
   "season": "2026-11-01",
   "round": 1,
   "warTag": "#8RV2GVGVG",
-  "snap": "2026-11-03T03:37:32Z"
+  "snap": "2026-11-03T03:42:32Z"
  },
  {
   "id": "war_20261029T214951Z_UQLYQCPR",
