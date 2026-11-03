@@ -88,22 +88,10 @@
     }
    },
    {
-    "tag": "#PYYCP9JY",
-    "name": "ExXtrAkkT",
-    "th": 18,
-    "pos": 6,
-    "attacks": [],
-    "def": {
-     "n": 0,
-     "s": null,
-     "p": null
-    }
-   },
-   {
     "tag": "#LG8YC2Y92",
     "name": "Kingdingeling",
     "th": 18,
-    "pos": 7,
+    "pos": 6,
     "attacks": [],
     "def": {
      "n": 0,
@@ -115,7 +103,7 @@
     "tag": "#Q9G2JL0U",
     "name": "Flashbang",
     "th": 18,
-    "pos": 8,
+    "pos": 7,
     "attacks": [],
     "def": {
      "n": 0,
@@ -127,7 +115,7 @@
     "tag": "#2GG9VVGQJ",
     "name": "Rudi",
     "th": 18,
-    "pos": 9,
+    "pos": 8,
     "attacks": [],
     "def": {
      "n": 0,
@@ -139,7 +127,7 @@
     "tag": "#L9P0UP28",
     "name": "Killer 2000",
     "th": 18,
-    "pos": 10,
+    "pos": 9,
     "attacks": [],
     "def": {
      "n": 0,
@@ -150,6 +138,18 @@
    {
     "tag": "#YL0QYGP0V",
     "name": "Bassko",
+    "th": 18,
+    "pos": 10,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#9U20UCLV2",
+    "name": "LokiPhil",
     "th": 18,
     "pos": 11,
     "attacks": [],
@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 1,
   "warTag": "#8G0LUP2GP",
-  "snap": "2026-11-03T10:38:28Z"
+  "snap": "2026-11-03T10:48:28Z"
  },
  {
   "id": "war_20261031T215145Z_2PRY220U",
