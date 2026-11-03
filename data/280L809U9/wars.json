@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 3,
   "warTag": "#8RVYCYUVG",
-  "snap": "2026-11-03T18:29:18Z"
+  "snap": "2026-11-03T18:34:26Z"
  },
  {
   "id": "cwl_20261102T171738Z_2YUGPCGLJ",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 14,
-   "pct": 17.47,
-   "attacks": 6
+   "stars": 17,
+   "pct": 20.8,
+   "attacks": 7
   },
   "them": {
    "tag": "#2YUGPCGLJ",
@@ -642,7 +642,19 @@
     "name": "MR.KING",
     "th": 17,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PVLVJ2L02",
+      "dn": "Prince",
+      "dpos": 15,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 10,
+      "n": 3,
+      "dur": 142
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -857,7 +869,7 @@
   "season": "2026-11-01",
   "round": 2,
   "warTag": "#8RV9L2QRP",
-  "snap": "2026-11-03T18:29:18Z"
+  "snap": "2026-11-03T18:34:26Z"
  },
  {
   "id": "cwl_20261101T171731Z_92RYQ2JJ",

@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 3,
   "warTag": "#8RUUVVQV0",
-  "snap": "2026-11-03T18:29:18Z"
+  "snap": "2026-11-03T18:34:26Z"
  },
  {
   "id": "cwl_20261102T171147Z_20UV9220Y",
@@ -227,9 +227,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 6,
-   "pct": 13.33,
-   "attacks": 2
+   "stars": 8,
+   "pct": 18.07,
+   "attacks": 3
   },
   "them": {
    "tag": "#20UV9220Y",
@@ -378,7 +378,19 @@
     "name": "~LuciFer~",
     "th": 18,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QGL9VUCL0",
+      "dn": "MAGNUS",
+      "dpos": 10,
+      "dth": 18,
+      "s": 2,
+      "p": 71,
+      "o": 9,
+      "n": 2,
+      "dur": 123
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -449,7 +461,7 @@
   "season": "2026-11-01",
   "round": 2,
   "warTag": "#8RUJGC9Y0",
-  "snap": "2026-11-03T18:29:18Z"
+  "snap": "2026-11-03T18:34:26Z"
  },
  {
   "id": "cwl_20261101T171138Z_2J0UVYRQL",
