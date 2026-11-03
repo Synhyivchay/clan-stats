@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 2,
   "warTag": "#8RV9L2QRP",
-  "snap": "2026-11-03T06:02:32Z"
+  "snap": "2026-11-03T06:07:32Z"
  },
  {
   "id": "cwl_20261101T171731Z_92RYQ2JJ",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 28,
-   "pct": 35.07,
-   "attacks": 12
+   "stars": 31,
+   "pct": 38.4,
+   "attacks": 13
   },
   "them": {
    "tag": "#92RYQ2JJ",
@@ -750,7 +750,19 @@
     "name": "prime",
     "th": 17,
     "pos": 22,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PVRR2RR89",
+      "dn": "Leonidas",
+      "dpos": 22,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 28,
+      "n": 3,
+      "dur": 129
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -929,7 +941,7 @@
   "season": "2026-11-01",
   "round": 1,
   "warTag": "#8RV2GVGVG",
-  "snap": "2026-11-03T06:02:32Z"
+  "snap": "2026-11-03T06:07:32Z"
  },
  {
   "id": "war_20261029T214951Z_UQLYQCPR",
