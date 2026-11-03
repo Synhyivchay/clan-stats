@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 2,
   "warTag": "#8RV9L2QRP",
-  "snap": "2026-11-03T06:22:32Z"
+  "snap": "2026-11-03T06:32:32Z"
  },
  {
   "id": "cwl_20261101T171731Z_92RYQ2JJ",
@@ -408,8 +408,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 31,
-   "pct": 38.4,
-   "attacks": 13
+   "pct": 39.2,
+   "attacks": 14
   },
   "them": {
    "tag": "#92RYQ2JJ",
@@ -666,7 +666,19 @@
     "name": "DimagFM",
     "th": 17,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LYRJLJ9UR",
+      "dn": "ㅤㅤㅤ ㅤㅤㅤ ㅤㅤㅤ ㅤㅤㅤ",
+      "dpos": 16,
+      "dth": 18,
+      "s": 0,
+      "p": 24,
+      "o": 30,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -941,7 +953,7 @@
   "season": "2026-11-01",
   "round": 1,
   "warTag": "#8RV2GVGVG",
-  "snap": "2026-11-03T06:22:32Z"
+  "snap": "2026-11-03T06:32:32Z"
  },
  {
   "id": "war_20261029T214951Z_UQLYQCPR",
