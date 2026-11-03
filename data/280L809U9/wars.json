@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 3,
   "warTag": "#8RVYCYUVG",
-  "snap": "2026-11-03T17:59:21Z"
+  "snap": "2026-11-03T18:04:23Z"
  },
  {
   "id": "cwl_20261102T171738Z_2YUGPCGLJ",
@@ -407,18 +407,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 10,
-   "pct": 12.3,
-   "attacks": 4
+   "stars": 14,
+   "pct": 17.47,
+   "attacks": 6
   },
   "them": {
    "tag": "#2YUGPCGLJ",
    "name": "# MAHABHARAT",
    "badge": "https://api-assets.clashofclans.com/badges/200/vAK2_2gB9hh-TIBUhvh0B_1fzYJflCtk0i32r_Nsr6I.png",
    "level": 27,
-   "stars": 3,
-   "pct": 4.4,
-   "attacks": 2
+   "stars": 5,
+   "pct": 6.53,
+   "attacks": 3
   },
   "members": [
    {
@@ -450,7 +450,19 @@
     "name": "Patrik",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#ULLYGC22",
+      "dn": "BUSTER",
+      "dpos": 2,
+      "dth": 18,
+      "s": 2,
+      "p": 65,
+      "o": 9,
+      "n": 2,
+      "dur": 163
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -594,7 +606,19 @@
     "name": "Partizan",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q2QYGUG9U",
+      "dn": "ISHANT",
+      "dpos": 13,
+      "dth": 18,
+      "s": 2,
+      "p": 90,
+      "o": 8,
+      "n": 2,
+      "dur": 97
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -656,9 +680,9 @@
     "pos": 18,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 64
     }
    },
    {
@@ -833,7 +857,7 @@
   "season": "2026-11-01",
   "round": 2,
   "warTag": "#8RV9L2QRP",
-  "snap": "2026-11-03T17:59:21Z"
+  "snap": "2026-11-03T18:04:23Z"
  },
  {
   "id": "cwl_20261101T171731Z_92RYQ2JJ",
