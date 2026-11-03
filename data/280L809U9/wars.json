@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 2,
   "warTag": "#8RV9L2QRP",
-  "snap": "2026-11-03T10:28:28Z"
+  "snap": "2026-11-03T10:33:28Z"
  },
  {
   "id": "cwl_20261101T171731Z_92RYQ2JJ",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 34,
-   "pct": 42.53,
-   "attacks": 15
+   "stars": 35,
+   "pct": 45.03,
+   "attacks": 16
   },
   "them": {
    "tag": "#92RYQ2JJ",
@@ -726,7 +726,19 @@
     "name": "Aviasales",
     "th": 17,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#28RU2UR0Q",
+      "dn": "RamadhaniAe",
+      "dpos": 19,
+      "dth": 17,
+      "s": 1,
+      "p": 75,
+      "o": 33,
+      "n": 1,
+      "dur": 79
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -965,7 +977,7 @@
   "season": "2026-11-01",
   "round": 1,
   "warTag": "#8RV2GVGVG",
-  "snap": "2026-11-03T10:28:28Z"
+  "snap": "2026-11-03T10:33:28Z"
  },
  {
   "id": "war_20261029T214951Z_UQLYQCPR",
