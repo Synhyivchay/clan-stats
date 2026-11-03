@@ -1,1 +1,260 @@
-{}
+{
+ "2026-11-03": {
+  "season": "2026-11-03",
+  "wars": {
+   "#8G0LUP2GP": "cwl_20261103T080108Z_2G8CJJRY9"
+  },
+  "others": {
+   "#8G0LUPJJP": {
+    "round": 1,
+    "state": "preparation",
+    "a": {
+     "tag": "#2JG00JCG2",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#8VRCCRR2",
+     "stars": 0,
+     "pct": 0.0
+    }
+   },
+   "#8G0LUP8UG": {
+    "round": 1,
+    "state": "preparation",
+    "a": {
+     "tag": "#PG8L9QQ",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#282VPPRUJ",
+     "stars": 0,
+     "pct": 0.0
+    }
+   },
+   "#8G0LUYYUP": {
+    "round": 1,
+    "state": "preparation",
+    "a": {
+     "tag": "#PCQ99QVG",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#2LP8U9CY8",
+     "stars": 0,
+     "pct": 0.0
+    }
+   }
+  },
+  "state": "preparation",
+  "clans": [
+   {
+    "tag": "#2JG00JCG2",
+    "name": "DrewTookMyClan",
+    "badge": "https://api-assets.clashofclans.com/badges/200/a8HUzawjeaclpK-p_PuAD7v7P_o5hPsc8F6ftfYkJh4.png",
+    "level": 18
+   },
+   {
+    "tag": "#2QCVU28QV",
+    "name": "! ELITE !",
+    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
+    "level": 27
+   },
+   {
+    "tag": "#8VRCCRR2",
+    "name": "ΕΛΛΑΝΙΟΙ",
+    "badge": "https://api-assets.clashofclans.com/badges/200/pEU1L2T-B3uDDESohKh2nzvGKetDT9GWcPMv8GGfAKY.png",
+    "level": 28
+   },
+   {
+    "tag": "#2G8CJJRY9",
+    "name": "جمهورية صرف",
+    "badge": "https://api-assets.clashofclans.com/badges/200/v5OhP0oc4t4-BMkLegL9ye37tjfsCIqo7UjzdIejLUQ.png",
+    "level": 28
+   },
+   {
+    "tag": "#PG8L9QQ",
+    "name": "6789 BamBam",
+    "badge": "https://api-assets.clashofclans.com/badges/200/_mgxINqEqZt84OKlDO4Tu_mcZgjseQhIMufmjc5hrQY.png",
+    "level": 31
+   },
+   {
+    "tag": "#PCQ99QVG",
+    "name": "Yeshua Warriors",
+    "badge": "https://api-assets.clashofclans.com/badges/200/bptZvpkySHCa8-eOlqkZTZ7k30lDdgMltEU-wOY8pBs.png",
+    "level": 27
+   },
+   {
+    "tag": "#282VPPRUJ",
+    "name": "NEVER GIVE UP",
+    "badge": "https://api-assets.clashofclans.com/badges/200/2oCHCPnK7fjG99D0fb-EHrLnun0-F7IthLsif_Ux3HQ.png",
+    "level": 20
+   },
+   {
+    "tag": "#2LP8U9CY8",
+    "name": "شجرة الضفادع",
+    "badge": "https://api-assets.clashofclans.com/badges/200/TJn7nmGsYcpuXMqX0JvkX414nD_DIzo71SwUbeMmaxE.png",
+    "level": 20
+   }
+  ],
+  "roster": [
+   {
+    "tag": "#GLPYJCYCY",
+    "name": "RyanGosling",
+    "th": 18
+   },
+   {
+    "tag": "#20VPVYUVY",
+    "name": "max",
+    "th": 18
+   },
+   {
+    "tag": "#LG8YC2Y92",
+    "name": "Kingdingeling",
+    "th": 18
+   },
+   {
+    "tag": "#80CLP9QQ0",
+    "name": "hazhir ro",
+    "th": 18
+   },
+   {
+    "tag": "#YU99PU9GQ",
+    "name": "Luka Tate",
+    "th": 18
+   },
+   {
+    "tag": "#QCPY90LJU",
+    "name": "MathUltimate",
+    "th": 18
+   },
+   {
+    "tag": "#L00QULLJ",
+    "name": "Henry",
+    "th": 18
+   },
+   {
+    "tag": "#9VV8JLR0Y",
+    "name": "Ahmed leo 10$$",
+    "th": 18
+   },
+   {
+    "tag": "#L90PG0GG",
+    "name": "Timo2",
+    "th": 18
+   },
+   {
+    "tag": "#2GG9VVGQJ",
+    "name": "Rudi",
+    "th": 18
+   },
+   {
+    "tag": "#Q9G2JL0U",
+    "name": "Flashbang",
+    "th": 18
+   },
+   {
+    "tag": "#2JCQPL89R",
+    "name": "؞۩׀ＰＲ０Ｔ０ＴＹＰＥ׀۩؞",
+    "th": 18
+   },
+   {
+    "tag": "#20PC0PL2L",
+    "name": "Ｍ Λ Ｘ",
+    "th": 18
+   },
+   {
+    "tag": "#9U20UCLV2",
+    "name": "LokiPhil",
+    "th": 18
+   },
+   {
+    "tag": "#9090P29L9",
+    "name": "Louis™️187",
+    "th": 18
+   },
+   {
+    "tag": "#LRV88C0RQ",
+    "name": "Bigmac's sohn",
+    "th": 18
+   },
+   {
+    "tag": "#LYVPPVGPC",
+    "name": "Kobold",
+    "th": 18
+   },
+   {
+    "tag": "#JGGCYUUG",
+    "name": "Alastor",
+    "th": 18
+   },
+   {
+    "tag": "#YL0QYGP0V",
+    "name": "Bassko",
+    "th": 18
+   },
+   {
+    "tag": "#22L9YGQ2U",
+    "name": "slory",
+    "th": 18
+   },
+   {
+    "tag": "#QJRR2Y809",
+    "name": "Cazerr",
+    "th": 18
+   },
+   {
+    "tag": "#PYYCP9JY",
+    "name": "ExXtrAkkT",
+    "th": 18
+   },
+   {
+    "tag": "#9CJ9U0LL",
+    "name": "Evil Kruemel",
+    "th": 18
+   },
+   {
+    "tag": "#29Q90RVJ",
+    "name": "David",
+    "th": 18
+   },
+   {
+    "tag": "#9J0QP2CU8",
+    "name": "xXDamage",
+    "th": 18
+   },
+   {
+    "tag": "#L9P0UP28",
+    "name": "Killer 2000",
+    "th": 18
+   },
+   {
+    "tag": "#2J9QG28JV",
+    "name": "Mr. lol",
+    "th": 18
+   },
+   {
+    "tag": "#2YRLLG9JC",
+    "name": "Monkey D. Lorik",
+    "th": 18
+   },
+   {
+    "tag": "#20PCYY998",
+    "name": "Jan2000",
+    "th": 18
+   },
+   {
+    "tag": "#GRYQY8Q",
+    "name": "@Michi@",
+    "th": 18
+   },
+   {
+    "tag": "#YV0CUGGRL",
+    "name": "Cnyse",
+    "th": 18
+   }
+  ]
+ }
+}
