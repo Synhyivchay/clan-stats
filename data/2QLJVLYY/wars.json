@@ -1,11 +1,11 @@
 [
  {
-  "id": "cwl_20261102T171147Z_20UV9220Y",
+  "id": "cwl_20261103T171228Z_2L8LLRCYU",
   "type": "cwl",
   "state": "preparation",
-  "prep": "2026-11-02T17:11:47Z",
-  "start": "2026-11-03T17:11:45Z",
-  "end": "2026-11-04T17:11:45Z",
+  "prep": "2026-11-03T17:12:28Z",
+  "start": "2026-11-04T17:12:26Z",
+  "end": "2026-11-05T17:12:26Z",
   "teamSize": 15,
   "apm": 1,
   "us": {
@@ -18,10 +18,10 @@
    "attacks": 0
   },
   "them": {
-   "tag": "#20UV9220Y",
-   "name": "Güler Ailesi",
-   "badge": "https://api-assets.clashofclans.com/badges/200/9fDruY8JBBMlBJ8ngaObvEFZurd55NPgaz3j29Nt228.png",
-   "level": 33,
+   "tag": "#2L8LLRCYU",
+   "name": "kaven999gamer",
+   "badge": "https://api-assets.clashofclans.com/badges/200/6mh6F2vbeqCazzLEHB1xZIFlU4vKdqgM0i-MJkLpwJk.png",
+   "level": 17,
    "stars": 0,
    "pct": 0.0,
    "attacks": 0
@@ -160,6 +160,244 @@
     }
    },
    {
+    "tag": "#QL0J0RY8Q",
+    "name": "ebobo",
+    "th": 18,
+    "pos": 12,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YCU8JR28U",
+    "name": "SHANARA",
+    "th": 18,
+    "pos": 13,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#28Q8J0RYG",
+    "name": "Mi4man",
+    "th": 18,
+    "pos": 14,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#8LVR2JGU",
+    "name": "ELITE",
+    "th": 18,
+    "pos": 15,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   }
+  ],
+  "season": "2026-11-01",
+  "round": 3,
+  "warTag": "#8RUUVVQV0",
+  "snap": "2026-11-03T17:49:19Z"
+ },
+ {
+  "id": "cwl_20261102T171147Z_20UV9220Y",
+  "type": "cwl",
+  "state": "inWar",
+  "prep": "2026-11-02T17:11:47Z",
+  "start": "2026-11-03T17:11:45Z",
+  "end": "2026-11-04T17:11:45Z",
+  "teamSize": 15,
+  "apm": 1,
+  "us": {
+   "tag": "#2QLJVLYY",
+   "name": "slivki sow",
+   "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
+   "level": 34,
+   "stars": 6,
+   "pct": 13.33,
+   "attacks": 2
+  },
+  "them": {
+   "tag": "#20UV9220Y",
+   "name": "Güler Ailesi",
+   "badge": "https://api-assets.clashofclans.com/badges/200/9fDruY8JBBMlBJ8ngaObvEFZurd55NPgaz3j29Nt228.png",
+   "level": 33,
+   "stars": 5,
+   "pct": 12.73,
+   "attacks": 2
+  },
+  "members": [
+   {
+    "tag": "#Q9JRVCUYY",
+    "name": "Melata",
+    "th": 18,
+    "pos": 1,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YRYYYGY90",
+    "name": "naik",
+    "th": 18,
+    "pos": 2,
+    "attacks": [
+     {
+      "d": "#JRG8J82P",
+      "dn": "KürşadAlperen",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 3,
+      "dur": 147
+     }
+    ],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#PUCPRP9YV",
+    "name": "малько",
+    "th": 18,
+    "pos": 3,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#9GV90LCR8",
+    "name": "■◇LEGENDARNIY◇■",
+    "th": 18,
+    "pos": 4,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LPQJQ2RJP",
+    "name": "Denton",
+    "th": 18,
+    "pos": 5,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#PVCPGJL9R",
+    "name": "000Roma000",
+    "th": 18,
+    "pos": 6,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#P2GULCL8G",
+    "name": "000Sergey000",
+    "th": 18,
+    "pos": 7,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#2LCGCPR80",
+    "name": "NumTorum",
+    "th": 18,
+    "pos": 8,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#89RL09YL9",
+    "name": "Разрушитель",
+    "th": 18,
+    "pos": 9,
+    "attacks": [
+     {
+      "d": "#C29LR8YL",
+      "dn": "starkmann",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 3,
+      "n": 3,
+      "dur": 171
+     }
+    ],
+    "def": {
+     "n": 1,
+     "s": 3,
+     "p": 100
+    }
+   },
+   {
+    "tag": "#LQGGPPC92",
+    "name": "~LuciFer~",
+    "th": 18,
+    "pos": 10,
+    "attacks": [],
+    "def": {
+     "n": 1,
+     "s": 2,
+     "p": 91
+    }
+   },
+   {
+    "tag": "#8GGC8UY08",
+    "name": "Super Men",
+    "th": 18,
+    "pos": 11,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
     "tag": "#YCU8JR28U",
     "name": "SHANARA",
     "th": 18,
@@ -211,12 +449,12 @@
   "season": "2026-11-01",
   "round": 2,
   "warTag": "#8RUJGC9Y0",
-  "snap": "2026-11-03T15:03:28Z"
+  "snap": "2026-11-03T17:49:19Z"
  },
  {
   "id": "cwl_20261101T171138Z_2J0UVYRQL",
   "type": "cwl",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-01T17:11:38Z",
   "start": "2026-11-02T17:11:35Z",
   "end": "2026-11-03T17:11:35Z",
@@ -602,6 +840,7 @@
     }
    }
   ],
+  "result": "lose",
   "season": "2026-11-01",
   "round": 1,
   "warTag": "#8RUGCL89G",
