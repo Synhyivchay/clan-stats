@@ -54,13 +54,13 @@
     "state": "inWar",
     "a": {
      "tag": "#2R88JLG9C",
-     "stars": 19,
-     "pct": 22.833333333333332
+     "stars": 22,
+     "pct": 26.166666666666668
     },
     "b": {
      "tag": "#2RLYP9GP9",
-     "stars": 19,
-     "pct": 23.833333333333332
+     "stars": 21,
+     "pct": 26.1
     }
    },
    "#8RV9L2LY0": {
@@ -68,8 +68,8 @@
     "state": "inWar",
     "a": {
      "tag": "#29P0GGRRP",
-     "stars": 36,
-     "pct": 42.6
+     "stars": 39,
+     "pct": 45.93333333333333
     },
     "b": {
      "tag": "#PV0VP2RC",
