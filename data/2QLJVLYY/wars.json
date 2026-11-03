@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 3,
   "warTag": "#8RUUVVQV0",
-  "snap": "2026-11-03T19:49:17Z"
+  "snap": "2026-11-03T20:04:18Z"
  },
  {
   "id": "cwl_20261102T171147Z_20UV9220Y",
@@ -236,9 +236,9 @@
    "name": "Güler Ailesi",
    "badge": "https://api-assets.clashofclans.com/badges/200/9fDruY8JBBMlBJ8ngaObvEFZurd55NPgaz3j29Nt228.png",
    "level": 33,
-   "stars": 16,
-   "pct": 38.8,
-   "attacks": 6
+   "stars": 18,
+   "pct": 45.27,
+   "attacks": 7
   },
   "members": [
    {
@@ -428,9 +428,9 @@
     "pos": 11,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 97
     }
    },
    {
@@ -485,7 +485,7 @@
   "season": "2026-11-01",
   "round": 2,
   "warTag": "#8RUJGC9Y0",
-  "snap": "2026-11-03T19:49:17Z"
+  "snap": "2026-11-03T20:04:18Z"
  },
  {
   "id": "cwl_20261101T171138Z_2J0UVYRQL",
