@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RVG2Q99G",
-  "snap": "2026-11-04T21:17:34Z"
+  "snap": "2026-11-04T21:22:34Z"
  },
  {
   "id": "cwl_20261103T171745Z_LGLP9RC2",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 23,
-   "pct": 25.93,
-   "attacks": 8
+   "stars": 26,
+   "pct": 29.27,
+   "attacks": 9
   },
   "them": {
    "tag": "#LGLP9RC2",
@@ -822,7 +822,19 @@
     "name": "grootich",
     "th": 16,
     "pos": 27,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LU29YPRYG",
+      "dn": "Firefly (2)",
+      "dpos": 27,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 9,
+      "n": 3,
+      "dur": 109
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -881,7 +893,7 @@
   "season": "2026-11-01",
   "round": 3,
   "warTag": "#8RVYCYUVG",
-  "snap": "2026-11-04T21:17:34Z"
+  "snap": "2026-11-04T21:22:34Z"
  },
  {
   "id": "cwl_20261102T171738Z_2YUGPCGLJ",
