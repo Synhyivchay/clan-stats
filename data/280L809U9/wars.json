@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 3,
   "warTag": "#8RVYCYUVG",
-  "snap": "2026-11-04T03:09:30Z"
+  "snap": "2026-11-04T03:14:30Z"
  },
  {
   "id": "cwl_20261102T171738Z_2YUGPCGLJ",
@@ -407,18 +407,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 25,
-   "pct": 30.77,
-   "attacks": 10
+   "stars": 28,
+   "pct": 34.1,
+   "attacks": 11
   },
   "them": {
    "tag": "#2YUGPCGLJ",
    "name": "# MAHABHARAT",
    "badge": "https://api-assets.clashofclans.com/badges/200/vAK2_2gB9hh-TIBUhvh0B_1fzYJflCtk0i32r_Nsr6I.png",
    "level": 27,
-   "stars": 23,
-   "pct": 31.73,
-   "attacks": 11
+   "stars": 26,
+   "pct": 35.07,
+   "attacks": 12
   },
   "members": [
    {
@@ -786,7 +786,19 @@
     "name": "Дракс",
     "th": 16,
     "pos": 23,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PLVJ0UC9U",
+      "dn": "KING KRISHNA",
+      "dpos": 23,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 23,
+      "n": 3,
+      "dur": 144
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -836,9 +848,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -905,7 +917,7 @@
   "season": "2026-11-01",
   "round": 2,
   "warTag": "#8RV9L2QRP",
-  "snap": "2026-11-04T03:09:30Z"
+  "snap": "2026-11-04T03:14:30Z"
  },
  {
   "id": "cwl_20261101T171731Z_92RYQ2JJ",
