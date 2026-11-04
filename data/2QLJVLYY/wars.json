@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 3,
   "warTag": "#8RUUVVQV0",
-  "snap": "2026-11-04T14:49:55Z"
+  "snap": "2026-11-04T14:54:55Z"
  },
  {
   "id": "cwl_20261102T171147Z_20UV9220Y",
@@ -227,9 +227,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 31,
-   "pct": 73.47,
-   "attacks": 12
+   "stars": 33,
+   "pct": 79.6,
+   "attacks": 13
   },
   "them": {
    "tag": "#20UV9220Y",
@@ -522,7 +522,19 @@
     "name": "ebobo",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PP228L2UQ",
+      "dn": "Jhon Reese",
+      "dpos": 13,
+      "dth": 18,
+      "s": 2,
+      "p": 92,
+      "o": 28,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -569,7 +581,7 @@
   "season": "2026-11-01",
   "round": 2,
   "warTag": "#8RUJGC9Y0",
-  "snap": "2026-11-04T14:49:55Z"
+  "snap": "2026-11-04T14:54:55Z"
  },
  {
   "id": "cwl_20261101T171138Z_2J0UVYRQL",
