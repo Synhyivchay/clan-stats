@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 2,
   "warTag": "#8G0RQV98G",
-  "snap": "2026-11-04T10:19:43Z"
+  "snap": "2026-11-04T10:24:43Z"
  },
  {
   "id": "cwl_20261103T080108Z_2G8CJJRY9",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 6,
+   "pct": 13.33,
+   "attacks": 2
   },
   "them": {
    "tag": "#2G8CJJRY9",
@@ -258,7 +258,19 @@
     "name": "slory",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QY9CVU00L",
+      "dn": "علوشي ادلبي",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 1,
+      "n": 3,
+      "dur": 133
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -354,7 +366,19 @@
     "name": "Bassko",
     "th": 18,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P8UYCPCVU",
+      "dn": "Azmy",
+      "dpos": 10,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 2,
+      "n": 3,
+      "dur": 156
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -425,7 +449,7 @@
   "season": "2026-11-03",
   "round": 1,
   "warTag": "#8G0LUP2GP",
-  "snap": "2026-11-04T10:19:43Z"
+  "snap": "2026-11-04T10:24:43Z"
  },
  {
   "id": "war_20261031T215145Z_2PRY220U",
