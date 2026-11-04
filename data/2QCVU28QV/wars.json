@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 2,
   "warTag": "#8G0RQV98G",
-  "snap": "2026-11-04T19:47:34Z"
+  "snap": "2026-11-04T19:52:34Z"
  },
  {
   "id": "cwl_20261103T080108Z_2G8CJJRY9",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 36,
-   "pct": 80.0,
-   "attacks": 12
+   "stars": 39,
+   "pct": 86.67,
+   "attacks": 13
   },
   "them": {
    "tag": "#2G8CJJRY9",
@@ -402,7 +402,19 @@
     "name": "Rudi",
     "th": 18,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YPVLGLR29",
+      "dn": "yousef",
+      "dpos": 15,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 16,
+      "n": 3,
+      "dur": 118
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -569,7 +581,7 @@
   "season": "2026-11-03",
   "round": 1,
   "warTag": "#8G0LUP2GP",
-  "snap": "2026-11-04T19:47:34Z"
+  "snap": "2026-11-04T19:52:34Z"
  },
  {
   "id": "war_20261031T215145Z_2PRY220U",
