@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 2,
   "warTag": "#8G0RQV98G",
-  "snap": "2026-11-04T16:24:55Z"
+  "snap": "2026-11-04T18:37:34Z"
  },
  {
   "id": "cwl_20261103T080108Z_2G8CJJRY9",
@@ -227,18 +227,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 27,
-   "pct": 60.0,
-   "attacks": 9
+   "stars": 33,
+   "pct": 73.33,
+   "attacks": 11
   },
   "them": {
    "tag": "#2G8CJJRY9",
    "name": "جمهورية صرف",
    "badge": "https://api-assets.clashofclans.com/badges/200/v5OhP0oc4t4-BMkLegL9ye37tjfsCIqo7UjzdIejLUQ.png",
    "level": 28,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 5,
+   "pct": 12.2,
+   "attacks": 2
   },
   "members": [
    {
@@ -320,9 +320,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -474,7 +474,19 @@
     "name": "Luka Tate",
     "th": 18,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9VUQPYL8G",
+      "dn": "GABRIELⒼⓈⒻ",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 12,
+      "n": 3,
+      "dur": 161
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -488,9 +500,9 @@
     "pos": 13,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 83
     }
    },
    {
@@ -498,7 +510,19 @@
     "name": "Ｍ Λ Ｘ",
     "th": 18,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PR2V2VQ98",
+      "dn": "vorpal sword",
+      "dpos": 12,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 10,
+      "n": 3,
+      "dur": 103
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -533,7 +557,7 @@
   "season": "2026-11-03",
   "round": 1,
   "warTag": "#8G0LUP2GP",
-  "snap": "2026-11-04T16:24:55Z"
+  "snap": "2026-11-04T18:37:34Z"
  },
  {
   "id": "war_20261031T215145Z_2PRY220U",
