@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RVG2Q99G",
-  "snap": "2026-11-04T18:37:34Z"
+  "snap": "2026-11-04T18:42:34Z"
  },
  {
   "id": "cwl_20261103T171745Z_LGLP9RC2",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 11,
-   "pct": 12.6,
-   "attacks": 4
+   "stars": 14,
+   "pct": 15.93,
+   "attacks": 5
   },
   "them": {
    "tag": "#LGLP9RC2",
@@ -426,7 +426,19 @@
     "name": "Ragnar",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2PGG9CCC0",
+      "dn": "lïghtñîñgsöül",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 159
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -833,7 +845,7 @@
   "season": "2026-11-01",
   "round": 3,
   "warTag": "#8RVYCYUVG",
-  "snap": "2026-11-04T18:37:34Z"
+  "snap": "2026-11-04T18:42:34Z"
  },
  {
   "id": "cwl_20261102T171738Z_2YUGPCGLJ",
