@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 2,
   "warTag": "#8G0RQV98G",
-  "snap": "2026-11-04T13:14:55Z"
+  "snap": "2026-11-04T13:19:55Z"
  },
  {
   "id": "cwl_20261103T080108Z_2G8CJJRY9",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 9,
-   "pct": 20.0,
-   "attacks": 3
+   "stars": 15,
+   "pct": 33.33,
+   "attacks": 5
   },
   "them": {
    "tag": "#2G8CJJRY9",
@@ -282,7 +282,19 @@
     "name": "Evil Kruemel",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q2LRCYV8Y",
+      "dn": "ابو عمار ياسر",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 125
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -306,7 +318,19 @@
     "name": "Louis™️187",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y90LJ82CG",
+      "dn": "يزن",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 3,
+      "dur": 125
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -461,7 +485,7 @@
   "season": "2026-11-03",
   "round": 1,
   "warTag": "#8G0LUP2GP",
-  "snap": "2026-11-04T13:14:55Z"
+  "snap": "2026-11-04T13:19:55Z"
  },
  {
   "id": "war_20261031T215145Z_2PRY220U",

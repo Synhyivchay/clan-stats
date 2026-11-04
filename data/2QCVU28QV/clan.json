@@ -16,9 +16,7 @@
  "warLogPublic": true,
  "trackingSince": "2026-10-16T21:01:41Z",
  "contribFetched": "2026-11-04T12:49:55Z",
- "updated": "2026-11-04T13:14:55Z",
- "errors": [
-  "ЛВК война #8G0RQVPLU: 525 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-525/\",\"title\":\"Error 525: SSL handshake failed\",\"status\":525,\"detail\":\"The SSL/TLS hand (/clanwarleagues/wars/#8G0RQVPLU)"
- ],
+ "updated": "2026-11-04T13:19:55Z",
+ "errors": [],
  "show": true
 }
