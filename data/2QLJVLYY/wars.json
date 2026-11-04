@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RV2PQ0YU",
-  "snap": "2026-11-04T21:47:34Z"
+  "snap": "2026-11-04T21:52:34Z"
  },
  {
   "id": "cwl_20261103T171228Z_2L8LLRCYU",
@@ -227,9 +227,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 10,
-   "pct": 25.4,
-   "attacks": 4
+   "stars": 12,
+   "pct": 30.27,
+   "attacks": 5
   },
   "them": {
    "tag": "#2L8LLRCYU",
@@ -306,7 +306,19 @@
     "name": "Denton",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PV8JLYRRQ",
+      "dn": "OMAR_METWALLI_",
+      "dpos": 5,
+      "dth": 18,
+      "s": 2,
+      "p": 73,
+      "o": 11,
+      "n": 2,
+      "dur": 118
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -473,7 +485,7 @@
   "season": "2026-11-01",
   "round": 3,
   "warTag": "#8RUUVVQV0",
-  "snap": "2026-11-04T21:47:34Z"
+  "snap": "2026-11-04T21:52:34Z"
  },
  {
   "id": "cwl_20261102T171147Z_20UV9220Y",
