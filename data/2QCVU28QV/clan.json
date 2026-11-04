@@ -15,10 +15,8 @@
  "capitalHall": 10,
  "warLogPublic": true,
  "trackingSince": "2026-10-16T21:01:41Z",
- "contribFetched": "2026-11-04T13:49:55Z",
- "updated": "2026-11-04T14:44:55Z",
- "errors": [
-  "ЛВК война #8G0RGQJ0G: 520 {\"type\":\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/\",\"title\":\"Error 520: Web server is returning an unknown error\",\"status\":520,\"detai (/clanwarleagues/wars/#8G0RGQJ0G)"
- ],
+ "contribFetched": "2026-11-04T14:49:55Z",
+ "updated": "2026-11-04T14:49:55Z",
+ "errors": [],
  "show": true
 }
