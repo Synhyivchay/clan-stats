@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RV2PQ0YU",
-  "snap": "2026-11-04T20:37:34Z"
+  "snap": "2026-11-04T20:42:34Z"
  },
  {
   "id": "cwl_20261103T171228Z_2L8LLRCYU",
@@ -236,9 +236,9 @@
    "name": "kaven999gamer",
    "badge": "https://api-assets.clashofclans.com/badges/200/6mh6F2vbeqCazzLEHB1xZIFlU4vKdqgM0i-MJkLpwJk.png",
    "level": 17,
-   "stars": 15,
-   "pct": 33.33,
-   "attacks": 5
+   "stars": 18,
+   "pct": 40.0,
+   "attacks": 6
   },
   "members": [
    {
@@ -248,9 +248,9 @@
     "pos": 1,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -473,7 +473,7 @@
   "season": "2026-11-01",
   "round": 3,
   "warTag": "#8RUUVVQV0",
-  "snap": "2026-11-04T20:37:34Z"
+  "snap": "2026-11-04T20:42:34Z"
  },
  {
   "id": "cwl_20261102T171147Z_20UV9220Y",
