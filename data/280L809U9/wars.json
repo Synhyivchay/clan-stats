@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RVG2Q99G",
-  "snap": "2026-11-04T22:37:34Z"
+  "snap": "2026-11-04T22:42:34Z"
  },
  {
   "id": "cwl_20261103T171745Z_LGLP9RC2",
@@ -407,18 +407,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 29,
-   "pct": 32.6,
-   "attacks": 10
+   "stars": 31,
+   "pct": 35.47,
+   "attacks": 11
   },
   "them": {
    "tag": "#LGLP9RC2",
    "name": "Hansika Motwani",
    "badge": "https://api-assets.clashofclans.com/badges/200/CF_0OcTYtORuiSq5J6qGC3Qa_pM5Pdoy-fVhnB0eEks.png",
    "level": 25,
-   "stars": 2,
-   "pct": 2.93,
-   "attacks": 1
+   "stars": 5,
+   "pct": 6.27,
+   "attacks": 2
   },
   "members": [
    {
@@ -860,9 +860,9 @@
     "pos": 28,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -870,7 +870,19 @@
     "name": "sgrassi",
     "th": 16,
     "pos": 29,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YRLQGV2G9",
+      "dn": "LUCIFER[DEVIL]",
+      "dpos": 29,
+      "dth": 14,
+      "s": 2,
+      "p": 86,
+      "o": 13,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -905,7 +917,7 @@
   "season": "2026-11-01",
   "round": 3,
   "warTag": "#8RVYCYUVG",
-  "snap": "2026-11-04T22:37:34Z"
+  "snap": "2026-11-04T22:42:34Z"
  },
  {
   "id": "cwl_20261102T171738Z_2YUGPCGLJ",
