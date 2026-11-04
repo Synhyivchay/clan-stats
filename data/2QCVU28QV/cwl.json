@@ -2,16 +2,17 @@
  "2026-11-03": {
   "season": "2026-11-03",
   "wars": {
-   "#8G0LUP2GP": "cwl_20261103T080108Z_2G8CJJRY9"
+   "#8G0LUP2GP": "cwl_20261103T080108Z_2G8CJJRY9",
+   "#8G0RQV98G": "cwl_20261104T092650Z_PCQ99QVG"
   },
   "others": {
    "#8G0LUPJJP": {
     "round": 1,
-    "state": "preparation",
+    "state": "inWar",
     "a": {
      "tag": "#2JG00JCG2",
-     "stars": 0,
-     "pct": 0.0
+     "stars": 3,
+     "pct": 6.666666666666667
     },
     "b": {
      "tag": "#8VRCCRR2",
@@ -21,7 +22,7 @@
    },
    "#8G0LUP8UG": {
     "round": 1,
-    "state": "preparation",
+    "state": "inWar",
     "a": {
      "tag": "#PG8L9QQ",
      "stars": 0,
@@ -35,7 +36,7 @@
    },
    "#8G0LUYYUP": {
     "round": 1,
-    "state": "preparation",
+    "state": "inWar",
     "a": {
      "tag": "#PCQ99QVG",
      "stars": 0,
@@ -46,9 +47,51 @@
      "stars": 0,
      "pct": 0.0
     }
+   },
+   "#8G0RQR0YJ": {
+    "round": 2,
+    "state": "preparation",
+    "a": {
+     "tag": "#2JG00JCG2",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#2G8CJJRY9",
+     "stars": 0,
+     "pct": 0.0
+    }
+   },
+   "#8G0RQVPLU": {
+    "round": 2,
+    "state": "preparation",
+    "a": {
+     "tag": "#8VRCCRR2",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#PG8L9QQ",
+     "stars": 0,
+     "pct": 0.0
+    }
+   },
+   "#8G0RGQJ0G": {
+    "round": 2,
+    "state": "preparation",
+    "a": {
+     "tag": "#282VPPRUJ",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#2LP8U9CY8",
+     "stars": 0,
+     "pct": 0.0
+    }
    }
   },
-  "state": "preparation",
+  "state": "inWar",
   "clans": [
    {
     "tag": "#2JG00JCG2",
