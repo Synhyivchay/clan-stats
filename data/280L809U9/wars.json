@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 3,
   "warTag": "#8RVYCYUVG",
-  "snap": "2026-11-04T01:24:30Z"
+  "snap": "2026-11-04T01:29:30Z"
  },
  {
   "id": "cwl_20261102T171738Z_2YUGPCGLJ",
@@ -416,9 +416,9 @@
    "name": "# MAHABHARAT",
    "badge": "https://api-assets.clashofclans.com/badges/200/vAK2_2gB9hh-TIBUhvh0B_1fzYJflCtk0i32r_Nsr6I.png",
    "level": 27,
-   "stars": 14,
-   "pct": 18.9,
-   "attacks": 7
+   "stars": 16,
+   "pct": 21.97,
+   "attacks": 8
   },
   "members": [
    {
@@ -440,9 +440,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 92
     }
    },
    {
@@ -905,7 +905,7 @@
   "season": "2026-11-01",
   "round": 2,
   "warTag": "#8RV9L2QRP",
-  "snap": "2026-11-04T01:24:30Z"
+  "snap": "2026-11-04T01:29:30Z"
  },
  {
   "id": "cwl_20261101T171731Z_92RYQ2JJ",
