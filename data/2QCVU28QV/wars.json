@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 2,
   "warTag": "#8G0RQV98G",
-  "snap": "2026-11-04T14:04:55Z"
+  "snap": "2026-11-04T14:09:55Z"
  },
  {
   "id": "cwl_20261103T080108Z_2G8CJJRY9",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 18,
-   "pct": 40.0,
-   "attacks": 6
+   "stars": 21,
+   "pct": 46.67,
+   "attacks": 7
   },
   "them": {
    "tag": "#2G8CJJRY9",
@@ -390,7 +390,19 @@
     "name": "Killer 2000",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G8YLQCQ0P",
+      "dn": "AL-MUHAJiR1ⒼⓈⒻ",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 7,
+      "n": 3,
+      "dur": 106
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -497,7 +509,7 @@
   "season": "2026-11-03",
   "round": 1,
   "warTag": "#8G0LUP2GP",
-  "snap": "2026-11-04T14:04:55Z"
+  "snap": "2026-11-04T14:09:55Z"
  },
  {
   "id": "war_20261031T215145Z_2PRY220U",
