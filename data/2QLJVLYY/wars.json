@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RV2PQ0YU",
-  "snap": "2026-11-04T19:52:34Z"
+  "snap": "2026-11-04T19:57:34Z"
  },
  {
   "id": "cwl_20261103T171228Z_2L8LLRCYU",
@@ -227,9 +227,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 5,
-   "pct": 13.27,
-   "attacks": 2
+   "stars": 8,
+   "pct": 19.93,
+   "attacks": 3
   },
   "them": {
    "tag": "#2L8LLRCYU",
@@ -426,7 +426,19 @@
     "name": "ELITE",
     "th": 18,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#928L880LG",
+      "dn": "زلزال بهز جبال",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 8,
+      "n": 3,
+      "dur": 150
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -449,7 +461,7 @@
   "season": "2026-11-01",
   "round": 3,
   "warTag": "#8RUUVVQV0",
-  "snap": "2026-11-04T19:52:34Z"
+  "snap": "2026-11-04T19:57:34Z"
  },
  {
   "id": "cwl_20261102T171147Z_20UV9220Y",
