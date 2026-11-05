@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RV2PQ0YU",
-  "snap": "2026-11-05T13:23:28Z"
+  "snap": "2026-11-05T16:26:49Z"
  },
  {
   "id": "cwl_20261103T171228Z_2L8LLRCYU",
@@ -227,9 +227,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 31,
-   "pct": 81.6,
-   "attacks": 13
+   "stars": 34,
+   "pct": 90.53,
+   "attacks": 15
   },
   "them": {
    "tag": "#2L8LLRCYU",
@@ -366,7 +366,19 @@
     "name": "000Roma000",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#CY928JL",
+      "dn": "eagle",
+      "dpos": 6,
+      "dth": 18,
+      "s": 2,
+      "p": 78,
+      "o": 30,
+      "n": 2,
+      "dur": 132
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -378,7 +390,19 @@
     "name": "000Sergey000",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y0C88C2P",
+      "dn": "Yaseen Khudier",
+      "dpos": 7,
+      "dth": 18,
+      "s": 1,
+      "p": 56,
+      "o": 29,
+      "n": 1,
+      "dur": 82
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -581,7 +605,7 @@
   "season": "2026-11-01",
   "round": 3,
   "warTag": "#8RUUVVQV0",
-  "snap": "2026-11-05T13:23:28Z"
+  "snap": "2026-11-05T16:26:49Z"
  },
  {
   "id": "cwl_20261102T171147Z_20UV9220Y",
