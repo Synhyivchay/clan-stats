@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 3,
   "warTag": "#8G0CUP9J0",
-  "snap": "2026-11-05T18:46:49Z"
+  "snap": "2026-11-05T18:51:49Z"
  },
  {
   "id": "cwl_20261104T092650Z_PCQ99QVG",
@@ -236,9 +236,9 @@
    "name": "Yeshua Warriors",
    "badge": "https://api-assets.clashofclans.com/badges/200/bptZvpkySHCa8-eOlqkZTZ7k30lDdgMltEU-wOY8pBs.png",
    "level": 27,
-   "stars": 31,
-   "pct": 71.87,
-   "attacks": 11
+   "stars": 34,
+   "pct": 78.53,
+   "attacks": 12
   },
   "members": [
    {
@@ -464,9 +464,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -557,7 +557,7 @@
   "season": "2026-11-03",
   "round": 2,
   "warTag": "#8G0RQV98G",
-  "snap": "2026-11-05T18:46:49Z"
+  "snap": "2026-11-05T18:51:49Z"
  },
  {
   "id": "cwl_20261103T080108Z_2G8CJJRY9",

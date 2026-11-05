@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",
-  "snap": "2026-11-05T18:46:49Z"
+  "snap": "2026-11-05T18:51:49Z"
  },
  {
   "id": "cwl_20261104T174347Z_29P0GGRRP",
@@ -407,18 +407,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 13,
-   "pct": 16.17,
-   "attacks": 5
+   "stars": 16,
+   "pct": 19.5,
+   "attacks": 6
   },
   "them": {
    "tag": "#29P0GGRRP",
    "name": "ROYAL ■ THIEVES",
    "badge": "https://api-assets.clashofclans.com/badges/200/yOPDYGJfKVXbF0-RT5gmRY5U6gPjen5Ew6oYUjAIYkU.png",
    "level": 23,
-   "stars": 26,
-   "pct": 29.43,
-   "attacks": 9
+   "stars": 31,
+   "pct": 35.93,
+   "attacks": 11
   },
   "members": [
    {
@@ -572,9 +572,9 @@
     "pos": 12,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 95
     }
    },
    {
@@ -596,9 +596,9 @@
     "pos": 14,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -618,7 +618,19 @@
     "name": "DimagFM",
     "th": 17,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YLU2GY2RU",
+      "dn": "شريف",
+      "dpos": 16,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 16,
+      "n": 3,
+      "dur": 139
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -845,7 +857,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RVG2Q99G",
-  "snap": "2026-11-05T18:46:49Z"
+  "snap": "2026-11-05T18:51:49Z"
  },
  {
   "id": "cwl_20261103T171745Z_LGLP9RC2",
