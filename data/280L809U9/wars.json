@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",
-  "snap": "2026-11-05T18:11:49Z"
+  "snap": "2026-11-05T18:16:49Z"
  },
  {
   "id": "cwl_20261104T174347Z_29P0GGRRP",
@@ -407,18 +407,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 10,
-   "pct": 12.83,
-   "attacks": 4
+   "stars": 13,
+   "pct": 16.17,
+   "attacks": 5
   },
   "them": {
    "tag": "#29P0GGRRP",
    "name": "ROYAL ■ THIEVES",
    "badge": "https://api-assets.clashofclans.com/badges/200/yOPDYGJfKVXbF0-RT5gmRY5U6gPjen5Ew6oYUjAIYkU.png",
    "level": 23,
-   "stars": 3,
-   "pct": 3.33,
-   "attacks": 1
+   "stars": 9,
+   "pct": 10.0,
+   "attacks": 3
   },
   "members": [
    {
@@ -464,9 +464,9 @@
     "pos": 4,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -630,7 +630,19 @@
     "name": "ed_sans_123",
     "th": 17,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2UPP98YPV",
+      "dn": "M̶E̶C̶H̶O̶",
+      "dpos": 17,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 6,
+      "n": 3,
+      "dur": 119
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -788,9 +800,9 @@
     "pos": 27,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -833,7 +845,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RVG2Q99G",
-  "snap": "2026-11-05T18:11:49Z"
+  "snap": "2026-11-05T18:16:49Z"
  },
  {
   "id": "cwl_20261103T171745Z_LGLP9RC2",
