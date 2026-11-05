@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RVG2Q99G",
-  "snap": "2026-11-05T03:06:37Z"
+  "snap": "2026-11-05T03:11:37Z"
  },
  {
   "id": "cwl_20261103T171745Z_LGLP9RC2",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 31,
-   "pct": 35.47,
-   "attacks": 11
+   "stars": 34,
+   "pct": 38.8,
+   "attacks": 12
   },
   "them": {
    "tag": "#LGLP9RC2",
@@ -798,7 +798,19 @@
     "name": "Jamshid",
     "th": 17,
     "pos": 25,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8R2QJRP9G",
+      "dn": "LUCIFER[DEVIL]",
+      "dpos": 25,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 16,
+      "n": 3,
+      "dur": 78
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -917,7 +929,7 @@
   "season": "2026-11-01",
   "round": 3,
   "warTag": "#8RVYCYUVG",
-  "snap": "2026-11-05T03:06:37Z"
+  "snap": "2026-11-05T03:11:37Z"
  },
  {
   "id": "cwl_20261102T171738Z_2YUGPCGLJ",
