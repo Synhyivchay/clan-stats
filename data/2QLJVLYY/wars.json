@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RV2PQ0YU",
-  "snap": "2026-11-05T04:46:37Z"
+  "snap": "2026-11-05T04:51:37Z"
  },
  {
   "id": "cwl_20261103T171228Z_2L8LLRCYU",
@@ -227,18 +227,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 20,
-   "pct": 50.13,
-   "attacks": 8
+   "stars": 23,
+   "pct": 56.8,
+   "attacks": 9
   },
   "them": {
    "tag": "#2L8LLRCYU",
    "name": "kaven999gamer",
    "badge": "https://api-assets.clashofclans.com/badges/200/6mh6F2vbeqCazzLEHB1xZIFlU4vKdqgM0i-MJkLpwJk.png",
    "level": 17,
-   "stars": 30,
-   "pct": 66.67,
-   "attacks": 10
+   "stars": 33,
+   "pct": 73.33,
+   "attacks": 11
   },
   "members": [
    {
@@ -320,9 +320,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -450,7 +450,19 @@
     "name": "Super Men",
     "th": 18,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YVV8QLJQP",
+      "dn": "The King",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 19,
+      "n": 3,
+      "dur": 98
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -521,7 +533,7 @@
   "season": "2026-11-01",
   "round": 3,
   "warTag": "#8RUUVVQV0",
-  "snap": "2026-11-05T04:46:37Z"
+  "snap": "2026-11-05T04:51:37Z"
  },
  {
   "id": "cwl_20261102T171147Z_20UV9220Y",
