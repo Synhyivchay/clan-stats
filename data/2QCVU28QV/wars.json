@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 3,
   "warTag": "#8G0CUP9J0",
-  "snap": "2026-11-05T10:08:28Z"
+  "snap": "2026-11-05T10:13:28Z"
  },
  {
   "id": "cwl_20261104T092650Z_PCQ99QVG",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 9,
-   "pct": 20.0,
-   "attacks": 3
+   "stars": 18,
+   "pct": 40.0,
+   "attacks": 6
   },
   "them": {
    "tag": "#PCQ99QVG",
@@ -246,7 +246,19 @@
     "name": "slory",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P0R9C8LGU",
+      "dn": "ROYAL✨SUMAN",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 3,
+      "dur": 136
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -354,7 +366,19 @@
     "name": "Bassko",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QP2JGVJUU",
+      "dn": "unbreakable1989",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 6,
+      "n": 3,
+      "dur": 135
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -426,7 +450,19 @@
     "name": "hazhir ro",
     "th": 18,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P890YLUJ",
+      "dn": "king monte",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 129
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -461,7 +497,7 @@
   "season": "2026-11-03",
   "round": 2,
   "warTag": "#8G0RQV98G",
-  "snap": "2026-11-05T10:08:28Z"
+  "snap": "2026-11-05T10:13:28Z"
  },
  {
   "id": "cwl_20261103T080108Z_2G8CJJRY9",
