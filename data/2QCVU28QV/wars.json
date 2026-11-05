@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 3,
   "warTag": "#8G0CUP9J0",
-  "snap": "2026-11-05T09:48:28Z"
+  "snap": "2026-11-05T09:53:28Z"
  },
  {
   "id": "cwl_20261104T092650Z_PCQ99QVG",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 6.67,
+   "attacks": 1
   },
   "them": {
    "tag": "#PCQ99QVG",
@@ -390,7 +390,19 @@
     "name": "Ｍ Λ Ｘ",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q88202RR",
+      "dn": "Bataan",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 1,
+      "n": 3,
+      "dur": 129
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -425,7 +437,7 @@
   "season": "2026-11-03",
   "round": 2,
   "warTag": "#8G0RQV98G",
-  "snap": "2026-11-05T09:48:28Z"
+  "snap": "2026-11-05T09:53:28Z"
  },
  {
   "id": "cwl_20261103T080108Z_2G8CJJRY9",
