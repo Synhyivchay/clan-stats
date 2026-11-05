@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 3,
   "warTag": "#8G0CUP9J0",
-  "snap": "2026-11-05T11:38:28Z"
+  "snap": "2026-11-05T11:43:28Z"
  },
  {
   "id": "cwl_20261104T092650Z_PCQ99QVG",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 18,
-   "pct": 40.0,
-   "attacks": 6
+   "stars": 21,
+   "pct": 46.67,
+   "attacks": 7
   },
   "them": {
    "tag": "#PCQ99QVG",
@@ -330,7 +330,19 @@
     "name": "Flashbang",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JGY2L88",
+      "dn": "kenshin",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 7,
+      "n": 3,
+      "dur": 169
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -497,7 +509,7 @@
   "season": "2026-11-03",
   "round": 2,
   "warTag": "#8G0RQV98G",
-  "snap": "2026-11-05T11:38:28Z"
+  "snap": "2026-11-05T11:43:28Z"
  },
  {
   "id": "cwl_20261103T080108Z_2G8CJJRY9",
