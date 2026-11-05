@@ -5,7 +5,8 @@
    "#8RUGCL89G": "cwl_20261101T171138Z_2J0UVYRQL",
    "#8RUJGC9Y0": "cwl_20261102T171147Z_20UV9220Y",
    "#8RUUVVQV0": "cwl_20261103T171228Z_2L8LLRCYU",
-   "#8RV2PQ0YU": "cwl_20261104T174045Z_22JU9JLCG"
+   "#8RV2PQ0YU": "cwl_20261104T174045Z_22JU9JLCG",
+   "#8RV9RQG8L": "cwl_20261105T175058Z_2RPQU8PQ9"
   },
   "others": {
    "#8RUGCLPU8": {
@@ -172,6 +173,48 @@
     },
     "b": {
      "tag": "#QLLVY9QQ",
+     "stars": 0,
+     "pct": 0.0
+    }
+   },
+   "#8RV9RQP9G": {
+    "round": 5,
+    "state": "preparation",
+    "a": {
+     "tag": "#20UV9220Y",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#QLLVY9QQ",
+     "stars": 0,
+     "pct": 0.0
+    }
+   },
+   "#8RV9RQLU8": {
+    "round": 5,
+    "state": "preparation",
+    "a": {
+     "tag": "#22JU9JLCG",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#2J0UVYRQL",
+     "stars": 0,
+     "pct": 0.0
+    }
+   },
+   "#8RV9RQYQU": {
+    "round": 5,
+    "state": "preparation",
+    "a": {
+     "tag": "#Y9JCRJG9",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#2L8LLRCYU",
      "stars": 0,
      "pct": 0.0
     }
