@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 2,
   "warTag": "#8G0RQV98G",
-  "snap": "2026-11-05T08:18:28Z"
+  "snap": "2026-11-05T08:28:28Z"
  },
  {
   "id": "cwl_20261103T080108Z_2G8CJJRY9",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 42,
-   "pct": 93.33,
-   "attacks": 14
+   "stars": 45,
+   "pct": 100.0,
+   "attacks": 15
   },
   "them": {
    "tag": "#2G8CJJRY9",
@@ -246,7 +246,19 @@
     "name": "Bigmac's sohn",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G9U9202L8",
+      "dn": "MARiD ⒼⓈⒻ",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 29,
+      "n": 3,
+      "dur": 110
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -593,7 +605,7 @@
   "season": "2026-11-03",
   "round": 1,
   "warTag": "#8G0LUP2GP",
-  "snap": "2026-11-05T08:18:28Z"
+  "snap": "2026-11-05T08:28:28Z"
  },
  {
   "id": "war_20261031T215145Z_2PRY220U",
