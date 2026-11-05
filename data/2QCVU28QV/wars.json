@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 3,
   "warTag": "#8G0CUP9J0",
-  "snap": "2026-11-05T19:21:49Z"
+  "snap": "2026-11-05T19:26:49Z"
  },
  {
   "id": "cwl_20261104T092650Z_PCQ99QVG",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 33,
-   "pct": 73.33,
-   "attacks": 11
+   "stars": 36,
+   "pct": 80.0,
+   "attacks": 12
   },
   "them": {
    "tag": "#PCQ99QVG",
@@ -438,7 +438,19 @@
     "name": "LokiPhil",
     "th": 18,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YUJGPG99U",
+      "dn": "LooneyTunes",
+      "dpos": 12,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 24,
+      "n": 3,
+      "dur": 171
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -557,7 +569,7 @@
   "season": "2026-11-03",
   "round": 2,
   "warTag": "#8G0RQV98G",
-  "snap": "2026-11-05T19:21:49Z"
+  "snap": "2026-11-05T19:26:49Z"
  },
  {
   "id": "cwl_20261103T080108Z_2G8CJJRY9",
