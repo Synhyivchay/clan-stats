@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RVG2Q99G",
-  "snap": "2026-11-05T16:26:49Z"
+  "snap": "2026-11-05T16:31:49Z"
  },
  {
   "id": "cwl_20261103T171745Z_LGLP9RC2",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 72,
-   "pct": 81.5,
-   "attacks": 25
+   "stars": 74,
+   "pct": 84.5,
+   "attacks": 26
   },
   "them": {
    "tag": "#LGLP9RC2",
@@ -486,7 +486,19 @@
     "name": "OO REEBOK OO",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YUPLU8JP9",
+      "dn": "Eatle",
+      "dpos": 4,
+      "dth": 18,
+      "s": 2,
+      "p": 90,
+      "o": 54,
+      "n": 2,
+      "dur": 177
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -1085,7 +1097,7 @@
   "season": "2026-11-01",
   "round": 3,
   "warTag": "#8RVYCYUVG",
-  "snap": "2026-11-05T16:26:49Z"
+  "snap": "2026-11-05T16:31:49Z"
  },
  {
   "id": "cwl_20261102T171738Z_2YUGPCGLJ",
