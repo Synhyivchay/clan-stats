@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",
-  "snap": "2026-11-05T21:56:49Z"
+  "snap": "2026-11-05T22:40:46Z"
  },
  {
   "id": "cwl_20261104T174347Z_29P0GGRRP",
@@ -407,18 +407,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 21,
-   "pct": 25.47,
-   "attacks": 8
+   "stars": 23,
+   "pct": 27.7,
+   "attacks": 9
   },
   "them": {
    "tag": "#29P0GGRRP",
    "name": "ROYAL ■ THIEVES",
    "badge": "https://api-assets.clashofclans.com/badges/200/yOPDYGJfKVXbF0-RT5gmRY5U6gPjen5Ew6oYUjAIYkU.png",
    "level": 23,
-   "stars": 34,
-   "pct": 39.27,
-   "attacks": 12
+   "stars": 37,
+   "pct": 42.6,
+   "attacks": 13
   },
   "members": [
    {
@@ -632,9 +632,9 @@
     "pos": 15,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -858,7 +858,19 @@
     "name": "sgrassi",
     "th": 16,
     "pos": 29,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GJ0YY9VRR",
+      "dn": "亗 TVK WARRIOR 2",
+      "dpos": 29,
+      "dth": 17,
+      "s": 2,
+      "p": 67,
+      "o": 22,
+      "n": 2,
+      "dur": 123
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -881,7 +893,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RVG2Q99G",
-  "snap": "2026-11-05T21:56:49Z"
+  "snap": "2026-11-05T22:40:46Z"
  },
  {
   "id": "cwl_20261103T171745Z_LGLP9RC2",
