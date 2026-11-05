@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 3,
   "warTag": "#8G0CUP9J0",
-  "snap": "2026-11-05T09:53:28Z"
+  "snap": "2026-11-05T09:58:28Z"
  },
  {
   "id": "cwl_20261104T092650Z_PCQ99QVG",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 3,
-   "pct": 6.67,
-   "attacks": 1
+   "stars": 6,
+   "pct": 13.33,
+   "attacks": 2
   },
   "them": {
    "tag": "#PCQ99QVG",
@@ -258,7 +258,19 @@
     "name": "Evil Kruemel",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QGQCQ22J",
+      "dn": "remjane",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 2,
+      "n": 3,
+      "dur": 138
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -437,7 +449,7 @@
   "season": "2026-11-03",
   "round": 2,
   "warTag": "#8G0RQV98G",
-  "snap": "2026-11-05T09:53:28Z"
+  "snap": "2026-11-05T09:58:28Z"
  },
  {
   "id": "cwl_20261103T080108Z_2G8CJJRY9",
