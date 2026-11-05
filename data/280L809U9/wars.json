@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RVG2Q99G",
-  "snap": "2026-11-05T05:41:37Z"
+  "snap": "2026-11-05T05:46:37Z"
  },
  {
   "id": "cwl_20261103T171745Z_LGLP9RC2",
@@ -416,9 +416,9 @@
    "name": "Hansika Motwani",
    "badge": "https://api-assets.clashofclans.com/badges/200/CF_0OcTYtORuiSq5J6qGC3Qa_pM5Pdoy-fVhnB0eEks.png",
    "level": 25,
-   "stars": 22,
-   "pct": 29.2,
-   "attacks": 10
+   "stars": 25,
+   "pct": 32.53,
+   "attacks": 11
   },
   "members": [
    {
@@ -440,9 +440,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -941,7 +941,7 @@
   "season": "2026-11-01",
   "round": 3,
   "warTag": "#8RVYCYUVG",
-  "snap": "2026-11-05T05:41:37Z"
+  "snap": "2026-11-05T05:46:37Z"
  },
  {
   "id": "cwl_20261102T171738Z_2YUGPCGLJ",
