@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",
-  "snap": "2026-11-05T18:31:49Z"
+  "snap": "2026-11-05T18:36:49Z"
  },
  {
   "id": "cwl_20261104T174347Z_29P0GGRRP",
@@ -416,9 +416,9 @@
    "name": "ROYAL ■ THIEVES",
    "badge": "https://api-assets.clashofclans.com/badges/200/yOPDYGJfKVXbF0-RT5gmRY5U6gPjen5Ew6oYUjAIYkU.png",
    "level": 23,
-   "stars": 18,
-   "pct": 20.0,
-   "attacks": 6
+   "stars": 21,
+   "pct": 23.33,
+   "attacks": 7
   },
   "members": [
    {
@@ -452,9 +452,9 @@
     "pos": 3,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -845,7 +845,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RVG2Q99G",
-  "snap": "2026-11-05T18:31:49Z"
+  "snap": "2026-11-05T18:36:49Z"
  },
  {
   "id": "cwl_20261103T171745Z_LGLP9RC2",
