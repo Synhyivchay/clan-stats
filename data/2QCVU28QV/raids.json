@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 49720,
+  "loot": 62229,
   "raids": 0,
-  "attacks": 10,
-  "districts": 4,
+  "attacks": 13,
+  "districts": 5,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -21,9 +21,9 @@
    {
     "tag": "#9CJ9U0LL",
     "name": "Evil Kruemel",
-    "a": 3,
+    "a": 6,
     "lim": 6,
-    "loot": 13546
+    "loot": 26055
    },
    {
     "tag": "#LG8YC2Y92",

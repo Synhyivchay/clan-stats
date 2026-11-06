@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",
-  "snap": "2026-11-06T08:51:05Z"
+  "snap": "2026-11-06T08:56:05Z"
  },
  {
   "id": "cwl_20261104T174347Z_29P0GGRRP",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 35,
-   "pct": 42.27,
-   "attacks": 14
+   "stars": 38,
+   "pct": 45.6,
+   "attacks": 15
   },
   "them": {
    "tag": "#29P0GGRRP",
@@ -942,7 +942,19 @@
     "name": "Begbus",
     "th": 15,
     "pos": 30,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P9LVUYC9Q",
+      "dn": "✨Eternal Shine✨",
+      "dpos": 30,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 39,
+      "n": 3,
+      "dur": 111
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -953,7 +965,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RVG2Q99G",
-  "snap": "2026-11-06T08:51:05Z"
+  "snap": "2026-11-06T08:56:05Z"
  },
  {
   "id": "cwl_20261103T171745Z_LGLP9RC2",
