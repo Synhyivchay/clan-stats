@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 264205,
+  "loot": 276839,
   "raids": 2,
-  "attacks": 59,
-  "districts": 25,
+  "attacks": 62,
+  "districts": 26,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -68,6 +68,13 @@
     "loot": 22894
    },
    {
+    "tag": "#8LCP8GR2L",
+    "name": "Leon",
+    "a": 4,
+    "lim": 6,
+    "loot": 17124
+   },
+   {
     "tag": "#9VV8JLR0Y",
     "name": "Ahmed leo 10$$",
     "a": 4,
@@ -94,13 +101,6 @@
     "a": 1,
     "lim": 5,
     "loot": 5375
-   },
-   {
-    "tag": "#8LCP8GR2L",
-    "name": "Leon",
-    "a": 1,
-    "lim": 5,
-    "loot": 4490
    }
   ]
  },
