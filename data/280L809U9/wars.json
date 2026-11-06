@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",
-  "snap": "2026-11-06T09:51:05Z"
+  "snap": "2026-11-06T12:03:43Z"
  },
  {
   "id": "cwl_20261104T174347Z_29P0GGRRP",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 40,
-   "pct": 48.7,
-   "attacks": 16
+   "stars": 44,
+   "pct": 53.83,
+   "attacks": 18
   },
   "them": {
    "tag": "#29P0GGRRP",
@@ -522,7 +522,19 @@
     "name": "SanixX",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8GU282PQY",
+      "dn": "Shajidul islam",
+      "dpos": 7,
+      "dth": 18,
+      "s": 2,
+      "p": 82,
+      "o": 42,
+      "n": 2,
+      "dur": 120
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -918,7 +930,19 @@
     "name": "Johan",
     "th": 16,
     "pos": 28,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LQ2LQU2L2",
+      "dn": "night fury",
+      "dpos": 28,
+      "dth": 17,
+      "s": 2,
+      "p": 72,
+      "o": 41,
+      "n": 2,
+      "dur": 101
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -977,7 +1001,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RVG2Q99G",
-  "snap": "2026-11-06T09:51:05Z"
+  "snap": "2026-11-06T12:03:43Z"
  },
  {
   "id": "cwl_20261103T171745Z_LGLP9RC2",

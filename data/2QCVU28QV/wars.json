@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 4,
   "warTag": "#8G209RYLG",
-  "snap": "2026-11-06T09:51:05Z"
+  "snap": "2026-11-06T12:03:43Z"
  },
  {
   "id": "cwl_20261105T093636Z_8VRCCRR2",
@@ -227,18 +227,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 12,
+   "pct": 26.67,
+   "attacks": 4
   },
   "them": {
    "tag": "#8VRCCRR2",
    "name": "ΕΛΛΑΝΙΟΙ",
    "badge": "https://api-assets.clashofclans.com/badges/200/pEU1L2T-B3uDDESohKh2nzvGKetDT9GWcPMv8GGfAKY.png",
    "level": 28,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 6.67,
+   "attacks": 1
   },
   "members": [
    {
@@ -258,7 +258,19 @@
     "name": "slory",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LGCPRP99L",
+      "dn": "Mr Mike",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 2,
+      "n": 3,
+      "dur": 173
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -282,7 +294,19 @@
     "name": "Cnyse",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#C8Y029CJ",
+      "dn": "μητσος7",
+      "dpos": 12,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 3,
+      "dur": 93
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -294,7 +318,19 @@
     "name": "Louis™️187",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y28C8UL20",
+      "dn": "100k DOOM",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 136
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -354,7 +390,19 @@
     "name": "Bassko",
     "th": 18,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9JJLQ2YR",
+      "dn": "Χρηστος",
+      "dpos": 10,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 1,
+      "n": 3,
+      "dur": 163
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -380,9 +428,9 @@
     "pos": 12,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -425,7 +473,7 @@
   "season": "2026-11-03",
   "round": 3,
   "warTag": "#8G0CUP9J0",
-  "snap": "2026-11-06T09:51:05Z"
+  "snap": "2026-11-06T12:03:43Z"
  },
  {
   "id": "cwl_20261104T092650Z_PCQ99QVG",

@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 48013,
+  "loot": 82173,
   "raids": 0,
-  "attacks": 12,
-  "districts": 4,
+  "attacks": 21,
+  "districts": 7,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -24,6 +24,20 @@
     "a": 6,
     "lim": 6,
     "loot": 23843
+   },
+   {
+    "tag": "#89RL09YL9",
+    "name": "Разрушитель",
+    "a": 6,
+    "lim": 6,
+    "loot": 22535
+   },
+   {
+    "tag": "#LV9VQJ8GP",
+    "name": "Фалирит",
+    "a": 3,
+    "lim": 6,
+    "loot": 11625
    }
   ]
  },
