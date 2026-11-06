@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 188978,
+  "loot": 193058,
   "raids": 2,
-  "attacks": 43,
+  "attacks": 44,
   "districts": 18,
   "offReward": 0,
   "defReward": 0,
@@ -49,9 +49,9 @@
    {
     "tag": "#9U20UCLV2",
     "name": "LokiPhil",
-    "a": 5,
+    "a": 6,
     "lim": 6,
-    "loot": 18814
+    "loot": 22894
    },
    {
     "tag": "#YU99PU9GQ",
