@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 348638,
+  "loot": 368284,
   "raids": 3,
-  "attacks": 76,
-  "districts": 33,
+  "attacks": 80,
+  "districts": 35,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -89,6 +89,13 @@
     "loot": 23772
    },
    {
+    "tag": "#CCLJJJ80",
+    "name": "受理freestyle",
+    "a": 5,
+    "lim": 6,
+    "loot": 23534
+   },
+   {
     "tag": "#9U20UCLV2",
     "name": "LokiPhil",
     "a": 6,
@@ -108,13 +115,6 @@
     "a": 1,
     "lim": 5,
     "loot": 5375
-   },
-   {
-    "tag": "#CCLJJJ80",
-    "name": "受理freestyle",
-    "a": 1,
-    "lim": 6,
-    "loot": 3888
    }
   ]
  },
