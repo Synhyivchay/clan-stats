@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 130878,
+  "loot": 146299,
   "raids": 1,
-  "attacks": 34,
-  "districts": 11,
+  "attacks": 37,
+  "districts": 13,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -47,18 +47,18 @@
     "loot": 21733
    },
    {
+    "tag": "#LQGGPPC92",
+    "name": "~LuciFer~",
+    "a": 4,
+    "lim": 6,
+    "loot": 19786
+   },
+   {
     "tag": "#LV9VQJ8GP",
     "name": "Фалирит",
     "a": 3,
     "lim": 6,
     "loot": 11625
-   },
-   {
-    "tag": "#LQGGPPC92",
-    "name": "~LuciFer~",
-    "a": 1,
-    "lim": 5,
-    "loot": 4365
    }
   ]
  },
