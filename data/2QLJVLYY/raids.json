@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 27535,
+  "loot": 44264,
   "raids": 0,
-  "attacks": 7,
-  "districts": 2,
+  "attacks": 11,
+  "districts": 3,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -21,9 +21,9 @@
    {
     "tag": "#Q9JRVCUYY",
     "name": "Melata",
-    "a": 1,
-    "lim": 5,
-    "loot": 3365
+    "a": 5,
+    "lim": 6,
+    "loot": 20094
    }
   ]
  },
