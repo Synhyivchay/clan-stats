@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 3,
   "warTag": "#8G0CUP9J0",
-  "snap": "2026-11-06T06:21:05Z"
+  "snap": "2026-11-06T06:26:05Z"
  },
  {
   "id": "cwl_20261104T092650Z_PCQ99QVG",
@@ -227,18 +227,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 39,
-   "pct": 86.67,
-   "attacks": 13
+   "stars": 42,
+   "pct": 93.33,
+   "attacks": 14
   },
   "them": {
    "tag": "#PCQ99QVG",
    "name": "Yeshua Warriors",
    "badge": "https://api-assets.clashofclans.com/badges/200/bptZvpkySHCa8-eOlqkZTZ7k30lDdgMltEU-wOY8pBs.png",
    "level": 27,
-   "stars": 37,
-   "pct": 85.2,
-   "attacks": 13
+   "stars": 40,
+   "pct": 91.87,
+   "attacks": 14
   },
   "members": [
    {
@@ -498,7 +498,19 @@
     "name": "xXDamage",
     "th": 18,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8C2J88YYL",
+      "dn": "luny",
+      "dpos": 10,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 28,
+      "n": 3,
+      "dur": 126
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -548,9 +560,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -581,7 +593,7 @@
   "season": "2026-11-03",
   "round": 2,
   "warTag": "#8G0RQV98G",
-  "snap": "2026-11-06T06:21:05Z"
+  "snap": "2026-11-06T06:26:05Z"
  },
  {
   "id": "cwl_20261103T080108Z_2G8CJJRY9",
