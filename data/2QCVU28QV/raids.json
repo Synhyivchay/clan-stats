@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 163894,
+  "loot": 168689,
   "raids": 1,
-  "attacks": 36,
-  "districts": 15,
+  "attacks": 38,
+  "districts": 16,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -66,6 +66,13 @@
     "a": 1,
     "lim": 5,
     "loot": 5375
+   },
+   {
+    "tag": "#9U20UCLV2",
+    "name": "LokiPhil",
+    "a": 2,
+    "lim": 6,
+    "loot": 4795
    }
   ]
  },
