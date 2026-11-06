@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",
-  "snap": "2026-11-06T05:06:05Z"
+  "snap": "2026-11-06T05:11:05Z"
  },
  {
   "id": "cwl_20261104T174347Z_29P0GGRRP",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 33,
-   "pct": 39.87,
-   "attacks": 13
+   "stars": 35,
+   "pct": 42.27,
+   "attacks": 14
   },
   "them": {
    "tag": "#29P0GGRRP",
@@ -810,7 +810,19 @@
     "name": "салфетка",
     "th": 16,
     "pos": 23,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PYQRGRJRL",
+      "dn": "AKASH LOVE",
+      "dpos": 23,
+      "dth": 17,
+      "s": 2,
+      "p": 72,
+      "o": 36,
+      "n": 2,
+      "dur": 150
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -941,7 +953,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RVG2Q99G",
-  "snap": "2026-11-06T05:06:05Z"
+  "snap": "2026-11-06T05:11:05Z"
  },
  {
   "id": "cwl_20261103T171745Z_LGLP9RC2",
