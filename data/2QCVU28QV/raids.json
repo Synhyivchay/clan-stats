@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 175297,
+  "loot": 178047,
   "raids": 1,
-  "attacks": 39,
+  "attacks": 40,
   "districts": 17,
   "offReward": 0,
   "defReward": 0,
@@ -73,6 +73,13 @@
     "a": 1,
     "lim": 5,
     "loot": 5375
+   },
+   {
+    "tag": "#9VV8JLR0Y",
+    "name": "Ahmed leo 10$$",
+    "a": 1,
+    "lim": 5,
+    "loot": 2750
    }
   ]
  },
