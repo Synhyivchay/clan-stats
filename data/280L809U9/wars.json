@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVUCYPVG",
-  "snap": "2026-11-06T20:05:48Z"
+  "snap": "2026-11-06T20:15:48Z"
  },
  {
   "id": "cwl_20261105T175331Z_PV0VP2RC",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 14,
-   "pct": 15.93,
-   "attacks": 5
+   "stars": 17,
+   "pct": 19.27,
+   "attacks": 6
   },
   "them": {
    "tag": "#PV0VP2RC",
@@ -570,7 +570,19 @@
     "name": "Partizan",
     "th": 18,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2QPU0Y9YV",
+      "dn": "H.I.R.O.K",
+      "dpos": 12,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 7,
+      "n": 3,
+      "dur": 96
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -845,7 +857,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",
-  "snap": "2026-11-06T20:05:48Z"
+  "snap": "2026-11-06T20:15:48Z"
  },
  {
   "id": "cwl_20261104T174347Z_29P0GGRRP",
