@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",
-  "snap": "2026-11-06T04:41:05Z"
+  "snap": "2026-11-06T04:46:05Z"
  },
  {
   "id": "cwl_20261104T174347Z_29P0GGRRP",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 27,
-   "pct": 33.2,
-   "attacks": 11
+   "stars": 30,
+   "pct": 36.53,
+   "attacks": 12
   },
   "them": {
    "tag": "#29P0GGRRP",
@@ -714,7 +714,19 @@
     "name": "Dream®",
     "th": 17,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P90RURC02",
+      "dn": "ᴀᴋᴍᴊ ᴠ₂",
+      "dpos": 19,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 33,
+      "n": 3,
+      "dur": 142
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -917,7 +929,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RVG2Q99G",
-  "snap": "2026-11-06T04:41:05Z"
+  "snap": "2026-11-06T04:46:05Z"
  },
  {
   "id": "cwl_20261103T171745Z_LGLP9RC2",
