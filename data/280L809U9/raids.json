@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 92381,
-  "raids": 0,
-  "attacks": 21,
-  "districts": 8,
+  "loot": 105886,
+  "raids": 1,
+  "attacks": 25,
+  "districts": 9,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -33,6 +33,13 @@
     "loot": 24008
    },
    {
+    "tag": "#GRQC2829L",
+    "name": "ed_sans_123",
+    "a": 5,
+    "lim": 6,
+    "loot": 16538
+   },
+   {
     "tag": "#G298UUQQL",
     "name": "Қыран) •_•",
     "a": 1,
@@ -45,13 +52,6 @@
     "a": 1,
     "lim": 5,
     "loot": 4780
-   },
-   {
-    "tag": "#GRQC2829L",
-    "name": "ed_sans_123",
-    "a": 1,
-    "lim": 6,
-    "loot": 3033
    }
   ]
  },
