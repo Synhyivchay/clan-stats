@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RV9RQG8L",
-  "snap": "2026-11-06T05:51:05Z"
+  "snap": "2026-11-06T06:01:05Z"
  },
  {
   "id": "cwl_20261104T174045Z_22JU9JLCG",
@@ -227,9 +227,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 15,
-   "pct": 38.47,
-   "attacks": 7
+   "stars": 18,
+   "pct": 45.13,
+   "attacks": 8
   },
   "them": {
    "tag": "#22JU9JLCG",
@@ -426,7 +426,19 @@
     "name": "Super Men",
     "th": 18,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P9L8LJ9CQ",
+      "dn": "danger Atik",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 18,
+      "n": 3,
+      "dur": 89
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -509,7 +521,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RV2PQ0YU",
-  "snap": "2026-11-06T05:51:05Z"
+  "snap": "2026-11-06T06:01:05Z"
  },
  {
   "id": "cwl_20261103T171228Z_2L8LLRCYU",
