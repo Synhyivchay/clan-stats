@@ -4,19 +4,19 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 9896,
+  "loot": 25446,
   "raids": 0,
-  "attacks": 2,
-  "districts": 1,
+  "attacks": 5,
+  "districts": 2,
   "offReward": 0,
   "defReward": 0,
   "members": [
    {
     "tag": "#22L9YGQ2U",
     "name": "slory",
-    "a": 2,
+    "a": 5,
     "lim": 6,
-    "loot": 9896
+    "loot": 25446
    }
   ]
  },
