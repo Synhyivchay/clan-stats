@@ -1,11 +1,11 @@
 [
  {
-  "id": "cwl_20261105T175058Z_2RPQU8PQ9",
+  "id": "cwl_20261106T175217Z_Y9JCRJG9",
   "type": "cwl",
   "state": "preparation",
-  "prep": "2026-11-05T17:50:58Z",
-  "start": "2026-11-06T17:50:55Z",
-  "end": "2026-11-07T17:50:55Z",
+  "prep": "2026-11-06T17:52:17Z",
+  "start": "2026-11-07T17:52:15Z",
+  "end": "2026-11-08T17:52:15Z",
   "teamSize": 15,
   "apm": 1,
   "us": {
@@ -18,10 +18,10 @@
    "attacks": 0
   },
   "them": {
-   "tag": "#2RPQU8PQ9",
-   "name": "SLAYERS 4",
-   "badge": "https://api-assets.clashofclans.com/badges/200/pkSFAwuu9oeoFQHoHZ4o_k1ZcNbWQw-lkTsNj0JKj4M.png",
-   "level": 7,
+   "tag": "#Y9JCRJG9",
+   "name": "CENTRALIZED",
+   "badge": "https://api-assets.clashofclans.com/badges/200/GnCL1tUEf6rcrk6oRJMQ-uw7Kepc9KF3z-dEEV0dJqM.png",
+   "level": 24,
    "stars": 0,
    "pct": 0.0,
    "attacks": 0
@@ -209,14 +209,264 @@
    }
   ],
   "season": "2026-11-01",
+  "round": 6,
+  "warTag": "#8RVL0QLC0",
+  "snap": "2026-11-06T19:20:48Z"
+ },
+ {
+  "id": "cwl_20261105T175058Z_2RPQU8PQ9",
+  "type": "cwl",
+  "state": "inWar",
+  "prep": "2026-11-05T17:50:58Z",
+  "start": "2026-11-06T17:50:55Z",
+  "end": "2026-11-07T17:50:55Z",
+  "teamSize": 15,
+  "apm": 1,
+  "us": {
+   "tag": "#2QLJVLYY",
+   "name": "slivki sow",
+   "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
+   "level": 34,
+   "stars": 8,
+   "pct": 18.4,
+   "attacks": 3
+  },
+  "them": {
+   "tag": "#2RPQU8PQ9",
+   "name": "SLAYERS 4",
+   "badge": "https://api-assets.clashofclans.com/badges/200/pkSFAwuu9oeoFQHoHZ4o_k1ZcNbWQw-lkTsNj0JKj4M.png",
+   "level": 7,
+   "stars": 0,
+   "pct": 0.0,
+   "attacks": 0
+  },
+  "members": [
+   {
+    "tag": "#Q9JRVCUYY",
+    "name": "Melata",
+    "th": 18,
+    "pos": 1,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YRYYYGY90",
+    "name": "naik",
+    "th": 18,
+    "pos": 2,
+    "attacks": [
+     {
+      "d": "#QLJC0GGC",
+      "dn": "first battle",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 1,
+      "n": 3,
+      "dur": 150
+     }
+    ],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#PUCPRP9YV",
+    "name": "малько",
+    "th": 18,
+    "pos": 3,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#9GV90LCR8",
+    "name": "■◇LEGENDARNIY◇■",
+    "th": 18,
+    "pos": 4,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LPQJQ2RJP",
+    "name": "Denton",
+    "th": 18,
+    "pos": 5,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#PVCPGJL9R",
+    "name": "000Roma000",
+    "th": 18,
+    "pos": 6,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#P2GULCL8G",
+    "name": "000Sergey000",
+    "th": 18,
+    "pos": 7,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#2LCGCPR80",
+    "name": "NumTorum",
+    "th": 18,
+    "pos": 8,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LQGGPPC92",
+    "name": "~LuciFer~",
+    "th": 18,
+    "pos": 9,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#89RL09YL9",
+    "name": "Разрушитель",
+    "th": 18,
+    "pos": 10,
+    "attacks": [
+     {
+      "d": "#2CV0PJJYP",
+      "dn": "NISHANT",
+      "dpos": 10,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 2,
+      "n": 3,
+      "dur": 162
+     }
+    ],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#8GGC8UY08",
+    "name": "Super Men",
+    "th": 18,
+    "pos": 11,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YCU8JR28U",
+    "name": "SHANARA",
+    "th": 18,
+    "pos": 12,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#28Q8J0RYG",
+    "name": "Mi4man",
+    "th": 18,
+    "pos": 13,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#8LVR2JGU",
+    "name": "ELITE",
+    "th": 18,
+    "pos": 14,
+    "attacks": [
+     {
+      "d": "#YU8UJ0GJC",
+      "dn": "loser",
+      "dpos": 14,
+      "dth": 18,
+      "s": 2,
+      "p": 76,
+      "o": 3,
+      "n": 2,
+      "dur": 116
+     }
+    ],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LYQL2PCL0",
+    "name": "Родион",
+    "th": 18,
+    "pos": 15,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   }
+  ],
+  "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RV9RQG8L",
-  "snap": "2026-11-06T17:38:43Z"
+  "snap": "2026-11-06T19:20:48Z"
  },
  {
   "id": "cwl_20261104T174045Z_22JU9JLCG",
   "type": "cwl",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-04T17:40:45Z",
   "start": "2026-11-05T17:39:30Z",
   "end": "2026-11-06T17:39:30Z",
@@ -602,6 +852,7 @@
     }
    }
   ],
+  "result": "lose",
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RV2PQ0YU",

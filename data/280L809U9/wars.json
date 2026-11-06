@@ -1,11 +1,11 @@
 [
  {
-  "id": "cwl_20261105T175331Z_PV0VP2RC",
+  "id": "cwl_20261106T175334Z_2RLYP9GP9",
   "type": "cwl",
   "state": "preparation",
-  "prep": "2026-11-05T17:53:31Z",
-  "start": "2026-11-06T17:53:28Z",
-  "end": "2026-11-07T17:53:28Z",
+  "prep": "2026-11-06T17:53:34Z",
+  "start": "2026-11-07T17:53:33Z",
+  "end": "2026-11-08T17:53:33Z",
   "teamSize": 30,
   "apm": 1,
   "us": {
@@ -18,10 +18,10 @@
    "attacks": 0
   },
   "them": {
-   "tag": "#PV0VP2RC",
-   "name": "ASSAMESE UNITED",
-   "badge": "https://api-assets.clashofclans.com/badges/200/1WmtRM2W_-WTE_MRxjud4E2GfNYVYZ5TyPmPiLhf8Bs.png",
-   "level": 29,
+   "tag": "#2RLYP9GP9",
+   "name": "CC Elite 3",
+   "badge": "https://api-assets.clashofclans.com/badges/200/atxCig_FxoMyU12NE4BDIe_MY6O93w18z6-LN75JT3w.png",
+   "level": 16,
    "stars": 0,
    "pct": 0.0,
    "attacks": 0
@@ -316,10 +316,22 @@
     }
    },
    {
+    "tag": "#2P0JQ09CY",
+    "name": "grootich",
+    "th": 16,
+    "pos": 25,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
     "tag": "#GQLRPL8Q0",
     "name": "Jamshid",
     "th": 17,
-    "pos": 25,
+    "pos": 26,
     "attacks": [],
     "def": {
      "n": 0,
@@ -330,18 +342,6 @@
    {
     "tag": "#P0GUJ290P",
     "name": "алексей3",
-    "th": 16,
-    "pos": 26,
-    "attacks": [],
-    "def": {
-     "n": 0,
-     "s": null,
-     "p": null
-    }
-   },
-   {
-    "tag": "#2P0JQ09CY",
-    "name": "grootich",
     "th": 16,
     "pos": 27,
     "attacks": [],
@@ -389,14 +389,468 @@
    }
   ],
   "season": "2026-11-01",
+  "round": 6,
+  "warTag": "#8RVUCYPVG",
+  "snap": "2026-11-06T19:20:48Z"
+ },
+ {
+  "id": "cwl_20261105T175331Z_PV0VP2RC",
+  "type": "cwl",
+  "state": "inWar",
+  "prep": "2026-11-05T17:53:31Z",
+  "start": "2026-11-06T17:53:28Z",
+  "end": "2026-11-07T17:53:28Z",
+  "teamSize": 30,
+  "apm": 1,
+  "us": {
+   "tag": "#280L809U9",
+   "name": "Badboys",
+   "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
+   "level": 25,
+   "stars": 14,
+   "pct": 15.93,
+   "attacks": 5
+  },
+  "them": {
+   "tag": "#PV0VP2RC",
+   "name": "ASSAMESE UNITED",
+   "badge": "https://api-assets.clashofclans.com/badges/200/1WmtRM2W_-WTE_MRxjud4E2GfNYVYZ5TyPmPiLhf8Bs.png",
+   "level": 29,
+   "stars": 2,
+   "pct": 2.13,
+   "attacks": 1
+  },
+  "members": [
+   {
+    "tag": "#GLCVPCCQ2",
+    "name": "Ragnar",
+    "th": 18,
+    "pos": 1,
+    "attacks": [
+     {
+      "d": "#22J9V90UY",
+      "dn": "Vishal",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 3,
+      "dur": 87
+     }
+    ],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YVP0G0V2G",
+    "name": "Relax",
+    "th": 18,
+    "pos": 2,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#Y9YQV8CUR",
+    "name": "GURU RANDHAWA",
+    "th": 18,
+    "pos": 3,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#PCUY9YUYU",
+    "name": "OO REEBOK OO",
+    "th": 18,
+    "pos": 4,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#8QUG9QQ8G",
+    "name": "ReTrO",
+    "th": 18,
+    "pos": 5,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#9LLUUULPG",
+    "name": "F.A.N.T.O.M",
+    "th": 18,
+    "pos": 6,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YUUQCGL2J",
+    "name": "SanixX",
+    "th": 18,
+    "pos": 7,
+    "attacks": [],
+    "def": {
+     "n": 1,
+     "s": 2,
+     "p": 64
+    }
+   },
+   {
+    "tag": "#GLL20U2Q9",
+    "name": "ㅤㅤㅤㅤ",
+    "th": 18,
+    "pos": 8,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#29QLJ0YY",
+    "name": "ReTrO",
+    "th": 18,
+    "pos": 9,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YR9GYYQC2",
+    "name": "Stars",
+    "th": 18,
+    "pos": 10,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#G0GP90YCL",
+    "name": "Boston",
+    "th": 18,
+    "pos": 11,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#QJYVP0JJU",
+    "name": "Partizan",
+    "th": 18,
+    "pos": 12,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YRVR292UG",
+    "name": "Адик",
+    "th": 17,
+    "pos": 13,
+    "attacks": [
+     {
+      "d": "#820L0LLJ2",
+      "dn": "YÖÜÑG GÜÑ",
+      "dpos": 13,
+      "dth": 16,
+      "s": 2,
+      "p": 78,
+      "o": 5,
+      "n": 2,
+      "dur": 158
+     }
+    ],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#QUULVGRYQ",
+    "name": "MR.KING",
+    "th": 17,
+    "pos": 14,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LGRVJULJJ",
+    "name": "DimagFM",
+    "th": 17,
+    "pos": 15,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#GRQC2829L",
+    "name": "ed_sans_123",
+    "th": 17,
+    "pos": 16,
+    "attacks": [
+     {
+      "d": "#2C9YPCYCY",
+      "dn": "DÜSTÎÑ",
+      "dpos": 16,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 1,
+      "n": 3,
+      "dur": 106
+     }
+    ],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#9VGPL8VRL",
+    "name": "bek",
+    "th": 17,
+    "pos": 17,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#QQ90VV9L2",
+    "name": "Aviasales",
+    "th": 17,
+    "pos": 18,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#QU0QU0Q80",
+    "name": "Dream®",
+    "th": 17,
+    "pos": 19,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#CUQYLPU",
+    "name": "ФЕРЗЬ",
+    "th": 18,
+    "pos": 20,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#GRGRRJLR9",
+    "name": "prime",
+    "th": 17,
+    "pos": 21,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#9P28CV0L0",
+    "name": "0777",
+    "th": 16,
+    "pos": 22,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#GUPY0JL0C",
+    "name": "салфетка",
+    "th": 16,
+    "pos": 23,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#82QQ2QY0V",
+    "name": "Дракс",
+    "th": 16,
+    "pos": 24,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#GQLRPL8Q0",
+    "name": "Jamshid",
+    "th": 17,
+    "pos": 25,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#P0GUJ290P",
+    "name": "алексей3",
+    "th": 16,
+    "pos": 26,
+    "attacks": [
+     {
+      "d": "#YUGLULLL2",
+      "dn": "DIVYAM",
+      "dpos": 26,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 3,
+      "n": 3,
+      "dur": 80
+     }
+    ],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#2P0JQ09CY",
+    "name": "grootich",
+    "th": 16,
+    "pos": 27,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#L9GQPGPYV",
+    "name": "Johan",
+    "th": 16,
+    "pos": 28,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#GC0V2V2Y0",
+    "name": "sgrassi",
+    "th": 16,
+    "pos": 29,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LRR9VR0CY",
+    "name": "Begbus",
+    "th": 15,
+    "pos": 30,
+    "attacks": [
+     {
+      "d": "#P88GPUL2J",
+      "dn": "दीपांकर",
+      "dpos": 30,
+      "dth": 14,
+      "s": 3,
+      "p": 100,
+      "o": 6,
+      "n": 3,
+      "dur": 83
+     }
+    ],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   }
+  ],
+  "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",
-  "snap": "2026-11-06T17:38:43Z"
+  "snap": "2026-11-06T19:20:48Z"
  },
  {
   "id": "cwl_20261104T174347Z_29P0GGRRP",
   "type": "cwl",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-04T17:43:47Z",
   "start": "2026-11-05T17:43:44Z",
   "end": "2026-11-06T17:43:44Z",
@@ -1130,6 +1584,7 @@
     }
    }
   ],
+  "result": "lose",
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RVG2Q99G",

@@ -6,7 +6,8 @@
    "#8RUJGC9Y0": "cwl_20261102T171147Z_20UV9220Y",
    "#8RUUVVQV0": "cwl_20261103T171228Z_2L8LLRCYU",
    "#8RV2PQ0YU": "cwl_20261104T174045Z_22JU9JLCG",
-   "#8RV9RQG8L": "cwl_20261105T175058Z_2RPQU8PQ9"
+   "#8RV9RQG8L": "cwl_20261105T175058Z_2RPQU8PQ9",
+   "#8RVL0QLC0": "cwl_20261106T175217Z_Y9JCRJG9"
   },
   "others": {
    "#8RUGCLPU8": {
@@ -137,7 +138,7 @@
    },
    "#8RV2PL00J": {
     "round": 4,
-    "state": "inWar",
+    "state": "warEnded",
     "a": {
      "tag": "#20UV9220Y",
      "stars": 45,
@@ -151,7 +152,7 @@
    },
    "#8RV2PL8RP": {
     "round": 4,
-    "state": "inWar",
+    "state": "warEnded",
     "a": {
      "tag": "#2J0UVYRQL",
      "stars": 44,
@@ -165,7 +166,7 @@
    },
    "#8RV2PL2Y0": {
     "round": 4,
-    "state": "inWar",
+    "state": "warEnded",
     "a": {
      "tag": "#2RPQU8PQ9",
      "stars": 38,
@@ -179,11 +180,11 @@
    },
    "#8RV9RQP9G": {
     "round": 5,
-    "state": "preparation",
+    "state": "inWar",
     "a": {
      "tag": "#20UV9220Y",
-     "stars": 0,
-     "pct": 0.0
+     "stars": 7,
+     "pct": 18.533333333333335
     },
     "b": {
      "tag": "#QLLVY9QQ",
@@ -193,21 +194,21 @@
    },
    "#8RV9RQLU8": {
     "round": 5,
-    "state": "preparation",
+    "state": "inWar",
     "a": {
      "tag": "#22JU9JLCG",
-     "stars": 0,
-     "pct": 0.0
+     "stars": 9,
+     "pct": 20.0
     },
     "b": {
      "tag": "#2J0UVYRQL",
-     "stars": 0,
-     "pct": 0.0
+     "stars": 5,
+     "pct": 13.066666666666666
     }
    },
    "#8RV9RQYQU": {
     "round": 5,
-    "state": "preparation",
+    "state": "inWar",
     "a": {
      "tag": "#Y9JCRJG9",
      "stars": 0,
@@ -215,6 +216,48 @@
     },
     "b": {
      "tag": "#2L8LLRCYU",
+     "stars": 15,
+     "pct": 33.333333333333336
+    }
+   },
+   "#8RVL0Q8U8": {
+    "round": 6,
+    "state": "preparation",
+    "a": {
+     "tag": "#22JU9JLCG",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#2L8LLRCYU",
+     "stars": 0,
+     "pct": 0.0
+    }
+   },
+   "#8RVL0QP8L": {
+    "round": 6,
+    "state": "preparation",
+    "a": {
+     "tag": "#2J0UVYRQL",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#QLLVY9QQ",
+     "stars": 0,
+     "pct": 0.0
+    }
+   },
+   "#8RVL0QYLJ": {
+    "round": 6,
+    "state": "preparation",
+    "a": {
+     "tag": "#20UV9220Y",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#2RPQU8PQ9",
      "stars": 0,
      "pct": 0.0
     }
