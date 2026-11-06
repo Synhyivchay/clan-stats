@@ -40,22 +40,10 @@
     }
    },
    {
-    "tag": "#VV02PYVV",
-    "name": "Patrik",
-    "th": 18,
-    "pos": 2,
-    "attacks": [],
-    "def": {
-     "n": 0,
-     "s": null,
-     "p": null
-    }
-   },
-   {
     "tag": "#YVP0G0V2G",
     "name": "Relax",
     "th": 18,
-    "pos": 3,
+    "pos": 2,
     "attacks": [],
     "def": {
      "n": 0,
@@ -67,7 +55,7 @@
     "tag": "#Y9YQV8CUR",
     "name": "GURU RANDHAWA",
     "th": 18,
-    "pos": 4,
+    "pos": 3,
     "attacks": [],
     "def": {
      "n": 0,
@@ -79,7 +67,7 @@
     "tag": "#PCUY9YUYU",
     "name": "OO REEBOK OO",
     "th": 18,
-    "pos": 5,
+    "pos": 4,
     "attacks": [],
     "def": {
      "n": 0,
@@ -91,7 +79,7 @@
     "tag": "#8QUG9QQ8G",
     "name": "ReTrO",
     "th": 18,
-    "pos": 6,
+    "pos": 5,
     "attacks": [],
     "def": {
      "n": 0,
@@ -103,7 +91,7 @@
     "tag": "#9LLUUULPG",
     "name": "F.A.N.T.O.M",
     "th": 18,
-    "pos": 7,
+    "pos": 6,
     "attacks": [],
     "def": {
      "n": 0,
@@ -115,7 +103,7 @@
     "tag": "#YUUQCGL2J",
     "name": "SanixX",
     "th": 18,
-    "pos": 8,
+    "pos": 7,
     "attacks": [],
     "def": {
      "n": 0,
@@ -127,7 +115,7 @@
     "tag": "#GLL20U2Q9",
     "name": "ㅤㅤㅤㅤ",
     "th": 18,
-    "pos": 9,
+    "pos": 8,
     "attacks": [],
     "def": {
      "n": 0,
@@ -139,7 +127,7 @@
     "tag": "#29QLJ0YY",
     "name": "ReTrO",
     "th": 18,
-    "pos": 10,
+    "pos": 9,
     "attacks": [],
     "def": {
      "n": 0,
@@ -151,7 +139,7 @@
     "tag": "#YR9GYYQC2",
     "name": "Stars",
     "th": 18,
-    "pos": 11,
+    "pos": 10,
     "attacks": [],
     "def": {
      "n": 0,
@@ -163,7 +151,7 @@
     "tag": "#G0GP90YCL",
     "name": "Boston",
     "th": 18,
-    "pos": 12,
+    "pos": 11,
     "attacks": [],
     "def": {
      "n": 0,
@@ -175,7 +163,7 @@
     "tag": "#QJYVP0JJU",
     "name": "Partizan",
     "th": 18,
-    "pos": 13,
+    "pos": 12,
     "attacks": [],
     "def": {
      "n": 0,
@@ -187,7 +175,7 @@
     "tag": "#YRVR292UG",
     "name": "Адик",
     "th": 17,
-    "pos": 14,
+    "pos": 13,
     "attacks": [],
     "def": {
      "n": 0,
@@ -199,7 +187,7 @@
     "tag": "#QUULVGRYQ",
     "name": "MR.KING",
     "th": 17,
-    "pos": 15,
+    "pos": 14,
     "attacks": [],
     "def": {
      "n": 0,
@@ -211,7 +199,7 @@
     "tag": "#LGRVJULJJ",
     "name": "DimagFM",
     "th": 17,
-    "pos": 16,
+    "pos": 15,
     "attacks": [],
     "def": {
      "n": 0,
@@ -222,6 +210,18 @@
    {
     "tag": "#GRQC2829L",
     "name": "ed_sans_123",
+    "th": 17,
+    "pos": 16,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#9VGPL8VRL",
+    "name": "bek",
     "th": 17,
     "pos": 17,
     "attacks": [],
@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",
-  "snap": "2026-11-06T16:38:43Z"
+  "snap": "2026-11-06T16:43:43Z"
  },
  {
   "id": "cwl_20261104T174347Z_29P0GGRRP",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 56,
-   "pct": 69.2,
-   "attacks": 24
+   "stars": 61,
+   "pct": 75.83,
+   "attacks": 26
   },
   "them": {
    "tag": "#29P0GGRRP",
@@ -510,7 +510,19 @@
     "name": "ReTrO",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GYUC0VCV",
+      "dn": "almightyone",
+      "dpos": 6,
+      "dth": 18,
+      "s": 2,
+      "p": 99,
+      "o": 52,
+      "n": 2,
+      "dur": 164
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -570,7 +582,19 @@
     "name": "ㅤㅤㅤㅤ",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8JJR902VU",
+      "dn": "ᴀᴋᴍᴊ ♪",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 53,
+      "n": 3,
+      "dur": 78
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -1073,7 +1097,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RVG2Q99G",
-  "snap": "2026-11-06T16:38:43Z"
+  "snap": "2026-11-06T16:43:43Z"
  },
  {
   "id": "cwl_20261103T171745Z_LGLP9RC2",

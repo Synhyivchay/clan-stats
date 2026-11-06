@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 211128,
+  "loot": 225710,
   "raids": 2,
-  "attacks": 48,
-  "districts": 18,
+  "attacks": 51,
+  "districts": 19,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -24,6 +24,13 @@
     "a": 6,
     "lim": 6,
     "loot": 29536
+   },
+   {
+    "tag": "#LVVCQ82L0",
+    "name": "uchiha_obito",
+    "a": 6,
+    "lim": 6,
+    "loot": 26595
    },
    {
     "tag": "#LCRPUCU2V",
@@ -47,18 +54,18 @@
     "loot": 24008
    },
    {
-    "tag": "#LVVCQ82L0",
-    "name": "uchiha_obito",
-    "a": 5,
-    "lim": 6,
-    "loot": 21860
-   },
-   {
     "tag": "#GRQC2829L",
     "name": "ed_sans_123",
     "a": 6,
     "lim": 6,
     "loot": 21738
+   },
+   {
+    "tag": "#GRGRRJLR9",
+    "name": "prime",
+    "a": 3,
+    "lim": 6,
+    "loot": 14627
    },
    {
     "tag": "#GC0V2V2Y0",
@@ -80,13 +87,6 @@
     "a": 1,
     "lim": 5,
     "loot": 5235
-   },
-   {
-    "tag": "#GRGRRJLR9",
-    "name": "prime",
-    "a": 1,
-    "lim": 5,
-    "loot": 4780
    }
   ]
  },
