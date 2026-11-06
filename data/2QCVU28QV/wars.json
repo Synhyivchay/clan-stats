@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 4,
   "warTag": "#8G209RYLG",
-  "snap": "2026-11-06T17:28:43Z"
+  "snap": "2026-11-06T17:33:43Z"
  },
  {
   "id": "cwl_20261105T093636Z_8VRCCRR2",
@@ -236,9 +236,9 @@
    "name": "ΕΛΛΑΝΙΟΙ",
    "badge": "https://api-assets.clashofclans.com/badges/200/pEU1L2T-B3uDDESohKh2nzvGKetDT9GWcPMv8GGfAKY.png",
    "level": 28,
-   "stars": 17,
-   "pct": 39.73,
-   "attacks": 6
+   "stars": 19,
+   "pct": 46.2,
+   "attacks": 7
   },
   "members": [
    {
@@ -296,9 +296,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 97
     }
    },
    {
@@ -557,7 +557,7 @@
   "season": "2026-11-03",
   "round": 3,
   "warTag": "#8G0CUP9J0",
-  "snap": "2026-11-06T17:28:43Z"
+  "snap": "2026-11-06T17:33:43Z"
  },
  {
   "id": "cwl_20261104T092650Z_PCQ99QVG",

@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 306455,
+  "loot": 317403,
   "raids": 3,
-  "attacks": 68,
-  "districts": 29,
+  "attacks": 70,
+  "districts": 30,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#QUUCY9VYQ",
+    "name": "Marc",
+    "a": 6,
+    "lim": 6,
+    "loot": 33549
+   },
    {
     "tag": "#22L9YGQ2U",
     "name": "slory",
@@ -73,13 +80,6 @@
     "a": 6,
     "lim": 6,
     "loot": 22894
-   },
-   {
-    "tag": "#QUUCY9VYQ",
-    "name": "Marc",
-    "a": 4,
-    "lim": 6,
-    "loot": 22601
    },
    {
     "tag": "#9VV8JLR0Y",
