@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 103906,
-  "raids": 0,
-  "attacks": 27,
-  "districts": 8,
+  "loot": 116640,
+  "raids": 1,
+  "attacks": 30,
+  "districts": 10,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -40,18 +40,18 @@
     "loot": 21733
    },
    {
+    "tag": "#LYQL2PCL0",
+    "name": "Родион",
+    "a": 3,
+    "lim": 6,
+    "loot": 12734
+   },
+   {
     "tag": "#LV9VQJ8GP",
     "name": "Фалирит",
     "a": 3,
     "lim": 6,
     "loot": 11625
-   },
-   {
-    "tag": "#LYQL2PCL0",
-    "name": "Родион",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
    }
   ]
  },
