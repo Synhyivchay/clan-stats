@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 4,
   "warTag": "#8G209RYLG",
-  "snap": "2026-11-06T12:03:43Z"
+  "snap": "2026-11-06T12:08:43Z"
  },
  {
   "id": "cwl_20261105T093636Z_8VRCCRR2",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 12,
-   "pct": 26.67,
-   "attacks": 4
+   "stars": 15,
+   "pct": 33.33,
+   "attacks": 5
   },
   "them": {
    "tag": "#8VRCCRR2",
@@ -462,7 +462,19 @@
     "name": "Monkey D. Lorik",
     "th": 18,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8J98GJQVY",
+      "dn": "john sou",
+      "dpos": 15,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 6,
+      "n": 3,
+      "dur": 119
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -473,7 +485,7 @@
   "season": "2026-11-03",
   "round": 3,
   "warTag": "#8G0CUP9J0",
-  "snap": "2026-11-06T12:03:43Z"
+  "snap": "2026-11-06T12:08:43Z"
  },
  {
   "id": "cwl_20261104T092650Z_PCQ99QVG",
