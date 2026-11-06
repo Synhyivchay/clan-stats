@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RV9RQG8L",
-  "snap": "2026-11-06T08:56:05Z"
+  "snap": "2026-11-06T09:01:05Z"
  },
  {
   "id": "cwl_20261104T174045Z_22JU9JLCG",
@@ -227,9 +227,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 24,
-   "pct": 58.47,
-   "attacks": 10
+   "stars": 26,
+   "pct": 62.73,
+   "attacks": 11
   },
   "them": {
    "tag": "#22JU9JLCG",
@@ -534,7 +534,19 @@
     "name": "Родион",
     "th": 18,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q20UGLG9R",
+      "dn": "King Nayem",
+      "dpos": 15,
+      "dth": 18,
+      "s": 2,
+      "p": 64,
+      "o": 25,
+      "n": 2,
+      "dur": 81
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -545,7 +557,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RV2PQ0YU",
-  "snap": "2026-11-06T08:56:05Z"
+  "snap": "2026-11-06T09:01:05Z"
  },
  {
   "id": "cwl_20261103T171228Z_2L8LLRCYU",
