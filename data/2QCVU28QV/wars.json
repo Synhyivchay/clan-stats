@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 3,
   "warTag": "#8G0CUP9J0",
-  "snap": "2026-11-06T06:51:05Z"
+  "snap": "2026-11-06T06:56:05Z"
  },
  {
   "id": "cwl_20261104T092650Z_PCQ99QVG",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 42,
-   "pct": 93.33,
-   "attacks": 14
+   "stars": 45,
+   "pct": 100.0,
+   "attacks": 15
   },
   "them": {
    "tag": "#PCQ99QVG",
@@ -294,7 +294,19 @@
     "name": "Cnyse",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q2UGV9L",
+      "dn": "haria",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 30,
+      "n": 3,
+      "dur": 102
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -593,7 +605,7 @@
   "season": "2026-11-03",
   "round": 2,
   "warTag": "#8G0RQV98G",
-  "snap": "2026-11-06T06:51:05Z"
+  "snap": "2026-11-06T06:56:05Z"
  },
  {
   "id": "cwl_20261103T080108Z_2G8CJJRY9",
