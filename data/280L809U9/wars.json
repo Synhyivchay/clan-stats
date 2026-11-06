@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",
-  "snap": "2026-11-06T03:45:46Z"
+  "snap": "2026-11-06T03:55:46Z"
  },
  {
   "id": "cwl_20261104T174347Z_29P0GGRRP",
@@ -417,8 +417,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/yOPDYGJfKVXbF0-RT5gmRY5U6gPjen5Ew6oYUjAIYkU.png",
    "level": 23,
    "stars": 54,
-   "pct": 61.67,
-   "attacks": 19
+   "pct": 62.63,
+   "attacks": 20
   },
   "members": [
    {
@@ -704,9 +704,9 @@
     "pos": 18,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 0,
+     "p": 29
     }
    },
    {
@@ -917,7 +917,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RVG2Q99G",
-  "snap": "2026-11-06T03:45:46Z"
+  "snap": "2026-11-06T03:55:46Z"
  },
  {
   "id": "cwl_20261103T171745Z_LGLP9RC2",
