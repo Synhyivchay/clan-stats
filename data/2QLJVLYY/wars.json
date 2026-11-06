@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RV9RQG8L",
-  "snap": "2026-11-06T07:41:05Z"
+  "snap": "2026-11-06T07:46:05Z"
  },
  {
   "id": "cwl_20261104T174045Z_22JU9JLCG",
@@ -227,9 +227,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 21,
-   "pct": 51.8,
-   "attacks": 9
+   "stars": 24,
+   "pct": 58.47,
+   "attacks": 10
   },
   "them": {
    "tag": "#22JU9JLCG",
@@ -294,7 +294,19 @@
     "name": "малько",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LC2RRRYCG",
+      "dn": "Rasel Mhamud",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 24,
+      "n": 3,
+      "dur": 145
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -533,7 +545,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RV2PQ0YU",
-  "snap": "2026-11-06T07:41:05Z"
+  "snap": "2026-11-06T07:46:05Z"
  },
  {
   "id": "cwl_20261103T171228Z_2L8LLRCYU",
