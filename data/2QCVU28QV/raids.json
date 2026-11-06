@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 368284,
+  "loot": 373274,
   "raids": 3,
-  "attacks": 80,
+  "attacks": 81,
   "districts": 35,
   "offReward": 0,
   "defReward": 0,
@@ -45,6 +45,13 @@
     "a": 6,
     "lim": 6,
     "loot": 28760
+   },
+   {
+    "tag": "#CCLJJJ80",
+    "name": "受理freestyle",
+    "a": 6,
+    "lim": 6,
+    "loot": 28524
    },
    {
     "tag": "#2GG9VVGQJ",
@@ -87,13 +94,6 @@
     "a": 6,
     "lim": 6,
     "loot": 23772
-   },
-   {
-    "tag": "#CCLJJJ80",
-    "name": "受理freestyle",
-    "a": 5,
-    "lim": 6,
-    "loot": 23534
    },
    {
     "tag": "#9U20UCLV2",
