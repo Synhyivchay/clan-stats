@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 179273,
+  "loot": 189268,
   "raids": 1,
-  "attacks": 41,
+  "attacks": 43,
   "districts": 15,
   "offReward": 0,
   "defReward": 0,
@@ -33,6 +33,13 @@
     "loot": 25789
    },
    {
+    "tag": "#9LLUUULPG",
+    "name": "F.A.N.T.O.M",
+    "a": 6,
+    "lim": 6,
+    "loot": 25528
+   },
+   {
     "tag": "#LRR9VR0CY",
     "name": "Begbus",
     "a": 6,
@@ -45,13 +52,6 @@
     "a": 6,
     "lim": 6,
     "loot": 21738
-   },
-   {
-    "tag": "#9LLUUULPG",
-    "name": "F.A.N.T.O.M",
-    "a": 4,
-    "lim": 6,
-    "loot": 15533
    },
    {
     "tag": "#GC0V2V2Y0",
