@@ -51,7 +51,7 @@
    },
    "#8G0RQR0YJ": {
     "round": 2,
-    "state": "inWar",
+    "state": "warEnded",
     "a": {
      "tag": "#2JG00JCG2",
      "stars": 45,
@@ -65,7 +65,7 @@
    },
    "#8G0RQVPLU": {
     "round": 2,
-    "state": "inWar",
+    "state": "warEnded",
     "a": {
      "tag": "#8VRCCRR2",
      "stars": 33,
@@ -79,7 +79,7 @@
    },
    "#8G0RGQJ0G": {
     "round": 2,
-    "state": "inWar",
+    "state": "warEnded",
     "a": {
      "tag": "#282VPPRUJ",
      "stars": 45,
