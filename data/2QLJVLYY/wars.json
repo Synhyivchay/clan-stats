@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVL0QLC0",
-  "snap": "2026-11-06T20:20:48Z"
+  "snap": "2026-11-06T20:25:48Z"
  },
  {
   "id": "cwl_20261105T175058Z_2RPQU8PQ9",
@@ -227,9 +227,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 10,
-   "pct": 22.73,
-   "attacks": 4
+   "stars": 12,
+   "pct": 28.27,
+   "attacks": 5
   },
   "them": {
    "tag": "#2RPQU8PQ9",
@@ -414,7 +414,19 @@
     "name": "SHANARA",
     "th": 18,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YQ82PUVLJ",
+      "dn": "ＪｕＧＧｅＲｎａｕＴ#",
+      "dpos": 12,
+      "dth": 18,
+      "s": 2,
+      "p": 83,
+      "o": 5,
+      "n": 2,
+      "dur": 89
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -473,7 +485,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RV9RQG8L",
-  "snap": "2026-11-06T20:20:48Z"
+  "snap": "2026-11-06T20:25:48Z"
  },
  {
   "id": "cwl_20261104T174045Z_22JU9JLCG",

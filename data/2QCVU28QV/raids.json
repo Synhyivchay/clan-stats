@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 344750,
+  "loot": 348638,
   "raids": 3,
-  "attacks": 75,
-  "districts": 32,
+  "attacks": 76,
+  "districts": 33,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -108,6 +108,13 @@
     "a": 1,
     "lim": 5,
     "loot": 5375
+   },
+   {
+    "tag": "#CCLJJJ80",
+    "name": "受理freestyle",
+    "a": 1,
+    "lim": 6,
+    "loot": 3888
    }
   ]
  },
