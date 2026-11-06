@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 178047,
-  "raids": 1,
-  "attacks": 40,
-  "districts": 17,
+  "loot": 188978,
+  "raids": 2,
+  "attacks": 43,
+  "districts": 18,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -47,18 +47,18 @@
     "loot": 23772
    },
    {
+    "tag": "#9U20UCLV2",
+    "name": "LokiPhil",
+    "a": 5,
+    "lim": 6,
+    "loot": 18814
+   },
+   {
     "tag": "#YU99PU9GQ",
     "name": "Luka Tate",
     "a": 3,
     "lim": 6,
     "loot": 15448
-   },
-   {
-    "tag": "#9U20UCLV2",
-    "name": "LokiPhil",
-    "a": 3,
-    "lim": 6,
-    "loot": 11403
    },
    {
     "tag": "#2JCQPL89R",
@@ -68,18 +68,18 @@
     "loot": 9050
    },
    {
+    "tag": "#9VV8JLR0Y",
+    "name": "Ahmed leo 10$$",
+    "a": 2,
+    "lim": 5,
+    "loot": 6270
+   },
+   {
     "tag": "#LG8YC2Y92",
     "name": "Kingdingeling",
     "a": 1,
     "lim": 5,
     "loot": 5375
-   },
-   {
-    "tag": "#9VV8JLR0Y",
-    "name": "Ahmed leo 10$$",
-    "a": 1,
-    "lim": 5,
-    "loot": 2750
    }
   ]
  },
