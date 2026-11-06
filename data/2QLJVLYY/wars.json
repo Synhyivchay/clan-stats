@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RV9RQG8L",
-  "snap": "2026-11-06T04:21:05Z"
+  "snap": "2026-11-06T04:26:05Z"
  },
  {
   "id": "cwl_20261104T174045Z_22JU9JLCG",
@@ -236,9 +236,9 @@
    "name": "Leisure Time",
    "badge": "https://api-assets.clashofclans.com/badges/200/62QBJEipC5NakkwFVQygTuFhK76DaYvqU3Ea3nl6-gM.png",
    "level": 30,
-   "stars": 23,
-   "pct": 53.2,
-   "attacks": 8
+   "stars": 26,
+   "pct": 59.87,
+   "attacks": 9
   },
   "members": [
    {
@@ -344,9 +344,9 @@
     "pos": 7,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -485,7 +485,7 @@
   "season": "2026-11-01",
   "round": 4,
   "warTag": "#8RV2PQ0YU",
-  "snap": "2026-11-06T04:21:05Z"
+  "snap": "2026-11-06T04:26:05Z"
  },
  {
   "id": "cwl_20261103T171228Z_2L8LLRCYU",
