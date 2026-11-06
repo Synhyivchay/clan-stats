@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 116640,
+  "loot": 126513,
   "raids": 1,
-  "attacks": 30,
-  "districts": 10,
+  "attacks": 33,
+  "districts": 11,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -26,6 +26,13 @@
     "loot": 23843
    },
    {
+    "tag": "#LYQL2PCL0",
+    "name": "Родион",
+    "a": 6,
+    "lim": 6,
+    "loot": 22607
+   },
+   {
     "tag": "#89RL09YL9",
     "name": "Разрушитель",
     "a": 6,
@@ -38,13 +45,6 @@
     "a": 6,
     "lim": 6,
     "loot": 21733
-   },
-   {
-    "tag": "#LYQL2PCL0",
-    "name": "Родион",
-    "a": 3,
-    "lim": 6,
-    "loot": 12734
    },
    {
     "tag": "#LV9VQJ8GP",
