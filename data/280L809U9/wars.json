@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVUCYPVG",
-  "snap": "2026-11-07T12:06:17Z"
+  "snap": "2026-11-07T12:54:51Z"
  },
  {
   "id": "cwl_20261105T175331Z_PV0VP2RC",
@@ -407,18 +407,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 41,
-   "pct": 45.93,
-   "attacks": 14
+   "stars": 43,
+   "pct": 48.97,
+   "attacks": 15
   },
   "them": {
    "tag": "#PV0VP2RC",
    "name": "ASSAMESE UNITED",
    "badge": "https://api-assets.clashofclans.com/badges/200/1WmtRM2W_-WTE_MRxjud4E2GfNYVYZ5TyPmPiLhf8Bs.png",
    "level": 29,
-   "stars": 17,
-   "pct": 24.63,
-   "attacks": 9
+   "stars": 25,
+   "pct": 33.03,
+   "attacks": 12
   },
   "members": [
    {
@@ -476,9 +476,9 @@
     "pos": 4,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 52
     }
    },
    {
@@ -498,7 +498,19 @@
     "name": "F.A.N.T.O.M",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8PU8YRQ9P",
+      "dn": "SPC....",
+      "dpos": 6,
+      "dth": 18,
+      "s": 2,
+      "p": 91,
+      "o": 27,
+      "n": 2,
+      "dur": 129
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -896,9 +908,9 @@
     "pos": 28,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -920,9 +932,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -953,7 +965,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",
-  "snap": "2026-11-07T12:06:17Z"
+  "snap": "2026-11-07T12:54:51Z"
  },
  {
   "id": "cwl_20261104T174347Z_29P0GGRRP",

@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 266199,
+  "loot": 272036,
   "raids": 3,
-  "attacks": 64,
-  "districts": 24,
+  "attacks": 65,
+  "districts": 25,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#8GGC8UY08",
+    "name": "Super Men",
+    "a": 6,
+    "lim": 6,
+    "loot": 30572
+   },
    {
     "tag": "#LQGGPPC92",
     "name": "~LuciFer~",
@@ -31,13 +38,6 @@
     "a": 6,
     "lim": 6,
     "loot": 27425
-   },
-   {
-    "tag": "#8GGC8UY08",
-    "name": "Super Men",
-    "a": 5,
-    "lim": 6,
-    "loot": 24735
    },
    {
     "tag": "#PUCPRP9YV",

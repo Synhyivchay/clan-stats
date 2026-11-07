@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVL0QLC0",
-  "snap": "2026-11-07T12:06:17Z"
+  "snap": "2026-11-07T12:54:51Z"
  },
  {
   "id": "cwl_20261105T175058Z_2RPQU8PQ9",
@@ -227,9 +227,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 23,
-   "pct": 54.33,
-   "attacks": 9
+   "stars": 29,
+   "pct": 67.67,
+   "attacks": 11
   },
   "them": {
    "tag": "#2RPQU8PQ9",
@@ -318,7 +318,19 @@
     "name": "■◇LEGENDARNIY◇■",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2GJUCQPPC",
+      "dn": "Mochi",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 11,
+      "n": 3,
+      "dur": 102
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -378,7 +390,19 @@
     "name": "NumTorum",
     "th": 18,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8PJC2VCY9",
+      "dn": "O_Tash.Pro#1",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 12,
+      "n": 3,
+      "dur": 100
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -533,7 +557,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RV9RQG8L",
-  "snap": "2026-11-07T12:06:17Z"
+  "snap": "2026-11-07T12:54:51Z"
  },
  {
   "id": "cwl_20261104T174045Z_22JU9JLCG",
