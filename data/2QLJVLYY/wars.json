@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVL0QLC0",
-  "snap": "2026-11-07T07:11:17Z"
+  "snap": "2026-11-07T07:16:17Z"
  },
  {
   "id": "cwl_20261105T175058Z_2RPQU8PQ9",
@@ -227,9 +227,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 14,
-   "pct": 34.33,
-   "attacks": 6
+   "stars": 17,
+   "pct": 41.0,
+   "attacks": 7
   },
   "them": {
    "tag": "#2RPQU8PQ9",
@@ -246,7 +246,19 @@
     "name": "Melata",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8PLPUL8VU",
+      "dn": "sebitas",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 8,
+      "n": 3,
+      "dur": 104
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -497,7 +509,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RV9RQG8L",
-  "snap": "2026-11-07T07:11:17Z"
+  "snap": "2026-11-07T07:16:17Z"
  },
  {
   "id": "cwl_20261104T174045Z_22JU9JLCG",
