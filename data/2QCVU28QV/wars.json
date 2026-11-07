@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 5,
   "warTag": "#8G28GPGJU",
-  "snap": "2026-11-07T19:25:22Z"
+  "snap": "2026-11-07T19:30:22Z"
  },
  {
   "id": "cwl_20261106T093642Z_2JG00JCG2",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 23,
-   "pct": 52.6,
-   "attacks": 8
+   "stars": 26,
+   "pct": 59.27,
+   "attacks": 9
   },
   "them": {
    "tag": "#2JG00JCG2",
@@ -282,7 +282,19 @@
     "name": "Cnyse",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q8CJ0PY20",
+      "dn": "memobabafly",
+      "dpos": 12,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 16,
+      "n": 3,
+      "dur": 85
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -521,7 +533,7 @@
   "season": "2026-11-03",
   "round": 4,
   "warTag": "#8G209RYLG",
-  "snap": "2026-11-07T19:25:22Z"
+  "snap": "2026-11-07T19:30:22Z"
  },
  {
   "id": "cwl_20261105T093636Z_8VRCCRR2",
