@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 493282,
+  "loot": 505159,
   "raids": 6,
-  "attacks": 109,
-  "districts": 45,
+  "attacks": 112,
+  "districts": 46,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -124,18 +124,18 @@
     "loot": 22894
    },
    {
+    "tag": "#P9C8Q9RCR",
+    "name": "Hattrickser",
+    "a": 6,
+    "lim": 6,
+    "loot": 22794
+   },
+   {
     "tag": "#Q9G2JL0U",
     "name": "Flashbang",
     "a": 6,
     "lim": 6,
     "loot": 20279
-   },
-   {
-    "tag": "#P9C8Q9RCR",
-    "name": "Hattrickser",
-    "a": 3,
-    "lim": 6,
-    "loot": 10917
    },
    {
     "tag": "#LYVPPVGPC",
