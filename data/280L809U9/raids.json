@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 291936,
+  "loot": 295271,
   "raids": 3,
-  "attacks": 68,
+  "attacks": 69,
   "districts": 26,
   "offReward": 0,
   "defReward": 0,
@@ -75,6 +75,13 @@
     "loot": 21738
    },
    {
+    "tag": "#2P0JQ09CY",
+    "name": "grootich",
+    "a": 6,
+    "lim": 6,
+    "loot": 13912
+   },
+   {
     "tag": "#G298UUQQL",
     "name": "Қыран) •_•",
     "a": 3,
@@ -94,13 +101,6 @@
     "a": 2,
     "lim": 6,
     "loot": 11387
-   },
-   {
-    "tag": "#2P0JQ09CY",
-    "name": "grootich",
-    "a": 5,
-    "lim": 6,
-    "loot": 10577
    },
    {
     "tag": "#LGRVJULJJ",
