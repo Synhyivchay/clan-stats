@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVUCYPVG",
-  "snap": "2026-11-07T16:54:51Z"
+  "snap": "2026-11-07T16:59:51Z"
  },
  {
   "id": "cwl_20261105T175331Z_PV0VP2RC",
@@ -407,18 +407,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 63,
-   "pct": 72.07,
-   "attacks": 22
+   "stars": 65,
+   "pct": 74.5,
+   "attacks": 23
   },
   "them": {
    "tag": "#PV0VP2RC",
    "name": "ASSAMESE UNITED",
    "badge": "https://api-assets.clashofclans.com/badges/200/1WmtRM2W_-WTE_MRxjud4E2GfNYVYZ5TyPmPiLhf8Bs.png",
    "level": 29,
-   "stars": 62,
-   "pct": 78.57,
-   "attacks": 28
+   "stars": 65,
+   "pct": 81.9,
+   "attacks": 29
   },
   "members": [
    {
@@ -440,9 +440,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -594,7 +594,19 @@
     "name": "Stars",
     "th": 18,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8PJLV2CQG",
+      "dn": "CHANDAN MEDHI",
+      "dpos": 10,
+      "dth": 17,
+      "s": 2,
+      "p": 73,
+      "o": 52,
+      "n": 2,
+      "dur": 145
+     }
+    ],
     "def": {
      "n": 1,
      "s": 1,
@@ -1049,7 +1061,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",
-  "snap": "2026-11-07T16:54:51Z"
+  "snap": "2026-11-07T16:59:51Z"
  },
  {
   "id": "cwl_20261104T174347Z_29P0GGRRP",
