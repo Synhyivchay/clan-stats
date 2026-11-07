@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 308012,
+  "loot": 310772,
   "raids": 4,
-  "attacks": 73,
+  "attacks": 74,
   "districts": 29,
   "offReward": 0,
   "defReward": 0,
@@ -115,6 +115,13 @@
     "a": 1,
     "lim": 5,
     "loot": 3435
+   },
+   {
+    "tag": "#YRYYYGY90",
+    "name": "naik",
+    "a": 1,
+    "lim": 5,
+    "loot": 2760
    },
    {
     "tag": "#LPYUQRQPQ",
