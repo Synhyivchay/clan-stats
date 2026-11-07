@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVL0QLC0",
-  "snap": "2026-11-07T15:24:51Z"
+  "snap": "2026-11-07T15:29:51Z"
  },
  {
   "id": "cwl_20261105T175058Z_2RPQU8PQ9",
@@ -236,9 +236,9 @@
    "name": "SLAYERS 4",
    "badge": "https://api-assets.clashofclans.com/badges/200/pkSFAwuu9oeoFQHoHZ4o_k1ZcNbWQw-lkTsNj0JKj4M.png",
    "level": 7,
-   "stars": 14,
-   "pct": 44.6,
-   "attacks": 8
+   "stars": 17,
+   "pct": 51.27,
+   "attacks": 9
   },
   "members": [
    {
@@ -380,9 +380,9 @@
     "pos": 7,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -569,7 +569,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RV9RQG8L",
-  "snap": "2026-11-07T15:24:51Z"
+  "snap": "2026-11-07T15:29:51Z"
  },
  {
   "id": "cwl_20261104T174045Z_22JU9JLCG",
