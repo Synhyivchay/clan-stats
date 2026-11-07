@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 214620,
+  "loot": 224041,
   "raids": 2,
-  "attacks": 52,
-  "districts": 20,
+  "attacks": 54,
+  "districts": 21,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -68,18 +68,18 @@
     "loot": 21733
    },
    {
+    "tag": "#LJQU0Q0VV",
+    "name": "Azek",
+    "a": 4,
+    "lim": 6,
+    "loot": 15706
+   },
+   {
     "tag": "#LV9VQJ8GP",
     "name": "Фалирит",
     "a": 3,
     "lim": 6,
     "loot": 11625
-   },
-   {
-    "tag": "#LJQU0Q0VV",
-    "name": "Azek",
-    "a": 2,
-    "lim": 6,
-    "loot": 6285
    }
   ]
  },
