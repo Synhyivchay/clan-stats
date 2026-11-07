@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 381458,
-  "raids": 4,
-  "attacks": 91,
-  "districts": 35,
+  "loot": 391068,
+  "raids": 5,
+  "attacks": 93,
+  "districts": 36,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -45,6 +45,13 @@
     "a": 6,
     "lim": 6,
     "loot": 27425
+   },
+   {
+    "tag": "#LPQJQ2RJP",
+    "name": "Denton",
+    "a": 5,
+    "lim": 6,
+    "loot": 24818
    },
    {
     "tag": "#PUCPRP9YV",
@@ -108,13 +115,6 @@
     "a": 4,
     "lim": 6,
     "loot": 15706
-   },
-   {
-    "tag": "#LPQJQ2RJP",
-    "name": "Denton",
-    "a": 3,
-    "lim": 6,
-    "loot": 15208
    },
    {
     "tag": "#QL0J0RY8Q",
