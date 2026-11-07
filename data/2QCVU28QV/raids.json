@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 482365,
-  "raids": 5,
-  "attacks": 106,
-  "districts": 44,
+  "loot": 493282,
+  "raids": 6,
+  "attacks": 109,
+  "districts": 45,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -131,6 +131,13 @@
     "loot": 20279
    },
    {
+    "tag": "#P9C8Q9RCR",
+    "name": "Hattrickser",
+    "a": 3,
+    "lim": 6,
+    "loot": 10917
+   },
+   {
     "tag": "#LYVPPVGPC",
     "name": "Kobold",
     "a": 2,
@@ -150,13 +157,6 @@
     "a": 1,
     "lim": 5,
     "loot": 3055
-   },
-   {
-    "tag": "#P9C8Q9RCR",
-    "name": "Hattrickser",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
    }
   ]
  },
