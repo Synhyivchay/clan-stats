@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8RVGL0V8J",
-  "snap": "2026-11-07T18:29:51Z"
+  "snap": "2026-11-07T18:35:22Z"
  },
  {
   "id": "cwl_20261106T175217Z_Y9JCRJG9",
@@ -227,9 +227,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 6.67,
+   "attacks": 1
   },
   "them": {
    "tag": "#Y9JCRJG9",
@@ -258,7 +258,19 @@
     "name": "naik",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YVPPV92U",
+      "dn": "༄ཀAJheigh29ཀ༄",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 1,
+      "n": 3,
+      "dur": 127
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -425,7 +437,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVL0QLC0",
-  "snap": "2026-11-07T18:29:51Z"
+  "snap": "2026-11-07T18:35:22Z"
  },
  {
   "id": "cwl_20261105T175058Z_2RPQU8PQ9",
