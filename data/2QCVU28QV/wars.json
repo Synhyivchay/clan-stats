@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 5,
   "warTag": "#8G28GPGJU",
-  "snap": "2026-11-07T10:46:17Z"
+  "snap": "2026-11-07T10:51:17Z"
  },
  {
   "id": "cwl_20261106T093642Z_2JG00JCG2",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 6,
-   "pct": 13.33,
-   "attacks": 2
+   "stars": 12,
+   "pct": 26.67,
+   "attacks": 4
   },
   "them": {
    "tag": "#2JG00JCG2",
@@ -258,7 +258,19 @@
     "name": "Evil Kruemel",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#892L92RP0",
+      "dn": "Spawn",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 3,
+      "dur": 153
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -438,7 +450,19 @@
     "name": "Monkey D. Lorik",
     "th": 18,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G2UGLRPUU",
+      "dn": "V2",
+      "dpos": 15,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 139
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -449,7 +473,7 @@
   "season": "2026-11-03",
   "round": 4,
   "warTag": "#8G209RYLG",
-  "snap": "2026-11-07T10:46:17Z"
+  "snap": "2026-11-07T10:51:17Z"
  },
  {
   "id": "cwl_20261105T093636Z_8VRCCRR2",
