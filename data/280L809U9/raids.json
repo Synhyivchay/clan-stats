@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 392147,
-  "raids": 4,
-  "attacks": 95,
-  "districts": 35,
+  "loot": 401569,
+  "raids": 5,
+  "attacks": 98,
+  "districts": 36,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -96,6 +96,13 @@
     "loot": 21738
    },
    {
+    "tag": "#GQPYJ9GLQ",
+    "name": "Mayla",
+    "a": 6,
+    "lim": 6,
+    "loot": 17572
+   },
+   {
     "tag": "#GUPY0JL0C",
     "name": "салфетка",
     "a": 5,
@@ -129,13 +136,6 @@
     "a": 2,
     "lim": 6,
     "loot": 11387
-   },
-   {
-    "tag": "#GQPYJ9GLQ",
-    "name": "Mayla",
-    "a": 3,
-    "lim": 5,
-    "loot": 8150
    },
    {
     "tag": "#LGRVJULJJ",
