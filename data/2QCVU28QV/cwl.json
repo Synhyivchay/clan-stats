@@ -94,7 +94,7 @@
    },
    "#8G0CUP8YJ": {
     "round": 3,
-    "state": "inWar",
+    "state": "warEnded",
     "a": {
      "tag": "#2G8CJJRY9",
      "stars": 41,
