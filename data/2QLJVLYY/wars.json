@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVL0QLC0",
-  "snap": "2026-11-07T15:19:51Z"
+  "snap": "2026-11-07T15:24:51Z"
  },
  {
   "id": "cwl_20261105T175058Z_2RPQU8PQ9",
@@ -227,18 +227,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 29,
-   "pct": 67.67,
-   "attacks": 11
+   "stars": 32,
+   "pct": 74.33,
+   "attacks": 12
   },
   "them": {
    "tag": "#2RPQU8PQ9",
    "name": "SLAYERS 4",
    "badge": "https://api-assets.clashofclans.com/badges/200/pkSFAwuu9oeoFQHoHZ4o_k1ZcNbWQw-lkTsNj0JKj4M.png",
    "level": 7,
-   "stars": 12,
-   "pct": 38.33,
-   "attacks": 7
+   "stars": 14,
+   "pct": 44.6,
+   "attacks": 8
   },
   "members": [
    {
@@ -368,9 +368,9 @@
     "pos": 6,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 94
     }
    },
    {
@@ -462,7 +462,19 @@
     "name": "Super Men",
     "th": 18,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9QCRPY2R",
+      "dn": "RUSHIKESH KING",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 19,
+      "n": 3,
+      "dur": 105
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -557,7 +569,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RV9RQG8L",
-  "snap": "2026-11-07T15:19:51Z"
+  "snap": "2026-11-07T15:24:51Z"
  },
  {
   "id": "cwl_20261104T174045Z_22JU9JLCG",
