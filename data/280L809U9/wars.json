@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVUCYPVG",
-  "snap": "2026-11-07T14:44:51Z"
+  "snap": "2026-11-07T14:49:51Z"
  },
  {
   "id": "cwl_20261105T175331Z_PV0VP2RC",
@@ -407,18 +407,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 52,
-   "pct": 58.97,
-   "attacks": 18
+   "stars": 55,
+   "pct": 62.3,
+   "attacks": 19
   },
   "them": {
    "tag": "#PV0VP2RC",
    "name": "ASSAMESE UNITED",
    "badge": "https://api-assets.clashofclans.com/badges/200/1WmtRM2W_-WTE_MRxjud4E2GfNYVYZ5TyPmPiLhf8Bs.png",
    "level": 29,
-   "stars": 25,
-   "pct": 33.03,
-   "attacks": 12
+   "stars": 31,
+   "pct": 39.7,
+   "attacks": 14
   },
   "members": [
    {
@@ -716,9 +716,9 @@
     "pos": 17,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -740,9 +740,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -882,7 +882,19 @@
     "name": "Jamshid",
     "th": 17,
     "pos": 25,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#92QU2L8G0",
+      "dn": "CM 3.0",
+      "dpos": 25,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 33,
+      "n": 3,
+      "dur": 88
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -1001,7 +1013,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",
-  "snap": "2026-11-07T14:44:51Z"
+  "snap": "2026-11-07T14:49:51Z"
  },
  {
   "id": "cwl_20261104T174347Z_29P0GGRRP",
