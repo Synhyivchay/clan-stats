@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 417567,
+  "loot": 420622,
   "raids": 4,
-  "attacks": 91,
+  "attacks": 92,
   "districts": 39,
   "offReward": 0,
   "defReward": 0,
@@ -122,6 +122,13 @@
     "a": 1,
     "lim": 5,
     "loot": 5375
+   },
+   {
+    "tag": "#9J0QP2CU8",
+    "name": "xXDamage",
+    "a": 1,
+    "lim": 5,
+    "loot": 3055
    }
   ]
  },
