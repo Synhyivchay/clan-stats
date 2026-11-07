@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 330756,
+  "loot": 332537,
   "raids": 4,
-  "attacks": 78,
-  "districts": 29,
+  "attacks": 79,
+  "districts": 30,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -122,6 +122,13 @@
     "a": 1,
     "lim": 6,
     "loot": 2386
+   },
+   {
+    "tag": "#CUQYLPU",
+    "name": "ФЕРЗЬ",
+    "a": 1,
+    "lim": 6,
+    "loot": 1781
    }
   ]
  },
