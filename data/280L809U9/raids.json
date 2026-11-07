@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 417072,
+  "loot": 430984,
   "raids": 5,
-  "attacks": 102,
-  "districts": 37,
+  "attacks": 105,
+  "districts": 38,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -89,6 +89,13 @@
     "loot": 23224
    },
    {
+    "tag": "#R0JGYGQ9J",
+    "name": "Saemurod",
+    "a": 6,
+    "lim": 6,
+    "loot": 22370
+   },
+   {
     "tag": "#GRQC2829L",
     "name": "ed_sans_123",
     "a": 6,
@@ -101,13 +108,6 @@
     "a": 6,
     "lim": 6,
     "loot": 17572
-   },
-   {
-    "tag": "#R0JGYGQ9J",
-    "name": "Saemurod",
-    "a": 4,
-    "lim": 6,
-    "loot": 15503
    },
    {
     "tag": "#GUPY0JL0C",
@@ -143,6 +143,13 @@
     "a": 2,
     "lim": 6,
     "loot": 11387
+   },
+   {
+    "tag": "#YGJQUPCUG",
+    "name": "Shal",
+    "a": 1,
+    "lim": 5,
+    "loot": 7045
    },
    {
     "tag": "#LGRVJULJJ",
