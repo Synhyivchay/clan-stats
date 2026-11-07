@@ -2,7 +2,7 @@
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
   "type": "cwl",
-  "state": "preparation",
+  "state": "inWar",
   "prep": "2026-11-06T17:53:34Z",
   "start": "2026-11-07T17:53:33Z",
   "end": "2026-11-08T17:53:33Z",
@@ -198,7 +198,7 @@
    {
     "tag": "#LGRVJULJJ",
     "name": "DimagFM",
-    "th": 17,
+    "th": 18,
     "pos": 15,
     "attacks": [],
     "def": {
@@ -391,12 +391,12 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVUCYPVG",
-  "snap": "2026-11-07T17:49:51Z"
+  "snap": "2026-11-07T17:54:51Z"
  },
  {
   "id": "cwl_20261105T175331Z_PV0VP2RC",
   "type": "cwl",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-05T17:53:31Z",
   "start": "2026-11-06T17:53:28Z",
   "end": "2026-11-07T17:53:28Z",
@@ -416,9 +416,9 @@
    "name": "ASSAMESE UNITED",
    "badge": "https://api-assets.clashofclans.com/badges/200/1WmtRM2W_-WTE_MRxjud4E2GfNYVYZ5TyPmPiLhf8Bs.png",
    "level": 29,
-   "stars": 65,
-   "pct": 81.9,
-   "attacks": 29
+   "stars": 67,
+   "pct": 84.53,
+   "attacks": 30
   },
   "members": [
    {
@@ -704,9 +704,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 79
     }
    },
    {
@@ -1130,6 +1130,7 @@
     }
    }
   ],
+  "result": "win",
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",

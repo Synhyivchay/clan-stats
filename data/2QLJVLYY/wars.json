@@ -211,12 +211,12 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVL0QLC0",
-  "snap": "2026-11-07T17:49:51Z"
+  "snap": "2026-11-07T17:54:51Z"
  },
  {
   "id": "cwl_20261105T175058Z_2RPQU8PQ9",
   "type": "cwl",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-05T17:50:58Z",
   "start": "2026-11-06T17:50:55Z",
   "end": "2026-11-07T17:50:55Z",
@@ -602,6 +602,7 @@
     }
    }
   ],
+  "result": "win",
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RV9RQG8L",
