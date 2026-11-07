@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVUCYPVG",
-  "snap": "2026-11-07T16:19:51Z"
+  "snap": "2026-11-07T16:24:51Z"
  },
  {
   "id": "cwl_20261105T175331Z_PV0VP2RC",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 57,
-   "pct": 65.4,
-   "attacks": 20
+   "stars": 63,
+   "pct": 72.07,
+   "attacks": 22
   },
   "them": {
    "tag": "#PV0VP2RC",
@@ -690,7 +690,19 @@
     "name": "DimagFM",
     "th": 17,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8UCLCY8G8",
+      "dn": "MENAM",
+      "dpos": 15,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 45,
+      "n": 3,
+      "dur": 100
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -834,7 +846,19 @@
     "name": "0777",
     "th": 16,
     "pos": 22,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2GQPRQ8VC",
+      "dn": "BEZBARUAH",
+      "dpos": 22,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 46,
+      "n": 3,
+      "dur": 118
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -1025,7 +1049,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",
-  "snap": "2026-11-07T16:19:51Z"
+  "snap": "2026-11-07T16:24:51Z"
  },
  {
   "id": "cwl_20261104T174347Z_29P0GGRRP",
