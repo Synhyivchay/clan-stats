@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 5,
   "warTag": "#8G28GPGJU",
-  "snap": "2026-11-07T23:10:22Z"
+  "snap": "2026-11-07T23:20:22Z"
  },
  {
   "id": "cwl_20261106T093642Z_2JG00JCG2",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 34,
-   "pct": 79.0,
-   "attacks": 12
+   "stars": 37,
+   "pct": 85.67,
+   "attacks": 13
   },
   "them": {
    "tag": "#2JG00JCG2",
@@ -534,7 +534,19 @@
     "name": "hazhir ro",
     "th": 18,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GG8GRGU0R",
+      "dn": "MewMew",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 20,
+      "n": 3,
+      "dur": 109
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -569,7 +581,7 @@
   "season": "2026-11-03",
   "round": 4,
   "warTag": "#8G209RYLG",
-  "snap": "2026-11-07T23:10:22Z"
+  "snap": "2026-11-07T23:20:22Z"
  },
  {
   "id": "cwl_20261105T093636Z_8VRCCRR2",
