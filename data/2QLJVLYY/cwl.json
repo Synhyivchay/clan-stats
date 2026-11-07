@@ -225,8 +225,8 @@
     "state": "inWar",
     "a": {
      "tag": "#22JU9JLCG",
-     "stars": 0,
-     "pct": 0.0
+     "stars": 3,
+     "pct": 6.666666666666667
     },
     "b": {
      "tag": "#2L8LLRCYU",
@@ -236,7 +236,7 @@
    },
    "#8RVL0QP8L": {
     "round": 6,
-    "state": "preparation",
+    "state": "inWar",
     "a": {
      "tag": "#2J0UVYRQL",
      "stars": 0,
@@ -250,7 +250,7 @@
    },
    "#8RVL0QYLJ": {
     "round": 6,
-    "state": "preparation",
+    "state": "inWar",
     "a": {
      "tag": "#20UV9220Y",
      "stars": 0,
