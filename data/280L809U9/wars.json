@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVUCYPVG",
-  "snap": "2026-11-07T05:56:02Z"
+  "snap": "2026-11-07T06:01:02Z"
  },
  {
   "id": "cwl_20261105T175331Z_PV0VP2RC",
@@ -407,18 +407,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 32,
-   "pct": 35.93,
-   "attacks": 11
+   "stars": 35,
+   "pct": 39.27,
+   "attacks": 12
   },
   "them": {
    "tag": "#PV0VP2RC",
    "name": "ASSAMESE UNITED",
    "badge": "https://api-assets.clashofclans.com/badges/200/1WmtRM2W_-WTE_MRxjud4E2GfNYVYZ5TyPmPiLhf8Bs.png",
    "level": 29,
-   "stars": 9,
-   "pct": 10.7,
-   "attacks": 4
+   "stars": 10,
+   "pct": 13.43,
+   "attacks": 5
   },
   "members": [
    {
@@ -548,9 +548,9 @@
     "pos": 9,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 82
     }
    },
    {
@@ -786,7 +786,19 @@
     "name": "Дракс",
     "th": 16,
     "pos": 24,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L8VCRU9CU",
+      "dn": "CM 2.0",
+      "dpos": 24,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 17,
+      "n": 3,
+      "dur": 92
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -917,7 +929,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",
-  "snap": "2026-11-07T05:56:02Z"
+  "snap": "2026-11-07T06:01:02Z"
  },
  {
   "id": "cwl_20261104T174347Z_29P0GGRRP",
