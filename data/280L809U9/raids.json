@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 435672,
+  "loot": 452003,
   "raids": 5,
-  "attacks": 106,
-  "districts": 39,
+  "attacks": 110,
+  "districts": 40,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -38,6 +38,13 @@
     "a": 6,
     "lim": 6,
     "loot": 28421
+   },
+   {
+    "tag": "#YGJQUPCUG",
+    "name": "Shal",
+    "a": 6,
+    "lim": 6,
+    "loot": 28064
    },
    {
     "tag": "#LVVCQ82L0",
@@ -129,13 +136,6 @@
     "a": 3,
     "lim": 5,
     "loot": 13620
-   },
-   {
-    "tag": "#YGJQUPCUG",
-    "name": "Shal",
-    "a": 2,
-    "lim": 6,
-    "loot": 11733
    },
    {
     "tag": "#GC0V2V2Y0",
