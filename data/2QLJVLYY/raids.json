@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 224041,
+  "loot": 226736,
   "raids": 2,
-  "attacks": 54,
+  "attacks": 55,
   "districts": 21,
   "offReward": 0,
   "defReward": 0,
@@ -80,6 +80,13 @@
     "a": 3,
     "lim": 6,
     "loot": 11625
+   },
+   {
+    "tag": "#LPYUQRQPQ",
+    "name": "Saiev_095",
+    "a": 1,
+    "lim": 5,
+    "loot": 2695
    }
   ]
  },
