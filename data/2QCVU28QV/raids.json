@@ -136,6 +136,13 @@
     "a": 1,
     "lim": 5,
     "loot": 2525
+   },
+   {
+    "tag": "#RLGUULPP",
+    "name": "Ampletrex",
+    "a": 0,
+    "lim": 5,
+    "loot": 0
    }
   ]
  },
