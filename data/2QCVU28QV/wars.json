@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 4,
   "warTag": "#8G209RYLG",
-  "snap": "2026-11-07T08:31:17Z"
+  "snap": "2026-11-07T08:36:17Z"
  },
  {
   "id": "cwl_20261105T093636Z_8VRCCRR2",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 39,
-   "pct": 86.67,
-   "attacks": 13
+   "stars": 42,
+   "pct": 93.33,
+   "attacks": 14
   },
   "them": {
    "tag": "#8VRCCRR2",
@@ -498,7 +498,19 @@
     "name": "xXDamage",
     "th": 18,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8989RJ899",
+      "dn": "Μπαρμπα γιαννος",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 29,
+      "n": 3,
+      "dur": 165
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -581,7 +593,7 @@
   "season": "2026-11-03",
   "round": 3,
   "warTag": "#8G0CUP9J0",
-  "snap": "2026-11-07T08:31:17Z"
+  "snap": "2026-11-07T08:36:17Z"
  },
  {
   "id": "cwl_20261104T092650Z_PCQ99QVG",
