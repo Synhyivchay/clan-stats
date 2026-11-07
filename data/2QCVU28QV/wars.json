@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 5,
   "warTag": "#8G28GPGJU",
-  "snap": "2026-11-07T22:35:22Z"
+  "snap": "2026-11-07T22:40:22Z"
  },
  {
   "id": "cwl_20261106T093642Z_2JG00JCG2",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 32,
-   "pct": 72.6,
-   "attacks": 11
+   "stars": 34,
+   "pct": 79.0,
+   "attacks": 12
   },
   "them": {
    "tag": "#2JG00JCG2",
@@ -246,7 +246,19 @@
     "name": "Bigmac's sohn",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#J22PPUUY",
+      "dn": "Diego88",
+      "dpos": 7,
+      "dth": 18,
+      "s": 2,
+      "p": 96,
+      "o": 19,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -557,7 +569,7 @@
   "season": "2026-11-03",
   "round": 4,
   "warTag": "#8G209RYLG",
-  "snap": "2026-11-07T22:35:22Z"
+  "snap": "2026-11-07T22:40:22Z"
  },
  {
   "id": "cwl_20261105T093636Z_8VRCCRR2",
