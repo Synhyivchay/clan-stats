@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 355949,
+  "loot": 366250,
   "raids": 4,
-  "attacks": 85,
-  "districts": 32,
+  "attacks": 88,
+  "districts": 34,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -61,6 +61,13 @@
     "loot": 23843
    },
    {
+    "tag": "#LV9VQJ8GP",
+    "name": "Фалирит",
+    "a": 6,
+    "lim": 6,
+    "loot": 23685
+   },
+   {
     "tag": "#YRYYYGY90",
     "name": "naik",
     "a": 5,
@@ -103,13 +110,6 @@
     "loot": 15706
    },
    {
-    "tag": "#LV9VQJ8GP",
-    "name": "Фалирит",
-    "a": 4,
-    "lim": 6,
-    "loot": 14200
-   },
-   {
     "tag": "#QL0J0RY8Q",
     "name": "ebobo",
     "a": 3,
@@ -136,6 +136,13 @@
     "a": 1,
     "lim": 5,
     "loot": 2695
+   },
+   {
+    "tag": "#GRLLYQQLV",
+    "name": "WOLF",
+    "a": 1,
+    "lim": 6,
+    "loot": 816
    }
   ]
  },
