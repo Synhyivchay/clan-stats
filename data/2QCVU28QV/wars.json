@@ -2,7 +2,7 @@
  {
   "id": "cwl_20261106T093642Z_2JG00JCG2",
   "type": "cwl",
-  "state": "preparation",
+  "state": "inWar",
   "prep": "2026-11-06T09:36:42Z",
   "start": "2026-11-07T09:36:38Z",
   "end": "2026-11-08T09:36:38Z",
@@ -211,12 +211,12 @@
   "season": "2026-11-03",
   "round": 4,
   "warTag": "#8G209RYLG",
-  "snap": "2026-11-07T09:31:17Z"
+  "snap": "2026-11-07T09:41:17Z"
  },
  {
   "id": "cwl_20261105T093636Z_8VRCCRR2",
   "type": "cwl",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-05T09:36:36Z",
   "start": "2026-11-06T09:36:30Z",
   "end": "2026-11-07T09:36:30Z",
@@ -602,10 +602,11 @@
     }
    }
   ],
+  "result": "win",
   "season": "2026-11-03",
   "round": 3,
   "warTag": "#8G0CUP9J0",
-  "snap": "2026-11-07T09:31:17Z"
+  "snap": "2026-11-07T09:36:17Z"
  },
  {
   "id": "cwl_20261104T092650Z_PCQ99QVG",
