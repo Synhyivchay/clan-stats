@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 6,
+   "pct": 6.67,
+   "attacks": 2
   },
   "them": {
    "tag": "#2RLYP9GP9",
    "name": "CC Elite 3",
    "badge": "https://api-assets.clashofclans.com/badges/200/atxCig_FxoMyU12NE4BDIe_MY6O93w18z6-LN75JT3w.png",
    "level": 16,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 2,
+   "pct": 3.07,
+   "attacks": 1
   },
   "members": [
    {
@@ -212,7 +212,19 @@
     "name": "ed_sans_123",
     "th": 17,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LCYVYVPPV",
+      "dn": "abhi",
+      "dpos": 16,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 3,
+      "n": 3,
+      "dur": 121
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -344,7 +356,19 @@
     "name": "алексей3",
     "th": 16,
     "pos": 27,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#VRC9GGUG",
+      "dn": "derpcheez36",
+      "dpos": 27,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 2,
+      "n": 3,
+      "dur": 104
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -358,9 +382,9 @@
     "pos": 28,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 92
     }
    },
    {
@@ -391,7 +415,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVUCYPVG",
-  "snap": "2026-11-07T17:59:51Z"
+  "snap": "2026-11-07T18:04:51Z"
  },
  {
   "id": "cwl_20261105T175331Z_PV0VP2RC",
