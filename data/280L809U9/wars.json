@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-07T18:40:22Z"
+  "snap": "2026-11-07T18:45:22Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
@@ -407,18 +407,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 8,
-   "pct": 9.57,
-   "attacks": 3
+   "stars": 11,
+   "pct": 12.9,
+   "attacks": 4
   },
   "them": {
    "tag": "#2RLYP9GP9",
    "name": "CC Elite 3",
    "badge": "https://api-assets.clashofclans.com/badges/200/atxCig_FxoMyU12NE4BDIe_MY6O93w18z6-LN75JT3w.png",
    "level": 16,
-   "stars": 6,
-   "pct": 8.53,
-   "attacks": 3
+   "stars": 8,
+   "pct": 11.33,
+   "attacks": 4
   },
   "members": [
    {
@@ -594,11 +594,23 @@
     "name": "DimagFM",
     "th": 18,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G9Q090PVU",
+      "dn": "KNEE 1",
+      "dpos": 15,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 8,
+      "n": 3,
+      "dur": 104
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 84
     }
    },
    {
@@ -821,7 +833,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVUCYPVG",
-  "snap": "2026-11-07T18:40:22Z"
+  "snap": "2026-11-07T18:45:22Z"
  },
  {
   "id": "cwl_20261105T175331Z_PV0VP2RC",
