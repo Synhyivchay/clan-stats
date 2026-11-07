@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-07T19:20:22Z"
+  "snap": "2026-11-07T19:25:22Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 17,
-   "pct": 19.57,
-   "attacks": 6
+   "stars": 21,
+   "pct": 25.47,
+   "attacks": 8
   },
   "them": {
    "tag": "#2RLYP9GP9",
@@ -426,7 +426,19 @@
     "name": "Ragnar",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YYUJLLJCY",
+      "dn": "Rey",
+      "dpos": 1,
+      "dth": 18,
+      "s": 2,
+      "p": 80,
+      "o": 12,
+      "n": 2,
+      "dur": 126
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -522,7 +534,19 @@
     "name": "ㅤㅤㅤㅤ",
     "th": 18,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G2GQ0QUPU",
+      "dn": "FILL2",
+      "dpos": 8,
+      "dth": 18,
+      "s": 2,
+      "p": 97,
+      "o": 13,
+      "n": 2,
+      "dur": 127
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -857,7 +881,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVUCYPVG",
-  "snap": "2026-11-07T19:20:22Z"
+  "snap": "2026-11-07T19:25:22Z"
  },
  {
   "id": "cwl_20261105T175331Z_PV0VP2RC",
