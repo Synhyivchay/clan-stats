@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 342490,
+  "loot": 351615,
   "raids": 4,
-  "attacks": 81,
+  "attacks": 83,
   "districts": 31,
   "offReward": 0,
   "defReward": 0,
@@ -82,6 +82,13 @@
     "loot": 21738
    },
    {
+    "tag": "#CUQYLPU",
+    "name": "ФЕРЗЬ",
+    "a": 5,
+    "lim": 6,
+    "loot": 20859
+   },
+   {
     "tag": "#2P0JQ09CY",
     "name": "grootich",
     "a": 6,
@@ -94,13 +101,6 @@
     "a": 3,
     "lim": 5,
     "loot": 13620
-   },
-   {
-    "tag": "#CUQYLPU",
-    "name": "ФЕРЗЬ",
-    "a": 3,
-    "lim": 6,
-    "loot": 11734
    },
    {
     "tag": "#GC0V2V2Y0",
