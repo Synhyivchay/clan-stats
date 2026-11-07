@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 401569,
+  "loot": 417072,
   "raids": 5,
-  "attacks": 98,
-  "districts": 36,
+  "attacks": 102,
+  "districts": 37,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -103,6 +103,13 @@
     "loot": 17572
    },
    {
+    "tag": "#R0JGYGQ9J",
+    "name": "Saemurod",
+    "a": 4,
+    "lim": 6,
+    "loot": 15503
+   },
+   {
     "tag": "#GUPY0JL0C",
     "name": "салфетка",
     "a": 5,
@@ -143,13 +150,6 @@
     "a": 1,
     "lim": 6,
     "loot": 2386
-   },
-   {
-    "tag": "#R0JGYGQ9J",
-    "name": "Saemurod",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
    }
   ]
  },
