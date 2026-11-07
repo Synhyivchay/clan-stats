@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVUCYPVG",
-  "snap": "2026-11-07T09:26:17Z"
+  "snap": "2026-11-07T09:31:17Z"
  },
  {
   "id": "cwl_20261105T175331Z_PV0VP2RC",
@@ -416,9 +416,9 @@
    "name": "ASSAMESE UNITED",
    "badge": "https://api-assets.clashofclans.com/badges/200/1WmtRM2W_-WTE_MRxjud4E2GfNYVYZ5TyPmPiLhf8Bs.png",
    "level": 29,
-   "stars": 16,
-   "pct": 21.7,
-   "attacks": 8
+   "stars": 17,
+   "pct": 24.63,
+   "attacks": 9
   },
   "members": [
    {
@@ -488,9 +488,9 @@
     "pos": 5,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 88
     }
    },
    {
@@ -953,7 +953,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RVJLJ8VG",
-  "snap": "2026-11-07T09:26:17Z"
+  "snap": "2026-11-07T09:31:17Z"
  },
  {
   "id": "cwl_20261104T174347Z_29P0GGRRP",
