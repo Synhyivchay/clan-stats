@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVL0QLC0",
-  "snap": "2026-11-07T16:39:51Z"
+  "snap": "2026-11-07T16:44:51Z"
  },
  {
   "id": "cwl_20261105T175058Z_2RPQU8PQ9",
@@ -227,18 +227,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 37,
-   "pct": 85.27,
-   "attacks": 14
+   "stars": 40,
+   "pct": 91.93,
+   "attacks": 15
   },
   "them": {
    "tag": "#2RPQU8PQ9",
    "name": "SLAYERS 4",
    "badge": "https://api-assets.clashofclans.com/badges/200/pkSFAwuu9oeoFQHoHZ4o_k1ZcNbWQw-lkTsNj0JKj4M.png",
    "level": 7,
-   "stars": 19,
-   "pct": 56.8,
-   "attacks": 10
+   "stars": 21,
+   "pct": 61.87,
+   "attacks": 11
   },
   "members": [
    {
@@ -534,11 +534,23 @@
     "name": "Mi4man",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8822LUQCU",
+      "dn": "Hermosura",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 26,
+      "n": 3,
+      "dur": 105
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 76
     }
    },
    {
@@ -593,7 +605,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RV9RQG8L",
-  "snap": "2026-11-07T16:39:51Z"
+  "snap": "2026-11-07T16:44:51Z"
  },
  {
   "id": "cwl_20261104T174045Z_22JU9JLCG",
