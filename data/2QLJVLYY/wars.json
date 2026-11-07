@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVL0QLC0",
-  "snap": "2026-11-07T16:24:51Z"
+  "snap": "2026-11-07T16:29:51Z"
  },
  {
   "id": "cwl_20261105T175058Z_2RPQU8PQ9",
@@ -227,9 +227,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 32,
-   "pct": 74.33,
-   "attacks": 12
+   "stars": 35,
+   "pct": 81.0,
+   "attacks": 13
   },
   "them": {
    "tag": "#2RPQU8PQ9",
@@ -378,7 +378,19 @@
     "name": "000Sergey000",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2R89CVVG0",
+      "dn": "Pro_ Noob",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 23,
+      "n": 3,
+      "dur": 175
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -569,7 +581,7 @@
   "season": "2026-11-01",
   "round": 5,
   "warTag": "#8RV9RQG8L",
-  "snap": "2026-11-07T16:24:51Z"
+  "snap": "2026-11-07T16:29:51Z"
  },
  {
   "id": "cwl_20261104T174045Z_22JU9JLCG",
