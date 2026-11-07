@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-07T20:25:22Z"
+  "snap": "2026-11-07T20:30:22Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 21,
-   "pct": 25.47,
-   "attacks": 8
+   "stars": 22,
+   "pct": 28.43,
+   "attacks": 9
   },
   "them": {
    "tag": "#2RLYP9GP9",
@@ -462,7 +462,19 @@
     "name": "GURU RANDHAWA",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QVRJ82V0V",
+      "dn": "Lulu",
+      "dpos": 3,
+      "dth": 18,
+      "s": 1,
+      "p": 89,
+      "o": 16,
+      "n": 1,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -881,7 +893,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVUCYPVG",
-  "snap": "2026-11-07T20:25:22Z"
+  "snap": "2026-11-07T20:30:22Z"
  },
  {
   "id": "cwl_20261105T175331Z_PV0VP2RC",
