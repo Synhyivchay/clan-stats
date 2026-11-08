@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 6,
   "warTag": "#8G2PVYR0U",
-  "snap": "2026-11-08T22:26:29Z"
+  "snap": "2026-11-08T22:31:41Z"
  },
  {
   "id": "cwl_20261107T094830Z_2LP8U9CY8",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 39,
-   "pct": 86.67,
-   "attacks": 13
+   "stars": 42,
+   "pct": 93.33,
+   "attacks": 14
   },
   "them": {
    "tag": "#2LP8U9CY8",
@@ -342,7 +342,19 @@
     "name": "Kingdingeling",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PL92GG9L",
+      "dn": "TF☘️JOOD",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 19,
+      "n": 3,
+      "dur": 84
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -581,7 +593,7 @@
   "season": "2026-11-03",
   "round": 5,
   "warTag": "#8G28GPGJU",
-  "snap": "2026-11-08T22:26:29Z"
+  "snap": "2026-11-08T22:31:41Z"
  },
  {
   "id": "cwl_20261106T093642Z_2JG00JCG2",
