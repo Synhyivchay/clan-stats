@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 605145,
+  "loot": 609130,
   "raids": 7,
-  "attacks": 151,
+  "attacks": 152,
   "districts": 54,
   "offReward": 0,
   "defReward": 0,
@@ -66,6 +66,13 @@
     "a": 6,
     "lim": 6,
     "loot": 27188
+   },
+   {
+    "tag": "#YCU8JR28U",
+    "name": "SHANARA",
+    "a": 6,
+    "lim": 6,
+    "loot": 26036
    },
    {
     "tag": "#LVCQPQ822",
@@ -136,13 +143,6 @@
     "a": 6,
     "lim": 6,
     "loot": 22329
-   },
-   {
-    "tag": "#YCU8JR28U",
-    "name": "SHANARA",
-    "a": 5,
-    "lim": 6,
-    "loot": 22051
    },
    {
     "tag": "#LGLPJJ2VP",
