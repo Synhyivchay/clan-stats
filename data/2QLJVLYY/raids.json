@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 617729,
+  "loot": 627552,
   "raids": 7,
-  "attacks": 154,
-  "districts": 55,
+  "attacks": 157,
+  "districts": 56,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -159,6 +159,13 @@
     "loot": 21733
    },
    {
+    "tag": "#LLUP8P8L0",
+    "name": "sleace",
+    "a": 6,
+    "lim": 6,
+    "loot": 20262
+   },
+   {
     "tag": "#YRQQ80QQ",
     "name": "nurik",
     "a": 6,
@@ -185,13 +192,6 @@
     "a": 4,
     "lim": 6,
     "loot": 12420
-   },
-   {
-    "tag": "#LLUP8P8L0",
-    "name": "sleace",
-    "a": 3,
-    "lim": 6,
-    "loot": 10439
    },
    {
     "tag": "#QL0J0RY8Q",
