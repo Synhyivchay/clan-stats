@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 626245,
+  "loot": 639100,
   "raids": 8,
-  "attacks": 143,
+  "attacks": 146,
   "districts": 57,
   "offReward": 0,
   "defReward": 0,
@@ -96,6 +96,13 @@
     "loot": 26013
    },
    {
+    "tag": "#YL0QYGP0V",
+    "name": "Bassko",
+    "a": 6,
+    "lim": 6,
+    "loot": 25883
+   },
+   {
     "tag": "#LG8YC2Y92",
     "name": "Kingdingeling",
     "a": 4,
@@ -171,13 +178,6 @@
     "a": 6,
     "lim": 6,
     "loot": 13372
-   },
-   {
-    "tag": "#YL0QYGP0V",
-    "name": "Bassko",
-    "a": 3,
-    "lim": 6,
-    "loot": 13028
    },
    {
     "tag": "#8RGQ9U2R",
