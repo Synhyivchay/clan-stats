@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8RVGL0V8J",
-  "snap": "2026-11-08T13:46:09Z"
+  "snap": "2026-11-08T13:51:09Z"
  },
  {
   "id": "cwl_20261106T175217Z_Y9JCRJG9",
@@ -227,9 +227,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 36,
-   "pct": 86.93,
-   "attacks": 14
+   "stars": 39,
+   "pct": 93.6,
+   "attacks": 15
   },
   "them": {
    "tag": "#Y9JCRJG9",
@@ -366,7 +366,19 @@
     "name": "000Roma000",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YVQC229U",
+      "dn": "༄ཀོ༼eMJei29༽ཀོ༄",
+      "dpos": 6,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 30,
+      "n": 3,
+      "dur": 135
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -593,7 +605,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVL0QLC0",
-  "snap": "2026-11-08T13:46:09Z"
+  "snap": "2026-11-08T13:51:09Z"
  },
  {
   "id": "cwl_20261105T175058Z_2RPQU8PQ9",
