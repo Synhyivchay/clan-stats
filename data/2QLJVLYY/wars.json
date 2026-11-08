@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 6,
-   "pct": 13.33,
-   "attacks": 2
+   "stars": 9,
+   "pct": 20.0,
+   "attacks": 3
   },
   "them": {
    "tag": "#QLLVY9QQ",
@@ -212,7 +212,19 @@
     "name": "ELITE",
     "th": 18,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8VPJYQC0Y",
+      "dn": "AKKI",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 3,
+      "n": 3,
+      "dur": 114
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -235,7 +247,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8RVGL0V8J",
-  "snap": "2026-11-08T19:06:29Z"
+  "snap": "2026-11-08T19:11:29Z"
  },
  {
   "id": "cwl_20261106T175217Z_Y9JCRJG9",
