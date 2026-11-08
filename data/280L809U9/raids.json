@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 651258,
+  "loot": 671094,
   "raids": 7,
-  "attacks": 154,
-  "districts": 59,
+  "attacks": 159,
+  "districts": 61,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -187,6 +187,13 @@
     "loot": 13912
    },
    {
+    "tag": "#LGRVJULJJ",
+    "name": "DimagFM",
+    "a": 4,
+    "lim": 6,
+    "loot": 13001
+   },
+   {
     "tag": "#QJYVP0JJU",
     "name": "Partizan",
     "a": 2,
@@ -194,18 +201,18 @@
     "loot": 11387
    },
    {
+    "tag": "#PL2290CCY",
+    "name": "Danek",
+    "a": 2,
+    "lim": 6,
+    "loot": 9221
+   },
+   {
     "tag": "#9P28CV0L0",
     "name": "0777",
     "a": 2,
     "lim": 6,
     "loot": 6182
-   },
-   {
-    "tag": "#LGRVJULJJ",
-    "name": "DimagFM",
-    "a": 1,
-    "lim": 6,
-    "loot": 2386
    },
    {
     "tag": "#QQ90VV9L2",
