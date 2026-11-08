@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 612667,
+  "loot": 625496,
   "raids": 7,
-  "attacks": 147,
-  "districts": 55,
+  "attacks": 149,
+  "districts": 56,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -152,6 +152,13 @@
     "loot": 21738
    },
    {
+    "tag": "#82QQ2QY0V",
+    "name": "Дракс",
+    "a": 3,
+    "lim": 6,
+    "loot": 17889
+   },
+   {
     "tag": "#GUPY0JL0C",
     "name": "салфетка",
     "a": 6,
@@ -192,13 +199,6 @@
     "a": 2,
     "lim": 6,
     "loot": 6182
-   },
-   {
-    "tag": "#82QQ2QY0V",
-    "name": "Дракс",
-    "a": 1,
-    "lim": 5,
-    "loot": 5060
    },
    {
     "tag": "#LGRVJULJJ",

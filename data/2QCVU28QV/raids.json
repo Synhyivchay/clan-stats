@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 673291,
+  "loot": 676416,
   "raids": 8,
-  "attacks": 156,
+  "attacks": 157,
   "districts": 61,
   "offReward": 0,
   "defReward": 0,
@@ -180,6 +180,13 @@
     "loot": 20279
    },
    {
+    "tag": "#8RGQ9U2R",
+    "name": "GermanRuss",
+    "a": 5,
+    "lim": 6,
+    "loot": 15002
+   },
+   {
     "tag": "#QU2GPCCRJ",
     "name": "Hornbär",
     "a": 6,
@@ -192,13 +199,6 @@
     "a": 4,
     "lim": 6,
     "loot": 12800
-   },
-   {
-    "tag": "#8RGQ9U2R",
-    "name": "GermanRuss",
-    "a": 4,
-    "lim": 6,
-    "loot": 11877
    }
   ]
  },
