@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 12,
-   "pct": 26.67,
-   "attacks": 4
+   "stars": 17,
+   "pct": 39.13,
+   "attacks": 6
   },
   "them": {
    "tag": "#QLLVY9QQ",
@@ -80,7 +80,19 @@
     "name": "■◇LEGENDARNIY◇■",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PQG9GVVLV",
+      "dn": "Hãñdsómé Húñk",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 6,
+      "n": 3,
+      "dur": 87
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -188,7 +200,19 @@
     "name": "SHANARA",
     "th": 18,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9LUYC9LGC",
+      "dn": "rock",
+      "dpos": 12,
+      "dth": 18,
+      "s": 2,
+      "p": 87,
+      "o": 5,
+      "n": 2,
+      "dur": 82
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -259,7 +283,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8RVGL0V8J",
-  "snap": "2026-11-08T20:16:29Z"
+  "snap": "2026-11-08T20:21:29Z"
  },
  {
   "id": "cwl_20261106T175217Z_Y9JCRJG9",
