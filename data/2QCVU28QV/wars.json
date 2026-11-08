@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 5,
   "warTag": "#8G28GPGJU",
-  "snap": "2026-11-08T05:35:37Z"
+  "snap": "2026-11-08T05:45:49Z"
  },
  {
   "id": "cwl_20261106T093642Z_2JG00JCG2",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 37,
-   "pct": 85.67,
-   "attacks": 13
+   "stars": 40,
+   "pct": 92.33,
+   "attacks": 14
   },
   "them": {
    "tag": "#2JG00JCG2",
@@ -498,7 +498,19 @@
     "name": "xXDamage",
     "th": 18,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8LQRQCP0G",
+      "dn": "NinoQuio",
+      "dpos": 10,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 26,
+      "n": 3,
+      "dur": 164
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -581,7 +593,7 @@
   "season": "2026-11-03",
   "round": 4,
   "warTag": "#8G209RYLG",
-  "snap": "2026-11-08T05:35:37Z"
+  "snap": "2026-11-08T05:45:49Z"
  },
  {
   "id": "cwl_20261105T093636Z_8VRCCRR2",
