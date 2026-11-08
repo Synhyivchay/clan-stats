@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 671094,
+  "loot": 684617,
   "raids": 7,
-  "attacks": 159,
-  "districts": 61,
+  "attacks": 163,
+  "districts": 62,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -152,6 +152,13 @@
     "loot": 22768
    },
    {
+    "tag": "#PL2290CCY",
+    "name": "Danek",
+    "a": 6,
+    "lim": 6,
+    "loot": 22744
+   },
+   {
     "tag": "#R0JGYGQ9J",
     "name": "Saemurod",
     "a": 6,
@@ -199,13 +206,6 @@
     "a": 2,
     "lim": 6,
     "loot": 11387
-   },
-   {
-    "tag": "#PL2290CCY",
-    "name": "Danek",
-    "a": 2,
-    "lim": 6,
-    "loot": 9221
    },
    {
     "tag": "#9P28CV0L0",
