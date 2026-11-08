@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 6,
   "warTag": "#8G2PVYR0U",
-  "snap": "2026-11-08T22:11:29Z"
+  "snap": "2026-11-08T22:16:29Z"
  },
  {
   "id": "cwl_20261107T094830Z_2LP8U9CY8",
@@ -236,9 +236,9 @@
    "name": "شجرة الضفادع",
    "badge": "https://api-assets.clashofclans.com/badges/200/TJn7nmGsYcpuXMqX0JvkX414nD_DIzo71SwUbeMmaxE.png",
    "level": 20,
-   "stars": 12,
-   "pct": 26.67,
-   "attacks": 4
+   "stars": 15,
+   "pct": 33.33,
+   "attacks": 5
   },
   "members": [
    {
@@ -464,9 +464,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -581,7 +581,7 @@
   "season": "2026-11-03",
   "round": 5,
   "warTag": "#8G28GPGJU",
-  "snap": "2026-11-08T22:11:29Z"
+  "snap": "2026-11-08T22:16:29Z"
  },
  {
   "id": "cwl_20261106T093642Z_2JG00JCG2",

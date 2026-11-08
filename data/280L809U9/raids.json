@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 696188,
+  "loot": 707957,
   "raids": 8,
-  "attacks": 166,
-  "districts": 63,
+  "attacks": 169,
+  "districts": 64,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -124,6 +124,13 @@
     "loot": 24008
    },
    {
+    "tag": "#YC9G9Y0YQ",
+    "name": "чёрт",
+    "a": 6,
+    "lim": 6,
+    "loot": 23340
+   },
+   {
     "tag": "#GQLRPL8Q0",
     "name": "Jamshid",
     "a": 6,
@@ -199,13 +206,6 @@
     "a": 4,
     "lim": 6,
     "loot": 13001
-   },
-   {
-    "tag": "#YC9G9Y0YQ",
-    "name": "чёрт",
-    "a": 3,
-    "lim": 6,
-    "loot": 11571
    },
    {
     "tag": "#QJYVP0JJU",
