@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 13,
-   "pct": 15.17,
-   "attacks": 5
+   "stars": 16,
+   "pct": 18.5,
+   "attacks": 6
   },
   "them": {
    "tag": "#2R88JLG9C",
    "name": "The Greek Iowan",
    "badge": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
    "level": 21,
-   "stars": 25,
-   "pct": 29.13,
-   "attacks": 9
+   "stars": 28,
+   "pct": 32.47,
+   "attacks": 10
   },
   "members": [
    {
@@ -104,7 +104,19 @@
     "name": "SanixX",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LP9Q2JLJ0",
+      "dn": "Onion Knight",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 15,
+      "n": 3,
+      "dur": 111
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -178,9 +190,9 @@
     "pos": 13,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -451,7 +463,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-08T19:51:29Z"
+  "snap": "2026-11-08T19:56:29Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
