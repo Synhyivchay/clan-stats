@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-08T14:21:09Z"
+  "snap": "2026-11-08T14:26:09Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 44,
-   "pct": 56.57,
-   "attacks": 18
+   "stars": 47,
+   "pct": 59.9,
+   "attacks": 19
   },
   "them": {
    "tag": "#2RLYP9GP9",
@@ -762,7 +762,19 @@
     "name": "Aviasales",
     "th": 17,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G0V8QYG0C",
+      "dn": "Still",
+      "dpos": 18,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 43,
+      "n": 3,
+      "dur": 83
+     }
+    ],
     "def": {
      "n": 1,
      "s": 1,
@@ -1001,7 +1013,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVUCYPVG",
-  "snap": "2026-11-08T14:21:09Z"
+  "snap": "2026-11-08T14:26:09Z"
  },
  {
   "id": "cwl_20261105T175331Z_PV0VP2RC",

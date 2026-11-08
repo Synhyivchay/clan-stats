@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 578752,
+  "loot": 584373,
   "raids": 6,
-  "attacks": 138,
-  "districts": 52,
+  "attacks": 140,
+  "districts": 53,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -103,6 +103,13 @@
     "loot": 25350
    },
    {
+    "tag": "#GC0V2V2Y0",
+    "name": "sgrassi",
+    "a": 6,
+    "lim": 6,
+    "loot": 24060
+   },
+   {
     "tag": "#LRR9VR0CY",
     "name": "Begbus",
     "a": 6,
@@ -136,13 +143,6 @@
     "a": 6,
     "lim": 6,
     "loot": 21738
-   },
-   {
-    "tag": "#GC0V2V2Y0",
-    "name": "sgrassi",
-    "a": 5,
-    "lim": 6,
-    "loot": 20739
    },
    {
     "tag": "#GUPY0JL0C",
@@ -192,6 +192,13 @@
     "a": 1,
     "lim": 6,
     "loot": 2386
+   },
+   {
+    "tag": "#QQ90VV9L2",
+    "name": "Aviasales",
+    "a": 1,
+    "lim": 5,
+    "loot": 2300
    }
   ]
  },
