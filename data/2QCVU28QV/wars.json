@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 6,
   "warTag": "#8G2PVYR0U",
-  "snap": "2026-11-08T16:41:09Z"
+  "snap": "2026-11-08T16:46:09Z"
  },
  {
   "id": "cwl_20261107T094830Z_2LP8U9CY8",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 21,
-   "pct": 46.67,
-   "attacks": 7
+   "stars": 24,
+   "pct": 53.33,
+   "attacks": 8
   },
   "them": {
    "tag": "#2LP8U9CY8",
@@ -378,7 +378,19 @@
     "name": "Bassko",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q2V90C29Q",
+      "dn": "TF☘️NOBLE",
+      "dpos": 12,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 8,
+      "n": 3,
+      "dur": 150
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -509,7 +521,7 @@
   "season": "2026-11-03",
   "round": 5,
   "warTag": "#8G28GPGJU",
-  "snap": "2026-11-08T16:41:09Z"
+  "snap": "2026-11-08T16:46:09Z"
  },
  {
   "id": "cwl_20261106T093642Z_2JG00JCG2",

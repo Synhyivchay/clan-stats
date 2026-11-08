@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 639100,
+  "loot": 644955,
   "raids": 8,
-  "attacks": 146,
+  "attacks": 148,
   "districts": 57,
   "offReward": 0,
   "defReward": 0,
@@ -185,6 +185,13 @@
     "a": 4,
     "lim": 6,
     "loot": 11877
+   },
+   {
+    "tag": "#20PCYY998",
+    "name": "Jan2000",
+    "a": 2,
+    "lim": 5,
+    "loot": 5855
    }
   ]
  },
