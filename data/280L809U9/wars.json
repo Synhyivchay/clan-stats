@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-08T17:41:29Z"
+  "snap": "2026-11-08T17:46:29Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 71,
-   "pct": 88.0,
-   "attacks": 28
+   "stars": 73,
+   "pct": 90.7,
+   "attacks": 29
   },
   "them": {
    "tag": "#2RLYP9GP9",
@@ -606,7 +606,19 @@
     "name": "ReTrO",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8LCV2U9Y",
+      "dn": "Bjarni",
+      "dpos": 9,
+      "dth": 18,
+      "s": 2,
+      "p": 81,
+      "o": 54,
+      "n": 2,
+      "dur": 140
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -1121,7 +1133,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVUCYPVG",
-  "snap": "2026-11-08T17:41:29Z"
+  "snap": "2026-11-08T17:46:29Z"
  },
  {
   "id": "cwl_20261105T175331Z_PV0VP2RC",
