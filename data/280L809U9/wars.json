@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 8,
-   "pct": 9.9,
-   "attacks": 3
+   "stars": 11,
+   "pct": 13.23,
+   "attacks": 4
   },
   "them": {
    "tag": "#2R88JLG9C",
@@ -368,7 +368,19 @@
     "name": "алексей3",
     "th": 16,
     "pos": 27,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LGUCG008C",
+      "dn": "thanos",
+      "dpos": 27,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 9,
+      "n": 3,
+      "dur": 173
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -427,7 +439,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-08T18:56:29Z"
+  "snap": "2026-11-08T19:01:29Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",

@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 697925,
+  "loot": 705410,
   "raids": 9,
-  "attacks": 164,
+  "attacks": 165,
   "districts": 63,
   "offReward": 0,
   "defReward": 0,
@@ -173,6 +173,13 @@
     "loot": 20820
    },
    {
+    "tag": "#LQQG9L82Q",
+    "name": "RudiV3",
+    "a": 5,
+    "lim": 6,
+    "loot": 20285
+   },
+   {
     "tag": "#Q9G2JL0U",
     "name": "Flashbang",
     "a": 6,
@@ -199,13 +206,6 @@
     "a": 6,
     "lim": 6,
     "loot": 13372
-   },
-   {
-    "tag": "#LQQG9L82Q",
-    "name": "RudiV3",
-    "a": 4,
-    "lim": 6,
-    "loot": 12800
    }
   ]
  },
