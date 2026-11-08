@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 575877,
+  "loot": 586412,
   "raids": 7,
-  "attacks": 127,
-  "districts": 52,
+  "attacks": 131,
+  "districts": 53,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -159,18 +159,18 @@
     "loot": 20279
    },
    {
+    "tag": "#QU2GPCCRJ",
+    "name": "Hornbär",
+    "a": 6,
+    "lim": 6,
+    "loot": 13372
+   },
+   {
     "tag": "#YL0QYGP0V",
     "name": "Bassko",
     "a": 1,
     "lim": 5,
     "loot": 6470
-   },
-   {
-    "tag": "#QU2GPCCRJ",
-    "name": "Hornbär",
-    "a": 2,
-    "lim": 6,
-    "loot": 2837
    }
   ]
  },
