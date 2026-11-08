@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-08T17:21:29Z"
+  "snap": "2026-11-08T17:31:29Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
@@ -407,9 +407,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 61,
-   "pct": 75.6,
-   "attacks": 24
+   "stars": 66,
+   "pct": 81.5,
+   "attacks": 26
   },
   "them": {
    "tag": "#2RLYP9GP9",
@@ -618,7 +618,19 @@
     "name": "Stars",
     "th": 18,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G8PCQ8L89",
+      "dn": "KNEE",
+      "dpos": 4,
+      "dth": 18,
+      "s": 2,
+      "p": 77,
+      "o": 51,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -918,7 +930,19 @@
     "name": "салфетка",
     "th": 16,
     "pos": 23,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q9GR0V0J9",
+      "dn": "Max Pain Asad",
+      "dpos": 23,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 50,
+      "n": 3,
+      "dur": 132
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -1073,7 +1097,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVUCYPVG",
-  "snap": "2026-11-08T17:21:29Z"
+  "snap": "2026-11-08T17:31:29Z"
  },
  {
   "id": "cwl_20261105T175331Z_PV0VP2RC",
