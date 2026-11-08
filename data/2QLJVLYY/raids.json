@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 435553,
+  "loot": 438239,
   "raids": 5,
-  "attacks": 105,
-  "districts": 39,
+  "attacks": 106,
+  "districts": 40,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -138,6 +138,13 @@
     "loot": 10119
    },
    {
+    "tag": "#GRLLYQQLV",
+    "name": "WOLF",
+    "a": 2,
+    "lim": 6,
+    "loot": 3502
+   },
+   {
     "tag": "#YCU8JR28U",
     "name": "SHANARA",
     "a": 1,
@@ -150,13 +157,6 @@
     "a": 1,
     "lim": 5,
     "loot": 2695
-   },
-   {
-    "tag": "#GRLLYQQLV",
-    "name": "WOLF",
-    "a": 1,
-    "lim": 6,
-    "loot": 816
    }
   ]
  },
