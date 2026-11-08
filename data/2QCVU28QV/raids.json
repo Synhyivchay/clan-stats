@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 658025,
+  "loot": 660491,
   "raids": 8,
-  "attacks": 151,
-  "districts": 58,
+  "attacks": 152,
+  "districts": 59,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -159,6 +159,13 @@
     "loot": 21398
    },
    {
+    "tag": "#20PCYY998",
+    "name": "Jan2000",
+    "a": 6,
+    "lim": 6,
+    "loot": 21391
+   },
+   {
     "tag": "#LYVPPVGPC",
     "name": "Kobold",
     "a": 6,
@@ -171,13 +178,6 @@
     "a": 6,
     "lim": 6,
     "loot": 20279
-   },
-   {
-    "tag": "#20PCYY998",
-    "name": "Jan2000",
-    "a": 5,
-    "lim": 6,
-    "loot": 18925
    },
    {
     "tag": "#QU2GPCCRJ",
