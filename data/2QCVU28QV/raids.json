@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 563880,
+  "loot": 566570,
   "raids": 6,
-  "attacks": 123,
+  "attacks": 124,
   "districts": 50,
   "offReward": 0,
   "defReward": 0,
@@ -145,18 +145,18 @@
     "loot": 22794
    },
    {
+    "tag": "#LYVPPVGPC",
+    "name": "Kobold",
+    "a": 6,
+    "lim": 6,
+    "loot": 20820
+   },
+   {
     "tag": "#Q9G2JL0U",
     "name": "Flashbang",
     "a": 6,
     "lim": 6,
     "loot": 20279
-   },
-   {
-    "tag": "#LYVPPVGPC",
-    "name": "Kobold",
-    "a": 5,
-    "lim": 6,
-    "loot": 18130
    }
   ]
  },
