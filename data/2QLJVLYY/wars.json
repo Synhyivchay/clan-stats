@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8RVGL0V8J",
-  "snap": "2026-11-08T00:55:37Z"
+  "snap": "2026-11-08T01:00:37Z"
  },
  {
   "id": "cwl_20261106T175217Z_Y9JCRJG9",
@@ -236,9 +236,9 @@
    "name": "CENTRALIZED",
    "badge": "https://api-assets.clashofclans.com/badges/200/GnCL1tUEf6rcrk6oRJMQ-uw7Kepc9KF3z-dEEV0dJqM.png",
    "level": 24,
-   "stars": 29,
-   "pct": 66.27,
-   "attacks": 10
+   "stars": 32,
+   "pct": 72.93,
+   "attacks": 11
   },
   "members": [
    {
@@ -392,9 +392,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -473,7 +473,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVL0QLC0",
-  "snap": "2026-11-08T00:55:37Z"
+  "snap": "2026-11-08T01:00:37Z"
  },
  {
   "id": "cwl_20261105T175058Z_2RPQU8PQ9",
