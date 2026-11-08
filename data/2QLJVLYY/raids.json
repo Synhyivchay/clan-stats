@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 515042,
+  "loot": 518809,
   "raids": 6,
-  "attacks": 127,
-  "districts": 46,
+  "attacks": 128,
+  "districts": 47,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -154,9 +154,9 @@
    {
     "tag": "#GRLLYQQLV",
     "name": "WOLF",
-    "a": 5,
+    "a": 6,
     "lim": 6,
-    "loot": 11572
+    "loot": 15339
    },
    {
     "tag": "#QL0J0RY8Q",
