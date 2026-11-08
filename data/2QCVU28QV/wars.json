@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 6,
   "warTag": "#8G2PVYR0U",
-  "snap": "2026-11-08T16:46:09Z"
+  "snap": "2026-11-08T16:51:09Z"
  },
  {
   "id": "cwl_20261107T094830Z_2LP8U9CY8",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 24,
-   "pct": 53.33,
-   "attacks": 8
+   "stars": 27,
+   "pct": 60.0,
+   "attacks": 9
   },
   "them": {
    "tag": "#2LP8U9CY8",
@@ -246,7 +246,19 @@
     "name": "slory",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L2L2PQ9CJ",
+      "dn": "TF☘️ARTORIAS",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 9,
+      "n": 3,
+      "dur": 135
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -521,7 +533,7 @@
   "season": "2026-11-03",
   "round": 5,
   "warTag": "#8G28GPGJU",
-  "snap": "2026-11-08T16:46:09Z"
+  "snap": "2026-11-08T16:51:09Z"
  },
  {
   "id": "cwl_20261106T093642Z_2JG00JCG2",

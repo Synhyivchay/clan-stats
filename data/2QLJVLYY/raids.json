@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 540623,
+  "loot": 543413,
   "raids": 6,
-  "attacks": 133,
+  "attacks": 134,
   "districts": 49,
   "offReward": 0,
   "defReward": 0,
@@ -68,6 +68,13 @@
     "loot": 27188
    },
    {
+    "tag": "#LVCQPQ822",
+    "name": "Legenda",
+    "a": 6,
+    "lim": 6,
+    "loot": 24604
+   },
+   {
     "tag": "#PUCPRP9YV",
     "name": "малько",
     "a": 6,
@@ -122,13 +129,6 @@
     "a": 6,
     "lim": 6,
     "loot": 21961
-   },
-   {
-    "tag": "#LVCQPQ822",
-    "name": "Legenda",
-    "a": 5,
-    "lim": 6,
-    "loot": 21814
    },
    {
     "tag": "#PQCYUY90C",

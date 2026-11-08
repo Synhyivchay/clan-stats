@@ -376,9 +376,9 @@
     }
    },
    {
-    "tag": "#GJ8PJY2PJ",
-    "name": "RECORD",
-    "th": 16,
+    "tag": "#LRR9VR0CY",
+    "name": "Begbus",
+    "th": 15,
     "pos": 30,
     "attacks": [],
     "def": {
@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-08T16:46:09Z"
+  "snap": "2026-11-08T16:51:09Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
@@ -1061,7 +1061,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVUCYPVG",
-  "snap": "2026-11-08T16:46:09Z"
+  "snap": "2026-11-08T16:51:09Z"
  },
  {
   "id": "cwl_20261105T175331Z_PV0VP2RC",
