@@ -391,7 +391,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-08T06:15:49Z"
+  "snap": "2026-11-08T06:20:49Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
@@ -416,9 +416,9 @@
    "name": "CC Elite 3",
    "badge": "https://api-assets.clashofclans.com/badges/200/atxCig_FxoMyU12NE4BDIe_MY6O93w18z6-LN75JT3w.png",
    "level": 16,
-   "stars": 30,
-   "pct": 42.03,
-   "attacks": 15
+   "stars": 33,
+   "pct": 45.37,
+   "attacks": 16
   },
   "members": [
    {
@@ -752,9 +752,9 @@
     "pos": 19,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -953,7 +953,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVUCYPVG",
-  "snap": "2026-11-08T06:15:49Z"
+  "snap": "2026-11-08T06:20:49Z"
  },
  {
   "id": "cwl_20261105T175331Z_PV0VP2RC",
