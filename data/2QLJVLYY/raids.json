@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 438239,
+  "loot": 441069,
   "raids": 5,
-  "attacks": 106,
+  "attacks": 107,
   "districts": 40,
   "offReward": 0,
   "defReward": 0,
@@ -150,6 +150,13 @@
     "a": 1,
     "lim": 5,
     "loot": 3435
+   },
+   {
+    "tag": "#YRQQ80QQ",
+    "name": "nurik",
+    "a": 1,
+    "lim": 5,
+    "loot": 2830
    },
    {
     "tag": "#LPYUQRQPQ",
