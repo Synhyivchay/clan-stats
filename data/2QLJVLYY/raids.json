@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 543413,
+  "loot": 552191,
   "raids": 6,
-  "attacks": 134,
-  "districts": 49,
+  "attacks": 136,
+  "districts": 50,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -171,6 +171,13 @@
     "a": 3,
     "lim": 6,
     "loot": 10119
+   },
+   {
+    "tag": "#Q2UQLVQQJ",
+    "name": "женя",
+    "a": 2,
+    "lim": 6,
+    "loot": 8778
    },
    {
     "tag": "#LPYUQRQPQ",
