@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 22,
-   "pct": 51.47,
-   "attacks": 8
+   "stars": 25,
+   "pct": 58.13,
+   "attacks": 9
   },
   "them": {
    "tag": "#QLLVY9QQ",
@@ -248,7 +248,19 @@
     "name": "Mi4man",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P8LJQJJV8",
+      "dn": "Åfrîdì",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 9,
+      "n": 3,
+      "dur": 118
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -307,7 +319,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8RVGL0V8J",
-  "snap": "2026-11-08T21:01:29Z"
+  "snap": "2026-11-08T21:11:29Z"
  },
  {
   "id": "cwl_20261106T175217Z_Y9JCRJG9",
