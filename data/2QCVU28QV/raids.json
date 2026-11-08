@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 596804,
+  "loot": 607810,
   "raids": 8,
-  "attacks": 134,
-  "districts": 54,
+  "attacks": 137,
+  "districts": 55,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -145,6 +145,13 @@
     "loot": 22794
    },
    {
+    "tag": "#G29QC0G0G",
+    "name": "Riesen_Stinker",
+    "a": 6,
+    "lim": 6,
+    "loot": 21398
+   },
+   {
     "tag": "#LYVPPVGPC",
     "name": "Kobold",
     "a": 6,
@@ -164,13 +171,6 @@
     "a": 6,
     "lim": 6,
     "loot": 13372
-   },
-   {
-    "tag": "#G29QC0G0G",
-    "name": "Riesen_Stinker",
-    "a": 3,
-    "lim": 6,
-    "loot": 10392
    },
    {
     "tag": "#YL0QYGP0V",
