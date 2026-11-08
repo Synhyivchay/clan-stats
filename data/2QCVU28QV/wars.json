@@ -1,5 +1,219 @@
 [
  {
+  "id": "cwl_20261108T100428Z_PG8L9QQ",
+  "type": "cwl",
+  "state": "preparation",
+  "prep": "2026-11-08T10:04:28Z",
+  "start": "2026-11-09T10:04:24Z",
+  "end": "2026-11-10T10:04:24Z",
+  "teamSize": 15,
+  "apm": 1,
+  "us": {
+   "tag": "#2QCVU28QV",
+   "name": "! ELITE !",
+   "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
+   "level": 27,
+   "stars": 0,
+   "pct": 0.0,
+   "attacks": 0
+  },
+  "them": {
+   "tag": "#PG8L9QQ",
+   "name": "6789 BamBam",
+   "badge": "https://api-assets.clashofclans.com/badges/200/_mgxINqEqZt84OKlDO4Tu_mcZgjseQhIMufmjc5hrQY.png",
+   "level": 31,
+   "stars": 0,
+   "pct": 0.0,
+   "attacks": 0
+  },
+  "members": [
+   {
+    "tag": "#22L9YGQ2U",
+    "name": "slory",
+    "th": 18,
+    "pos": 1,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#9CJ9U0LL",
+    "name": "Evil Kruemel",
+    "th": 18,
+    "pos": 2,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YV0CUGGRL",
+    "name": "Cnyse",
+    "th": 18,
+    "pos": 3,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#9090P29L9",
+    "name": "Louis™️187",
+    "th": 18,
+    "pos": 4,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LG8YC2Y92",
+    "name": "Kingdingeling",
+    "th": 18,
+    "pos": 5,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#Q9G2JL0U",
+    "name": "Flashbang",
+    "th": 18,
+    "pos": 6,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#L9P0UP28",
+    "name": "Killer 2000",
+    "th": 18,
+    "pos": 7,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#2GG9VVGQJ",
+    "name": "Rudi",
+    "th": 18,
+    "pos": 8,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YL0QYGP0V",
+    "name": "Bassko",
+    "th": 18,
+    "pos": 9,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#9U20UCLV2",
+    "name": "LokiPhil",
+    "th": 18,
+    "pos": 10,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YU99PU9GQ",
+    "name": "Luka Tate",
+    "th": 18,
+    "pos": 11,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#9J0QP2CU8",
+    "name": "xXDamage",
+    "th": 18,
+    "pos": 12,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#20PC0PL2L",
+    "name": "Ｍ Λ Ｘ",
+    "th": 18,
+    "pos": 13,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#80CLP9QQ0",
+    "name": "hazhir ro",
+    "th": 18,
+    "pos": 14,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#2YRLLG9JC",
+    "name": "Monkey D. Lorik",
+    "th": 18,
+    "pos": 15,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   }
+  ],
+  "season": "2026-11-03",
+  "round": 6,
+  "warTag": "#8G2PVYR0U",
+  "snap": "2026-11-08T10:05:49Z"
+ },
+ {
   "id": "cwl_20261107T094830Z_2LP8U9CY8",
   "type": "cwl",
   "state": "inWar",
@@ -211,7 +425,7 @@
   "season": "2026-11-03",
   "round": 5,
   "warTag": "#8G28GPGJU",
-  "snap": "2026-11-08T10:00:49Z"
+  "snap": "2026-11-08T10:05:49Z"
  },
  {
   "id": "cwl_20261106T093642Z_2JG00JCG2",
