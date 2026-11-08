@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 5,
+   "pct": 6.57,
+   "attacks": 2
   },
   "them": {
    "tag": "#2R88JLG9C",
    "name": "The Greek Iowan",
    "badge": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
    "level": 21,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 9,
+   "pct": 10.0,
+   "attacks": 3
   },
   "members": [
    {
@@ -188,11 +188,23 @@
     "name": "Адик",
     "th": 17,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RJ2R2UV2",
+      "dn": "nathan is godd1",
+      "dpos": 14,
+      "dth": 18,
+      "s": 2,
+      "p": 97,
+      "o": 5,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -322,9 +334,9 @@
     "pos": 25,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -334,9 +346,9 @@
     "pos": 26,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -380,7 +392,19 @@
     "name": "Begbus",
     "th": 15,
     "pos": 30,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9JG0JRQVQ",
+      "dn": "Sadi",
+      "dpos": 30,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 3,
+      "n": 3,
+      "dur": 139
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -391,7 +415,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-08T18:16:29Z"
+  "snap": "2026-11-08T18:21:29Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
