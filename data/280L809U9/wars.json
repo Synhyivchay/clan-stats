@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 16,
-   "pct": 18.5,
-   "attacks": 6
+   "stars": 18,
+   "pct": 21.63,
+   "attacks": 7
   },
   "them": {
    "tag": "#2R88JLG9C",
    "name": "The Greek Iowan",
    "badge": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
    "level": 21,
-   "stars": 28,
-   "pct": 32.47,
-   "attacks": 10
+   "stars": 30,
+   "pct": 34.93,
+   "attacks": 11
   },
   "members": [
    {
@@ -118,9 +118,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 74
     }
    },
    {
@@ -188,7 +188,19 @@
     "name": "Partizan",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#28LPC9UYP",
+      "dn": "Excavator",
+      "dpos": 13,
+      "dth": 18,
+      "s": 2,
+      "p": 94,
+      "o": 18,
+      "n": 2,
+      "dur": 128
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -463,7 +475,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-08T20:41:29Z"
+  "snap": "2026-11-08T20:46:29Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
