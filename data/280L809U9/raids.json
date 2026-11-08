@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 724537,
+  "loot": 732985,
   "raids": 8,
-  "attacks": 172,
-  "districts": 65,
+  "attacks": 174,
+  "districts": 66,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -110,6 +110,13 @@
     "loot": 25350
    },
    {
+    "tag": "#L9GQPGPYV",
+    "name": "Johan",
+    "a": 5,
+    "lim": 6,
+    "loot": 25028
+   },
+   {
     "tag": "#GC0V2V2Y0",
     "name": "sgrassi",
     "a": 6,
@@ -192,13 +199,6 @@
     "a": 6,
     "lim": 6,
     "loot": 17572
-   },
-   {
-    "tag": "#L9GQPGPYV",
-    "name": "Johan",
-    "a": 3,
-    "lim": 6,
-    "loot": 16580
    },
    {
     "tag": "#2P0JQ09CY",
