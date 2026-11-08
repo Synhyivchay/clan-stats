@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 20,
-   "pct": 24.37,
-   "attacks": 8
+   "stars": 23,
+   "pct": 27.7,
+   "attacks": 9
   },
   "them": {
    "tag": "#2R88JLG9C",
@@ -440,7 +440,19 @@
     "name": "Johan",
     "th": 16,
     "pos": 28,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GPQCUCYY0",
+      "dn": "KA",
+      "dpos": 28,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 22,
+      "n": 3,
+      "dur": 104
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -487,7 +499,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-08T22:56:41Z"
+  "snap": "2026-11-08T23:01:41Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
