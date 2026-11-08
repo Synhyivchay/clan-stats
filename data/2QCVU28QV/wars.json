@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 6,
   "warTag": "#8G2PVYR0U",
-  "snap": "2026-11-08T10:15:49Z"
+  "snap": "2026-11-08T10:20:49Z"
  },
  {
   "id": "cwl_20261107T094830Z_2LP8U9CY8",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 6.67,
+   "attacks": 1
   },
   "them": {
    "tag": "#2LP8U9CY8",
@@ -366,7 +366,19 @@
     "name": "Luka Tate",
     "th": 18,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GP0928YPY",
+      "dn": "TF☘️SAIF",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 1,
+      "n": 3,
+      "dur": 163
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -425,7 +437,7 @@
   "season": "2026-11-03",
   "round": 5,
   "warTag": "#8G28GPGJU",
-  "snap": "2026-11-08T10:15:49Z"
+  "snap": "2026-11-08T10:20:49Z"
  },
  {
   "id": "cwl_20261106T093642Z_2JG00JCG2",
