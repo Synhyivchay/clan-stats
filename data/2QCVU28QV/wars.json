@@ -28,22 +28,10 @@
   },
   "members": [
    {
-    "tag": "#LRV88C0RQ",
-    "name": "Bigmac's sohn",
-    "th": 18,
-    "pos": 1,
-    "attacks": [],
-    "def": {
-     "n": 0,
-     "s": null,
-     "p": null
-    }
-   },
-   {
     "tag": "#22L9YGQ2U",
     "name": "slory",
     "th": 18,
-    "pos": 2,
+    "pos": 1,
     "attacks": [],
     "def": {
      "n": 0,
@@ -55,7 +43,7 @@
     "tag": "#9CJ9U0LL",
     "name": "Evil Kruemel",
     "th": 18,
-    "pos": 3,
+    "pos": 2,
     "attacks": [],
     "def": {
      "n": 0,
@@ -66,6 +54,18 @@
    {
     "tag": "#YV0CUGGRL",
     "name": "Cnyse",
+    "th": 18,
+    "pos": 3,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#9090P29L9",
+    "name": "Louis™️187",
     "th": 18,
     "pos": 4,
     "attacks": [],
@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 5,
   "warTag": "#8G28GPGJU",
-  "snap": "2026-11-08T09:30:49Z"
+  "snap": "2026-11-08T09:35:49Z"
  },
  {
   "id": "cwl_20261106T093642Z_2JG00JCG2",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 40,
-   "pct": 92.33,
-   "attacks": 14
+   "stars": 43,
+   "pct": 99.0,
+   "attacks": 15
   },
   "them": {
    "tag": "#2JG00JCG2",
@@ -414,7 +414,19 @@
     "name": "Rudi",
     "th": 18,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2J09PJYQ",
+      "dn": "Necropolis",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 30,
+      "n": 3,
+      "dur": 111
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -593,7 +605,7 @@
   "season": "2026-11-03",
   "round": 4,
   "warTag": "#8G209RYLG",
-  "snap": "2026-11-08T09:30:49Z"
+  "snap": "2026-11-08T09:35:49Z"
  },
  {
   "id": "cwl_20261105T093636Z_8VRCCRR2",
