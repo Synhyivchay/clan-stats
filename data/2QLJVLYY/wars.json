@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 3,
-   "pct": 6.67,
-   "attacks": 1
+   "stars": 6,
+   "pct": 13.33,
+   "attacks": 2
   },
   "them": {
    "tag": "#QLLVY9QQ",
@@ -152,7 +152,19 @@
     "name": "Разрушитель",
     "th": 18,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9R0RY2PJR",
+      "dn": "CroWn๛NinJA",
+      "dpos": 10,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 2,
+      "n": 3,
+      "dur": 165
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -223,7 +235,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8RVGL0V8J",
-  "snap": "2026-11-08T18:41:29Z"
+  "snap": "2026-11-08T18:46:29Z"
  },
  {
   "id": "cwl_20261106T175217Z_Y9JCRJG9",
