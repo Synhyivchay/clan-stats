@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8RVGL0V8J",
-  "snap": "2026-11-08T03:25:37Z"
+  "snap": "2026-11-08T03:30:37Z"
  },
  {
   "id": "cwl_20261106T175217Z_Y9JCRJG9",
@@ -227,9 +227,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 19,
-   "pct": 45.47,
-   "attacks": 7
+   "stars": 22,
+   "pct": 52.13,
+   "attacks": 8
   },
   "them": {
    "tag": "#Y9JCRJG9",
@@ -426,7 +426,19 @@
     "name": "Super Men",
     "th": 18,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8JU2LJPY",
+      "dn": "Bon Bon 5",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 19,
+      "n": 3,
+      "dur": 113
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -509,7 +521,7 @@
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVL0QLC0",
-  "snap": "2026-11-08T03:25:37Z"
+  "snap": "2026-11-08T03:30:37Z"
  },
  {
   "id": "cwl_20261105T175058Z_2RPQU8PQ9",
