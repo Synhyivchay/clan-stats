@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 625496,
+  "loot": 630375,
   "raids": 7,
-  "attacks": 149,
-  "districts": 56,
+  "attacks": 150,
+  "districts": 57,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -138,6 +138,13 @@
     "loot": 22838
    },
    {
+    "tag": "#82QQ2QY0V",
+    "name": "Дракс",
+    "a": 4,
+    "lim": 6,
+    "loot": 22768
+   },
+   {
     "tag": "#R0JGYGQ9J",
     "name": "Saemurod",
     "a": 6,
@@ -150,13 +157,6 @@
     "a": 6,
     "lim": 6,
     "loot": 21738
-   },
-   {
-    "tag": "#82QQ2QY0V",
-    "name": "Дракс",
-    "a": 3,
-    "lim": 6,
-    "loot": 17889
    },
    {
     "tag": "#GUPY0JL0C",

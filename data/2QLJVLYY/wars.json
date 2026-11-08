@@ -20,8 +20,8 @@
   "them": {
    "tag": "#QLLVY9QQ",
    "name": "WAR COMMANDER",
-   "badge": "https://api-assets.clashofclans.com/badges/200/zcSr4_oKqxozqCjjuY161EEUggLQl5t9jDXRqyTviWQ.png",
-   "level": 25,
+   "badge": "https://api-assets.clashofclans.com/badges/200/P6FyApfdVZETvfuYqeq8PBsLi38H5Ik9iUK4H6Q53Dc.png",
+   "level": 26,
    "stars": 0,
    "pct": 0.0,
    "attacks": 0
@@ -211,12 +211,12 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8RVGL0V8J",
-  "snap": "2026-11-08T17:51:29Z"
+  "snap": "2026-11-08T17:56:29Z"
  },
  {
   "id": "cwl_20261106T175217Z_Y9JCRJG9",
   "type": "cwl",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-06T17:52:17Z",
   "start": "2026-11-07T17:52:15Z",
   "end": "2026-11-08T17:52:15Z",
@@ -602,6 +602,7 @@
     }
    }
   ],
+  "result": "lose",
   "season": "2026-11-01",
   "round": 6,
   "warTag": "#8RVL0QLC0",

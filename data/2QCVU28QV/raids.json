@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 676416,
+  "loot": 680156,
   "raids": 8,
-  "attacks": 157,
+  "attacks": 158,
   "districts": 61,
   "offReward": 0,
   "defReward": 0,
@@ -182,9 +182,9 @@
    {
     "tag": "#8RGQ9U2R",
     "name": "GermanRuss",
-    "a": 5,
+    "a": 6,
     "lim": 6,
-    "loot": 15002
+    "loot": 18742
    },
    {
     "tag": "#QU2GPCCRJ",
