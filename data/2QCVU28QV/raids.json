@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 505159,
+  "loot": 516934,
   "raids": 6,
-  "attacks": 112,
-  "districts": 46,
+  "attacks": 114,
+  "districts": 47,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -138,18 +138,18 @@
     "loot": 20279
    },
    {
+    "tag": "#LG8YC2Y92",
+    "name": "Kingdingeling",
+    "a": 3,
+    "lim": 6,
+    "loot": 17150
+   },
+   {
     "tag": "#LYVPPVGPC",
     "name": "Kobold",
     "a": 2,
     "lim": 5,
     "loot": 6730
-   },
-   {
-    "tag": "#LG8YC2Y92",
-    "name": "Kingdingeling",
-    "a": 1,
-    "lim": 5,
-    "loot": 5375
    },
    {
     "tag": "#9J0QP2CU8",
