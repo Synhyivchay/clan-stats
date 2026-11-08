@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 5,
   "warTag": "#8G28GPGJU",
-  "snap": "2026-11-08T09:15:49Z"
+  "snap": "2026-11-08T09:20:49Z"
  },
  {
   "id": "cwl_20261106T093642Z_2JG00JCG2",
@@ -236,9 +236,9 @@
    "name": "DrewTookMyClan",
    "badge": "https://api-assets.clashofclans.com/badges/200/a8HUzawjeaclpK-p_PuAD7v7P_o5hPsc8F6ftfYkJh4.png",
    "level": 18,
-   "stars": 41,
-   "pct": 92.0,
-   "attacks": 14
+   "stars": 44,
+   "pct": 98.67,
+   "attacks": 15
   },
   "members": [
    {
@@ -584,16 +584,16 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    }
   ],
   "season": "2026-11-03",
   "round": 4,
   "warTag": "#8G209RYLG",
-  "snap": "2026-11-08T09:15:49Z"
+  "snap": "2026-11-08T09:20:49Z"
  },
  {
   "id": "cwl_20261105T093636Z_8VRCCRR2",
