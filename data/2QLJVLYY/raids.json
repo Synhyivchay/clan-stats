@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 609130,
+  "loot": 617729,
   "raids": 7,
-  "attacks": 152,
-  "districts": 54,
+  "attacks": 154,
+  "districts": 55,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -187,18 +187,18 @@
     "loot": 12420
    },
    {
+    "tag": "#LLUP8P8L0",
+    "name": "sleace",
+    "a": 3,
+    "lim": 6,
+    "loot": 10439
+   },
+   {
     "tag": "#QL0J0RY8Q",
     "name": "ebobo",
     "a": 3,
     "lim": 6,
     "loot": 10119
-   },
-   {
-    "tag": "#LLUP8P8L0",
-    "name": "sleace",
-    "a": 1,
-    "lim": 6,
-    "loot": 1840
    }
   ]
  },
