@@ -279,7 +279,7 @@
    },
    "#8J028V9UJ": {
     "round": 7,
-    "state": "preparation",
+    "state": "inWar",
     "a": {
      "tag": "#29P0GGRRP",
      "stars": 0,
@@ -293,7 +293,7 @@
    },
    "#8J028VY90": {
     "round": 7,
-    "state": "preparation",
+    "state": "inWar",
     "a": {
      "tag": "#2YUGPCGLJ",
      "stars": 0,
@@ -301,8 +301,8 @@
     },
     "b": {
      "tag": "#LGLP9RC2",
-     "stars": 0,
-     "pct": 0.0
+     "stars": 3,
+     "pct": 3.3333333333333335
     }
    }
   },
