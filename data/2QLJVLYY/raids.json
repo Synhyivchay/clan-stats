@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 458221,
+  "loot": 464216,
   "raids": 5,
-  "attacks": 112,
+  "attacks": 114,
   "districts": 42,
   "offReward": 0,
   "defReward": 0,
@@ -143,6 +143,13 @@
     "a": 3,
     "lim": 6,
     "loot": 10119
+   },
+   {
+    "tag": "#GU9UY0L98",
+    "name": "Alinyaa",
+    "a": 2,
+    "lim": 5,
+    "loot": 5995
    },
    {
     "tag": "#GRLLYQQLV",
