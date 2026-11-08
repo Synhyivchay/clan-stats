@@ -2,7 +2,7 @@
  {
   "id": "cwl_20261107T181600Z_QLLVY9QQ",
   "type": "cwl",
-  "state": "preparation",
+  "state": "inWar",
   "prep": "2026-11-07T18:16:00Z",
   "start": "2026-11-08T18:15:57Z",
   "end": "2026-11-09T18:15:57Z",
@@ -211,7 +211,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8RVGL0V8J",
-  "snap": "2026-11-08T18:11:29Z"
+  "snap": "2026-11-08T18:16:29Z"
  },
  {
   "id": "cwl_20261106T175217Z_Y9JCRJG9",

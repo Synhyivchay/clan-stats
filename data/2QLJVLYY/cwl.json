@@ -279,7 +279,7 @@
    },
    "#8RVGL0CUL": {
     "round": 7,
-    "state": "preparation",
+    "state": "inWar",
     "a": {
      "tag": "#20UV9220Y",
      "stars": 0,
@@ -293,7 +293,7 @@
    },
    "#8RVGL0JG8": {
     "round": 7,
-    "state": "preparation",
+    "state": "inWar",
     "a": {
      "tag": "#2RPQU8PQ9",
      "stars": 0,
