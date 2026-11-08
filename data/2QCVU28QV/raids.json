@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 827146,
+  "loot": 843995,
   "raids": 10,
-  "attacks": 192,
-  "districts": 73,
+  "attacks": 195,
+  "districts": 75,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -229,18 +229,18 @@
     "loot": 17769
    },
    {
+    "tag": "#9G0GVR8GQ",
+    "name": "アイドル",
+    "a": 3,
+    "lim": 6,
+    "loot": 16849
+   },
+   {
     "tag": "#QU2GPCCRJ",
     "name": "Hornbär",
     "a": 6,
     "lim": 6,
     "loot": 13372
-   },
-   {
-    "tag": "#9G0GVR8GQ",
-    "name": "アイドル",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
    }
   ]
  },
