@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 795757,
-  "raids": 9,
-  "attacks": 186,
-  "districts": 71,
+  "loot": 805515,
+  "raids": 10,
+  "attacks": 188,
+  "districts": 72,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -231,9 +231,9 @@
    {
     "tag": "#20PC0PL2L",
     "name": "Ｍ Λ Ｘ",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
+    "a": 2,
+    "lim": 6,
+    "loot": 9758
    }
   ]
  },
