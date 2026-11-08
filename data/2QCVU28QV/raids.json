@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 552480,
+  "loot": 563880,
   "raids": 6,
-  "attacks": 120,
-  "districts": 49,
+  "attacks": 123,
+  "districts": 50,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -154,9 +154,9 @@
    {
     "tag": "#LYVPPVGPC",
     "name": "Kobold",
-    "a": 2,
-    "lim": 5,
-    "loot": 6730
+    "a": 5,
+    "lim": 6,
+    "loot": 18130
    }
   ]
  },
