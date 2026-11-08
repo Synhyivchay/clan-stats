@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 569534,
+  "loot": 578752,
   "raids": 6,
-  "attacks": 135,
-  "districts": 51,
+  "attacks": 138,
+  "districts": 52,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -117,6 +117,13 @@
     "loot": 23224
    },
    {
+    "tag": "#G298UUQQL",
+    "name": "Қыран) •_•",
+    "a": 6,
+    "lim": 6,
+    "loot": 22838
+   },
+   {
     "tag": "#R0JGYGQ9J",
     "name": "Saemurod",
     "a": 6,
@@ -157,13 +164,6 @@
     "a": 6,
     "lim": 6,
     "loot": 13912
-   },
-   {
-    "tag": "#G298UUQQL",
-    "name": "Қыран) •_•",
-    "a": 3,
-    "lim": 5,
-    "loot": 13620
    },
    {
     "tag": "#QJYVP0JJU",
