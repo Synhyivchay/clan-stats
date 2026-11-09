@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 959935,
-  "raids": 10,
-  "attacks": 224,
-  "districts": 87,
+  "loot": 998181,
+  "raids": 11,
+  "attacks": 233,
+  "districts": 90,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -180,6 +180,13 @@
     "loot": 24008
    },
    {
+    "tag": "#8QUG9QQ8G",
+    "name": "ReTrO",
+    "a": 6,
+    "lim": 6,
+    "loot": 24000
+   },
+   {
     "tag": "#YC9G9Y0YQ",
     "name": "чёрт",
     "a": 6,
@@ -229,6 +236,13 @@
     "loot": 21738
    },
    {
+    "tag": "#29QLJ0YY",
+    "name": "ReTrO",
+    "a": 4,
+    "lim": 6,
+    "loot": 19305
+   },
+   {
     "tag": "#GLCVPCCQ2",
     "name": "Ragnar",
     "a": 6,
@@ -257,6 +271,13 @@
     "loot": 13912
    },
    {
+    "tag": "#80QQP0V2C",
+    "name": "Danis 1 2 3",
+    "a": 4,
+    "lim": 6,
+    "loot": 13138
+   },
+   {
     "tag": "#LGRVJULJJ",
     "name": "DimagFM",
     "a": 4,
@@ -269,20 +290,6 @@
     "a": 2,
     "lim": 6,
     "loot": 11387
-   },
-   {
-    "tag": "#29QLJ0YY",
-    "name": "ReTrO",
-    "a": 2,
-    "lim": 6,
-    "loot": 9600
-   },
-   {
-    "tag": "#80QQP0V2C",
-    "name": "Danis 1 2 3",
-    "a": 3,
-    "lim": 6,
-    "loot": 8597
    },
    {
     "tag": "#QQ90VV9L2",
