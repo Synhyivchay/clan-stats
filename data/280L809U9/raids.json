@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 848840,
+  "loot": 860200,
   "raids": 9,
-  "attacks": 200,
-  "districts": 76,
+  "attacks": 202,
+  "districts": 78,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -248,6 +248,13 @@
     "a": 2,
     "lim": 6,
     "loot": 11387
+   },
+   {
+    "tag": "#YR9GYYQC2",
+    "name": "Stars",
+    "a": 2,
+    "lim": 6,
+    "loot": 11360
    },
    {
     "tag": "#QQ90VV9L2",
