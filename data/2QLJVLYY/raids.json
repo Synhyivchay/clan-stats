@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 654630,
+  "loot": 660405,
   "raids": 7,
-  "attacks": 162,
+  "attacks": 163,
   "districts": 58,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#Q9UY09U2G",
+    "name": "blaze",
+    "a": 6,
+    "lim": 6,
+    "loot": 32853
+   },
    {
     "tag": "#8GGC8UY08",
     "name": "Super Men",
@@ -66,13 +73,6 @@
     "a": 6,
     "lim": 6,
     "loot": 27188
-   },
-   {
-    "tag": "#Q9UY09U2G",
-    "name": "blaze",
-    "a": 5,
-    "lim": 6,
-    "loot": 27078
    },
    {
     "tag": "#YCU8JR28U",
