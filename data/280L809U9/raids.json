@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 887488,
-  "raids": 9,
-  "attacks": 207,
-  "districts": 80,
+  "loot": 906495,
+  "raids": 10,
+  "attacks": 211,
+  "districts": 82,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -257,11 +257,32 @@
     "loot": 11387
    },
    {
+    "tag": "#29QLJ0YY",
+    "name": "ReTrO",
+    "a": 2,
+    "lim": 6,
+    "loot": 9600
+   },
+   {
+    "tag": "#YVP0G0V2G",
+    "name": "Relax",
+    "a": 2,
+    "lim": 6,
+    "loot": 9407
+   },
+   {
     "tag": "#QQ90VV9L2",
     "name": "Aviasales",
     "a": 3,
     "lim": 6,
     "loot": 7595
+   },
+   {
+    "tag": "#80QQP0V2C",
+    "name": "Danis 1 2 3",
+    "a": 0,
+    "lim": 5,
+    "loot": 0
    }
   ]
  },
