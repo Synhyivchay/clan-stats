@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 820438,
+  "loot": 827563,
   "raids": 9,
-  "attacks": 195,
+  "attacks": 196,
   "districts": 74,
   "offReward": 0,
   "defReward": 0,
@@ -248,6 +248,13 @@
     "a": 3,
     "lim": 6,
     "loot": 7595
+   },
+   {
+    "tag": "#G0GP90YCL",
+    "name": "Boston",
+    "a": 1,
+    "lim": 5,
+    "loot": 7125
    }
   ]
  },

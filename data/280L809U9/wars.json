@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 34,
-   "pct": 42.67,
-   "attacks": 14
+   "stars": 40,
+   "pct": 49.33,
+   "attacks": 16
   },
   "them": {
    "tag": "#2R88JLG9C",
@@ -140,7 +140,19 @@
     "name": "ㅤㅤㅤㅤ",
     "th": 18,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GYJVC9R9C",
+      "dn": "Myles",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 37,
+      "n": 3,
+      "dur": 75
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -332,7 +344,19 @@
     "name": "ФЕРЗЬ",
     "th": 18,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2Y9G9YPY",
+      "dn": "Paulie Walnuts",
+      "dpos": 20,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 36,
+      "n": 3,
+      "dur": 135
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -559,7 +583,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-09T06:11:56Z"
+  "snap": "2026-11-09T06:16:56Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
