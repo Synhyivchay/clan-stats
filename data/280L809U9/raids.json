@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 788144,
-  "raids": 8,
-  "attacks": 188,
-  "districts": 71,
+  "loot": 791529,
+  "raids": 9,
+  "attacks": 189,
+  "districts": 72,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -238,9 +238,9 @@
    {
     "tag": "#QQ90VV9L2",
     "name": "Aviasales",
-    "a": 2,
-    "lim": 5,
-    "loot": 4210
+    "a": 3,
+    "lim": 6,
+    "loot": 7595
    }
   ]
  },
