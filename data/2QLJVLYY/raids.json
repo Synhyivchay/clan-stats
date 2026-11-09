@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 636690,
+  "loot": 641410,
   "raids": 7,
-  "attacks": 159,
+  "attacks": 160,
   "districts": 57,
   "offReward": 0,
   "defReward": 0,
@@ -187,6 +187,13 @@
     "loot": 15339
    },
    {
+    "tag": "#Q9UY09U2G",
+    "name": "blaze",
+    "a": 3,
+    "lim": 6,
+    "loot": 13858
+   },
+   {
     "tag": "#LPYUQRQPQ",
     "name": "Saiev_095",
     "a": 4,
@@ -199,13 +206,6 @@
     "a": 3,
     "lim": 6,
     "loot": 10119
-   },
-   {
-    "tag": "#Q9UY09U2G",
-    "name": "blaze",
-    "a": 2,
-    "lim": 6,
-    "loot": 9138
    }
   ]
  },
