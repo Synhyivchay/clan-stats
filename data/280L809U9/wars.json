@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 30,
-   "pct": 36.7,
-   "attacks": 12
+   "stars": 31,
+   "pct": 39.33,
+   "attacks": 13
   },
   "them": {
    "tag": "#2R88JLG9C",
@@ -32,7 +32,19 @@
     "name": "Ragnar",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#VYLYYJC",
+      "dn": "BOSS city",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 79,
+      "o": 34,
+      "n": 1,
+      "dur": 109
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -535,7 +547,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-09T03:16:41Z"
+  "snap": "2026-11-09T03:21:41Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",

@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 780824,
+  "loot": 786234,
   "raids": 8,
-  "attacks": 185,
+  "attacks": 187,
   "districts": 71,
   "offReward": 0,
   "defReward": 0,
@@ -194,6 +194,13 @@
     "loot": 21738
    },
    {
+    "tag": "#GLCVPCCQ2",
+    "name": "Ragnar",
+    "a": 6,
+    "lim": 6,
+    "loot": 18715
+   },
+   {
     "tag": "#GUPY0JL0C",
     "name": "салфетка",
     "a": 6,
@@ -213,13 +220,6 @@
     "a": 6,
     "lim": 6,
     "loot": 13912
-   },
-   {
-    "tag": "#GLCVPCCQ2",
-    "name": "Ragnar",
-    "a": 4,
-    "lim": 6,
-    "loot": 13305
    },
    {
     "tag": "#LGRVJULJJ",
