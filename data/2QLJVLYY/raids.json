@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 719498,
+  "loot": 730518,
   "raids": 8,
-  "attacks": 178,
+  "attacks": 181,
   "districts": 65,
   "offReward": 0,
   "defReward": 0,
@@ -220,6 +220,20 @@
     "a": 4,
     "lim": 6,
     "loot": 12420
+   },
+   {
+    "tag": "#LG2JCP99G",
+    "name": "Потик_YT",
+    "a": 2,
+    "lim": 5,
+    "loot": 7375
+   },
+   {
+    "tag": "#PVCPGJL9R",
+    "name": "000Roma000",
+    "a": 1,
+    "lim": 5,
+    "loot": 3645
    }
   ]
  },
