@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 47,
-   "pct": 57.67,
-   "attacks": 19
+   "stars": 49,
+   "pct": 60.03,
+   "attacks": 20
   },
   "them": {
    "tag": "#2R88JLG9C",
@@ -116,7 +116,19 @@
     "name": "F.A.N.T.O.M",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2G0V2LYUQ",
+      "dn": "SQUIRRELMAN",
+      "dpos": 6,
+      "dth": 18,
+      "s": 2,
+      "p": 71,
+      "o": 44,
+      "n": 2,
+      "dur": 104
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -619,7 +631,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-09T13:32:15Z"
+  "snap": "2026-11-09T13:37:15Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
