@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 754768,
+  "loot": 770379,
   "raids": 8,
-  "attacks": 187,
-  "districts": 67,
+  "attacks": 190,
+  "districts": 69,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -59,6 +59,13 @@
     "a": 6,
     "lim": 6,
     "loot": 27708
+   },
+   {
+    "tag": "#PVCPGJL9R",
+    "name": "000Roma000",
+    "a": 6,
+    "lim": 6,
+    "loot": 27483
    },
    {
     "tag": "#8J09CQQQQ",
@@ -115,6 +122,13 @@
     "a": 6,
     "lim": 6,
     "loot": 23685
+   },
+   {
+    "tag": "#LG2JCP99G",
+    "name": "Потик_YT",
+    "a": 6,
+    "lim": 6,
+    "loot": 23398
    },
    {
     "tag": "#QL0J0RY8Q",
@@ -194,13 +208,6 @@
     "loot": 20262
    },
    {
-    "tag": "#LG2JCP99G",
-    "name": "Потик_YT",
-    "a": 5,
-    "lim": 6,
-    "loot": 20041
-   },
-   {
     "tag": "#YRQQ80QQ",
     "name": "nurik",
     "a": 6,
@@ -220,13 +227,6 @@
     "a": 6,
     "lim": 6,
     "loot": 15339
-   },
-   {
-    "tag": "#PVCPGJL9R",
-    "name": "000Roma000",
-    "a": 4,
-    "lim": 6,
-    "loot": 15229
    },
    {
     "tag": "#LPYUQRQPQ",
