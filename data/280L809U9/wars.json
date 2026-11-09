@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 40,
-   "pct": 49.33,
-   "attacks": 16
+   "stars": 42,
+   "pct": 51.4,
+   "attacks": 17
   },
   "them": {
    "tag": "#2R88JLG9C",
@@ -56,7 +56,19 @@
     "name": "Relax",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#VUJYJ909",
+      "dn": "dominating one",
+      "dpos": 2,
+      "dth": 18,
+      "s": 2,
+      "p": 62,
+      "o": 39,
+      "n": 2,
+      "dur": 141
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -583,7 +595,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-09T07:36:56Z"
+  "snap": "2026-11-09T07:41:56Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
