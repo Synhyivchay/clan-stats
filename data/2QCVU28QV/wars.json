@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 7,
   "warTag": "#8G2YVU8R8",
-  "snap": "2026-11-09T21:38:50Z"
+  "snap": "2026-11-09T21:43:50Z"
  },
  {
   "id": "cwl_20261108T100428Z_PG8L9QQ",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 28,
-   "pct": 64.6,
-   "attacks": 10
+   "stars": 31,
+   "pct": 71.27,
+   "attacks": 11
   },
   "them": {
    "tag": "#PG8L9QQ",
@@ -378,7 +378,19 @@
     "name": "Killer 2000",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#99QLJ9029",
+      "dn": "Hùng Dung",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 15,
+      "n": 3,
+      "dur": 129
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -545,7 +557,7 @@
   "season": "2026-11-03",
   "round": 6,
   "warTag": "#8G2PVYR0U",
-  "snap": "2026-11-09T21:38:50Z"
+  "snap": "2026-11-09T21:43:50Z"
  },
  {
   "id": "cwl_20261107T094830Z_2LP8U9CY8",
