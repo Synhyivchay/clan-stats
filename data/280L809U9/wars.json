@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 24,
-   "pct": 30.03,
-   "attacks": 10
+   "stars": 27,
+   "pct": 33.37,
+   "attacks": 11
   },
   "them": {
    "tag": "#2R88JLG9C",
    "name": "The Greek Iowan",
    "badge": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
    "level": 21,
-   "stars": 47,
-   "pct": 54.7,
-   "attacks": 17
+   "stars": 50,
+   "pct": 58.03,
+   "attacks": 18
   },
   "members": [
    {
@@ -236,11 +236,23 @@
     "name": "MR.KING",
     "th": 17,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#98J0CYG2J",
+      "dn": "Smart♥Boy",
+      "dpos": 15,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 29,
+      "n": 3,
+      "dur": 133
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -511,7 +523,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-09T02:11:41Z"
+  "snap": "2026-11-09T02:16:41Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
