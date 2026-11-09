@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 906495,
+  "loot": 959935,
   "raids": 10,
-  "attacks": 211,
-  "districts": 82,
+  "attacks": 224,
+  "districts": 87,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -103,11 +103,25 @@
     "loot": 28064
    },
    {
+    "tag": "#YVP0G0V2G",
+    "name": "Relax",
+    "a": 6,
+    "lim": 6,
+    "loot": 27733
+   },
+   {
     "tag": "#LVVCQ82L0",
     "name": "uchiha_obito",
     "a": 6,
     "lim": 6,
     "loot": 26595
+   },
+   {
+    "tag": "#PCUY9YUYU",
+    "name": "OO REEBOK OO",
+    "a": 6,
+    "lim": 6,
+    "loot": 26517
    },
    {
     "tag": "#QG29GRYJR",
@@ -264,11 +278,11 @@
     "loot": 9600
    },
    {
-    "tag": "#YVP0G0V2G",
-    "name": "Relax",
-    "a": 2,
+    "tag": "#80QQP0V2C",
+    "name": "Danis 1 2 3",
+    "a": 3,
     "lim": 6,
-    "loot": 9407
+    "loot": 8597
    },
    {
     "tag": "#QQ90VV9L2",
@@ -276,13 +290,6 @@
     "a": 3,
     "lim": 6,
     "loot": 7595
-   },
-   {
-    "tag": "#80QQP0V2C",
-    "name": "Danis 1 2 3",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
    }
   ]
  },
