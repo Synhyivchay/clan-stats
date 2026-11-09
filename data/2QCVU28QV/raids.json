@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 869250,
+  "loot": 880705,
   "raids": 10,
-  "attacks": 200,
-  "districts": 75,
+  "attacks": 204,
+  "districts": 79,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -229,6 +229,13 @@
     "loot": 18742
    },
    {
+    "tag": "#QJRR2Y809",
+    "name": "Cazerr",
+    "a": 6,
+    "lim": 6,
+    "loot": 18345
+   },
+   {
     "tag": "#J8PVCRGQ",
     "name": "lennyy1992",
     "a": 6,
@@ -241,13 +248,6 @@
     "a": 6,
     "lim": 6,
     "loot": 13372
-   },
-   {
-    "tag": "#QJRR2Y809",
-    "name": "Cazerr",
-    "a": 2,
-    "lim": 5,
-    "loot": 6890
    }
   ]
  },
