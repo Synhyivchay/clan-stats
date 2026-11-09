@@ -1,15 +1,15 @@
 [
  {
   "id": "2026-11-06",
-  "state": "ongoing",
+  "state": "ended",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
   "loot": 1013392,
   "raids": 11,
   "attacks": 237,
   "districts": 91,
-  "offReward": 0,
-  "defReward": 0,
+  "offReward": 211,
+  "defReward": 227,
   "members": [
    {
     "tag": "#YR9GYYQC2",
