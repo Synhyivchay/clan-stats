@@ -22,9 +22,9 @@
    "name": "WAR COMMANDER",
    "badge": "https://api-assets.clashofclans.com/badges/200/P6FyApfdVZETvfuYqeq8PBsLi38H5Ik9iUK4H6Q53Dc.png",
    "level": 26,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 6.67,
+   "attacks": 1
   },
   "members": [
    {
@@ -166,9 +166,9 @@
     "pos": 7,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -367,7 +367,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8RVGL0V8J",
-  "snap": "2026-11-09T05:31:56Z"
+  "snap": "2026-11-09T05:36:56Z"
  },
  {
   "id": "cwl_20261106T175217Z_Y9JCRJG9",
