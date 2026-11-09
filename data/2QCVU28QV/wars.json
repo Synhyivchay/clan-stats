@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 7,
   "warTag": "#8G2YVU8R8",
-  "snap": "2026-11-09T14:02:15Z"
+  "snap": "2026-11-09T14:07:15Z"
  },
  {
   "id": "cwl_20261108T100428Z_PG8L9QQ",
@@ -227,9 +227,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 12,
-   "pct": 26.67,
-   "attacks": 4
+   "stars": 14,
+   "pct": 32.73,
+   "attacks": 5
   },
   "them": {
    "tag": "#PG8L9QQ",
@@ -282,7 +282,19 @@
     "name": "Louis™️187",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#V0CRQQ9",
+      "dn": "Trang Anh",
+      "dpos": 4,
+      "dth": 18,
+      "s": 2,
+      "p": 91,
+      "o": 6,
+      "n": 2,
+      "dur": 154
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -473,7 +485,7 @@
   "season": "2026-11-03",
   "round": 6,
   "warTag": "#8G2PVYR0U",
-  "snap": "2026-11-09T14:02:15Z"
+  "snap": "2026-11-09T14:07:15Z"
  },
  {
   "id": "cwl_20261107T094830Z_2LP8U9CY8",
