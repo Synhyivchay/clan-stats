@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 877914,
+  "loot": 887488,
   "raids": 9,
-  "attacks": 205,
-  "districts": 79,
+  "attacks": 207,
+  "districts": 80,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#YR9GYYQC2",
+    "name": "Stars",
+    "a": 6,
+    "lim": 6,
+    "loot": 34668
+   },
    {
     "tag": "#82QQ2QY0V",
     "name": "Дракс",
@@ -24,6 +31,13 @@
     "a": 6,
     "lim": 6,
     "loot": 32503
+   },
+   {
+    "tag": "#G0GP90YCL",
+    "name": "Boston",
+    "a": 6,
+    "lim": 6,
+    "loot": 32382
    },
    {
     "tag": "#YRVR292UG",
@@ -68,13 +82,6 @@
     "loot": 29277
    },
    {
-    "tag": "#YR9GYYQC2",
-    "name": "Stars",
-    "a": 5,
-    "lim": 6,
-    "loot": 29074
-   },
-   {
     "tag": "#GLL20U2Q9",
     "name": "ㅤㅤㅤㅤ",
     "a": 6,
@@ -87,13 +94,6 @@
     "a": 6,
     "lim": 6,
     "loot": 28421
-   },
-   {
-    "tag": "#G0GP90YCL",
-    "name": "Boston",
-    "a": 5,
-    "lim": 6,
-    "loot": 28402
    },
    {
     "tag": "#YGJQUPCUG",
