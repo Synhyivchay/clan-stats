@@ -22,9 +22,9 @@
    "name": "The Greek Iowan",
    "badge": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
    "level": 21,
-   "stars": 60,
-   "pct": 70.57,
-   "attacks": 22
+   "stars": 63,
+   "pct": 73.9,
+   "attacks": 23
   },
   "members": [
    {
@@ -202,9 +202,9 @@
     "pos": 11,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -607,7 +607,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-09T10:17:15Z"
+  "snap": "2026-11-09T10:22:15Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
