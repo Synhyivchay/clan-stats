@@ -2,7 +2,7 @@
  {
   "id": "cwl_20261107T181600Z_QLLVY9QQ",
   "type": "cwl",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-07T18:16:00Z",
   "start": "2026-11-08T18:15:57Z",
   "end": "2026-11-09T18:15:57Z",
@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 38,
-   "pct": 90.67,
-   "attacks": 14
+   "stars": 41,
+   "pct": 97.33,
+   "attacks": 15
   },
   "them": {
    "tag": "#QLLVY9QQ",
    "name": "WAR COMMANDER",
    "badge": "https://api-assets.clashofclans.com/badges/200/P6FyApfdVZETvfuYqeq8PBsLi38H5Ik9iUK4H6Q53Dc.png",
    "level": 26,
-   "stars": 11,
-   "pct": 25.8,
-   "attacks": 4
+   "stars": 42,
+   "pct": 97.67,
+   "attacks": 15
   },
   "members": [
    {
@@ -94,9 +94,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 87
     }
    },
    {
@@ -118,9 +118,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -142,9 +142,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -152,11 +152,23 @@
     "name": "000Roma000",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8RGRQRCQY",
+      "dn": "pratik",
+      "dpos": 6,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 19,
+      "n": 3,
+      "dur": 142
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -202,9 +214,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -226,9 +238,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -250,9 +262,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -274,9 +286,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -322,9 +334,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -346,9 +358,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 91
     }
    },
    {
@@ -370,12 +382,13 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    }
   ],
+  "result": "lose",
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8RVGL0V8J",

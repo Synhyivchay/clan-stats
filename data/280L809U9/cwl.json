@@ -265,48 +265,48 @@
    },
    "#8J028V8GL": {
     "round": 7,
-    "state": "inWar",
+    "state": "warEnded",
     "a": {
      "tag": "#2RLYP9GP9",
-     "stars": 55,
-     "pct": 65.83333333333333
+     "stars": 57,
+     "pct": 68.03333333333333
     },
     "b": {
      "tag": "#PV0VP2RC",
-     "stars": 52,
-     "pct": 66.0
+     "stars": 67,
+     "pct": 86.23333333333333
     }
    },
    "#8J028V9UJ": {
     "round": 7,
-    "state": "inWar",
+    "state": "warEnded",
     "a": {
      "tag": "#29P0GGRRP",
-     "stars": 66,
-     "pct": 79.73333333333333
+     "stars": 74,
+     "pct": 88.63333333333334
     },
     "b": {
      "tag": "#92RYQ2JJ",
-     "stars": 52,
-     "pct": 63.93333333333333
+     "stars": 61,
+     "pct": 73.93333333333334
     }
    },
    "#8J028VY90": {
     "round": 7,
-    "state": "inWar",
+    "state": "warEnded",
     "a": {
      "tag": "#2YUGPCGLJ",
-     "stars": 66,
-     "pct": 79.03333333333333
+     "stars": 72,
+     "pct": 85.7
     },
     "b": {
      "tag": "#LGLP9RC2",
-     "stars": 44,
-     "pct": 51.666666666666664
+     "stars": 67,
+     "pct": 82.23333333333333
     }
    }
   },
-  "state": "inWar",
+  "state": "ended",
   "clans": [
    {
     "tag": "#2R88JLG9C",

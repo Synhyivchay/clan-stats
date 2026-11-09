@@ -2,7 +2,7 @@
  {
   "id": "cwl_20261107T180852Z_2R88JLG9C",
   "type": "cwl",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-07T18:08:52Z",
   "start": "2026-11-08T18:08:09Z",
   "end": "2026-11-09T18:08:09Z",
@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 49,
-   "pct": 60.03,
-   "attacks": 20
+   "stars": 73,
+   "pct": 88.13,
+   "attacks": 29
   },
   "them": {
    "tag": "#2R88JLG9C",
    "name": "The Greek Iowan",
    "badge": "https://api-assets.clashofclans.com/badges/200/zNRhkSZr3Wb2b_vDCkce3OuYIIyUhfdyKO_nz0TWMzk.png",
    "level": 21,
-   "stars": 71,
-   "pct": 83.23,
-   "attacks": 26
+   "stars": 83,
+   "pct": 96.57,
+   "attacks": 30
   },
   "members": [
    {
@@ -46,9 +46,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -70,9 +70,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -80,7 +80,19 @@
     "name": "GURU RANDHAWA",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#28CVG2J2G",
+      "dn": "Menny",
+      "dpos": 3,
+      "dth": 18,
+      "s": 2,
+      "p": 92,
+      "o": 53,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -92,11 +104,23 @@
     "name": "OO REEBOK OO",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#CJPC9QG0",
+      "dn": "ratsass",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 47,
+      "n": 3,
+      "dur": 117
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -104,7 +128,19 @@
     "name": "ReTrO",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#URQUGRPV",
+      "dn": "tony m takeover",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 58,
+      "n": 3,
+      "dur": 106
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -188,7 +224,19 @@
     "name": "ReTrO",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L8PQPULGR",
+      "dn": "FearParallax",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 49,
+      "n": 3,
+      "dur": 105
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -200,7 +248,19 @@
     "name": "Stars",
     "th": 18,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GJ90Q82V0",
+      "dn": "Neop60",
+      "dpos": 10,
+      "dth": 18,
+      "s": 2,
+      "p": 74,
+      "o": 54,
+      "n": 2,
+      "dur": 161
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -212,7 +272,19 @@
     "name": "Boston",
     "th": 18,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QUUQ88Q2U",
+      "dn": "vighnesh25",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 48,
+      "n": 3,
+      "dur": 114
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -344,11 +416,23 @@
     "name": "Қыран) •_•",
     "th": 17,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2RP9CUQL8",
+      "dn": "ImdLeaderofMyg!",
+      "dpos": 17,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 51,
+      "n": 3,
+      "dur": 134
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -356,7 +440,19 @@
     "name": "Aviasales",
     "th": 17,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#29UR9P8YL",
+      "dn": "Humel",
+      "dpos": 18,
+      "dth": 17,
+      "s": 2,
+      "p": 77,
+      "o": 50,
+      "n": 2,
+      "dur": 61
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -368,7 +464,19 @@
     "name": "Dream®",
     "th": 17,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9VJUCRJ08",
+      "dn": "Devil",
+      "dpos": 19,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 52,
+      "n": 3,
+      "dur": 123
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -628,6 +736,7 @@
     }
    }
   ],
+  "result": "lose",
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",

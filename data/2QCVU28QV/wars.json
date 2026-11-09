@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 7,
   "warTag": "#8G2YVU8R8",
-  "snap": "2026-11-09T15:12:15Z"
+  "snap": "2026-11-09T18:43:50Z"
  },
  {
   "id": "cwl_20261108T100428Z_PG8L9QQ",
@@ -227,18 +227,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 14,
-   "pct": 32.73,
-   "attacks": 5
+   "stars": 23,
+   "pct": 52.73,
+   "attacks": 8
   },
   "them": {
    "tag": "#PG8L9QQ",
    "name": "6789 BamBam",
    "badge": "https://api-assets.clashofclans.com/badges/200/_mgxINqEqZt84OKlDO4Tu_mcZgjseQhIMufmjc5hrQY.png",
    "level": 31,
-   "stars": 2,
-   "pct": 5.33,
-   "attacks": 1
+   "stars": 8,
+   "pct": 22.07,
+   "attacks": 4
   },
   "members": [
    {
@@ -248,9 +248,9 @@
     "pos": 1,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 95
     }
    },
    {
@@ -258,7 +258,19 @@
     "name": "Evil Kruemel",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YG00000PJ",
+      "dn": "BIG CỜ TY __ LD",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 9,
+      "n": 3,
+      "dur": 149
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -306,7 +318,19 @@
     "name": "Kingdingeling",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L0QL998L0",
+      "dn": "Oscar Tong",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 10,
+      "n": 3,
+      "dur": 157
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -380,9 +404,9 @@
     "pos": 10,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 69
     }
    },
    {
@@ -404,9 +428,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 87
     }
    },
    {
@@ -426,7 +450,19 @@
     "name": "Ｍ Λ Ｘ",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GQPJYUQ",
+      "dn": "thinhbo",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 7,
+      "n": 3,
+      "dur": 127
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -485,7 +521,7 @@
   "season": "2026-11-03",
   "round": 6,
   "warTag": "#8G2PVYR0U",
-  "snap": "2026-11-09T15:12:15Z"
+  "snap": "2026-11-09T18:43:50Z"
  },
  {
   "id": "cwl_20261107T094830Z_2LP8U9CY8",
