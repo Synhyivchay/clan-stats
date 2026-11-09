@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 23,
-   "pct": 27.7,
-   "attacks": 9
+   "stars": 24,
+   "pct": 30.03,
+   "attacks": 10
   },
   "them": {
    "tag": "#2R88JLG9C",
@@ -380,7 +380,19 @@
     "name": "grootich",
     "th": 16,
     "pos": 25,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PYGQVCGJ8",
+      "dn": "colt",
+      "dpos": 25,
+      "dth": 17,
+      "s": 1,
+      "p": 70,
+      "o": 27,
+      "n": 1,
+      "dur": 89
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -499,7 +511,7 @@
   "season": "2026-11-01",
   "round": 7,
   "warTag": "#8J028VLQP",
-  "snap": "2026-11-09T01:36:41Z"
+  "snap": "2026-11-09T01:41:41Z"
  },
  {
   "id": "cwl_20261106T175334Z_2RLYP9GP9",
