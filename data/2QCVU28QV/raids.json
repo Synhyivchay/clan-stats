@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 862360,
+  "loot": 869250,
   "raids": 10,
-  "attacks": 198,
+  "attacks": 200,
   "districts": 75,
   "offReward": 0,
   "defReward": 0,
@@ -241,6 +241,13 @@
     "a": 6,
     "lim": 6,
     "loot": 13372
+   },
+   {
+    "tag": "#QJRR2Y809",
+    "name": "Cazerr",
+    "a": 2,
+    "lim": 5,
+    "loot": 6890
    }
   ]
  },
