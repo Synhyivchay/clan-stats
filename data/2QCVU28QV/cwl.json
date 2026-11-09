@@ -7,7 +7,8 @@
    "#8G0CUP9J0": "cwl_20261105T093636Z_8VRCCRR2",
    "#8G209RYLG": "cwl_20261106T093642Z_2JG00JCG2",
    "#8G28GPGJU": "cwl_20261107T094830Z_2LP8U9CY8",
-   "#8G2PVYR0U": "cwl_20261108T100428Z_PG8L9QQ"
+   "#8G2PVYR0U": "cwl_20261108T100428Z_PG8L9QQ",
+   "#8G2YVU8R8": "cwl_20261109T100436Z_282VPPRUJ"
   },
   "others": {
    "#8G0LUPJJP": {
@@ -222,7 +223,7 @@
    },
    "#8G2PVYY80": {
     "round": 6,
-    "state": "preparation",
+    "state": "inWar",
     "a": {
      "tag": "#2JG00JCG2",
      "stars": 0,
@@ -236,7 +237,7 @@
    },
    "#8G2PVYLLP": {
     "round": 6,
-    "state": "preparation",
+    "state": "inWar",
     "a": {
      "tag": "#2G8CJJRY9",
      "stars": 0,
@@ -250,7 +251,7 @@
    },
    "#8G2PVYQJG": {
     "round": 6,
-    "state": "preparation",
+    "state": "inWar",
     "a": {
      "tag": "#8VRCCRR2",
      "stars": 0,
@@ -258,6 +259,48 @@
     },
     "b": {
      "tag": "#282VPPRUJ",
+     "stars": 0,
+     "pct": 0.0
+    }
+   },
+   "#8G2YVU00G": {
+    "round": 7,
+    "state": "preparation",
+    "a": {
+     "tag": "#2JG00JCG2",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#PCQ99QVG",
+     "stars": 0,
+     "pct": 0.0
+    }
+   },
+   "#8G2YVCUJP": {
+    "round": 7,
+    "state": "preparation",
+    "a": {
+     "tag": "#8VRCCRR2",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#2G8CJJRY9",
+     "stars": 0,
+     "pct": 0.0
+    }
+   },
+   "#8G2YVU2PU": {
+    "round": 7,
+    "state": "preparation",
+    "a": {
+     "tag": "#PG8L9QQ",
+     "stars": 0,
+     "pct": 0.0
+    },
+    "b": {
+     "tag": "#2LP8U9CY8",
      "stars": 0,
      "pct": 0.0
     }
