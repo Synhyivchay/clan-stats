@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-06T07:00:00Z",
   "end": "2026-11-09T07:00:00Z",
-  "loot": 998181,
+  "loot": 1013392,
   "raids": 11,
-  "attacks": 233,
-  "districts": 90,
+  "attacks": 237,
+  "districts": 91,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -138,6 +138,13 @@
     "loot": 25789
    },
    {
+    "tag": "#29QLJ0YY",
+    "name": "ReTrO",
+    "a": 6,
+    "lim": 6,
+    "loot": 25615
+   },
+   {
     "tag": "#9LLUUULPG",
     "name": "F.A.N.T.O.M",
     "a": 6,
@@ -229,18 +236,18 @@
     "loot": 22370
    },
    {
+    "tag": "#80QQP0V2C",
+    "name": "Danis 1 2 3",
+    "a": 6,
+    "lim": 6,
+    "loot": 22039
+   },
+   {
     "tag": "#GRQC2829L",
     "name": "ed_sans_123",
     "a": 6,
     "lim": 6,
     "loot": 21738
-   },
-   {
-    "tag": "#29QLJ0YY",
-    "name": "ReTrO",
-    "a": 4,
-    "lim": 6,
-    "loot": 19305
    },
    {
     "tag": "#GLCVPCCQ2",
@@ -269,13 +276,6 @@
     "a": 6,
     "lim": 6,
     "loot": 13912
-   },
-   {
-    "tag": "#80QQP0V2C",
-    "name": "Danis 1 2 3",
-    "a": 4,
-    "lim": 6,
-    "loot": 13138
    },
    {
     "tag": "#LGRVJULJJ",
