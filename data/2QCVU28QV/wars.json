@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 12,
-   "pct": 26.67,
-   "attacks": 4
+   "stars": 15,
+   "pct": 33.33,
+   "attacks": 5
   },
   "them": {
    "tag": "#282VPPRUJ",
@@ -116,7 +116,19 @@
     "name": "Flashbang",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RPPCJ8VL",
+      "dn": "⚡️Pikachu⚡️",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 9,
+      "n": 3,
+      "dur": 136
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -259,7 +271,7 @@
   "season": "2026-11-03",
   "round": 7,
   "warTag": "#8G2YVU8R8",
-  "snap": "2026-11-10T11:39:18Z"
+  "snap": "2026-11-10T11:49:18Z"
  },
  {
   "id": "cwl_20261108T100428Z_PG8L9QQ",
