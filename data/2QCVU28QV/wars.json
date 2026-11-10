@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 9,
-   "pct": 20.0,
-   "attacks": 3
+   "stars": 12,
+   "pct": 26.67,
+   "attacks": 4
   },
   "them": {
    "tag": "#282VPPRUJ",
@@ -92,7 +92,19 @@
     "name": "Kingdingeling",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GPYCURU0U",
+      "dn": "Scorpion33",
+      "dpos": 15,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 86
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -247,7 +259,7 @@
   "season": "2026-11-03",
   "round": 7,
   "warTag": "#8G2YVU8R8",
-  "snap": "2026-11-10T10:59:18Z"
+  "snap": "2026-11-10T11:04:18Z"
  },
  {
   "id": "cwl_20261108T100428Z_PG8L9QQ",
