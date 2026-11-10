@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 15,
-   "pct": 33.33,
-   "attacks": 5
+   "stars": 18,
+   "pct": 40.0,
+   "attacks": 6
   },
   "them": {
    "tag": "#282VPPRUJ",
    "name": "NEVER GIVE UP",
    "badge": "https://api-assets.clashofclans.com/badges/200/2oCHCPnK7fjG99D0fb-EHrLnun0-F7IthLsif_Ux3HQ.png",
    "level": 20,
-   "stars": 12,
-   "pct": 26.67,
-   "attacks": 4
+   "stars": 15,
+   "pct": 33.33,
+   "attacks": 5
   },
   "members": [
    {
@@ -80,7 +80,19 @@
     "name": "Louis™️187",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QPR2RPYG",
+      "dn": "HunterBlackStar",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 10,
+      "n": 3,
+      "dur": 114
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -238,9 +250,9 @@
     "pos": 13,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -271,7 +283,7 @@
   "season": "2026-11-03",
   "round": 7,
   "warTag": "#8G2YVU8R8",
-  "snap": "2026-11-10T11:49:18Z"
+  "snap": "2026-11-10T11:54:18Z"
  },
  {
   "id": "cwl_20261108T100428Z_PG8L9QQ",
