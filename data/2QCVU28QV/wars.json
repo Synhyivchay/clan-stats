@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 21,
-   "pct": 46.67,
-   "attacks": 7
+   "stars": 24,
+   "pct": 53.33,
+   "attacks": 8
   },
   "them": {
    "tag": "#282VPPRUJ",
@@ -68,7 +68,19 @@
     "name": "Evil Kruemel",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YLRVPP2RJ",
+      "dn": "ด.ช.บอยชอยเร็ว",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 20,
+      "n": 3,
+      "dur": 143
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -295,7 +307,7 @@
   "season": "2026-11-03",
   "round": 7,
   "warTag": "#8G2YVU8R8",
-  "snap": "2026-11-10T15:14:18Z"
+  "snap": "2026-11-10T15:19:18Z"
  },
  {
   "id": "cwl_20261108T100428Z_PG8L9QQ",
