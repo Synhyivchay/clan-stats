@@ -22,9 +22,9 @@
    "name": "NEVER GIVE UP",
    "badge": "https://api-assets.clashofclans.com/badges/200/2oCHCPnK7fjG99D0fb-EHrLnun0-F7IthLsif_Ux3HQ.png",
    "level": 20,
-   "stars": 6,
-   "pct": 13.33,
-   "attacks": 2
+   "stars": 12,
+   "pct": 26.67,
+   "attacks": 4
   },
   "members": [
    {
@@ -82,9 +82,9 @@
     "pos": 4,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -142,9 +142,9 @@
     "pos": 8,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -259,7 +259,7 @@
   "season": "2026-11-03",
   "round": 7,
   "warTag": "#8G2YVU8R8",
-  "snap": "2026-11-10T11:14:18Z"
+  "snap": "2026-11-10T11:19:18Z"
  },
  {
   "id": "cwl_20261108T100428Z_PG8L9QQ",
