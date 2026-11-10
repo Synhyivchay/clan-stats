@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 18,
-   "pct": 40.0,
-   "attacks": 6
+   "stars": 21,
+   "pct": 46.67,
+   "attacks": 7
   },
   "them": {
    "tag": "#282VPPRUJ",
@@ -272,7 +272,19 @@
     "name": "Monkey D. Lorik",
     "th": 18,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GL8CQYGP",
+      "dn": "⚔️NAK-SU⚔️",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 14,
+      "n": 3,
+      "dur": 143
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -283,7 +295,7 @@
   "season": "2026-11-03",
   "round": 7,
   "warTag": "#8G2YVU8R8",
-  "snap": "2026-11-10T12:09:18Z"
+  "snap": "2026-11-10T12:14:18Z"
  },
  {
   "id": "cwl_20261108T100428Z_PG8L9QQ",
