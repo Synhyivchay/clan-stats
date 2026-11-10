@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 7,
   "warTag": "#8G2YVU8R8",
-  "snap": "2026-11-10T00:08:50Z"
+  "snap": "2026-11-10T00:13:50Z"
  },
  {
   "id": "cwl_20261108T100428Z_PG8L9QQ",
@@ -236,9 +236,9 @@
    "name": "6789 BamBam",
    "badge": "https://api-assets.clashofclans.com/badges/200/_mgxINqEqZt84OKlDO4Tu_mcZgjseQhIMufmjc5hrQY.png",
    "level": 31,
-   "stars": 14,
-   "pct": 35.4,
-   "attacks": 6
+   "stars": 17,
+   "pct": 42.07,
+   "attacks": 7
   },
   "members": [
    {
@@ -344,9 +344,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -569,7 +569,7 @@
   "season": "2026-11-03",
   "round": 6,
   "warTag": "#8G2PVYR0U",
-  "snap": "2026-11-10T00:08:50Z"
+  "snap": "2026-11-10T00:13:50Z"
  },
  {
   "id": "cwl_20261107T094830Z_2LP8U9CY8",
