@@ -211,7 +211,7 @@
   "season": "2026-11-03",
   "round": 7,
   "warTag": "#8G2YVU8R8",
-  "snap": "2026-11-10T07:38:15Z"
+  "snap": "2026-11-10T09:44:18Z"
  },
  {
   "id": "cwl_20261108T100428Z_PG8L9QQ",
@@ -227,18 +227,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 37,
-   "pct": 84.6,
-   "attacks": 13
+   "stars": 42,
+   "pct": 97.87,
+   "attacks": 15
   },
   "them": {
    "tag": "#PG8L9QQ",
    "name": "6789 BamBam",
    "badge": "https://api-assets.clashofclans.com/badges/200/_mgxINqEqZt84OKlDO4Tu_mcZgjseQhIMufmjc5hrQY.png",
    "level": 31,
-   "stars": 34,
-   "pct": 81.73,
-   "attacks": 13
+   "stars": 40,
+   "pct": 95.07,
+   "attacks": 15
   },
   "members": [
    {
@@ -438,7 +438,19 @@
     "name": "Bassko",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8U8GRC2RY",
+      "dn": "Dragon S☄️",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 27,
+      "n": 3,
+      "dur": 164
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -498,11 +510,23 @@
     "name": "xXDamage",
     "th": 18,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RG90VRV0",
+      "dn": "jack",
+      "dpos": 6,
+      "dth": 18,
+      "s": 2,
+      "p": 99,
+      "o": 30,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -548,9 +572,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -581,7 +605,7 @@
   "season": "2026-11-03",
   "round": 6,
   "warTag": "#8G2PVYR0U",
-  "snap": "2026-11-10T07:38:15Z"
+  "snap": "2026-11-10T09:44:18Z"
  },
  {
   "id": "cwl_20261107T094830Z_2LP8U9CY8",
