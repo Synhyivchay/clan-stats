@@ -223,7 +223,7 @@
    },
    "#8G2PVYY80": {
     "round": 6,
-    "state": "inWar",
+    "state": "warEnded",
     "a": {
      "tag": "#2JG00JCG2",
      "stars": 45,
@@ -237,7 +237,7 @@
    },
    "#8G2PVYLLP": {
     "round": 6,
-    "state": "inWar",
+    "state": "warEnded",
     "a": {
      "tag": "#2G8CJJRY9",
      "stars": 32,
@@ -251,7 +251,7 @@
    },
    "#8G2PVYQJG": {
     "round": 6,
-    "state": "inWar",
+    "state": "warEnded",
     "a": {
      "tag": "#8VRCCRR2",
      "stars": 43,
@@ -293,7 +293,7 @@
    },
    "#8G2YVU2PU": {
     "round": 7,
-    "state": "preparation",
+    "state": "inWar",
     "a": {
      "tag": "#PG8L9QQ",
      "stars": 0,

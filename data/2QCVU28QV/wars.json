@@ -2,7 +2,7 @@
  {
   "id": "cwl_20261109T100436Z_282VPPRUJ",
   "type": "cwl",
-  "state": "preparation",
+  "state": "inWar",
   "prep": "2026-11-09T10:04:36Z",
   "start": "2026-11-10T10:04:34Z",
   "end": "2026-11-11T10:04:34Z",
@@ -22,9 +22,9 @@
    "name": "NEVER GIVE UP",
    "badge": "https://api-assets.clashofclans.com/badges/200/2oCHCPnK7fjG99D0fb-EHrLnun0-F7IthLsif_Ux3HQ.png",
    "level": 20,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 6.67,
+   "attacks": 1
   },
   "members": [
    {
@@ -154,9 +154,9 @@
     "pos": 11,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -211,12 +211,12 @@
   "season": "2026-11-03",
   "round": 7,
   "warTag": "#8G2YVU8R8",
-  "snap": "2026-11-10T09:59:18Z"
+  "snap": "2026-11-10T10:09:18Z"
  },
  {
   "id": "cwl_20261108T100428Z_PG8L9QQ",
   "type": "cwl",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-08T10:04:28Z",
   "start": "2026-11-09T10:04:24Z",
   "end": "2026-11-10T10:04:24Z",
@@ -602,10 +602,11 @@
     }
    }
   ],
+  "result": "win",
   "season": "2026-11-03",
   "round": 6,
   "warTag": "#8G2PVYR0U",
-  "snap": "2026-11-10T09:59:18Z"
+  "snap": "2026-11-10T10:04:18Z"
  },
  {
   "id": "cwl_20261107T094830Z_2LP8U9CY8",
