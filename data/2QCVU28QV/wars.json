@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 33,
-   "pct": 73.33,
-   "attacks": 11
+   "stars": 36,
+   "pct": 80.0,
+   "attacks": 12
   },
   "them": {
    "tag": "#282VPPRUJ",
@@ -284,7 +284,19 @@
     "name": "Ｍ Λ Ｘ",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G28CJCVQ",
+      "dn": "♠️Tokyo♠️",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 27,
+      "n": 3,
+      "dur": 87
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -343,7 +355,7 @@
   "season": "2026-11-03",
   "round": 7,
   "warTag": "#8G2YVU8R8",
-  "snap": "2026-11-10T18:46:10Z"
+  "snap": "2026-11-10T18:51:10Z"
  },
  {
   "id": "cwl_20261108T100428Z_PG8L9QQ",
