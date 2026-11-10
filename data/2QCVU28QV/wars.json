@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 6,
+   "pct": 13.33,
+   "attacks": 2
   },
   "them": {
    "tag": "#282VPPRUJ",
@@ -44,7 +44,19 @@
     "name": "slory",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QLL8YLC08",
+      "dn": "「わやはな」かきいあ❌",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 2,
+      "n": 3,
+      "dur": 131
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -152,7 +164,19 @@
     "name": "Luka Tate",
     "th": 18,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9YCRPPCUG",
+      "dn": "Blue & White",
+      "dpos": 10,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 3,
+      "n": 3,
+      "dur": 147
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -211,7 +235,7 @@
   "season": "2026-11-03",
   "round": 7,
   "warTag": "#8G2YVU8R8",
-  "snap": "2026-11-10T10:09:18Z"
+  "snap": "2026-11-10T10:14:18Z"
  },
  {
   "id": "cwl_20261108T100428Z_PG8L9QQ",
