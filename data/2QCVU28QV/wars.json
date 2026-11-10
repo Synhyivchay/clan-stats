@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 24,
-   "pct": 53.33,
-   "attacks": 8
+   "stars": 30,
+   "pct": 66.67,
+   "attacks": 10
   },
   "them": {
    "tag": "#282VPPRUJ",
    "name": "NEVER GIVE UP",
    "badge": "https://api-assets.clashofclans.com/badges/200/2oCHCPnK7fjG99D0fb-EHrLnun0-F7IthLsif_Ux3HQ.png",
    "level": 20,
-   "stars": 31,
-   "pct": 76.8,
-   "attacks": 12
+   "stars": 40,
+   "pct": 96.8,
+   "attacks": 15
   },
   "members": [
    {
@@ -82,9 +82,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -154,9 +154,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -164,11 +164,23 @@
     "name": "Killer 2000",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JC9QJLRU",
+      "dn": "ขนม",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 24,
+      "n": 3,
+      "dur": 104
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -272,7 +284,19 @@
     "name": "hazhir ro",
     "th": 18,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QU882PQGY",
+      "dn": "The Beekeeper44",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 25,
+      "n": 3,
+      "dur": 120
+     }
+    ],
     "def": {
      "n": 1,
      "s": 1,
@@ -307,7 +331,7 @@
   "season": "2026-11-03",
   "round": 7,
   "warTag": "#8G2YVU8R8",
-  "snap": "2026-11-10T15:19:18Z"
+  "snap": "2026-11-10T17:46:10Z"
  },
  {
   "id": "cwl_20261108T100428Z_PG8L9QQ",

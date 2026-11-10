@@ -268,13 +268,13 @@
     "state": "inWar",
     "a": {
      "tag": "#2JG00JCG2",
-     "stars": 9,
-     "pct": 20.0
+     "stars": 15,
+     "pct": 33.333333333333336
     },
     "b": {
      "tag": "#PCQ99QVG",
-     "stars": 14,
-     "pct": 32.6
+     "stars": 35,
+     "pct": 79.26666666666667
     }
    },
    "#8G2YVCUJP": {
@@ -282,8 +282,8 @@
     "state": "inWar",
     "a": {
      "tag": "#8VRCCRR2",
-     "stars": 18,
-     "pct": 40.0
+     "stars": 24,
+     "pct": 53.333333333333336
     },
     "b": {
      "tag": "#2G8CJJRY9",
@@ -296,13 +296,13 @@
     "state": "inWar",
     "a": {
      "tag": "#PG8L9QQ",
-     "stars": 3,
-     "pct": 6.666666666666667
+     "stars": 4,
+     "pct": 12.466666666666667
     },
     "b": {
      "tag": "#2LP8U9CY8",
-     "stars": 15,
-     "pct": 33.333333333333336
+     "stars": 18,
+     "pct": 40.0
     }
    }
   },
