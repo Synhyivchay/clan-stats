@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 15,
-   "pct": 30.3,
-   "attacks": 7
+   "stars": 16,
+   "pct": 33.85,
+   "attacks": 8
   },
   "them": {
    "tag": "#2LYPY8J8P",
    "name": "XxDarkEmpirexX",
    "badge": "https://api-assets.clashofclans.com/badges/200/10l6D8yw15F3AzJ7MbjHHtErdvFEjl49piy-8xnqpok.png",
    "level": 22,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 5,
+   "pct": 8.3,
+   "attacks": 2
   },
   "members": [
    {
@@ -140,7 +140,19 @@
     "name": "ed_sans_123",
     "th": 17,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L2QV2990P",
+      "dn": "pizza king",
+      "dpos": 8,
+      "dth": 17,
+      "s": 1,
+      "p": 71,
+      "o": 10,
+      "n": 1,
+      "dur": 126
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -332,9 +344,9 @@
     "pos": 19,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 66
     }
    },
    {
@@ -344,13 +356,13 @@
     "pos": 20,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    }
   ],
-  "snap": "2026-11-11T08:26:38Z"
+  "snap": "2026-11-11T08:31:38Z"
  },
  {
   "id": "cwl_20261107T180852Z_2R88JLG9C",
