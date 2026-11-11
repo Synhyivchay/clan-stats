@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 9,
-   "pct": 15.0,
-   "attacks": 3
+   "stars": 11,
+   "pct": 20.75,
+   "attacks": 5
   },
   "them": {
    "tag": "#2LYPY8J8P",
@@ -271,7 +271,30 @@
     "name": "kartik",
     "th": 15,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GQYGU9J02",
+      "dn": "dwits",
+      "dpos": 20,
+      "dth": 14,
+      "s": 1,
+      "p": 62,
+      "o": 4,
+      "n": 1,
+      "dur": 46
+     },
+     {
+      "d": "#QC990JJGY",
+      "dn": "taekook",
+      "dpos": 19,
+      "dth": 14,
+      "s": 1,
+      "p": 53,
+      "o": 5,
+      "n": 1,
+      "dur": 33
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -303,7 +326,7 @@
     }
    }
   ],
-  "snap": "2026-11-11T06:51:38Z"
+  "snap": "2026-11-11T06:56:38Z"
  },
  {
   "id": "cwl_20261107T180852Z_2R88JLG9C",
