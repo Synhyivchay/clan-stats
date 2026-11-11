@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 4.0,
+   "attacks": 1
   },
   "them": {
    "tag": "#2LLRCRUY",
@@ -284,7 +284,19 @@
     "name": "Денис",
     "th": 14,
     "pos": 22,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LUYRVQG9C",
+      "dn": "♠️Жокер♠️",
+      "dpos": 22,
+      "dth": 14,
+      "s": 3,
+      "p": 100,
+      "o": 1,
+      "n": 3,
+      "dur": 137
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -328,7 +340,7 @@
     }
    }
   ],
-  "snap": "2026-11-11T04:26:26Z"
+  "snap": "2026-11-11T04:31:26Z"
  },
  {
   "id": "cwl_20261107T181600Z_QLLVY9QQ",
