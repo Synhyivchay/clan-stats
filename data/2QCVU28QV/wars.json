@@ -2,7 +2,7 @@
  {
   "id": "cwl_20261109T100436Z_282VPPRUJ",
   "type": "cwl",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-09T10:04:36Z",
   "start": "2026-11-10T10:04:34Z",
   "end": "2026-11-11T10:04:34Z",
@@ -388,6 +388,7 @@
     }
    }
   ],
+  "result": "win",
   "season": "2026-11-03",
   "round": 7,
   "warTag": "#8G2YVU8R8",
