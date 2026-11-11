@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 43,
-   "pct": 77.8,
-   "attacks": 23
+   "stars": 49,
+   "pct": 87.8,
+   "attacks": 26
   },
   "them": {
    "tag": "#2LYPY8J8P",
    "name": "XxDarkEmpirexX",
    "badge": "https://api-assets.clashofclans.com/badges/200/10l6D8yw15F3AzJ7MbjHHtErdvFEjl49piy-8xnqpok.png",
    "level": 22,
-   "stars": 13,
-   "pct": 22.75,
-   "attacks": 5
+   "stars": 22,
+   "pct": 39.3,
+   "attacks": 9
   },
   "members": [
    {
@@ -57,9 +57,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 74
     }
    },
    {
@@ -103,11 +103,34 @@
     "name": "ㅤㅤㅤㅤ",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G8GQLU09G",
+      "dn": "charlie",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 29,
+      "n": 3,
+      "dur": 86
+     },
+     {
+      "d": "#UUPP8CJP",
+      "dn": "ognjen",
+      "dpos": 6,
+      "dth": 18,
+      "s": 1,
+      "p": 95,
+      "o": 30,
+      "n": 1,
+      "dur": 180
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 66
     }
    },
    {
@@ -138,6 +161,17 @@
       "o": 6,
       "n": 1,
       "dur": 135
+     },
+     {
+      "d": "#UUPP8CJP",
+      "dn": "ognjen",
+      "dpos": 6,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 33,
+      "n": 2,
+      "dur": 109
      }
     ],
     "def": {
@@ -340,9 +374,9 @@
     "pos": 14,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 91
     }
    },
    {
@@ -375,9 +409,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -533,7 +567,7 @@
     }
    }
   ],
-  "snap": "2026-11-11T16:20:11Z"
+  "snap": "2026-11-11T18:39:51Z"
  },
  {
   "id": "cwl_20261107T180852Z_2R88JLG9C",

@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 50,
-   "pct": 70.16,
-   "attacks": 20
+   "stars": 54,
+   "pct": 74.32,
+   "attacks": 22
   },
   "them": {
    "tag": "#2LLRCRUY",
    "name": "Turkmenistan",
    "badge": "https://api-assets.clashofclans.com/badges/200/g10z1_-Avz6htY29i-WUKP1sdP_ZUWG6HmSveWDTRwU.png",
    "level": 30,
-   "stars": 17,
-   "pct": 27.76,
-   "attacks": 9
+   "stars": 23,
+   "pct": 40.56,
+   "attacks": 13
   },
   "members": [
    {
@@ -114,7 +114,30 @@
     "name": "■◇LEGENDARNIY◇■",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2VPU98L0",
+      "dn": "☠☬ꜰᴇᴀʀʟᴇꜱꜱ☬☠",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 31,
+      "n": 1,
+      "dur": 89
+     },
+     {
+      "d": "#QVR9QJRPQ",
+      "dn": "Bla©k-St@®",
+      "dpos": 6,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 33,
+      "n": 3,
+      "dur": 102
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -128,9 +151,9 @@
     "pos": 5,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 80
     }
    },
    {
@@ -222,9 +245,9 @@
     "pos": 9,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 83
     }
    },
    {
@@ -376,9 +399,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 77
     }
    },
    {
@@ -553,13 +576,13 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 80
     }
    }
   ],
-  "snap": "2026-11-11T16:20:11Z"
+  "snap": "2026-11-11T18:39:51Z"
  },
  {
   "id": "cwl_20261107T181600Z_QLLVY9QQ",
