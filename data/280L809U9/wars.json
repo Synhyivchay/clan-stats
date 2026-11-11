@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 5.0,
+   "attacks": 1
   },
   "them": {
    "tag": "#2LYPY8J8P",
@@ -152,7 +152,19 @@
     "name": "чёрт",
     "th": 17,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PVJGCYQQQ",
+      "dn": "comrade",
+      "dpos": 11,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 1,
+      "n": 3,
+      "dur": 145
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -268,7 +280,7 @@
     }
    }
   ],
-  "snap": "2026-11-11T05:11:38Z"
+  "snap": "2026-11-11T05:16:38Z"
  },
  {
   "id": "cwl_20261107T180852Z_2R88JLG9C",
