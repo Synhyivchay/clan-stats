@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 16,
-   "pct": 33.85,
-   "attacks": 8
+   "stars": 17,
+   "pct": 36.65,
+   "attacks": 9
   },
   "them": {
    "tag": "#2LYPY8J8P",
@@ -151,6 +151,17 @@
       "o": 10,
       "n": 1,
       "dur": 126
+     },
+     {
+      "d": "#UVUP9J9Q",
+      "dn": "Rayleigh",
+      "dpos": 12,
+      "dth": 16,
+      "s": 1,
+      "p": 56,
+      "o": 11,
+      "n": 1,
+      "dur": 139
      }
     ],
     "def": {
@@ -362,7 +373,7 @@
     }
    }
   ],
-  "snap": "2026-11-11T08:31:38Z"
+  "snap": "2026-11-11T08:36:38Z"
  },
  {
   "id": "cwl_20261107T180852Z_2R88JLG9C",
