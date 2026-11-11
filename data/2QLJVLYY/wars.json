@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
    "stars": 54,
-   "pct": 74.32,
-   "attacks": 22
+   "pct": 77.04,
+   "attacks": 24
   },
   "them": {
    "tag": "#2LLRCRUY",
@@ -527,7 +527,30 @@
     "name": "егор",
     "th": 13,
     "pos": 23,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QCVV8L88Y",
+      "dn": "ROCKY",
+      "dpos": 17,
+      "dth": 17,
+      "s": 0,
+      "p": 40,
+      "o": 37,
+      "n": 0,
+      "dur": 161
+     },
+     {
+      "d": "#GL20JLCGC",
+      "dn": "⚜️⚜️GUGA⚜️⚜️",
+      "dpos": 16,
+      "dth": 17,
+      "s": 0,
+      "p": 28,
+      "o": 38,
+      "n": 0,
+      "dur": 81
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -582,7 +605,7 @@
     }
    }
   ],
-  "snap": "2026-11-11T19:14:51Z"
+  "snap": "2026-11-11T19:19:51Z"
  },
  {
   "id": "cwl_20261107T181600Z_QLLVY9QQ",
