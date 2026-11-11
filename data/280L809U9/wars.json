@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 11,
-   "pct": 20.75,
-   "attacks": 5
+   "stars": 12,
+   "pct": 25.3,
+   "attacks": 6
   },
   "them": {
    "tag": "#2LYPY8J8P",
@@ -104,7 +104,19 @@
     "name": "DimagFM",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YVRQ8U9PV",
+      "dn": "Kid Centurion",
+      "dpos": 7,
+      "dth": 18,
+      "s": 1,
+      "p": 91,
+      "o": 6,
+      "n": 1,
+      "dur": 135
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -326,7 +338,7 @@
     }
    }
   ],
-  "snap": "2026-11-11T06:56:38Z"
+  "snap": "2026-11-11T07:01:38Z"
  },
  {
   "id": "cwl_20261107T180852Z_2R88JLG9C",
