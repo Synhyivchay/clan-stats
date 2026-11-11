@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 27,
-   "pct": 51.75,
-   "attacks": 14
+   "stars": 30,
+   "pct": 56.75,
+   "attacks": 15
   },
   "them": {
    "tag": "#2LYPY8J8P",
@@ -268,6 +268,17 @@
       "o": 17,
       "n": 2,
       "dur": 126
+     },
+     {
+      "d": "#GU2YJY0PY",
+      "dn": "Fredo",
+      "dpos": 16,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 18,
+      "n": 3,
+      "dur": 113
      }
     ],
     "def": {
@@ -431,7 +442,7 @@
     }
    }
   ],
-  "snap": "2026-11-11T11:20:11Z"
+  "snap": "2026-11-11T11:25:11Z"
  },
  {
   "id": "cwl_20261107T180852Z_2R88JLG9C",
