@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 29,
-   "pct": 39.6,
-   "attacks": 10
+   "stars": 32,
+   "pct": 43.6,
+   "attacks": 11
   },
   "them": {
    "tag": "#2LLRCRUY",
@@ -138,6 +138,17 @@
       "o": 11,
       "n": 3,
       "dur": 133
+     },
+     {
+      "d": "#QV0CU0Q2G",
+      "dn": "Atashka",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 16,
+      "n": 3,
+      "dur": 148
      }
     ],
     "def": {
@@ -444,7 +455,7 @@
     }
    }
   ],
-  "snap": "2026-11-11T08:46:38Z"
+  "snap": "2026-11-11T08:51:38Z"
  },
  {
   "id": "cwl_20261107T181600Z_QLLVY9QQ",
