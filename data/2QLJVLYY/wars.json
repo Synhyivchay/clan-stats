@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 15,
-   "pct": 20.0,
-   "attacks": 5
+   "stars": 18,
+   "pct": 24.0,
+   "attacks": 6
   },
   "them": {
    "tag": "#2LLRCRUY",
@@ -378,7 +378,19 @@
     "name": "denchik",
     "th": 13,
     "pos": 25,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L8PGY9PCQ",
+      "dn": "☆KAROL☆HACKER ☆",
+      "dpos": 25,
+      "dth": 12,
+      "s": 3,
+      "p": 100,
+      "o": 7,
+      "n": 3,
+      "dur": 125
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -386,7 +398,7 @@
     }
    }
   ],
-  "snap": "2026-11-11T05:36:38Z"
+  "snap": "2026-11-11T05:46:38Z"
  },
  {
   "id": "cwl_20261107T181600Z_QLLVY9QQ",
