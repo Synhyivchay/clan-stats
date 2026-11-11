@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 37,
-   "pct": 51.44,
-   "attacks": 13
+   "stars": 39,
+   "pct": 54.72,
+   "attacks": 14
   },
   "them": {
    "tag": "#2LLRCRUY",
@@ -352,7 +352,19 @@
     "name": "Legenda",
     "th": 15,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PVC8Q2Y88",
+      "dn": "Jack Vorobey",
+      "dpos": 18,
+      "dth": 16,
+      "s": 2,
+      "p": 82,
+      "o": 21,
+      "n": 2,
+      "dur": 97
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -478,7 +490,7 @@
     }
    }
   ],
-  "snap": "2026-11-11T10:26:38Z"
+  "snap": "2026-11-11T10:31:38Z"
  },
  {
   "id": "cwl_20261107T181600Z_QLLVY9QQ",
