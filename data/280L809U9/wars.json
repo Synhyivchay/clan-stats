@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 36,
-   "pct": 64.4,
-   "attacks": 18
+   "stars": 38,
+   "pct": 68.65,
+   "attacks": 19
   },
   "them": {
    "tag": "#2LYPY8J8P",
@@ -433,7 +433,19 @@
     "name": "uchiha_obito",
     "th": 14,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QUCL8YC9G",
+      "dn": "JED1",
+      "dpos": 15,
+      "dth": 16,
+      "s": 2,
+      "p": 85,
+      "o": 22,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -476,7 +488,7 @@
     }
    }
   ],
-  "snap": "2026-11-11T12:50:11Z"
+  "snap": "2026-11-11T12:55:11Z"
  },
  {
   "id": "cwl_20261107T180852Z_2R88JLG9C",
