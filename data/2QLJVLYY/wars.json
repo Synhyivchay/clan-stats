@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 44,
-   "pct": 62.36,
-   "attacks": 16
+   "stars": 46,
+   "pct": 63.48,
+   "attacks": 18
   },
   "them": {
    "tag": "#2LLRCRUY",
@@ -328,7 +328,30 @@
     "name": "о000оо00",
     "th": 16,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PVC8Q2Y88",
+      "dn": "Jack Vorobey",
+      "dpos": 18,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 26,
+      "n": 1,
+      "dur": 116
+     },
+     {
+      "d": "#82YU9PR88",
+      "dn": "Black Star",
+      "dpos": 19,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 27,
+      "n": 1,
+      "dur": 91
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -513,7 +536,7 @@
     }
    }
   ],
-  "snap": "2026-11-11T14:55:11Z"
+  "snap": "2026-11-11T15:00:11Z"
  },
  {
   "id": "cwl_20261107T181600Z_QLLVY9QQ",
