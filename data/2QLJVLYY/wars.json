@@ -22,9 +22,9 @@
    "name": "Turkmenistan",
    "badge": "https://api-assets.clashofclans.com/badges/200/g10z1_-Avz6htY29i-WUKP1sdP_ZUWG6HmSveWDTRwU.png",
    "level": 30,
-   "stars": 3,
-   "pct": 5.44,
-   "attacks": 2
+   "stars": 4,
+   "pct": 7.2,
+   "attacks": 3
   },
   "members": [
    {
@@ -190,9 +190,9 @@
     "pos": 12,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 44
     }
    },
    {
@@ -433,7 +433,7 @@
     }
    }
   ],
-  "snap": "2026-11-11T07:11:38Z"
+  "snap": "2026-11-11T07:21:38Z"
  },
  {
   "id": "cwl_20261107T181600Z_QLLVY9QQ",
