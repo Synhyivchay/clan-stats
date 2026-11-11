@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 39,
-   "pct": 72.3,
-   "attacks": 20
+   "stars": 41,
+   "pct": 73.3,
+   "attacks": 22
   },
   "them": {
    "tag": "#2LYPY8J8P",
@@ -339,7 +339,30 @@
     "name": "grootich",
     "th": 16,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GL082C992",
+      "dn": "luna",
+      "dpos": 14,
+      "dth": 17,
+      "s": 2,
+      "p": 78,
+      "o": 24,
+      "n": 1,
+      "dur": 136
+     },
+     {
+      "d": "#QUCL8YC9G",
+      "dn": "JED1",
+      "dpos": 15,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 25,
+      "n": 1,
+      "dur": 97
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -499,7 +522,7 @@
     }
    }
   ],
-  "snap": "2026-11-11T13:20:11Z"
+  "snap": "2026-11-11T13:30:11Z"
  },
  {
   "id": "cwl_20261107T180852Z_2R88JLG9C",
