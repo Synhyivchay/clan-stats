@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 72,
-   "pct": 98.96,
-   "attacks": 35
+   "stars": 73,
+   "pct": 99.2,
+   "attacks": 36
   },
   "them": {
    "tag": "#2LLRCRUY",
    "name": "Turkmenistan",
    "badge": "https://api-assets.clashofclans.com/badges/200/g10z1_-Avz6htY29i-WUKP1sdP_ZUWG6HmSveWDTRwU.png",
    "level": 30,
-   "stars": 37,
-   "pct": 66.64,
-   "attacks": 21
+   "stars": 39,
+   "pct": 69.48,
+   "attacks": 22
   },
   "members": [
    {
@@ -371,6 +371,17 @@
       "o": 56,
       "n": 1,
       "dur": 118
+     },
+     {
+      "d": "#GL20JLCGC",
+      "dn": "⚜️⚜️GUGA⚜️⚜️",
+      "dpos": 16,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 58,
+      "n": 1,
+      "dur": 122
      }
     ],
     "def": {
@@ -644,9 +655,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 71
     }
    },
    {
@@ -732,7 +743,7 @@
     }
    }
   ],
-  "snap": "2026-11-12T03:59:51Z"
+  "snap": "2026-11-12T04:04:51Z"
  },
  {
   "id": "cwl_20261107T181600Z_QLLVY9QQ",
