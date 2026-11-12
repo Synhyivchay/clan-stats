@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 51,
-   "pct": 89.05,
-   "attacks": 28
+   "stars": 52,
+   "pct": 88.8,
+   "attacks": 29
   },
   "them": {
    "tag": "#2LYPY8J8P",
@@ -91,7 +91,19 @@
     "name": "OO REEBOK OO",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YVRQ8U9PV",
+      "dn": "Kid Centurion",
+      "dpos": 7,
+      "dth": 18,
+      "s": 2,
+      "p": 86,
+      "o": 52,
+      "n": 1,
+      "dur": 158
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -590,7 +602,7 @@
     }
    }
   ],
-  "snap": "2026-11-12T03:19:51Z"
+  "snap": "2026-11-12T03:24:51Z"
  },
  {
   "id": "cwl_20261107T180852Z_2R88JLG9C",
