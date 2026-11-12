@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 66,
-   "pct": 90.64,
-   "attacks": 32
+   "stars": 68,
+   "pct": 94.2,
+   "attacks": 33
   },
   "them": {
    "tag": "#2LLRCRUY",
@@ -161,7 +161,19 @@
     "name": "000Sergey000",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q2RQGUJJ9",
+      "dn": "☪️MR. OSKAR ™️",
+      "dpos": 13,
+      "dth": 18,
+      "s": 2,
+      "p": 89,
+      "o": 53,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -697,7 +709,7 @@
     }
    }
   ],
-  "snap": "2026-11-12T03:29:51Z"
+  "snap": "2026-11-12T03:34:51Z"
  },
  {
   "id": "cwl_20261107T181600Z_QLLVY9QQ",
