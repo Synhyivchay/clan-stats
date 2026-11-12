@@ -22,9 +22,9 @@
    "name": "XxDarkEmpirexX",
    "badge": "https://api-assets.clashofclans.com/badges/200/10l6D8yw15F3AzJ7MbjHHtErdvFEjl49piy-8xnqpok.png",
    "level": 22,
-   "stars": 44,
-   "pct": 79.5,
-   "attacks": 19
+   "stars": 46,
+   "pct": 84.1,
+   "attacks": 21
   },
   "members": [
    {
@@ -210,9 +210,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 92
     }
    },
    {
@@ -315,7 +315,7 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 1,
      "p": 83
     }
@@ -567,7 +567,7 @@
     }
    }
   ],
-  "snap": "2026-11-12T00:09:51Z"
+  "snap": "2026-11-12T01:29:51Z"
  },
  {
   "id": "cwl_20261107T180852Z_2R88JLG9C",
