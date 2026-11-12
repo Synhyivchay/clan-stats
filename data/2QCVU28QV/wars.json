@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 23,
-   "pct": 26.5,
-   "attacks": 8
+   "stars": 29,
+   "pct": 33.17,
+   "attacks": 10
   },
   "them": {
    "tag": "#2YR0LL8P8",
@@ -377,7 +377,19 @@
     "name": "hazhir ro",
     "th": 18,
     "pos": 23,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8CY88P0JV",
+      "dn": "Monkey D PnK",
+      "dpos": 26,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 15,
+      "n": 3,
+      "dur": 133
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -436,6 +448,17 @@
       "o": 12,
       "n": 2,
       "dur": 164
+     },
+     {
+      "d": "#PYJP209YR",
+      "dn": "FM •Dionys•",
+      "dpos": 15,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 14,
+      "n": 3,
+      "dur": 172
      }
     ],
     "def": {
@@ -481,7 +504,7 @@
     }
    }
   ],
-  "snap": "2026-11-12T21:30:17Z"
+  "snap": "2026-11-12T21:35:17Z"
  },
  {
   "id": "cwl_20261109T100436Z_282VPPRUJ",
