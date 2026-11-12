@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 71,
-   "pct": 98.2,
-   "attacks": 34
+   "stars": 72,
+   "pct": 98.96,
+   "attacks": 35
   },
   "them": {
    "tag": "#2LLRCRUY",
    "name": "Turkmenistan",
    "badge": "https://api-assets.clashofclans.com/badges/200/g10z1_-Avz6htY29i-WUKP1sdP_ZUWG6HmSveWDTRwU.png",
    "level": 30,
-   "stars": 35,
-   "pct": 63.2,
-   "attacks": 20
+   "stars": 37,
+   "pct": 66.64,
+   "attacks": 21
   },
   "members": [
    {
@@ -360,7 +360,19 @@
     "name": "Relax",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QCVV8L88Y",
+      "dn": "ROCKY",
+      "dpos": 17,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 56,
+      "n": 1,
+      "dur": 118
+     }
+    ],
     "def": {
      "n": 1,
      "s": 1,
@@ -597,9 +609,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 86
     }
    },
    {
@@ -720,7 +732,7 @@
     }
    }
   ],
-  "snap": "2026-11-12T03:54:51Z"
+  "snap": "2026-11-12T03:59:51Z"
  },
  {
   "id": "cwl_20261107T181600Z_QLLVY9QQ",

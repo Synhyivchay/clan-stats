@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 56,
-   "pct": 97.5,
-   "attacks": 33
+   "pct": 97.7,
+   "attacks": 34
   },
   "them": {
    "tag": "#2LYPY8J8P",
@@ -78,6 +78,17 @@
       "o": 58,
       "n": 0,
       "dur": 175
+     },
+     {
+      "d": "#Q2PYYG02Y",
+      "dn": "greedy",
+      "dpos": 4,
+      "dth": 18,
+      "s": 2,
+      "p": 98,
+      "o": 59,
+      "n": 0,
+      "dur": 180
      }
     ],
     "def": {
@@ -648,7 +659,7 @@
     }
    }
   ],
-  "snap": "2026-11-12T03:54:51Z"
+  "snap": "2026-11-12T03:59:51Z"
  },
  {
   "id": "cwl_20261107T180852Z_2R88JLG9C",
