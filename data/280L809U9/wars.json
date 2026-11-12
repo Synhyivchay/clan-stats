@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 50,
-   "pct": 88.9,
-   "attacks": 27
+   "stars": 51,
+   "pct": 89.05,
+   "attacks": 28
   },
   "them": {
    "tag": "#2LYPY8J8P",
@@ -149,6 +149,17 @@
       "o": 50,
       "n": 1,
       "dur": 118
+     },
+     {
+      "d": "#L2QV2990P",
+      "dn": "pizza king",
+      "dpos": 8,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 51,
+      "n": 1,
+      "dur": 137
      }
     ],
     "def": {
@@ -579,7 +590,7 @@
     }
    }
   ],
-  "snap": "2026-11-12T03:14:51Z"
+  "snap": "2026-11-12T03:19:51Z"
  },
  {
   "id": "cwl_20261107T180852Z_2R88JLG9C",
