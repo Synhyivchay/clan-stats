@@ -1,5 +1,276 @@
 [
  {
+  "id": "war_20261112T105547Z_90YCCCP2",
+  "type": "war",
+  "state": "preparation",
+  "prep": "2026-11-12T10:55:47Z",
+  "start": "2026-11-13T09:55:47Z",
+  "end": "2026-11-14T09:55:47Z",
+  "teamSize": 20,
+  "apm": 2,
+  "us": {
+   "tag": "#2QLJVLYY",
+   "name": "slivki sow",
+   "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
+   "level": 34,
+   "stars": 0,
+   "pct": 0.0,
+   "attacks": 0
+  },
+  "them": {
+   "tag": "#90YCCCP2",
+   "name": "Bagong Barrio",
+   "badge": "https://api-assets.clashofclans.com/badges/200/xpd8qjRJVHDJ7VD60V-CKknRRqT2k0rvyOyDSZPxhqI.png",
+   "level": 24,
+   "stars": 0,
+   "pct": 0.0,
+   "attacks": 0
+  },
+  "members": [
+   {
+    "tag": "#YRYYYGY90",
+    "name": "naik",
+    "th": 18,
+    "pos": 1,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#PUCPRP9YV",
+    "name": "малько",
+    "th": 18,
+    "pos": 2,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#9GV90LCR8",
+    "name": "■◇LEGENDARNIY◇■",
+    "th": 18,
+    "pos": 3,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#89RL09YL9",
+    "name": "Разрушитель",
+    "th": 18,
+    "pos": 4,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#PVCPGJL9R",
+    "name": "000Roma000",
+    "th": 18,
+    "pos": 5,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#P2GULCL8G",
+    "name": "000Sergey000",
+    "th": 18,
+    "pos": 6,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LQGGPPC92",
+    "name": "~LuciFer~",
+    "th": 18,
+    "pos": 7,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#8GGC8UY08",
+    "name": "Super Men",
+    "th": 18,
+    "pos": 8,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#QL0J0RY8Q",
+    "name": "ebobo",
+    "th": 18,
+    "pos": 9,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YVP0G0V2G",
+    "name": "Relax",
+    "th": 18,
+    "pos": 10,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LJQU0Q0VV",
+    "name": "Azek",
+    "th": 18,
+    "pos": 11,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YRVR292UG",
+    "name": "Адик",
+    "th": 17,
+    "pos": 12,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#QUULVGRYQ",
+    "name": "MR.KING",
+    "th": 17,
+    "pos": 13,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#PQCYUY90C",
+    "name": "Артёмчик",
+    "th": 16,
+    "pos": 14,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#8J09CQQQQ",
+    "name": "о000оо00",
+    "th": 16,
+    "pos": 15,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#QG0URUJ0Y",
+    "name": "SAMURAY",
+    "th": 16,
+    "pos": 16,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LV9VQJ8GP",
+    "name": "Фалирит",
+    "th": 16,
+    "pos": 17,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LVCQPQ822",
+    "name": "Legenda",
+    "th": 15,
+    "pos": 18,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#GRLLYQQLV",
+    "name": "WOLF",
+    "th": 17,
+    "pos": 19,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#Q9UY09U2G",
+    "name": "blaze",
+    "th": 13,
+    "pos": 20,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   }
+  ],
+  "snap": "2026-11-12T10:56:01Z"
+ },
+ {
   "id": "war_20261110T052535Z_2LLRCRUY",
   "type": "war",
   "state": "warEnded",
