@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 60,
-   "pct": 82.64,
-   "attacks": 30
+   "stars": 66,
+   "pct": 90.64,
+   "attacks": 32
   },
   "them": {
    "tag": "#2LLRCRUY",
@@ -243,7 +243,30 @@
     "name": "NumTorum",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GYGQCYG9U",
+      "dn": "ЛЕГЕНДА",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 51,
+      "n": 3,
+      "dur": 99
+     },
+     {
+      "d": "#GYYJL990P",
+      "dn": "DOWLET.COM1",
+      "dpos": 12,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 52,
+      "n": 3,
+      "dur": 86
+     }
+    ],
     "def": {
      "n": 1,
      "s": 1,
@@ -674,7 +697,7 @@
     }
    }
   ],
-  "snap": "2026-11-12T03:04:51Z"
+  "snap": "2026-11-12T03:09:51Z"
  },
  {
   "id": "cwl_20261107T181600Z_QLLVY9QQ",
