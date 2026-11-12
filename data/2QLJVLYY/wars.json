@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 73,
-   "pct": 99.2,
-   "attacks": 36
+   "stars": 74,
+   "pct": 99.64,
+   "attacks": 38
   },
   "them": {
    "tag": "#2LLRCRUY",
@@ -149,7 +149,30 @@
     "name": "000Roma000",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PJR0ULL88",
+      "dn": "/////AMG",
+      "dpos": 15,
+      "dth": 17,
+      "s": 2,
+      "p": 75,
+      "o": 59,
+      "n": 0,
+      "dur": 180
+     },
+     {
+      "d": "#Q2RQGUJJ9",
+      "dn": "☪️MR. OSKAR ™️",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 60,
+      "n": 1,
+      "dur": 129
+     }
+    ],
     "def": {
      "n": 1,
      "s": 1,
@@ -743,7 +766,7 @@
     }
    }
   ],
-  "snap": "2026-11-12T04:04:51Z"
+  "snap": "2026-11-12T04:09:51Z"
  },
  {
   "id": "cwl_20261107T181600Z_QLLVY9QQ",
