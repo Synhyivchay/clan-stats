@@ -15,7 +15,7 @@
    "level": 25,
    "stars": 56,
    "pct": 97.5,
-   "attacks": 32
+   "attacks": 33
   },
   "them": {
    "tag": "#2LYPY8J8P",
@@ -67,7 +67,19 @@
     "name": "GURU RANDHAWA",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YVRQ8U9PV",
+      "dn": "Kid Centurion",
+      "dpos": 7,
+      "dth": 18,
+      "s": 2,
+      "p": 79,
+      "o": 58,
+      "n": 0,
+      "dur": 175
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -636,7 +648,7 @@
     }
    }
   ],
-  "snap": "2026-11-12T03:44:51Z"
+  "snap": "2026-11-12T03:54:51Z"
  },
  {
   "id": "cwl_20261107T180852Z_2R88JLG9C",
