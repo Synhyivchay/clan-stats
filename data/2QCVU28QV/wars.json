@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 70,
-   "pct": 79.6,
-   "attacks": 28
+   "stars": 73,
+   "pct": 82.93,
+   "attacks": 29
   },
   "them": {
    "tag": "#2YR0LL8P8",
@@ -324,6 +324,17 @@
       "o": 58,
       "n": 3,
       "dur": 164
+     },
+     {
+      "d": "#RG90UG9L",
+      "dn": "Jethro",
+      "dpos": 20,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 59,
+      "n": 3,
+      "dur": 140
      }
     ],
     "def": {
@@ -711,7 +722,7 @@
     }
    }
   ],
-  "snap": "2026-11-13T11:36:45Z"
+  "snap": "2026-11-13T11:41:45Z"
  },
  {
   "id": "cwl_20261109T100436Z_282VPPRUJ",
