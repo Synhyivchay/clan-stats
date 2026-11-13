@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 258156,
+  "loot": 266154,
   "raids": 3,
-  "attacks": 62,
-  "districts": 21,
+  "attacks": 65,
+  "districts": 22,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -40,6 +40,13 @@
     "loot": 28937
    },
    {
+    "tag": "#LUYRJU9RC",
+    "name": "ChuChuXXi",
+    "a": 6,
+    "lim": 6,
+    "loot": 25228
+   },
+   {
     "tag": "#GC0V2V2Y0",
     "name": "sgrassi",
     "a": 6,
@@ -66,13 +73,6 @@
     "a": 6,
     "lim": 6,
     "loot": 19503
-   },
-   {
-    "tag": "#LUYRJU9RC",
-    "name": "ChuChuXXi",
-    "a": 3,
-    "lim": 6,
-    "loot": 17230
    },
    {
     "tag": "#PL2290CCY",
