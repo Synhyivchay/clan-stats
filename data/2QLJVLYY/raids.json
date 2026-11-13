@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 279277,
+  "loot": 285657,
   "raids": 3,
-  "attacks": 69,
+  "attacks": 70,
   "districts": 23,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#9GV90LCR8",
+    "name": "■◇LEGENDARNIY◇■",
+    "a": 6,
+    "lim": 6,
+    "loot": 33877
+   },
    {
     "tag": "#89RL09YL9",
     "name": "Разрушитель",
@@ -31,13 +38,6 @@
     "a": 6,
     "lim": 6,
     "loot": 28173
-   },
-   {
-    "tag": "#9GV90LCR8",
-    "name": "■◇LEGENDARNIY◇■",
-    "a": 5,
-    "lim": 6,
-    "loot": 27497
    },
    {
     "tag": "#LV9VQJ8GP",
