@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 231681,
+  "loot": 237241,
   "raids": 3,
-  "attacks": 59,
+  "attacks": 60,
   "districts": 19,
   "offReward": 0,
   "defReward": 0,
@@ -19,18 +19,18 @@
     "loot": 31644
    },
    {
+    "tag": "#2LCGCPR80",
+    "name": "NumTorum",
+    "a": 6,
+    "lim": 6,
+    "loot": 30844
+   },
+   {
     "tag": "#Q9UY09U2G",
     "name": "blaze",
     "a": 6,
     "lim": 6,
     "loot": 28173
-   },
-   {
-    "tag": "#2LCGCPR80",
-    "name": "NumTorum",
-    "a": 5,
-    "lim": 6,
-    "loot": 25284
    },
    {
     "tag": "#LV9VQJ8GP",
