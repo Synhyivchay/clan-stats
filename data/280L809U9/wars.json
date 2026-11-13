@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 14,
-   "pct": 26.45,
-   "attacks": 6
+   "stars": 27,
+   "pct": 50.6,
+   "attacks": 12
   },
   "them": {
    "tag": "#20CJ29U8J",
@@ -151,7 +151,30 @@
     "name": "Partizan",
     "th": 18,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LUJJJL8Q",
+      "dn": "VIREKSATYA",
+      "dpos": 8,
+      "dth": 18,
+      "s": 2,
+      "p": 94,
+      "o": 9,
+      "n": 2,
+      "dur": 106
+     },
+     {
+      "d": "#2G08PPYJ8",
+      "dn": "Hunter",
+      "dpos": 10,
+      "dth": 17,
+      "s": 2,
+      "p": 97,
+      "o": 10,
+      "n": 1,
+      "dur": 140
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -294,7 +317,30 @@
     "name": "uchiha_obito",
     "th": 15,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YG90G2QV",
+      "dn": "Nguon Flash",
+      "dpos": 17,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 7,
+      "n": 3,
+      "dur": 125
+     },
+     {
+      "d": "#LVRJ9JPQJ",
+      "dn": "Daryna",
+      "dpos": 18,
+      "dth": 14,
+      "s": 3,
+      "p": 100,
+      "o": 8,
+      "n": 3,
+      "dur": 109
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -330,7 +376,30 @@
     "name": "Влад",
     "th": 16,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#R8VG2R2R9",
+      "dn": "VIRYA",
+      "dpos": 20,
+      "dth": 11,
+      "s": 3,
+      "p": 100,
+      "o": 11,
+      "n": 3,
+      "dur": 132
+     },
+     {
+      "d": "#GU82VJR22",
+      "dn": "Zarkey",
+      "dpos": 19,
+      "dth": 12,
+      "s": 1,
+      "p": 73,
+      "o": 12,
+      "n": 1,
+      "dur": 134
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -338,7 +407,7 @@
     }
    }
   ],
-  "snap": "2026-11-13T12:11:45Z"
+  "snap": "2026-11-13T15:20:44Z"
  },
  {
   "id": "war_20261110T054320Z_2LYPY8J8P",

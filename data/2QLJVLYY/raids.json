@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 181505,
+  "loot": 200982,
   "raids": 1,
-  "attacks": 47,
-  "districts": 15,
+  "attacks": 53,
+  "districts": 17,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -45,6 +45,13 @@
     "a": 4,
     "lim": 6,
     "loot": 22561
+   },
+   {
+    "tag": "#QG0URUJ0Y",
+    "name": "SAMURAY",
+    "a": 6,
+    "lim": 6,
+    "loot": 19477
    },
    {
     "tag": "#GU9UY0L98",

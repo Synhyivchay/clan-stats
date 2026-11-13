@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 21,
-   "pct": 35.0,
-   "attacks": 8
+   "stars": 49,
+   "pct": 83.7,
+   "attacks": 19
   },
   "them": {
    "tag": "#90YCCCP2",
@@ -173,7 +173,30 @@
     "name": "~LuciFer~",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JLU0Q8JR",
+      "dn": "jAyKaHoLiK",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 18,
+      "n": 3,
+      "dur": 159
+     },
+     {
+      "d": "#2U9QLCYPQ",
+      "dn": "juan dela cruz",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 20,
+      "n": 3,
+      "dur": 104
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -197,7 +220,30 @@
     "name": "ebobo",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LC2PGGGRP",
+      "dn": "Vlain",
+      "dpos": 6,
+      "dth": 18,
+      "s": 2,
+      "p": 91,
+      "o": 14,
+      "n": 2,
+      "dur": 147
+     },
+     {
+      "d": "#G2U9VL29Q",
+      "dn": "kaito",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 15,
+      "n": 3,
+      "dur": 93
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -269,7 +315,30 @@
     "name": "о000оо00",
     "th": 16,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QYQC99Y0G",
+      "dn": "M I K E",
+      "dpos": 15,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 12,
+      "n": 3,
+      "dur": 72
+     },
+     {
+      "d": "#2Y9UP8L8U",
+      "dn": "GREG514",
+      "dpos": 16,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 13,
+      "n": 3,
+      "dur": 77
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -281,7 +350,30 @@
     "name": "SAMURAY",
     "th": 16,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QRQPJGCJV",
+      "dn": "Blaze",
+      "dpos": 18,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 16,
+      "n": 1,
+      "dur": 140
+     },
+     {
+      "d": "#GL8LULVYV",
+      "dn": "sam",
+      "dpos": 14,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 17,
+      "n": 3,
+      "dur": 149
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -293,7 +385,30 @@
     "name": "Фалирит",
     "th": 16,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QRQPJGCJV",
+      "dn": "Blaze",
+      "dpos": 18,
+      "dth": 17,
+      "s": 2,
+      "p": 95,
+      "o": 10,
+      "n": 2,
+      "dur": 119
+     },
+     {
+      "d": "#29YJ8GPJP",
+      "dn": "<<¤edward 27¤>>",
+      "dpos": 17,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 11,
+      "n": 3,
+      "dur": 134
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -305,7 +420,19 @@
     "name": "Legenda",
     "th": 15,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2UR982YC0",
+      "dn": "Roro.",
+      "dpos": 13,
+      "dth": 16,
+      "s": 2,
+      "p": 83,
+      "o": 19,
+      "n": 2,
+      "dur": 126
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -360,7 +487,7 @@
     }
    }
   ],
-  "snap": "2026-11-13T12:11:45Z"
+  "snap": "2026-11-13T15:20:44Z"
  },
  {
   "id": "war_20261110T052535Z_2LLRCRUY",

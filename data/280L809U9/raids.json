@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 145320,
+  "loot": 152175,
   "raids": 1,
-  "attacks": 32,
+  "attacks": 34,
   "districts": 12,
   "offReward": 0,
   "defReward": 0,
@@ -42,9 +42,9 @@
    {
     "tag": "#9LQ2YUVUY",
     "name": "рома",
-    "a": 3,
+    "a": 5,
     "lim": 6,
-    "loot": 15325
+    "loot": 22180
    },
    {
     "tag": "#PL2290CCY",
