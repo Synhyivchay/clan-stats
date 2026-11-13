@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 50,
-   "pct": 84.15,
-   "attacks": 20
+   "stars": 53,
+   "pct": 89.15,
+   "attacks": 21
   },
   "them": {
    "tag": "#90YCCCP2",
@@ -220,7 +220,19 @@
     "name": "Super Men",
     "th": 18,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#220PV2PQL",
+      "dn": "SupercutE_08",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 22,
+      "n": 3,
+      "dur": 95
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -499,7 +511,7 @@
     }
    }
   ],
-  "snap": "2026-11-13T17:30:44Z"
+  "snap": "2026-11-13T17:35:44Z"
  },
  {
   "id": "war_20261110T052535Z_2LLRCRUY",
