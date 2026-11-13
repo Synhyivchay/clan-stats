@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 32,
-   "pct": 36.5,
-   "attacks": 11
+   "stars": 34,
+   "pct": 39.73,
+   "attacks": 12
   },
   "them": {
    "tag": "#2YR0LL8P8",
@@ -126,6 +126,17 @@
       "o": 26,
       "n": 3,
       "dur": 136
+     },
+     {
+      "d": "#Y8CU8PJ8L",
+      "dn": "SoyNonoEscobar",
+      "dpos": 7,
+      "dth": 18,
+      "s": 2,
+      "p": 97,
+      "o": 27,
+      "n": 2,
+      "dur": 180
      }
     ],
     "def": {
@@ -516,7 +527,7 @@
     }
    }
   ],
-  "snap": "2026-11-13T04:15:29Z"
+  "snap": "2026-11-13T04:20:29Z"
  },
  {
   "id": "cwl_20261109T100436Z_282VPPRUJ",
