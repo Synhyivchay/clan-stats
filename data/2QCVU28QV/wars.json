@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 49,
-   "pct": 56.4,
-   "attacks": 17
+   "stars": 51,
+   "pct": 59.47,
+   "attacks": 18
   },
   "them": {
    "tag": "#2YR0LL8P8",
@@ -221,7 +221,19 @@
     "name": "ThomasCzika",
     "th": 18,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9JGCGGRL0",
+      "dn": "el diablo",
+      "dpos": 14,
+      "dth": 18,
+      "s": 2,
+      "p": 92,
+      "o": 42,
+      "n": 2,
+      "dur": 137
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -585,7 +597,7 @@
     }
    }
   ],
-  "snap": "2026-11-13T09:46:45Z"
+  "snap": "2026-11-13T09:51:45Z"
  },
  {
   "id": "cwl_20261109T100436Z_282VPPRUJ",
