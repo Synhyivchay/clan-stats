@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 31,
-   "pct": 56.4,
-   "attacks": 14
+   "stars": 32,
+   "pct": 56.95,
+   "attacks": 15
   },
   "them": {
    "tag": "#20CJ29U8J",
@@ -328,7 +328,19 @@
     "name": "Begbus",
     "th": 15,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QG08U8YPR",
+      "dn": "DiNa Park",
+      "dpos": 16,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 15,
+      "n": 1,
+      "dur": 168
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -430,7 +442,7 @@
     }
    }
   ],
-  "snap": "2026-11-13T20:55:44Z"
+  "snap": "2026-11-13T21:57:37Z"
  },
  {
   "id": "war_20261110T054320Z_2LYPY8J8P",
