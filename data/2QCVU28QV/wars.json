@@ -2,7 +2,7 @@
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",
   "type": "war",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-11T21:51:23Z",
   "start": "2026-11-12T20:51:23Z",
   "end": "2026-11-13T20:51:23Z",
@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 54
+   "attacks": 55
   },
   "them": {
    "tag": "#2YR0LL8P8",
@@ -406,7 +406,19 @@
     "name": "Rudi",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#URLYU8Q",
+      "dn": "IGOOR",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 47,
+      "o": 111,
+      "n": 0,
+      "dur": 72
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -1009,6 +1021,7 @@
     }
    }
   ],
+  "result": "tie",
   "snap": "2026-11-13T20:50:44Z"
  },
  {
