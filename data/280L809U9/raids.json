@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 118155,
+  "loot": 129995,
   "raids": 1,
-  "attacks": 26,
-  "districts": 10,
+  "attacks": 29,
+  "districts": 11,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -33,18 +33,18 @@
     "loot": 28937
    },
    {
+    "tag": "#GC0V2V2Y0",
+    "name": "sgrassi",
+    "a": 6,
+    "lim": 6,
+    "loot": 23971
+   },
+   {
     "tag": "#PL2290CCY",
     "name": "Danek",
     "a": 5,
     "lim": 6,
     "loot": 15216
-   },
-   {
-    "tag": "#GC0V2V2Y0",
-    "name": "sgrassi",
-    "a": 3,
-    "lim": 6,
-    "loot": 12131
    }
   ]
  },
