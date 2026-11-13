@@ -15,7 +15,7 @@
    "level": 34,
    "stars": 60,
    "pct": 100.0,
-   "attacks": 26
+   "attacks": 27
   },
   "them": {
    "tag": "#90YCCCP2",
@@ -349,7 +349,19 @@
     "name": "MR.KING",
     "th": 17,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#298U0UV2P",
+      "dn": "virgo_o8",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 29,
+      "n": 0,
+      "dur": 133
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -568,7 +580,7 @@
     }
    }
   ],
-  "snap": "2026-11-13T19:40:44Z"
+  "snap": "2026-11-13T19:45:44Z"
  },
  {
   "id": "war_20261110T052535Z_2LLRCRUY",
