@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 212168,
+  "loot": 236106,
   "raids": 2,
-  "attacks": 48,
-  "districts": 18,
+  "attacks": 54,
+  "districts": 20,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -47,6 +47,13 @@
     "loot": 23971
    },
    {
+    "tag": "#LCRPUCU2V",
+    "name": "Хранитель",
+    "a": 6,
+    "lim": 6,
+    "loot": 23938
+   },
+   {
     "tag": "#9LQ2YUVUY",
     "name": "рома",
     "a": 5,
@@ -73,13 +80,6 @@
     "a": 2,
     "lim": 5,
     "loot": 10620
-   },
-   {
-    "tag": "#LCRPUCU2V",
-    "name": "Хранитель",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
    }
   ]
  },
