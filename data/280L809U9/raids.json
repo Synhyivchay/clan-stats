@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 248016,
+  "loot": 253311,
   "raids": 3,
-  "attacks": 60,
+  "attacks": 61,
   "districts": 20,
   "offReward": 0,
   "defReward": 0,
@@ -75,18 +75,18 @@
     "loot": 15216
    },
    {
+    "tag": "#LUYRJU9RC",
+    "name": "ChuChuXXi",
+    "a": 2,
+    "lim": 5,
+    "loot": 12385
+   },
+   {
     "tag": "#GRGRRJLR9",
     "name": "prime",
     "a": 2,
     "lim": 5,
     "loot": 10620
-   },
-   {
-    "tag": "#LUYRJU9RC",
-    "name": "ChuChuXXi",
-    "a": 1,
-    "lim": 5,
-    "loot": 7090
    },
    {
     "tag": "#Y2PQ000UC",
