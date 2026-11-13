@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 14,
-   "pct": 24.5,
-   "attacks": 5
+   "stars": 17,
+   "pct": 29.5,
+   "attacks": 6
   },
   "them": {
    "tag": "#90YCCCP2",
    "name": "Bagong Barrio",
    "badge": "https://api-assets.clashofclans.com/badges/200/xpd8qjRJVHDJ7VD60V-CKknRRqT2k0rvyOyDSZPxhqI.png",
    "level": 24,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 2,
+   "pct": 3.8,
+   "attacks": 1
   },
   "members": [
    {
@@ -56,7 +56,19 @@
     "name": "малько",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2V89RCRLQ",
+      "dn": "King Leoric",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 7,
+      "n": 3,
+      "dur": 120
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -249,9 +261,9 @@
     "pos": 16,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 76
     }
    },
    {
@@ -326,7 +338,7 @@
     }
    }
   ],
-  "snap": "2026-11-13T10:51:45Z"
+  "snap": "2026-11-13T10:56:45Z"
  },
  {
   "id": "war_20261110T052535Z_2LLRCRUY",
