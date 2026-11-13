@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 62,
-   "pct": 72.5,
-   "attacks": 23
+   "stars": 63,
+   "pct": 72.67,
+   "attacks": 24
   },
   "them": {
    "tag": "#2YR0LL8P8",
    "name": "Le Bloc 2",
    "badge": "https://api-assets.clashofclans.com/badges/200/NzKUSYHAZ7S7CgHQUNJ7E3ZNAhnPk96_pouFeKdlnMk.png",
    "level": 21,
-   "stars": 57,
-   "pct": 69.6,
-   "attacks": 27
+   "stars": 60,
+   "pct": 72.93,
+   "attacks": 28
   },
   "members": [
    {
@@ -196,7 +196,19 @@
     "name": "Louis™️187",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9YR9CUVQU",
+      "dn": "phenix831",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 51,
+      "n": 1,
+      "dur": 148
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -412,9 +424,9 @@
     "pos": 20,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -653,7 +665,7 @@
     }
    }
   ],
-  "snap": "2026-11-13T10:46:45Z"
+  "snap": "2026-11-13T10:51:45Z"
  },
  {
   "id": "cwl_20261109T100436Z_282VPPRUJ",
