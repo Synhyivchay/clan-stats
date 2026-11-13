@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 37,
-   "pct": 43.07,
-   "attacks": 13
+   "stars": 40,
+   "pct": 46.4,
+   "attacks": 14
   },
   "them": {
    "tag": "#2YR0LL8P8",
@@ -365,7 +365,19 @@
     "name": "samu",
     "th": 18,
     "pos": 21,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PVGYGJ8C",
+      "dn": "loule159",
+      "dpos": 17,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 31,
+      "n": 3,
+      "dur": 167
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -539,7 +551,7 @@
     }
    }
   ],
-  "snap": "2026-11-13T08:06:45Z"
+  "snap": "2026-11-13T08:11:45Z"
  },
  {
   "id": "cwl_20261109T100436Z_282VPPRUJ",

@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 87711,
+  "loot": 92867,
   "raids": 0,
-  "attacks": 23,
-  "districts": 7,
+  "attacks": 24,
+  "districts": 8,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -28,9 +28,9 @@
    {
     "tag": "#YPR9QR0G8",
     "name": "hunter",
-    "a": 5,
+    "a": 6,
     "lim": 6,
-    "loot": 18246
+    "loot": 23402
    },
    {
     "tag": "#GJY0R0JCJ",
