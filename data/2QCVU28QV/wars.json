@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 29,
-   "pct": 33.17,
-   "attacks": 10
+   "stars": 32,
+   "pct": 36.5,
+   "attacks": 11
   },
   "them": {
    "tag": "#2YR0LL8P8",
@@ -115,7 +115,19 @@
     "name": "Marc",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P22YCVLGC",
+      "dn": "[VG] Aurelien",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 26,
+      "n": 3,
+      "dur": 136
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -504,7 +516,7 @@
     }
    }
   ],
-  "snap": "2026-11-13T04:10:29Z"
+  "snap": "2026-11-13T04:15:29Z"
  },
  {
   "id": "cwl_20261109T100436Z_282VPPRUJ",
