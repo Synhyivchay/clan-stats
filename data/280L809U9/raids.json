@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 240926,
+  "loot": 248016,
   "raids": 3,
-  "attacks": 59,
+  "attacks": 60,
   "districts": 20,
   "offReward": 0,
   "defReward": 0,
@@ -80,6 +80,13 @@
     "a": 2,
     "lim": 5,
     "loot": 10620
+   },
+   {
+    "tag": "#LUYRJU9RC",
+    "name": "ChuChuXXi",
+    "a": 1,
+    "lim": 5,
+    "loot": 7090
    },
    {
     "tag": "#Y2PQ000UC",
