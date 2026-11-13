@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 43,
-   "pct": 49.73,
-   "attacks": 15
+   "stars": 46,
+   "pct": 53.07,
+   "attacks": 16
   },
   "them": {
    "tag": "#2YR0LL8P8",
@@ -56,7 +56,19 @@
     "name": "Hattrickser",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L28J9QVQR",
+      "dn": "Whale",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 34,
+      "n": 3,
+      "dur": 91
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -562,7 +574,7 @@
     }
    }
   ],
-  "snap": "2026-11-13T08:16:45Z"
+  "snap": "2026-11-13T08:26:45Z"
  },
  {
   "id": "cwl_20261109T100436Z_282VPPRUJ",
