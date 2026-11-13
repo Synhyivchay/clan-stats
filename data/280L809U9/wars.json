@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 27,
-   "pct": 50.6,
-   "attacks": 12
+   "stars": 31,
+   "pct": 56.4,
+   "attacks": 14
   },
   "them": {
    "tag": "#20CJ29U8J",
@@ -221,7 +221,30 @@
     "name": "Қыран) •_•",
     "th": 17,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QG08U8YPR",
+      "dn": "DiNa Park",
+      "dpos": 16,
+      "dth": 16,
+      "s": 2,
+      "p": 89,
+      "o": 13,
+      "n": 2,
+      "dur": 87
+     },
+     {
+      "d": "#GU82VJR22",
+      "dn": "Zarkey",
+      "dpos": 19,
+      "dth": 12,
+      "s": 3,
+      "p": 100,
+      "o": 14,
+      "n": 2,
+      "dur": 65
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -407,7 +430,7 @@
     }
    }
   ],
-  "snap": "2026-11-13T16:25:44Z"
+  "snap": "2026-11-13T16:30:44Z"
  },
  {
   "id": "war_20261110T054320Z_2LYPY8J8P",
