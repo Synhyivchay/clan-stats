@@ -1,5 +1,18 @@
 [
  {
+  "id": "2026-11-13",
+  "state": "ongoing",
+  "start": "2026-11-13T07:00:00Z",
+  "end": "2026-11-16T07:00:00Z",
+  "loot": 0,
+  "raids": 0,
+  "attacks": 0,
+  "districts": 0,
+  "offReward": 0,
+  "defReward": 0,
+  "members": []
+ },
+ {
   "id": "2026-11-06",
   "state": "ended",
   "start": "2026-11-06T07:00:00Z",
