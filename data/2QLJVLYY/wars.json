@@ -22,9 +22,9 @@
    "name": "Bagong Barrio",
    "badge": "https://api-assets.clashofclans.com/badges/200/xpd8qjRJVHDJ7VD60V-CKknRRqT2k0rvyOyDSZPxhqI.png",
    "level": 24,
-   "stars": 2,
-   "pct": 3.8,
-   "attacks": 1
+   "stars": 3,
+   "pct": 6.95,
+   "attacks": 2
   },
   "members": [
    {
@@ -316,9 +316,9 @@
     "pos": 12,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 63
     }
    },
    {
@@ -522,7 +522,7 @@
     }
    }
   ],
-  "snap": "2026-11-13T17:40:44Z"
+  "snap": "2026-11-13T17:45:44Z"
  },
  {
   "id": "war_20261110T052535Z_2LLRCRUY",
