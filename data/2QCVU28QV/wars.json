@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 67,
-   "pct": 76.27,
-   "attacks": 27
+   "stars": 70,
+   "pct": 79.6,
+   "attacks": 28
   },
   "them": {
    "tag": "#2YR0LL8P8",
@@ -313,7 +313,19 @@
     "name": "Flashbang",
     "th": 18,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PJ2QP8JJ2",
+      "dn": "Stann",
+      "dpos": 19,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 58,
+      "n": 3,
+      "dur": 164
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -699,7 +711,7 @@
     }
    }
   ],
-  "snap": "2026-11-13T11:31:45Z"
+  "snap": "2026-11-13T11:36:45Z"
  },
  {
   "id": "cwl_20261109T100436Z_282VPPRUJ",
