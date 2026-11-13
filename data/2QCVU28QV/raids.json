@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 212136,
+  "loot": 217408,
   "raids": 2,
-  "attacks": 51,
-  "districts": 18,
+  "attacks": 52,
+  "districts": 19,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -61,6 +61,13 @@
     "loot": 19601
    },
    {
+    "tag": "#9G0GVR8GQ",
+    "name": "アイドル",
+    "a": 2,
+    "lim": 6,
+    "loot": 11937
+   },
+   {
     "tag": "#GLPYJCYCY",
     "name": "RyanGosling",
     "a": 3,
@@ -73,13 +80,6 @@
     "a": 3,
     "lim": 6,
     "loot": 8875
-   },
-   {
-    "tag": "#9G0GVR8GQ",
-    "name": "アイドル",
-    "a": 1,
-    "lim": 5,
-    "loot": 6665
    },
    {
     "tag": "#2JCQPL89R",
