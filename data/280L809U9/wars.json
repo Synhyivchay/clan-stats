@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 6,
-   "pct": 10.0,
-   "attacks": 2
+   "stars": 13,
+   "pct": 22.4,
+   "attacks": 5
   },
   "them": {
    "tag": "#20CJ29U8J",
@@ -127,7 +127,19 @@
     "name": "DimagFM",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2C8RVGCPL",
+      "dn": "sily Dr",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 3,
+      "dur": 102
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -151,7 +163,19 @@
     "name": "ed_sans_123",
     "th": 17,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#89J8CULU8",
+      "dn": "49%",
+      "dpos": 9,
+      "dth": 17,
+      "s": 2,
+      "p": 73,
+      "o": 5,
+      "n": 2,
+      "dur": 131
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -187,7 +211,19 @@
     "name": "чёрт",
     "th": 17,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LQG0L0U0Q",
+      "dn": "silly man",
+      "dpos": 12,
+      "dth": 18,
+      "s": 2,
+      "p": 75,
+      "o": 3,
+      "n": 2,
+      "dur": 163
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -291,7 +327,7 @@
     }
    }
   ],
-  "snap": "2026-11-13T10:26:45Z"
+  "snap": "2026-11-13T10:31:45Z"
  },
  {
   "id": "war_20261110T054320Z_2LYPY8J8P",
