@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 96467,
-  "raids": 0,
-  "attacks": 20,
-  "districts": 8,
+  "loot": 106024,
+  "raids": 1,
+  "attacks": 23,
+  "districts": 9,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -35,9 +35,9 @@
    {
     "tag": "#PL2290CCY",
     "name": "Danek",
-    "a": 2,
+    "a": 5,
     "lim": 6,
-    "loot": 5659
+    "loot": 15216
    }
   ]
  },
