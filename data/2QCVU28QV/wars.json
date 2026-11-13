@@ -22,9 +22,9 @@
    "name": "Le Bloc 2",
    "badge": "https://api-assets.clashofclans.com/badges/200/NzKUSYHAZ7S7CgHQUNJ7E3ZNAhnPk96_pouFeKdlnMk.png",
    "level": 21,
-   "stars": 27,
-   "pct": 35.77,
-   "attacks": 13
+   "stars": 30,
+   "pct": 39.1,
+   "attacks": 14
   },
   "members": [
    {
@@ -105,9 +105,9 @@
     "pos": 5,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -504,7 +504,7 @@
     }
    }
   ],
-  "snap": "2026-11-12T23:50:17Z"
+  "snap": "2026-11-13T00:00:29Z"
  },
  {
   "id": "cwl_20261109T100436Z_282VPPRUJ",
