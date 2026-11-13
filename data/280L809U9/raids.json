@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 0,
+  "loot": 13645,
   "raids": 0,
-  "attacks": 0,
+  "attacks": 3,
   "districts": 0,
   "offReward": 0,
   "defReward": 0,
@@ -14,9 +14,9 @@
    {
     "tag": "#G298UUQQL",
     "name": "Қыран) •_•",
-    "a": 0,
+    "a": 3,
     "lim": 5,
-    "loot": 0
+    "loot": 13645
    }
   ]
  },
