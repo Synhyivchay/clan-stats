@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 109544,
+  "loot": 118155,
   "raids": 1,
-  "attacks": 24,
-  "districts": 9,
+  "attacks": 26,
+  "districts": 10,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -42,9 +42,9 @@
    {
     "tag": "#GC0V2V2Y0",
     "name": "sgrassi",
-    "a": 1,
-    "lim": 5,
-    "loot": 3520
+    "a": 3,
+    "lim": 6,
+    "loot": 12131
    }
   ]
  },
