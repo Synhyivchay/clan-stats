@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 297054,
+  "loot": 302994,
   "raids": 3,
-  "attacks": 74,
+  "attacks": 77,
   "districts": 26,
   "offReward": 0,
   "defReward": 0,
@@ -96,18 +96,18 @@
     "loot": 10620
    },
    {
+    "tag": "#GQPYJ9GLQ",
+    "name": "Mayla",
+    "a": 5,
+    "lim": 6,
+    "loot": 8799
+   },
+   {
     "tag": "#Y2PQ000UC",
     "name": "kartik",
     "a": 5,
     "lim": 5,
     "loot": 4820
-   },
-   {
-    "tag": "#GQPYJ9GLQ",
-    "name": "Mayla",
-    "a": 2,
-    "lim": 6,
-    "loot": 2859
    }
   ]
  },
