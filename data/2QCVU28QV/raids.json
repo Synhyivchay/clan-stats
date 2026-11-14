@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 407449,
+  "loot": 425727,
   "raids": 4,
-  "attacks": 93,
-  "districts": 36,
+  "attacks": 97,
+  "districts": 37,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -89,6 +89,13 @@
     "loot": 22476
    },
    {
+    "tag": "#RUPJQ800",
+    "name": "MIDNIGHT",
+    "a": 5,
+    "lim": 6,
+    "loot": 21462
+   },
+   {
     "tag": "#GLPYJCYCY",
     "name": "RyanGosling",
     "a": 6,
@@ -136,13 +143,6 @@
     "a": 2,
     "lim": 6,
     "loot": 3916
-   },
-   {
-    "tag": "#RUPJQ800",
-    "name": "MIDNIGHT",
-    "a": 1,
-    "lim": 6,
-    "loot": 3184
    }
   ]
  },
