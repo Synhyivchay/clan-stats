@@ -22,9 +22,9 @@
    "name": "Game for Fun",
    "badge": "https://api-assets.clashofclans.com/badges/200/gZeBWnniafrcPl7iIkmFkBdt-bTIns5nojmY_8TVgw4.png",
    "level": 23,
-   "stars": 34,
-   "pct": 59.75,
-   "attacks": 14
+   "stars": 37,
+   "pct": 64.75,
+   "attacks": 15
   },
   "members": [
    {
@@ -282,9 +282,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -465,7 +465,7 @@
     }
    }
   ],
-  "snap": "2026-11-14T05:47:49Z"
+  "snap": "2026-11-14T05:52:49Z"
  },
  {
   "id": "war_20261110T054320Z_2LYPY8J8P",
