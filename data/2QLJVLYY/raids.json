@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 562073,
+  "loot": 570163,
   "raids": 6,
-  "attacks": 136,
+  "attacks": 138,
   "districts": 49,
   "offReward": 0,
   "defReward": 0,
@@ -171,6 +171,13 @@
     "a": 5,
     "lim": 5,
     "loot": 12820
+   },
+   {
+    "tag": "#LVCQPQ822",
+    "name": "Legenda",
+    "a": 2,
+    "lim": 5,
+    "loot": 8090
    },
    {
     "tag": "#GRLLYQQLV",
