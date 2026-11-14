@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 364420,
+  "loot": 368480,
   "raids": 4,
-  "attacks": 90,
+  "attacks": 91,
   "districts": 32,
   "offReward": 0,
   "defReward": 0,
@@ -47,18 +47,18 @@
     "loot": 29801
    },
    {
+    "tag": "#QUULVGRYQ",
+    "name": "MR.KING",
+    "a": 6,
+    "lim": 6,
+    "loot": 29345
+   },
+   {
     "tag": "#Q9UY09U2G",
     "name": "blaze",
     "a": 6,
     "lim": 6,
     "loot": 28173
-   },
-   {
-    "tag": "#QUULVGRYQ",
-    "name": "MR.KING",
-    "a": 5,
-    "lim": 6,
-    "loot": 25285
    },
    {
     "tag": "#LV9VQJ8GP",
