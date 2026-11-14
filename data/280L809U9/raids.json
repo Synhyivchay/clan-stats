@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 294195,
+  "loot": 297054,
   "raids": 3,
-  "attacks": 72,
-  "districts": 25,
+  "attacks": 74,
+  "districts": 26,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -101,6 +101,13 @@
     "a": 5,
     "lim": 5,
     "loot": 4820
+   },
+   {
+    "tag": "#GQPYJ9GLQ",
+    "name": "Mayla",
+    "a": 2,
+    "lim": 6,
+    "loot": 2859
    }
   ]
  },
