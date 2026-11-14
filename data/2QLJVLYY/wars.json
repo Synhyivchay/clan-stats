@@ -15,7 +15,7 @@
    "level": 34,
    "stars": 60,
    "pct": 100.0,
-   "attacks": 28
+   "attacks": 33
   },
   "them": {
    "tag": "#90YCCCP2",
@@ -172,7 +172,30 @@
     "name": "000Roma000",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LC2PGGGRP",
+      "dn": "Vlain",
+      "dpos": 6,
+      "dth": 18,
+      "s": 1,
+      "p": 31,
+      "o": 36,
+      "n": 0,
+      "dur": 38
+     },
+     {
+      "d": "#LG2QPCC22",
+      "dn": "Shamik",
+      "dpos": 10,
+      "dth": 18,
+      "s": 1,
+      "p": 18,
+      "o": 37,
+      "n": 0,
+      "dur": 17
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -184,7 +207,30 @@
     "name": "000Sergey000",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LC2PGGGRP",
+      "dn": "Vlain",
+      "dpos": 6,
+      "dth": 18,
+      "s": 1,
+      "p": 29,
+      "o": 38,
+      "n": 0,
+      "dur": 29
+     },
+     {
+      "d": "#LG2QPCC22",
+      "dn": "Shamik",
+      "dpos": 10,
+      "dth": 18,
+      "s": 1,
+      "p": 19,
+      "o": 39,
+      "n": 0,
+      "dur": 15
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -301,7 +347,19 @@
     "name": "Relax",
     "th": 18,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LC2PGGGRP",
+      "dn": "Vlain",
+      "dpos": 6,
+      "dth": 18,
+      "s": 1,
+      "p": 38,
+      "o": 40,
+      "n": 0,
+      "dur": 38
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -591,7 +649,7 @@
     }
    }
   ],
-  "snap": "2026-11-14T06:07:49Z"
+  "snap": "2026-11-14T06:17:49Z"
  },
  {
   "id": "war_20261110T052535Z_2LLRCRUY",

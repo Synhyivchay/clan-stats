@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 38,
-   "pct": 66.95,
-   "attacks": 17
+   "stars": 40,
+   "pct": 71.2,
+   "attacks": 18
   },
   "them": {
    "tag": "#20CJ29U8J",
@@ -304,7 +304,19 @@
     "name": "салфетка",
     "th": 16,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2CLG8008Y",
+      "dn": "Vannak",
+      "dpos": 13,
+      "dth": 16,
+      "s": 2,
+      "p": 85,
+      "o": 37,
+      "n": 2,
+      "dur": 177
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -465,7 +477,7 @@
     }
    }
   ],
-  "snap": "2026-11-14T06:07:49Z"
+  "snap": "2026-11-14T06:17:49Z"
  },
  {
   "id": "war_20261110T054320Z_2LYPY8J8P",
