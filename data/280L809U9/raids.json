@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 306374,
-  "raids": 3,
-  "attacks": 78,
-  "districts": 26,
+  "loot": 314350,
+  "raids": 4,
+  "attacks": 80,
+  "districts": 27,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -101,6 +101,13 @@
     "a": 2,
     "lim": 5,
     "loot": 10620
+   },
+   {
+    "tag": "#YGJQUPCUG",
+    "name": "Shal",
+    "a": 2,
+    "lim": 6,
+    "loot": 7976
    },
    {
     "tag": "#Y2PQ000UC",
