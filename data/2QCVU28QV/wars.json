@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 16,
-   "pct": 23.36,
-   "attacks": 7
+   "stars": 19,
+   "pct": 27.36,
+   "attacks": 8
   },
   "them": {
    "tag": "#JRJC9JUY",
@@ -102,6 +102,17 @@
       "o": 18,
       "n": 3,
       "dur": 127
+     },
+     {
+      "d": "#LCC88VJ82",
+      "dn": "ayman hawat",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 20,
+      "n": 3,
+      "dur": 135
      }
     ],
     "def": {
@@ -409,7 +420,7 @@
     }
    }
   ],
-  "snap": "2026-11-14T23:42:11Z"
+  "snap": "2026-11-14T23:47:11Z"
  },
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",
