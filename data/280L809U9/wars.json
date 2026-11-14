@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 48,
-   "pct": 85.3,
-   "attacks": 21
+   "stars": 53,
+   "pct": 93.0,
+   "attacks": 23
   },
   "them": {
    "tag": "#20CJ29U8J",
@@ -150,7 +150,19 @@
     "name": "Boston",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RGQJPQUY",
+      "dn": "S.Phanaboth",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 41,
+      "n": 3,
+      "dur": 145
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -363,7 +375,19 @@
     "name": "grootich",
     "th": 16,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YRCCU9UP0",
+      "dn": "kitya",
+      "dpos": 11,
+      "dth": 17,
+      "s": 2,
+      "p": 54,
+      "o": 42,
+      "n": 2,
+      "dur": 88
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -512,7 +536,7 @@
     }
    }
   ],
-  "snap": "2026-11-14T07:02:49Z"
+  "snap": "2026-11-14T07:07:49Z"
  },
  {
   "id": "war_20261110T054320Z_2LYPY8J8P",
