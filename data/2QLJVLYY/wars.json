@@ -2,7 +2,7 @@
  {
   "id": "war_20261112T105547Z_90YCCCP2",
   "type": "war",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-12T10:55:47Z",
   "start": "2026-11-13T09:55:47Z",
   "end": "2026-11-14T09:55:47Z",
@@ -15,16 +15,16 @@
    "level": 34,
    "stars": 60,
    "pct": 100.0,
-   "attacks": 35
+   "attacks": 37
   },
   "them": {
    "tag": "#90YCCCP2",
    "name": "Bagong Barrio",
    "badge": "https://api-assets.clashofclans.com/badges/200/xpd8qjRJVHDJ7VD60V-CKknRRqT2k0rvyOyDSZPxhqI.png",
    "level": 24,
-   "stars": 12,
-   "pct": 30.0,
-   "attacks": 8
+   "stars": 15,
+   "pct": 35.0,
+   "attacks": 9
   },
   "members": [
    {
@@ -382,7 +382,30 @@
     "name": "Azek",
     "th": 18,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LG2QPCC22",
+      "dn": "Shamik",
+      "dpos": 10,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 45,
+      "n": 0,
+      "dur": 130
+     },
+     {
+      "d": "#2U9QLCYPQ",
+      "dn": "juan dela cruz",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 46,
+      "n": 0,
+      "dur": 150
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -653,9 +676,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -671,6 +694,7 @@
     }
    }
   ],
+  "result": "win",
   "snap": "2026-11-14T09:07:49Z"
  },
  {
