@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 406697,
+  "loot": 411482,
   "raids": 5,
-  "attacks": 99,
+  "attacks": 100,
   "districts": 36,
   "offReward": 0,
   "defReward": 0,
@@ -129,6 +129,13 @@
     "a": 5,
     "lim": 5,
     "loot": 4820
+   },
+   {
+    "tag": "#LQUJ90PRU",
+    "name": "Champ",
+    "a": 1,
+    "lim": 5,
+    "loot": 4785
    }
   ]
  },
