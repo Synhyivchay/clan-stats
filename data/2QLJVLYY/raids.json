@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 585315,
+  "loot": 604942,
   "raids": 6,
-  "attacks": 142,
-  "districts": 51,
+  "attacks": 147,
+  "districts": 53,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -136,6 +136,13 @@
     "a": 6,
     "lim": 6,
     "loot": 20015
+   },
+   {
+    "tag": "#GRRCCRPRQ",
+    "name": "Regvoles",
+    "a": 5,
+    "lim": 6,
+    "loot": 19627
    },
    {
     "tag": "#QG0URUJ0Y",
