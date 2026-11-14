@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 414486,
+  "loot": 435876,
   "raids": 5,
-  "attacks": 102,
-  "districts": 36,
+  "attacks": 107,
+  "districts": 37,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -75,6 +75,13 @@
     "loot": 23402
    },
    {
+    "tag": "#LYQL2PCL0",
+    "name": "Родион",
+    "a": 5,
+    "lim": 6,
+    "loot": 23153
+   },
+   {
     "tag": "#9P28CV0L0",
     "name": "0777",
     "a": 4,
@@ -131,11 +138,11 @@
     "loot": 12820
    },
    {
-    "tag": "#LYQL2PCL0",
-    "name": "Родион",
+    "tag": "#LQGGPPC92",
+    "name": "~LuciFer~",
     "a": 2,
-    "lim": 6,
-    "loot": 9208
+    "lim": 5,
+    "loot": 7445
    },
    {
     "tag": "#GRLLYQQLV",
