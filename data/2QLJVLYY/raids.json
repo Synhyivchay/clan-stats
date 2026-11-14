@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 409151,
+  "loot": 414486,
   "raids": 5,
-  "attacks": 101,
+  "attacks": 102,
   "districts": 36,
   "offReward": 0,
   "defReward": 0,
@@ -133,9 +133,9 @@
    {
     "tag": "#LYQL2PCL0",
     "name": "Родион",
-    "a": 1,
+    "a": 2,
     "lim": 6,
-    "loot": 3873
+    "loot": 9208
    },
    {
     "tag": "#GRLLYQQLV",
