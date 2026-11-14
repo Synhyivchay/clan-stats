@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 13,
-   "pct": 19.36,
-   "attacks": 6
+   "stars": 16,
+   "pct": 23.36,
+   "attacks": 7
   },
   "them": {
    "tag": "#JRJC9JUY",
    "name": "lebanon",
    "badge": "https://api-assets.clashofclans.com/badges/200/24KBeg0OzQyQeYiq5oVi8gaYVgF8ZYho5Go5YMFDbyU.png",
    "level": 26,
-   "stars": 30,
-   "pct": 40.0,
-   "attacks": 10
+   "stars": 35,
+   "pct": 47.64,
+   "attacks": 12
   },
   "members": [
    {
@@ -91,7 +91,19 @@
     "name": "Marc",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LG8CR09P",
+      "dn": "bob",
+      "dpos": 6,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 18,
+      "n": 3,
+      "dur": 127
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -176,9 +188,9 @@
     "pos": 9,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -188,9 +200,9 @@
     "pos": 10,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 91
     }
    },
    {
@@ -397,7 +409,7 @@
     }
    }
   ],
-  "snap": "2026-11-14T23:37:11Z"
+  "snap": "2026-11-14T23:42:11Z"
  },
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",
