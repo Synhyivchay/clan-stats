@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 363487,
+  "loot": 374177,
   "raids": 4,
-  "attacks": 90,
+  "attacks": 92,
   "districts": 32,
   "offReward": 0,
   "defReward": 0,
@@ -89,6 +89,13 @@
     "loot": 23938
    },
    {
+    "tag": "#GRGRRJLR9",
+    "name": "prime",
+    "a": 4,
+    "lim": 5,
+    "loot": 21310
+   },
+   {
     "tag": "#YUUQCGL2J",
     "name": "SanixX",
     "a": 6,
@@ -108,13 +115,6 @@
     "a": 6,
     "lim": 6,
     "loot": 12179
-   },
-   {
-    "tag": "#GRGRRJLR9",
-    "name": "prime",
-    "a": 2,
-    "lim": 5,
-    "loot": 10620
    },
    {
     "tag": "#Y2PQ000UC",
