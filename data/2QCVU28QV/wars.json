@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 9,
-   "pct": 12.0,
-   "attacks": 3
+   "stars": 11,
+   "pct": 15.92,
+   "attacks": 4
   },
   "them": {
    "tag": "#JRJC9JUY",
@@ -114,6 +114,17 @@
       "o": 6,
       "n": 3,
       "dur": 148
+     },
+     {
+      "d": "#CUQJ0JY9",
+      "dn": "VooDoo",
+      "dpos": 5,
+      "dth": 18,
+      "s": 2,
+      "p": 98,
+      "o": 7,
+      "n": 2,
+      "dur": 180
      }
     ],
     "def": {
@@ -363,7 +374,7 @@
     }
    }
   ],
-  "snap": "2026-11-14T21:21:58Z"
+  "snap": "2026-11-14T21:26:58Z"
  },
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",
