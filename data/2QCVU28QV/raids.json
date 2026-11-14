@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 397845,
+  "loot": 400845,
   "raids": 3,
-  "attacks": 90,
+  "attacks": 91,
   "districts": 35,
   "offReward": 0,
   "defReward": 0,
@@ -103,18 +103,18 @@
     "loot": 19601
    },
    {
+    "tag": "#GLPYJCYCY",
+    "name": "RyanGosling",
+    "a": 5,
+    "lim": 6,
+    "loot": 17814
+   },
+   {
     "tag": "#Y82GLVV9U",
     "name": "kevin",
     "a": 3,
     "lim": 5,
     "loot": 16935
-   },
-   {
-    "tag": "#GLPYJCYCY",
-    "name": "RyanGosling",
-    "a": 4,
-    "lim": 6,
-    "loot": 14814
    },
    {
     "tag": "#J8PVCRGQ",
