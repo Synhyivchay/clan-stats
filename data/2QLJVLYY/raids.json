@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 477117,
+  "loot": 480437,
   "raids": 5,
-  "attacks": 116,
+  "attacks": 117,
   "districts": 42,
   "offReward": 0,
   "defReward": 0,
@@ -68,6 +68,13 @@
     "loot": 27368
    },
    {
+    "tag": "#LPQJQ2RJP",
+    "name": "Denton",
+    "a": 5,
+    "lim": 6,
+    "loot": 24766
+   },
+   {
     "tag": "#LV9VQJ8GP",
     "name": "Фалирит",
     "a": 6,
@@ -87,13 +94,6 @@
     "a": 6,
     "lim": 6,
     "loot": 23025
-   },
-   {
-    "tag": "#LPQJQ2RJP",
-    "name": "Denton",
-    "a": 4,
-    "lim": 6,
-    "loot": 21446
    },
    {
     "tag": "#9P28CV0L0",
