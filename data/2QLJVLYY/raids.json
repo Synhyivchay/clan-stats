@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 582385,
+  "loot": 585315,
   "raids": 6,
-  "attacks": 141,
+  "attacks": 142,
   "districts": 51,
   "offReward": 0,
   "defReward": 0,
@@ -103,6 +103,13 @@
     "loot": 23402
    },
    {
+    "tag": "#LVCQPQ822",
+    "name": "Legenda",
+    "a": 6,
+    "lim": 6,
+    "loot": 23242
+   },
+   {
     "tag": "#YRYYYGY90",
     "name": "naik",
     "a": 4,
@@ -122,13 +129,6 @@
     "a": 6,
     "lim": 6,
     "loot": 21426
-   },
-   {
-    "tag": "#LVCQPQ822",
-    "name": "Legenda",
-    "a": 5,
-    "lim": 6,
-    "loot": 20312
    },
    {
     "tag": "#LG2JCP99G",
