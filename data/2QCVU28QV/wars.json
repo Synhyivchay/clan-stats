@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 3,
-   "pct": 4.0,
-   "attacks": 1
+   "stars": 9,
+   "pct": 12.0,
+   "attacks": 3
   },
   "them": {
    "tag": "#JRJC9JUY",
@@ -55,6 +55,17 @@
       "o": 4,
       "n": 3,
       "dur": 126
+     },
+     {
+      "d": "#9V0QYUGQC",
+      "dn": "♡lNUYASHA♡",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 117
      }
     ],
     "def": {
@@ -92,7 +103,19 @@
     "name": "Louis™️187",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LQ2YPYYY8",
+      "dn": "السوري ضاغطهم",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 6,
+      "n": 3,
+      "dur": 148
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -340,7 +363,7 @@
     }
    }
   ],
-  "snap": "2026-11-14T21:16:58Z"
+  "snap": "2026-11-14T21:21:58Z"
  },
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",
