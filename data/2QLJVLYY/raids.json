@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 385263,
+  "loot": 395418,
   "raids": 4,
-  "attacks": 94,
-  "districts": 34,
+  "attacks": 97,
+  "districts": 35,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -122,6 +122,13 @@
     "a": 5,
     "lim": 5,
     "loot": 12820
+   },
+   {
+    "tag": "#LG2JCP99G",
+    "name": "Потик_YT",
+    "a": 3,
+    "lim": 6,
+    "loot": 10155
    },
    {
     "tag": "#GRLLYQQLV",
