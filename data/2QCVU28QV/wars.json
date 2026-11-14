@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 4.0,
+   "attacks": 1
   },
   "them": {
    "tag": "#JRJC9JUY",
@@ -44,7 +44,19 @@
     "name": "Hattrickser",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JVC8U2UL",
+      "dn": "LB〤MILZ",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 3,
+      "dur": 126
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -328,7 +340,7 @@
     }
    }
   ],
-  "snap": "2026-11-14T21:11:58Z"
+  "snap": "2026-11-14T21:16:58Z"
  },
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",
