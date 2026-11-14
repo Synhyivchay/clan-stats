@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 302994,
+  "loot": 306374,
   "raids": 3,
-  "attacks": 77,
+  "attacks": 78,
   "districts": 26,
   "offReward": 0,
   "defReward": 0,
@@ -89,18 +89,18 @@
     "loot": 15216
    },
    {
+    "tag": "#GQPYJ9GLQ",
+    "name": "Mayla",
+    "a": 6,
+    "lim": 6,
+    "loot": 12179
+   },
+   {
     "tag": "#GRGRRJLR9",
     "name": "prime",
     "a": 2,
     "lim": 5,
     "loot": 10620
-   },
-   {
-    "tag": "#GQPYJ9GLQ",
-    "name": "Mayla",
-    "a": 5,
-    "lim": 6,
-    "loot": 8799
    },
    {
     "tag": "#Y2PQ000UC",
