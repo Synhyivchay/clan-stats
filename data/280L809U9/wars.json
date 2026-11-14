@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 32,
-   "pct": 56.95,
-   "attacks": 15
+   "stars": 38,
+   "pct": 66.95,
+   "attacks": 17
   },
   "them": {
    "tag": "#20CJ29U8J",
@@ -387,7 +387,30 @@
     "name": "RECORD",
     "th": 17,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QPGY9PP8",
+      "dn": "TownHallHunter",
+      "dpos": 14,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 22,
+      "n": 3,
+      "dur": 118
+     },
+     {
+      "d": "#28UR8VJ89",
+      "dn": "Kreng",
+      "dpos": 15,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 23,
+      "n": 3,
+      "dur": 134
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -442,7 +465,7 @@
     }
    }
   ],
-  "snap": "2026-11-14T03:17:37Z"
+  "snap": "2026-11-14T03:22:37Z"
  },
  {
   "id": "war_20261110T054320Z_2LYPY8J8P",
