@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 404265,
-  "raids": 3,
-  "attacks": 92,
-  "districts": 35,
+  "loot": 407449,
+  "raids": 4,
+  "attacks": 93,
+  "districts": 36,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -136,6 +136,13 @@
     "a": 2,
     "lim": 6,
     "loot": 3916
+   },
+   {
+    "tag": "#RUPJQ800",
+    "name": "MIDNIGHT",
+    "a": 1,
+    "lim": 6,
+    "loot": 3184
    }
   ]
  },
