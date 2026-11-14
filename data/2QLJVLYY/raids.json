@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 489547,
+  "loot": 501053,
   "raids": 5,
-  "attacks": 119,
-  "districts": 42,
+  "attacks": 122,
+  "districts": 44,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -138,6 +138,13 @@
     "loot": 16440
    },
    {
+    "tag": "#YRVR292UG",
+    "name": "Адик",
+    "a": 4,
+    "lim": 6,
+    "loot": 14416
+   },
+   {
     "tag": "#GJY0R0JCJ",
     "name": "denchik",
     "a": 6,
@@ -150,13 +157,6 @@
     "a": 5,
     "lim": 5,
     "loot": 12820
-   },
-   {
-    "tag": "#YRVR292UG",
-    "name": "Адик",
-    "a": 1,
-    "lim": 5,
-    "loot": 2910
    },
    {
     "tag": "#GRLLYQQLV",

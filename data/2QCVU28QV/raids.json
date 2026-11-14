@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 300444,
+  "loot": 306574,
   "raids": 2,
-  "attacks": 70,
+  "attacks": 71,
   "districts": 26,
   "offReward": 0,
   "defReward": 0,
@@ -68,6 +68,13 @@
     "loot": 20505
    },
    {
+    "tag": "#YU99PU9GQ",
+    "name": "Luka Tate",
+    "a": 5,
+    "lim": 6,
+    "loot": 20439
+   },
+   {
     "tag": "#LRV88C0RQ",
     "name": "Bigmac's sohn",
     "a": 6,
@@ -87,13 +94,6 @@
     "a": 4,
     "lim": 6,
     "loot": 14814
-   },
-   {
-    "tag": "#YU99PU9GQ",
-    "name": "Luka Tate",
-    "a": 4,
-    "lim": 6,
-    "loot": 14309
    },
    {
     "tag": "#J8PVCRGQ",
