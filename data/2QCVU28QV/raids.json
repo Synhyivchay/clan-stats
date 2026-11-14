@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 425727,
+  "loot": 428898,
   "raids": 4,
-  "attacks": 97,
-  "districts": 37,
+  "attacks": 98,
+  "districts": 38,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -82,18 +82,18 @@
     "loot": 24719
    },
    {
+    "tag": "#RUPJQ800",
+    "name": "MIDNIGHT",
+    "a": 6,
+    "lim": 6,
+    "loot": 24633
+   },
+   {
     "tag": "#L9P0UP28",
     "name": "Killer 2000",
     "a": 4,
     "lim": 6,
     "loot": 22476
-   },
-   {
-    "tag": "#RUPJQ800",
-    "name": "MIDNIGHT",
-    "a": 5,
-    "lim": 6,
-    "loot": 21462
    },
    {
     "tag": "#GLPYJCYCY",
