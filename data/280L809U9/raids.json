@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 418087,
+  "loot": 428967,
   "raids": 5,
-  "attacks": 101,
+  "attacks": 103,
   "districts": 36,
   "offReward": 0,
   "defReward": 0,
@@ -110,6 +110,13 @@
     "loot": 19503
    },
    {
+    "tag": "#VV02PYVV",
+    "name": "Patrik",
+    "a": 3,
+    "lim": 5,
+    "loot": 17485
+   },
+   {
     "tag": "#PL2290CCY",
     "name": "Danek",
     "a": 5,
@@ -122,13 +129,6 @@
     "a": 6,
     "lim": 6,
     "loot": 12179
-   },
-   {
-    "tag": "#VV02PYVV",
-    "name": "Patrik",
-    "a": 1,
-    "lim": 5,
-    "loot": 6605
    },
    {
     "tag": "#Y2PQ000UC",
