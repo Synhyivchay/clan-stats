@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 35,
-   "pct": 51.4,
-   "attacks": 14
+   "stars": 38,
+   "pct": 55.4,
+   "attacks": 15
   },
   "them": {
    "tag": "#2GQLQUU0R",
@@ -447,7 +447,19 @@
     "name": "Денис",
     "th": 14,
     "pos": 24,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q02Q8Y89",
+      "dn": "Llama Keeper",
+      "dpos": 22,
+      "dth": 14,
+      "s": 3,
+      "p": 100,
+      "o": 19,
+      "n": 3,
+      "dur": 150
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -490,7 +502,7 @@
     }
    }
   ],
-  "snap": "2026-11-15T22:39:41Z"
+  "snap": "2026-11-15T22:44:53Z"
  },
  {
   "id": "war_20261112T105547Z_90YCCCP2",
