@@ -22,9 +22,9 @@
    "name": "AVANGER",
    "badge": "https://api-assets.clashofclans.com/badges/200/k7fPg1R0gWjYi4yg9G5TuQomNV5AC4pmVQcLvRLFuTw.png",
    "level": 27,
-   "stars": 12,
-   "pct": 20.0,
-   "attacks": 4
+   "stars": 15,
+   "pct": 25.0,
+   "attacks": 5
   },
   "members": [
    {
@@ -212,9 +212,9 @@
     "pos": 12,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -360,7 +360,7 @@
     }
    }
   ],
-  "snap": "2026-11-15T19:29:41Z"
+  "snap": "2026-11-15T19:39:41Z"
  },
  {
   "id": "war_20261112T110827Z_20CJ29U8J",
