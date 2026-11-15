@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 33,
-   "pct": 47.24,
-   "attacks": 13
+   "stars": 36,
+   "pct": 51.24,
+   "attacks": 14
   },
   "them": {
    "tag": "#JRJC9JUY",
@@ -469,6 +469,17 @@
       "o": 36,
       "n": 3,
       "dur": 154
+     },
+     {
+      "d": "#29YQURUVU",
+      "dn": "Kevin",
+      "dpos": 24,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 37,
+      "n": 3,
+      "dur": 153
      }
     ],
     "def": {
@@ -478,7 +489,7 @@
     }
    }
   ],
-  "snap": "2026-11-15T08:37:19Z"
+  "snap": "2026-11-15T08:42:19Z"
  },
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",
