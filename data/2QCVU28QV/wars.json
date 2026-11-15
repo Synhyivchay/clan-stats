@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 22,
-   "pct": 31.36,
-   "attacks": 9
+   "stars": 25,
+   "pct": 35.36,
+   "attacks": 10
   },
   "them": {
    "tag": "#JRJC9JUY",
@@ -257,7 +257,19 @@
     "name": "Bassko",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PC0LU02",
+      "dn": "COBRA 2",
+      "dpos": 11,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 33,
+      "n": 3,
+      "dur": 136
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -432,7 +444,7 @@
     }
    }
   ],
-  "snap": "2026-11-15T07:22:19Z"
+  "snap": "2026-11-15T07:27:19Z"
  },
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",
