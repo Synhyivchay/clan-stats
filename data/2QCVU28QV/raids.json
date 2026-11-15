@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 824229,
+  "loot": 848228,
   "raids": 9,
-  "attacks": 181,
-  "districts": 73,
+  "attacks": 187,
+  "districts": 76,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -178,6 +178,13 @@
     "a": 6,
     "lim": 6,
     "loot": 24633
+   },
+   {
+    "tag": "#U82JR0JC",
+    "name": "KNAX ⚡卩卂ㄩㄥ",
+    "a": 6,
+    "lim": 6,
+    "loot": 23999
    },
    {
     "tag": "#QUVCCUY9J",
