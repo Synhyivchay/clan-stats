@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 481448,
+  "loot": 489944,
   "raids": 6,
-  "attacks": 113,
-  "districts": 40,
+  "attacks": 115,
+  "districts": 41,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -138,6 +138,13 @@
     "loot": 12179
    },
    {
+    "tag": "#QQ90VV9L2",
+    "name": "Aviasales",
+    "a": 3,
+    "lim": 6,
+    "loot": 11966
+   },
+   {
     "tag": "#QPG999QV0",
     "name": "Dipper Painz",
     "a": 1,
@@ -157,13 +164,6 @@
     "a": 1,
     "lim": 5,
     "loot": 4785
-   },
-   {
-    "tag": "#QQ90VV9L2",
-    "name": "Aviasales",
-    "a": 1,
-    "lim": 5,
-    "loot": 3470
    }
   ]
  },
