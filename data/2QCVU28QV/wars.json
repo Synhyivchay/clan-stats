@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 56,
-   "pct": 75.88,
-   "attacks": 24
+   "stars": 62,
+   "pct": 83.88,
+   "attacks": 26
   },
   "them": {
    "tag": "#JRJC9JUY",
@@ -218,6 +218,17 @@
       "o": 55,
       "n": 1,
       "dur": 141
+     },
+     {
+      "d": "#9YY8Y8CCU",
+      "dn": "tarekorri",
+      "dpos": 16,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 56,
+      "n": 3,
+      "dur": 161
      }
     ],
     "def": {
@@ -278,7 +289,19 @@
     "name": "ThomasCzika",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QLULGYVY",
+      "dn": "power",
+      "dpos": 18,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 57,
+      "n": 3,
+      "dur": 125
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -605,7 +628,7 @@
     }
    }
   ],
-  "snap": "2026-11-15T11:22:32Z"
+  "snap": "2026-11-15T11:27:32Z"
  },
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",
