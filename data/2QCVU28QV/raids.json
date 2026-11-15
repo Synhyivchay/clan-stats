@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 802576,
+  "loot": 805841,
   "raids": 9,
-  "attacks": 176,
+  "attacks": 177,
   "districts": 72,
   "offReward": 0,
   "defReward": 0,
@@ -201,6 +201,13 @@
     "loot": 19601
    },
    {
+    "tag": "#2CCJVQ08V",
+    "name": "Shaun Ryan",
+    "a": 4,
+    "lim": 6,
+    "loot": 19041
+   },
+   {
     "tag": "#9J0QP2CU8",
     "name": "xXDamage",
     "a": 6,
@@ -213,13 +220,6 @@
     "a": 3,
     "lim": 5,
     "loot": 16935
-   },
-   {
-    "tag": "#2CCJVQ08V",
-    "name": "Shaun Ryan",
-    "a": 3,
-    "lim": 6,
-    "loot": 15776
    },
    {
     "tag": "#2JCQPL89R",
