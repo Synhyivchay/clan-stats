@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 804693,
-  "raids": 9,
-  "attacks": 191,
-  "districts": 71,
+  "loot": 812228,
+  "raids": 10,
+  "attacks": 193,
+  "districts": 72,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -173,6 +173,13 @@
     "loot": 23025
    },
    {
+    "tag": "#YCU8JR28U",
+    "name": "SHANARA",
+    "a": 6,
+    "lim": 6,
+    "loot": 22024
+   },
+   {
     "tag": "#YRVR292UG",
     "name": "Адик",
     "a": 6,
@@ -213,13 +220,6 @@
     "a": 6,
     "lim": 6,
     "loot": 16440
-   },
-   {
-    "tag": "#YCU8JR28U",
-    "name": "SHANARA",
-    "a": 4,
-    "lim": 6,
-    "loot": 14489
    },
    {
     "tag": "#GJY0R0JCJ",
