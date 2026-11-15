@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 641922,
+  "loot": 652994,
   "raids": 8,
-  "attacks": 157,
-  "districts": 56,
+  "attacks": 159,
+  "districts": 57,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -117,6 +117,13 @@
     "loot": 23242
    },
    {
+    "tag": "#Q9JRVCUYY",
+    "name": "Melata",
+    "a": 5,
+    "lim": 6,
+    "loot": 23198
+   },
+   {
     "tag": "#YRYYYGY90",
     "name": "naik",
     "a": 4,
@@ -192,13 +199,6 @@
     "a": 5,
     "lim": 5,
     "loot": 12820
-   },
-   {
-    "tag": "#Q9JRVCUYY",
-    "name": "Melata",
-    "a": 3,
-    "lim": 6,
-    "loot": 12126
    },
    {
     "tag": "#GRLLYQQLV",
