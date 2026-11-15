@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 791105,
+  "loot": 795065,
   "raids": 8,
-  "attacks": 173,
+  "attacks": 174,
   "districts": 71,
   "offReward": 0,
   "defReward": 0,
@@ -217,9 +217,9 @@
    {
     "tag": "#J8PVCRGQ",
     "name": "lennyy1992",
-    "a": 3,
+    "a": 4,
     "lim": 6,
-    "loot": 8875
+    "loot": 12835
    },
    {
     "tag": "#2JCQPL89R",
