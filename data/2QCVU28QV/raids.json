@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 647593,
+  "loot": 652574,
   "raids": 7,
-  "attacks": 143,
-  "districts": 56,
+  "attacks": 144,
+  "districts": 57,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#YL0QYGP0V",
+    "name": "Bassko",
+    "a": 6,
+    "lim": 6,
+    "loot": 38224
+   },
    {
     "tag": "#22L9YGQ2U",
     "name": "slory",
@@ -24,13 +31,6 @@
     "a": 6,
     "lim": 6,
     "loot": 33847
-   },
-   {
-    "tag": "#YL0QYGP0V",
-    "name": "Bassko",
-    "a": 5,
-    "lim": 6,
-    "loot": 33243
    },
    {
     "tag": "#9090P29L9",
