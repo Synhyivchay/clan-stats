@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 67,
-   "pct": 91.72,
-   "attacks": 28
+   "stars": 68,
+   "pct": 91.88,
+   "attacks": 29
   },
   "them": {
    "tag": "#JRJC9JUY",
@@ -572,7 +572,19 @@
     "name": "Shaun Ryan",
     "th": 18,
     "pos": 23,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LYPP0YPGU",
+      "dn": "achraf",
+      "dpos": 22,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 64,
+      "n": 1,
+      "dur": 136
+     }
+    ],
     "def": {
      "n": 2,
      "s": 2,
@@ -650,7 +662,7 @@
     }
    }
   ],
-  "snap": "2026-11-15T13:47:32Z"
+  "snap": "2026-11-15T13:52:32Z"
  },
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",
