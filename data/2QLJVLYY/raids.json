@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 708665,
-  "raids": 8,
-  "attacks": 170,
-  "districts": 62,
+  "loot": 722344,
+  "raids": 9,
+  "attacks": 173,
+  "districts": 63,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -145,6 +145,13 @@
     "loot": 23025
    },
    {
+    "tag": "#QL0J0RY8Q",
+    "name": "ebobo",
+    "a": 5,
+    "lim": 6,
+    "loot": 21623
+   },
+   {
     "tag": "#YRVR292UG",
     "name": "Адик",
     "a": 6,
@@ -206,13 +213,6 @@
     "a": 5,
     "lim": 5,
     "loot": 12820
-   },
-   {
-    "tag": "#QL0J0RY8Q",
-    "name": "ebobo",
-    "a": 2,
-    "lim": 6,
-    "loot": 7944
    },
    {
     "tag": "#GRLLYQQLV",
