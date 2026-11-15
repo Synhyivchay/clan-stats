@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 593296,
-  "raids": 6,
-  "attacks": 134,
-  "districts": 53,
+  "loot": 596468,
+  "raids": 7,
+  "attacks": 135,
+  "districts": 54,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -89,6 +89,13 @@
     "loot": 25752
    },
    {
+    "tag": "#L9P0UP28",
+    "name": "Killer 2000",
+    "a": 5,
+    "lim": 6,
+    "loot": 25648
+   },
+   {
     "tag": "#LQQG9L82Q",
     "name": "RudiV3",
     "a": 6,
@@ -129,13 +136,6 @@
     "a": 6,
     "lim": 6,
     "loot": 22606
-   },
-   {
-    "tag": "#L9P0UP28",
-    "name": "Killer 2000",
-    "a": 4,
-    "lim": 6,
-    "loot": 22476
    },
    {
     "tag": "#GLPYJCYCY",
