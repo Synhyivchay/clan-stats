@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 895788,
+  "loot": 898608,
   "raids": 10,
-  "attacks": 198,
+  "attacks": 199,
   "districts": 80,
   "offReward": 0,
   "defReward": 0,
@@ -180,6 +180,13 @@
     "loot": 24719
    },
    {
+    "tag": "#9VV8JLR0Y",
+    "name": "Ahmed leo 10$$",
+    "a": 6,
+    "lim": 6,
+    "loot": 24689
+   },
+   {
     "tag": "#RUPJQ800",
     "name": "MIDNIGHT",
     "a": 6,
@@ -199,13 +206,6 @@
     "a": 6,
     "lim": 6,
     "loot": 22606
-   },
-   {
-    "tag": "#9VV8JLR0Y",
-    "name": "Ahmed leo 10$$",
-    "a": 5,
-    "lim": 6,
-    "loot": 21869
    },
    {
     "tag": "#GLPYJCYCY",

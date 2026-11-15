@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 834579,
+  "loot": 849688,
   "raids": 10,
-  "attacks": 189,
-  "districts": 73,
+  "attacks": 192,
+  "districts": 74,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -124,6 +124,13 @@
     "loot": 27425
    },
    {
+    "tag": "#QJYVP0JJU",
+    "name": "Partizan",
+    "a": 5,
+    "lim": 6,
+    "loot": 26775
+   },
+   {
     "tag": "#QQ90VV9L2",
     "name": "Aviasales",
     "a": 6,
@@ -220,13 +227,6 @@
     "a": 6,
     "lim": 6,
     "loot": 12179
-   },
-   {
-    "tag": "#QJYVP0JJU",
-    "name": "Partizan",
-    "a": 2,
-    "lim": 6,
-    "loot": 11666
    },
    {
     "tag": "#QPG999QV0",
