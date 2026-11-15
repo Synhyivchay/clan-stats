@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 11,
-   "pct": 19.3,
-   "attacks": 4
+   "stars": 14,
+   "pct": 24.3,
+   "attacks": 5
   },
   "them": {
    "tag": "#U09QCQUV",
@@ -247,7 +247,19 @@
     "name": "Begbus",
     "th": 16,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8GC8JJY0J",
+      "dn": "akon",
+      "dpos": 16,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 7,
+      "n": 3,
+      "dur": 110
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -314,7 +326,7 @@
     }
    }
   ],
-  "snap": "2026-11-15T18:04:41Z"
+  "snap": "2026-11-15T18:09:41Z"
  },
  {
   "id": "war_20261112T110827Z_20CJ29U8J",
