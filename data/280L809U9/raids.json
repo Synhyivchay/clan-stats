@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 511585,
+  "loot": 517040,
   "raids": 7,
-  "attacks": 122,
+  "attacks": 123,
   "districts": 45,
   "offReward": 0,
   "defReward": 0,
@@ -159,6 +159,13 @@
     "loot": 6403
    },
    {
+    "tag": "#Q2PP8G98V",
+    "name": "Влад",
+    "a": 1,
+    "lim": 5,
+    "loot": 5455
+   },
+   {
     "tag": "#Y2PQ000UC",
     "name": "kartik",
     "a": 5,
@@ -171,13 +178,6 @@
     "a": 1,
     "lim": 5,
     "loot": 4785
-   },
-   {
-    "tag": "#Q2PP8G98V",
-    "name": "Влад",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
    }
   ]
  },
