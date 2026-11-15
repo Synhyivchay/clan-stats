@@ -391,7 +391,7 @@
   "trophies": 160,
   "league": "Electro League 31",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png",
-  "donations": 169,
+  "donations": 211,
   "received": 233,
   "rank": 6,
   "lastSeen": "2026-11-15T04:02:11Z",
@@ -2107,9 +2107,13 @@
    [
     "2026-11-07T02:21:02Z",
     1366735
+   ],
+   [
+    "2026-11-15T04:12:19Z",
+    1394833
    ]
   ],
-  "capContrib": 1366735
+  "capContrib": 1394833
  },
  "#QUR8GYYYY": {
   "tag": "#QUR8GYYYY",
@@ -3720,12 +3724,12 @@
     "at": "2026-11-10T03:13:15Z"
    }
   ],
-  "exp": 113,
+  "exp": 114,
   "trophies": 494,
   "league": "Archer League 8",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/lzneKpnJ_ADL1Xb1rceH7-svqRN1UaLnI7ldd8BbyxI.png",
   "donations": 2,
-  "received": 702,
+  "received": 744,
   "rank": 32,
   "lastSeen": "2026-11-15T04:02:11Z",
   "capHist": [
