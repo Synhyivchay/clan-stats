@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 755914,
+  "loot": 804693,
   "raids": 9,
-  "attacks": 180,
-  "districts": 66,
+  "attacks": 191,
+  "districts": 71,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -59,6 +59,13 @@
     "a": 6,
     "lim": 6,
     "loot": 30844
+   },
+   {
+    "tag": "#LJQU0Q0VV",
+    "name": "Azek",
+    "a": 6,
+    "lim": 6,
+    "loot": 29809
    },
    {
     "tag": "#8J09CQQQQ",
@@ -117,6 +124,13 @@
     "loot": 26853
    },
    {
+    "tag": "#GRRCCRPRQ",
+    "name": "Regvoles",
+    "a": 6,
+    "lim": 6,
+    "loot": 24108
+   },
+   {
     "tag": "#LV9VQJ8GP",
     "name": "Фалирит",
     "a": 6,
@@ -173,13 +187,6 @@
     "loot": 20015
    },
    {
-    "tag": "#GRRCCRPRQ",
-    "name": "Regvoles",
-    "a": 5,
-    "lim": 6,
-    "loot": 19627
-   },
-   {
     "tag": "#QG0URUJ0Y",
     "name": "SAMURAY",
     "a": 6,
@@ -206,6 +213,13 @@
     "a": 6,
     "lim": 6,
     "loot": 16440
+   },
+   {
+    "tag": "#YCU8JR28U",
+    "name": "SHANARA",
+    "a": 4,
+    "lim": 6,
+    "loot": 14489
    },
    {
     "tag": "#GJY0R0JCJ",

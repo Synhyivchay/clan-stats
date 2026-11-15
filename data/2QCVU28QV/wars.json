@@ -15,16 +15,16 @@
    "level": 27,
    "stars": 75,
    "pct": 100.0,
-   "attacks": 35
+   "attacks": 39
   },
   "them": {
    "tag": "#JRJC9JUY",
    "name": "lebanon",
    "badge": "https://api-assets.clashofclans.com/badges/200/24KBeg0OzQyQeYiq5oVi8gaYVgF8ZYho5Go5YMFDbyU.png",
    "level": 26,
-   "stars": 68,
-   "pct": 96.52,
-   "attacks": 35
+   "stars": 71,
+   "pct": 97.4,
+   "attacks": 37
   },
   "members": [
    {
@@ -277,7 +277,30 @@
     "name": "Kingdingeling",
     "th": 18,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JVC8U2UL",
+      "dn": "LB〤MILZ",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 73,
+      "n": 0,
+      "dur": 85
+     },
+     {
+      "d": "#9V0QYUGQC",
+      "dn": "♡lNUYASHA♡",
+      "dpos": 2,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 74,
+      "n": 0,
+      "dur": 137
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -336,7 +359,30 @@
     "name": "Killer 2000",
     "th": 18,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JVC8U2UL",
+      "dn": "LB〤MILZ",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 4,
+      "o": 71,
+      "n": 0,
+      "dur": 7
+     },
+     {
+      "d": "#LCC88VJ82",
+      "dn": "ayman hawat",
+      "dpos": 7,
+      "dth": 18,
+      "s": 1,
+      "p": 18,
+      "o": 72,
+      "n": 0,
+      "dur": 27
+     }
+    ],
     "def": {
      "n": 3,
      "s": 3,
@@ -608,9 +654,9 @@
      }
     ],
     "def": {
-     "n": 2,
-     "s": 1,
-     "p": 91
+     "n": 3,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -690,9 +736,9 @@
      }
     ],
     "def": {
-     "n": 2,
-     "s": 2,
-     "p": 87
+     "n": 3,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -731,7 +777,7 @@
     }
    }
   ],
-  "snap": "2026-11-15T15:22:32Z"
+  "snap": "2026-11-15T17:04:41Z"
  },
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",

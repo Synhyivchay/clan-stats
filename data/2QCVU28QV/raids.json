@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 776927,
+  "loot": 787816,
   "raids": 8,
-  "attacks": 169,
-  "districts": 69,
+  "attacks": 171,
+  "districts": 70,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -208,6 +208,13 @@
     "loot": 15776
    },
    {
+    "tag": "#9J0QP2CU8",
+    "name": "xXDamage",
+    "a": 4,
+    "lim": 6,
+    "loot": 14805
+   },
+   {
     "tag": "#J8PVCRGQ",
     "name": "lennyy1992",
     "a": 3,
@@ -220,13 +227,6 @@
     "a": 2,
     "lim": 5,
     "loot": 4350
-   },
-   {
-    "tag": "#9J0QP2CU8",
-    "name": "xXDamage",
-    "a": 2,
-    "lim": 6,
-    "loot": 3916
    }
   ]
  },

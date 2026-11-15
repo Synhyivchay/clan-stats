@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 598394,
-  "raids": 7,
-  "attacks": 139,
-  "districts": 52,
+  "loot": 695217,
+  "raids": 8,
+  "attacks": 160,
+  "districts": 61,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -17,6 +17,13 @@
     "a": 6,
     "lim": 6,
     "loot": 33650
+   },
+   {
+    "tag": "#GQLRPL8Q0",
+    "name": "Jamshid",
+    "a": 6,
+    "lim": 6,
+    "loot": 33423
    },
    {
     "tag": "#G298UUQQL",
@@ -31,6 +38,13 @@
     "a": 6,
     "lim": 6,
     "loot": 31485
+   },
+   {
+    "tag": "#GLCVPCCQ2",
+    "name": "Ragnar",
+    "a": 6,
+    "lim": 6,
+    "loot": 31332
    },
    {
     "tag": "#QG29GRYJR",
@@ -75,11 +89,11 @@
     "loot": 28205
    },
    {
-    "tag": "#GQLRPL8Q0",
-    "name": "Jamshid",
-    "a": 5,
+    "tag": "#Q2PP8G98V",
+    "name": "Влад",
+    "a": 6,
     "lim": 6,
-    "loot": 27608
+    "loot": 27479
    },
    {
     "tag": "#VV02PYVV",
@@ -124,6 +138,13 @@
     "loot": 25098
    },
    {
+    "tag": "#80QQP0V2C",
+    "name": "Danis 1 2 3",
+    "a": 6,
+    "lim": 6,
+    "loot": 24450
+   },
+   {
     "tag": "#GC0V2V2Y0",
     "name": "sgrassi",
     "a": 6,
@@ -166,18 +187,18 @@
     "loot": 12179
    },
    {
-    "tag": "#QPG999QV0",
-    "name": "Dipper Painz",
-    "a": 1,
+    "tag": "#LGRVJULJJ",
+    "name": "DimagFM",
+    "a": 2,
     "lim": 6,
-    "loot": 6403
+    "loot": 11133
    },
    {
-    "tag": "#Q2PP8G98V",
-    "name": "Влад",
-    "a": 1,
-    "lim": 5,
-    "loot": 5455
+    "tag": "#QPG999QV0",
+    "name": "Dipper Painz",
+    "a": 2,
+    "lim": 6,
+    "loot": 8472
    },
    {
     "tag": "#CUQYLPU",
