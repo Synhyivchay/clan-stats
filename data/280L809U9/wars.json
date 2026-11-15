@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 20,
-   "pct": 37.7,
-   "attacks": 8
+   "pct": 37.95,
+   "attacks": 9
   },
   "them": {
    "tag": "#U09QCQUV",
@@ -186,7 +186,19 @@
     "name": "ФЕРЗЬ",
     "th": 18,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YPPU98P8U",
+      "dn": "dj",
+      "dpos": 10,
+      "dth": 17,
+      "s": 1,
+      "p": 93,
+      "o": 15,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -360,7 +372,7 @@
     }
    }
   ],
-  "snap": "2026-11-15T20:14:41Z"
+  "snap": "2026-11-15T20:24:41Z"
  },
  {
   "id": "war_20261112T110827Z_20CJ29U8J",
