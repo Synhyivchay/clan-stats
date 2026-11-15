@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 695217,
+  "loot": 700939,
   "raids": 8,
-  "attacks": 160,
-  "districts": 61,
+  "attacks": 161,
+  "districts": 62,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -194,18 +194,18 @@
     "loot": 11133
    },
    {
+    "tag": "#CUQYLPU",
+    "name": "ФЕРЗЬ",
+    "a": 2,
+    "lim": 6,
+    "loot": 11027
+   },
+   {
     "tag": "#QPG999QV0",
     "name": "Dipper Painz",
     "a": 2,
     "lim": 6,
     "loot": 8472
-   },
-   {
-    "tag": "#CUQYLPU",
-    "name": "ФЕРЗЬ",
-    "a": 1,
-    "lim": 5,
-    "loot": 5305
    },
    {
     "tag": "#Y2PQ000UC",
