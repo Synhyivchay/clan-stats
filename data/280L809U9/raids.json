@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 829004,
+  "loot": 834579,
   "raids": 10,
-  "attacks": 188,
+  "attacks": 189,
   "districts": 73,
   "offReward": 0,
   "defReward": 0,
@@ -222,18 +222,18 @@
     "loot": 12179
    },
    {
+    "tag": "#QJYVP0JJU",
+    "name": "Partizan",
+    "a": 2,
+    "lim": 6,
+    "loot": 11666
+   },
+   {
     "tag": "#QPG999QV0",
     "name": "Dipper Painz",
     "a": 2,
     "lim": 6,
     "loot": 8472
-   },
-   {
-    "tag": "#QJYVP0JJU",
-    "name": "Partizan",
-    "a": 1,
-    "lim": 6,
-    "loot": 6091
    },
    {
     "tag": "#Y2PQ000UC",
