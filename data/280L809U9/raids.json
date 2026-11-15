@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 804726,
+  "loot": 808726,
   "raids": 9,
-  "attacks": 182,
+  "attacks": 183,
   "districts": 71,
   "offReward": 0,
   "defReward": 0,
@@ -222,6 +222,13 @@
     "loot": 8472
    },
    {
+    "tag": "#2P0JQ09CY",
+    "name": "grootich",
+    "a": 2,
+    "lim": 6,
+    "loot": 6724
+   },
+   {
     "tag": "#Y2PQ000UC",
     "name": "kartik",
     "a": 5,
@@ -234,13 +241,6 @@
     "a": 1,
     "lim": 5,
     "loot": 4785
-   },
-   {
-    "tag": "#2P0JQ09CY",
-    "name": "grootich",
-    "a": 1,
-    "lim": 6,
-    "loot": 2724
    }
   ]
  },
