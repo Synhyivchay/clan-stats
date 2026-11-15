@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 74,
-   "pct": 99.88,
-   "attacks": 31
+   "stars": 75,
+   "pct": 100.0,
+   "attacks": 32
   },
   "them": {
    "tag": "#JRJC9JUY",
@@ -536,7 +536,19 @@
     "name": "AnoNymous",
     "th": 18,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JLYRU9UP",
+      "dn": "king",
+      "dpos": 12,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 67,
+      "n": 1,
+      "dur": 101
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -685,7 +697,7 @@
     }
    }
   ],
-  "snap": "2026-11-15T14:22:32Z"
+  "snap": "2026-11-15T14:27:32Z"
  },
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",
