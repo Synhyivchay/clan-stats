@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 826503,
+  "loot": 830123,
   "raids": 10,
-  "attacks": 197,
+  "attacks": 198,
   "districts": 73,
   "offReward": 0,
   "defReward": 0,
@@ -187,6 +187,13 @@
     "loot": 21426
    },
    {
+    "tag": "#GRLLYQQLV",
+    "name": "WOLF",
+    "a": 6,
+    "lim": 6,
+    "loot": 20297
+   },
+   {
     "tag": "#LG2JCP99G",
     "name": "Потик_YT",
     "a": 6,
@@ -206,13 +213,6 @@
     "a": 6,
     "lim": 6,
     "loot": 18759
-   },
-   {
-    "tag": "#GRLLYQQLV",
-    "name": "WOLF",
-    "a": 5,
-    "lim": 6,
-    "loot": 16677
    },
    {
     "tag": "#8GGC8UY08",
