@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 607443,
+  "loot": 614350,
   "raids": 7,
-  "attacks": 137,
-  "districts": 54,
+  "attacks": 138,
+  "districts": 55,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -166,18 +166,18 @@
     "loot": 16935
    },
    {
+    "tag": "#RLGUULPP",
+    "name": "Ampletrex",
+    "a": 2,
+    "lim": 6,
+    "loot": 12027
+   },
+   {
     "tag": "#J8PVCRGQ",
     "name": "lennyy1992",
     "a": 3,
     "lim": 6,
     "loot": 8875
-   },
-   {
-    "tag": "#RLGUULPP",
-    "name": "Ampletrex",
-    "a": 1,
-    "lim": 5,
-    "loot": 5120
    },
    {
     "tag": "#2JCQPL89R",
