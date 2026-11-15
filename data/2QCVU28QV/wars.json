@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
    "stars": 36,
-   "pct": 51.24,
-   "attacks": 14
+   "pct": 51.28,
+   "attacks": 16
   },
   "them": {
    "tag": "#JRJC9JUY",
@@ -32,7 +32,30 @@
     "name": "Bigmac's sohn",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YVGV90GY",
+      "dn": "WA7ID☣☠",
+      "dpos": 3,
+      "dth": 18,
+      "s": 2,
+      "p": 87,
+      "o": 38,
+      "n": 0,
+      "dur": 150
+     },
+     {
+      "d": "#CUQJ0JY9",
+      "dn": "VooDoo",
+      "dpos": 5,
+      "dth": 18,
+      "s": 0,
+      "p": 36,
+      "o": 39,
+      "n": 0,
+      "dur": 47
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -489,7 +512,7 @@
     }
    }
   ],
-  "snap": "2026-11-15T08:42:19Z"
+  "snap": "2026-11-15T08:52:19Z"
  },
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",
