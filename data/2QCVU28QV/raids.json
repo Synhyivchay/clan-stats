@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 672609,
+  "loot": 677487,
   "raids": 7,
-  "attacks": 149,
-  "districts": 60,
+  "attacks": 150,
+  "districts": 61,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -124,6 +124,13 @@
     "loot": 25285
    },
    {
+    "tag": "#G29QC0G0G",
+    "name": "Riesen_Stinker",
+    "a": 6,
+    "lim": 6,
+    "loot": 24913
+   },
+   {
     "tag": "#QU2GPCCRJ",
     "name": "Hornbär",
     "a": 6,
@@ -157,13 +164,6 @@
     "a": 6,
     "lim": 6,
     "loot": 20505
-   },
-   {
-    "tag": "#G29QC0G0G",
-    "name": "Riesen_Stinker",
-    "a": 5,
-    "lim": 6,
-    "loot": 20035
    },
    {
     "tag": "#LRV88C0RQ",
