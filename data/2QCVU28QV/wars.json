@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 49,
-   "pct": 67.8,
-   "attacks": 21
+   "stars": 52,
+   "pct": 71.8,
+   "attacks": 22
   },
   "them": {
    "tag": "#JRJC9JUY",
    "name": "lebanon",
    "badge": "https://api-assets.clashofclans.com/badges/200/24KBeg0OzQyQeYiq5oVi8gaYVgF8ZYho5Go5YMFDbyU.png",
    "level": 26,
-   "stars": 61,
-   "pct": 91.16,
-   "attacks": 26
+   "stars": 64,
+   "pct": 95.16,
+   "attacks": 27
   },
   "members": [
    {
@@ -219,7 +219,19 @@
     "name": "Lennart",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8LULQ02VR",
+      "dn": "Will",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 49,
+      "n": 3,
+      "dur": 154
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -375,9 +387,9 @@
     "pos": 16,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -570,7 +582,7 @@
     }
    }
   ],
-  "snap": "2026-11-15T10:32:32Z"
+  "snap": "2026-11-15T10:37:32Z"
  },
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",
