@@ -22,9 +22,9 @@
    "name": "lebanon",
    "badge": "https://api-assets.clashofclans.com/badges/200/24KBeg0OzQyQeYiq5oVi8gaYVgF8ZYho5Go5YMFDbyU.png",
    "level": 26,
-   "stars": 74,
-   "pct": 99.68,
-   "attacks": 46
+   "stars": 75,
+   "pct": 100.0,
+   "attacks": 47
   },
   "members": [
    {
@@ -874,13 +874,13 @@
      }
     ],
     "def": {
-     "n": 3,
-     "s": 2,
-     "p": 92
+     "n": 4,
+     "s": 3,
+     "p": 100
     }
    }
   ],
-  "snap": "2026-11-15T19:59:41Z"
+  "snap": "2026-11-15T20:04:41Z"
  },
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",
