@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 75,
    "pct": 100.0,
-   "attacks": 46
+   "attacks": 47
   },
   "them": {
    "tag": "#JRJC9JUY",
@@ -24,7 +24,7 @@
    "level": 26,
    "stars": 74,
    "pct": 99.68,
-   "attacks": 44
+   "attacks": 45
   },
   "members": [
    {
@@ -744,7 +744,19 @@
     "name": "RudiV4",
     "th": 18,
     "pos": 22,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JVC8U2UL",
+      "dn": "LB〤MILZ",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 4,
+      "o": 92,
+      "n": 0,
+      "dur": 7
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -851,13 +863,13 @@
      }
     ],
     "def": {
-     "n": 2,
+     "n": 3,
      "s": 2,
      "p": 92
     }
    }
   ],
-  "snap": "2026-11-15T19:49:41Z"
+  "snap": "2026-11-15T19:54:41Z"
  },
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",
