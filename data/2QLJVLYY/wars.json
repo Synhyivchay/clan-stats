@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 12,
-   "pct": 16.0,
-   "attacks": 4
+   "stars": 16,
+   "pct": 22.84,
+   "attacks": 6
   },
   "them": {
    "tag": "#2GQLQUU0R",
@@ -367,7 +367,30 @@
     "name": "егор",
     "th": 13,
     "pos": 25,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PCU00R90P",
+      "dn": "Loading...",
+      "dpos": 25,
+      "dth": 13,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 149
+     },
+     {
+      "d": "#8YY0R9UQQ",
+      "dn": "Papa Smurf",
+      "dpos": 24,
+      "dth": 14,
+      "s": 1,
+      "p": 71,
+      "o": 6,
+      "n": 1,
+      "dur": 142
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -375,7 +398,7 @@
     }
    }
   ],
-  "snap": "2026-11-15T17:34:41Z"
+  "snap": "2026-11-15T17:39:41Z"
  },
  {
   "id": "war_20261112T105547Z_90YCCCP2",
