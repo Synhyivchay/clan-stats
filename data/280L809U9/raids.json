@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 705729,
-  "raids": 8,
-  "attacks": 163,
-  "districts": 62,
+  "loot": 714774,
+  "raids": 9,
+  "attacks": 165,
+  "districts": 63,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -138,6 +138,13 @@
     "loot": 25098
    },
    {
+    "tag": "#CUQYLPU",
+    "name": "ФЕРЗЬ",
+    "a": 6,
+    "lim": 6,
+    "loot": 24862
+   },
+   {
     "tag": "#80QQP0V2C",
     "name": "Danis 1 2 3",
     "a": 6,
@@ -178,13 +185,6 @@
     "a": 6,
     "lim": 6,
     "loot": 17996
-   },
-   {
-    "tag": "#CUQYLPU",
-    "name": "ФЕРЗЬ",
-    "a": 4,
-    "lim": 6,
-    "loot": 15817
    },
    {
     "tag": "#GQPYJ9GLQ",
