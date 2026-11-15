@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 71,
-   "pct": 95.88,
-   "attacks": 30
+   "stars": 74,
+   "pct": 99.88,
+   "attacks": 31
   },
   "them": {
    "tag": "#JRJC9JUY",
@@ -548,7 +548,19 @@
     "name": "Leon",
     "th": 18,
     "pos": 21,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9QRVLG29V",
+      "dn": "☆\"ÝÙŞÜF\"☆",
+      "dpos": 20,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 66,
+      "n": 3,
+      "dur": 110
+     }
+    ],
     "def": {
      "n": 2,
      "s": 1,
@@ -673,7 +685,7 @@
     }
    }
   ],
-  "snap": "2026-11-15T14:17:32Z"
+  "snap": "2026-11-15T14:22:32Z"
  },
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",
