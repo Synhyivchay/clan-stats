@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 779415,
+  "loot": 787605,
   "raids": 9,
-  "attacks": 177,
+  "attacks": 178,
   "districts": 68,
   "offReward": 0,
   "defReward": 0,
@@ -187,6 +187,13 @@
     "loot": 19503
    },
    {
+    "tag": "#LGRVJULJJ",
+    "name": "DimagFM",
+    "a": 3,
+    "lim": 6,
+    "loot": 19323
+   },
+   {
     "tag": "#PL2290CCY",
     "name": "Danek",
     "a": 6,
@@ -206,13 +213,6 @@
     "a": 6,
     "lim": 6,
     "loot": 12179
-   },
-   {
-    "tag": "#LGRVJULJJ",
-    "name": "DimagFM",
-    "a": 2,
-    "lim": 6,
-    "loot": 11133
    },
    {
     "tag": "#QPG999QV0",
