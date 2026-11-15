@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 46,
-   "pct": 63.8,
-   "attacks": 20
+   "stars": 49,
+   "pct": 67.8,
+   "attacks": 21
   },
   "them": {
    "tag": "#JRJC9JUY",
@@ -515,7 +515,19 @@
     "name": "Ahmed leo 10$$",
     "th": 18,
     "pos": 24,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9YGLQC099",
+      "dn": "Elie",
+      "dpos": 23,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 47,
+      "n": 3,
+      "dur": 152
+     }
+    ],
     "def": {
      "n": 2,
      "s": 2,
@@ -558,7 +570,7 @@
     }
    }
   ],
-  "snap": "2026-11-15T10:27:32Z"
+  "snap": "2026-11-15T10:32:32Z"
  },
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",

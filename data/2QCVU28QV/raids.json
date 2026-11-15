@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 702337,
+  "loot": 707637,
   "raids": 8,
-  "attacks": 155,
+  "attacks": 156,
   "districts": 63,
   "offReward": 0,
   "defReward": 0,
@@ -52,6 +52,13 @@
     "a": 6,
     "lim": 6,
     "loot": 31311
+   },
+   {
+    "tag": "#YQLLCGP0",
+    "name": "Lennart",
+    "a": 6,
+    "lim": 6,
+    "loot": 30150
    },
    {
     "tag": "#J9VRQ882",
@@ -129,13 +136,6 @@
     "a": 6,
     "lim": 6,
     "loot": 24913
-   },
-   {
-    "tag": "#YQLLCGP0",
-    "name": "Lennart",
-    "a": 5,
-    "lim": 6,
-    "loot": 24850
    },
    {
     "tag": "#QU2GPCCRJ",
