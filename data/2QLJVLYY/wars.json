@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 38,
-   "pct": 55.4,
-   "attacks": 15
+   "stars": 39,
+   "pct": 56.6,
+   "attacks": 16
   },
   "them": {
    "tag": "#2GQLQUU0R",
    "name": "Umbrella Inc.",
    "badge": "https://api-assets.clashofclans.com/badges/200/Az2KTu1Fo-2eOl6555nLAbcJvV_x3iW-TjJVM8vqt0s.png",
    "level": 17,
-   "stars": 11,
-   "pct": 15.96,
-   "attacks": 4
+   "stars": 17,
+   "pct": 23.96,
+   "attacks": 6
   },
   "members": [
    {
@@ -82,9 +82,9 @@
     "pos": 4,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -117,9 +117,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -458,6 +458,17 @@
       "o": 19,
       "n": 3,
       "dur": 150
+     },
+     {
+      "d": "#R9VGVGUC",
+      "dn": "Squirrel",
+      "dpos": 21,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 20,
+      "n": 1,
+      "dur": 119
      }
     ],
     "def": {
@@ -502,7 +513,7 @@
     }
    }
   ],
-  "snap": "2026-11-15T22:44:53Z"
+  "snap": "2026-11-15T22:54:53Z"
  },
  {
   "id": "war_20261112T105547Z_90YCCCP2",
