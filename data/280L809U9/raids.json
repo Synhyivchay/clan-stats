@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 822913,
+  "loot": 829004,
   "raids": 10,
-  "attacks": 187,
-  "districts": 72,
+  "attacks": 188,
+  "districts": 73,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -227,6 +227,13 @@
     "a": 2,
     "lim": 6,
     "loot": 8472
+   },
+   {
+    "tag": "#QJYVP0JJU",
+    "name": "Partizan",
+    "a": 1,
+    "lim": 6,
+    "loot": 6091
    },
    {
     "tag": "#Y2PQ000UC",
