@@ -30,7 +30,7 @@
   "donations": 456,
   "received": 89,
   "rank": 1,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -122,7 +122,7 @@
   "donations": 48,
   "received": 87,
   "rank": 2,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -194,7 +194,7 @@
   "donations": 0,
   "received": 0,
   "rank": 8,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -242,7 +242,7 @@
   "donations": 2122,
   "received": 521,
   "rank": 14,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -274,7 +274,7 @@
   "donations": 2442,
   "received": 2153,
   "rank": 6,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -326,7 +326,7 @@
   "donations": 3891,
   "received": 3791,
   "rank": 3,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -378,7 +378,7 @@
   "donations": 338,
   "received": 236,
   "rank": 7,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -438,7 +438,7 @@
   "donations": 134,
   "received": 0,
   "rank": 15,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -471,7 +471,7 @@
   ],
   "th": 18,
   "inClan": true,
-  "role": "admin",
+  "role": "member",
   "firstSeen": "2026-10-15T22:46:46Z",
   "events": [
    {
@@ -480,13 +480,13 @@
    }
   ],
   "exp": 241,
-  "trophies": 291,
+  "trophies": 383,
   "league": "Electro League 33",
   "leagueIcon": "https://api-assets.clashofclans.com/leaguetiers/125/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png",
-  "donations": 288,
+  "donations": 0,
   "received": 0,
   "rank": 9,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -554,7 +554,7 @@
   "donations": 140,
   "received": 0,
   "rank": 5,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -614,7 +614,7 @@
   "donations": 2917,
   "received": 3249,
   "rank": 4,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -674,7 +674,7 @@
   "donations": 833,
   "received": 1491,
   "rank": 11,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -742,7 +742,7 @@
   "donations": 80,
   "received": 396,
   "rank": 13,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -790,7 +790,7 @@
   "donations": 1794,
   "received": 2625,
   "rank": 10,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -862,7 +862,7 @@
   "donations": 34,
   "received": 0,
   "rank": 16,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -934,7 +934,7 @@
   "donations": 0,
   "received": 0,
   "rank": 18,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -994,7 +994,7 @@
   "donations": 108,
   "received": 53,
   "rank": 17,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -1050,7 +1050,7 @@
   "donations": 204,
   "received": 169,
   "rank": 12,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -1114,7 +1114,7 @@
   "donations": 530,
   "received": 885,
   "rank": 19,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -1158,7 +1158,7 @@
   "donations": 462,
   "received": 1,
   "rank": 21,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -1202,7 +1202,7 @@
   "donations": 0,
   "received": 118,
   "rank": 22,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -1250,7 +1250,7 @@
   "donations": 52,
   "received": 279,
   "rank": 20,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -1382,7 +1382,7 @@
   "donations": 0,
   "received": 0,
   "rank": 27,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -1434,7 +1434,7 @@
   "donations": 210,
   "received": 274,
   "rank": 31,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -1482,7 +1482,7 @@
   "donations": 57,
   "received": 340,
   "rank": 24,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -1534,7 +1534,7 @@
   "donations": 159,
   "received": 249,
   "rank": 25,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -1598,7 +1598,7 @@
   "donations": 0,
   "received": 0,
   "rank": 33,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -1646,7 +1646,7 @@
   "donations": 17,
   "received": 201,
   "rank": 34,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -1790,7 +1790,7 @@
   "donations": 0,
   "received": 0,
   "rank": 29,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -1838,7 +1838,7 @@
   "donations": 0,
   "received": 0,
   "rank": 35,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -1898,7 +1898,7 @@
   "donations": 75,
   "received": 98,
   "rank": 42,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -1994,7 +1994,7 @@
   "donations": 259,
   "received": 866,
   "rank": 36,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -2078,7 +2078,7 @@
   "donations": 167,
   "received": 637,
   "rank": 37,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -2146,7 +2146,7 @@
   "donations": 30,
   "received": 91,
   "rank": 38,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -2230,7 +2230,7 @@
   "donations": 2483,
   "received": 954,
   "rank": 40,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -2302,7 +2302,7 @@
   "donations": 547,
   "received": 855,
   "rank": 41,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -2390,7 +2390,7 @@
   "donations": 147,
   "received": 0,
   "rank": 43,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -2486,7 +2486,7 @@
   "donations": 0,
   "received": 171,
   "rank": 44,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -2554,7 +2554,7 @@
   "donations": 2135,
   "received": 1000,
   "rank": 45,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-15T22:46:46Z",
@@ -2738,7 +2738,7 @@
   "donations": 618,
   "received": 0,
   "rank": 26,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-17T08:52:14Z",
@@ -3467,7 +3467,7 @@
   "donations": 24,
   "received": 204,
   "rank": 23,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-10-30T18:58:50Z",
@@ -3767,7 +3767,7 @@
   "donations": 0,
   "received": 321,
   "rank": 39,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-11-08T20:56:29Z",
@@ -3863,7 +3863,7 @@
   "donations": 522,
   "received": 350,
   "rank": 28,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-11-11T14:50:11Z",
@@ -3899,7 +3899,7 @@
   "donations": 56,
   "received": 0,
   "rank": 32,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-11-12T18:15:17Z",
@@ -3996,7 +3996,7 @@
   "donations": 0,
   "received": 0,
   "rank": 30,
-  "lastSeen": "2026-11-15T21:19:41Z",
+  "lastSeen": "2026-11-15T21:24:41Z",
   "capHist": [
    [
     "2026-11-14T18:01:58Z",
