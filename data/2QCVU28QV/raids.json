@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 596468,
+  "loot": 602323,
   "raids": 7,
-  "attacks": 135,
+  "attacks": 136,
   "districts": 54,
   "offReward": 0,
   "defReward": 0,
@@ -31,6 +31,13 @@
     "a": 6,
     "lim": 6,
     "loot": 31649
+   },
+   {
+    "tag": "#L9P0UP28",
+    "name": "Killer 2000",
+    "a": 6,
+    "lim": 6,
+    "loot": 31503
    },
    {
     "tag": "#CCLJJJ80",
@@ -87,13 +94,6 @@
     "a": 6,
     "lim": 6,
     "loot": 25752
-   },
-   {
-    "tag": "#L9P0UP28",
-    "name": "Killer 2000",
-    "a": 5,
-    "lim": 6,
-    "loot": 25648
    },
    {
     "tag": "#LQQG9L82Q",
