@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 75,
    "pct": 100.0,
-   "attacks": 33
+   "attacks": 35
   },
   "them": {
    "tag": "#JRJC9JUY",
@@ -489,7 +489,30 @@
     "name": "xXDamage",
     "th": 18,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JVC8U2UL",
+      "dn": "LB〤MILZ",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 11,
+      "o": 69,
+      "n": 0,
+      "dur": 6
+     },
+     {
+      "d": "#9V0QYUGQC",
+      "dn": "♡lNUYASHA♡",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 52,
+      "o": 70,
+      "n": 0,
+      "dur": 19
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -708,7 +731,7 @@
     }
    }
   ],
-  "snap": "2026-11-15T15:17:32Z"
+  "snap": "2026-11-15T15:22:32Z"
  },
  {
   "id": "war_20261111T215123Z_2YR0LL8P8",
