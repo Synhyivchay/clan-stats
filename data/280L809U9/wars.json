@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 36,
-   "pct": 70.95,
-   "attacks": 20
+   "stars": 38,
+   "pct": 74.4,
+   "attacks": 21
   },
   "them": {
    "tag": "#U09QCQUV",
@@ -67,7 +67,19 @@
     "name": "Patrik",
     "th": 18,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JVGLU9GC",
+      "dn": "kishan",
+      "dpos": 3,
+      "dth": 18,
+      "s": 2,
+      "p": 69,
+      "o": 35,
+      "n": 2,
+      "dur": 165
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -498,7 +510,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T12:30:25Z"
+  "snap": "2026-11-16T12:35:25Z"
  },
  {
   "id": "war_20261112T110827Z_20CJ29U8J",
