@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 17,
-   "pct": 22.0,
-   "attacks": 7
+   "stars": 20,
+   "pct": 25.33,
+   "attacks": 8
   },
   "them": {
    "tag": "#2VYU0CR",
@@ -115,6 +115,17 @@
       "o": 21,
       "n": 2,
       "dur": 161
+     },
+     {
+      "d": "#8YPJCUV8",
+      "dn": "Franco 19",
+      "dpos": 6,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 22,
+      "n": 3,
+      "dur": 131
      }
     ],
     "def": {
@@ -470,7 +481,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T23:14:50Z"
+  "snap": "2026-11-16T23:19:50Z"
  },
  {
   "id": "war_20261113T214306Z_JRJC9JUY",
