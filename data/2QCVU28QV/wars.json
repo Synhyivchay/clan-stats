@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 23,
-   "pct": 28.67,
-   "attacks": 9
+   "stars": 26,
+   "pct": 32.0,
+   "attacks": 10
   },
   "them": {
    "tag": "#2VYU0CR",
@@ -186,6 +186,17 @@
       "o": 23,
       "n": 3,
       "dur": 165
+     },
+     {
+      "d": "#GVP9LQQL",
+      "dn": "Andrea",
+      "dpos": 9,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 24,
+      "n": 3,
+      "dur": 94
      }
     ],
     "def": {
@@ -493,7 +504,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T23:24:50Z"
+  "snap": "2026-11-16T23:29:50Z"
  },
  {
   "id": "war_20261113T214306Z_JRJC9JUY",
