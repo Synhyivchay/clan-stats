@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 12,
-   "pct": 13.33,
-   "attacks": 4
+   "stars": 13,
+   "pct": 16.03,
+   "attacks": 5
   },
   "them": {
    "tag": "#2VYU0CR",
    "name": "italia.1",
    "badge": "https://api-assets.clashofclans.com/badges/200/sPryR5Q5WRXSn2qa1VhdW4kmq6to2Z5QrbIVjUqbUDQ.png",
    "level": 27,
-   "stars": 24,
-   "pct": 26.67,
-   "attacks": 8
+   "stars": 26,
+   "pct": 29.57,
+   "attacks": 9
   },
   "members": [
    {
@@ -380,9 +380,9 @@
     "pos": 26,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 87
     }
    },
    {
@@ -402,7 +402,19 @@
     "name": "Ahmed leo 10$$",
     "th": 18,
     "pos": 28,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YRGU0GR9",
+      "dn": "bepiii",
+      "dpos": 28,
+      "dth": 18,
+      "s": 1,
+      "p": 81,
+      "o": 14,
+      "n": 1,
+      "dur": 132
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -434,7 +446,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T21:54:50Z"
+  "snap": "2026-11-16T21:59:50Z"
  },
  {
   "id": "war_20261113T214306Z_JRJC9JUY",
