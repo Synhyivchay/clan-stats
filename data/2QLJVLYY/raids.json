@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 969106,
+  "loot": 979045,
   "raids": 11,
-  "attacks": 227,
-  "districts": 86,
+  "attacks": 229,
+  "districts": 87,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -215,6 +215,13 @@
     "loot": 21426
    },
    {
+    "tag": "#PVCPGJL9R",
+    "name": "000Roma000",
+    "a": 4,
+    "lim": 6,
+    "loot": 20407
+   },
+   {
     "tag": "#GRLLYQQLV",
     "name": "WOLF",
     "a": 6,
@@ -276,13 +283,6 @@
     "a": 5,
     "lim": 5,
     "loot": 12820
-   },
-   {
-    "tag": "#PVCPGJL9R",
-    "name": "000Roma000",
-    "a": 2,
-    "lim": 6,
-    "loot": 10468
    },
    {
     "tag": "#Q2UQLVQQJ",
