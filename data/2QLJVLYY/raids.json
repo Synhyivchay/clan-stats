@@ -290,6 +290,13 @@
     "a": 1,
     "lim": 5,
     "loot": 1440
+   },
+   {
+    "tag": "#YVP0G0V2G",
+    "name": "Relax",
+    "a": 0,
+    "lim": 5,
+    "loot": 0
    }
   ]
  },
