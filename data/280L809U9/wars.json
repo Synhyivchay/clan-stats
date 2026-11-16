@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 33,
-   "pct": 61.35,
-   "attacks": 14
+   "stars": 34,
+   "pct": 65.05,
+   "attacks": 15
   },
   "them": {
    "tag": "#U09QCQUV",
@@ -32,7 +32,19 @@
     "name": "Ragnar",
     "th": 18,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PCP8LJVJ0",
+      "dn": "Mayank Patel",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 74,
+      "o": 23,
+      "n": 1,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -430,7 +442,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T03:19:53Z"
+  "snap": "2026-11-16T03:24:53Z"
  },
  {
   "id": "war_20261112T110827Z_20CJ29U8J",
