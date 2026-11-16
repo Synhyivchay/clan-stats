@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 65,
-   "pct": 90.04,
-   "attacks": 32
+   "stars": 68,
+   "pct": 94.04,
+   "attacks": 33
   },
   "them": {
    "tag": "#2GQLQUU0R",
    "name": "Umbrella Inc.",
    "badge": "https://api-assets.clashofclans.com/badges/200/Az2KTu1Fo-2eOl6555nLAbcJvV_x3iW-TjJVM8vqt0s.png",
    "level": 17,
-   "stars": 49,
-   "pct": 71.04,
-   "attacks": 25
+   "stars": 52,
+   "pct": 75.04,
+   "attacks": 26
   },
   "members": [
    {
@@ -280,9 +280,9 @@
     "pos": 10,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -361,6 +361,17 @@
       "o": 18,
       "n": 2,
       "dur": 170
+     },
+     {
+      "d": "#LGL8GLYYC",
+      "dn": "Epitome",
+      "dpos": 15,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 58,
+      "n": 3,
+      "dur": 147
      }
     ],
     "def": {
@@ -698,7 +709,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T13:25:25Z"
+  "snap": "2026-11-16T13:30:25Z"
  },
  {
   "id": "war_20261112T105547Z_90YCCCP2",
