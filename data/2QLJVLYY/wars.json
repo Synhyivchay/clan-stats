@@ -15,7 +15,7 @@
    "level": 34,
    "stars": 50,
    "pct": 71.32,
-   "attacks": 22
+   "attacks": 23
   },
   "them": {
    "tag": "#2GQLQUU0R",
@@ -504,7 +504,19 @@
     "name": "Потик_YT",
     "th": 14,
     "pos": 23,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8PGJCCCLP",
+      "dn": "Sarg-PigSticker",
+      "dpos": 23,
+      "dth": 14,
+      "s": 2,
+      "p": 62,
+      "o": 38,
+      "n": 0,
+      "dur": 140
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -582,7 +594,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T06:35:05Z"
+  "snap": "2026-11-16T06:40:05Z"
  },
  {
   "id": "war_20261112T105547Z_90YCCCP2",
