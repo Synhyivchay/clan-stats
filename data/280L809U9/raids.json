@@ -1,15 +1,15 @@
 [
  {
   "id": "2026-11-13",
-  "state": "ongoing",
+  "state": "ended",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 1034620,
+  "loot": 1041740,
   "raids": 12,
-  "attacks": 228,
+  "attacks": 229,
   "districts": 90,
-  "offReward": 0,
-  "defReward": 0,
+  "offReward": 219,
+  "defReward": 233,
   "members": [
    {
     "tag": "#L9GQPGPYV",
@@ -17,6 +17,13 @@
     "a": 6,
     "lim": 6,
     "loot": 34572
+   },
+   {
+    "tag": "#YR9GYYQC2",
+    "name": "Stars",
+    "a": 6,
+    "lim": 6,
+    "loot": 34385
    },
    {
     "tag": "#82QQ2QY0V",
@@ -157,13 +164,6 @@
     "a": 5,
     "lim": 5,
     "loot": 27425
-   },
-   {
-    "tag": "#YR9GYYQC2",
-    "name": "Stars",
-    "a": 5,
-    "lim": 6,
-    "loot": 27265
    },
    {
     "tag": "#PCUY9YUYU",
