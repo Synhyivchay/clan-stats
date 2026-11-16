@@ -22,9 +22,9 @@
    "name": "Umbrella Inc.",
    "badge": "https://api-assets.clashofclans.com/badges/200/Az2KTu1Fo-2eOl6555nLAbcJvV_x3iW-TjJVM8vqt0s.png",
    "level": 17,
-   "stars": 41,
-   "pct": 58.88,
-   "attacks": 21
+   "stars": 42,
+   "pct": 59.48,
+   "attacks": 22
   },
   "members": [
    {
@@ -481,9 +481,9 @@
      }
     ],
     "def": {
-     "n": 3,
-     "s": 2,
-     "p": 85
+     "n": 4,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -698,7 +698,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T13:05:26Z"
+  "snap": "2026-11-16T13:10:25Z"
  },
  {
   "id": "war_20261112T105547Z_90YCCCP2",
