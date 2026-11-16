@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 917500,
-  "raids": 10,
-  "attacks": 206,
-  "districts": 80,
+  "loot": 925042,
+  "raids": 11,
+  "attacks": 208,
+  "districts": 81,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -236,6 +236,13 @@
     "loot": 17996
    },
    {
+    "tag": "#G0GP90YCL",
+    "name": "Boston",
+    "a": 3,
+    "lim": 6,
+    "loot": 13192
+   },
+   {
     "tag": "#GQPYJ9GLQ",
     "name": "Mayla",
     "a": 6,
@@ -248,13 +255,6 @@
     "a": 2,
     "lim": 6,
     "loot": 8472
-   },
-   {
-    "tag": "#G0GP90YCL",
-    "name": "Boston",
-    "a": 1,
-    "lim": 5,
-    "loot": 5650
    },
    {
     "tag": "#Y2PQ000UC",
