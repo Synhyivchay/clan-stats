@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 34,
-   "pct": 65.05,
-   "attacks": 15
+   "pct": 65.9,
+   "attacks": 16
   },
   "them": {
    "tag": "#U09QCQUV",
@@ -127,6 +127,17 @@
       "o": 16,
       "n": 3,
       "dur": 142
+     },
+     {
+      "d": "#PCP8LJVJ0",
+      "dn": "Mayank Patel",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 91,
+      "o": 27,
+      "n": 0,
+      "dur": 179
      }
     ],
     "def": {
@@ -442,7 +453,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T06:05:05Z"
+  "snap": "2026-11-16T06:10:05Z"
  },
  {
   "id": "war_20261112T110827Z_20CJ29U8J",

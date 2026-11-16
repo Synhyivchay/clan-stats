@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 931270,
+  "loot": 938490,
   "raids": 11,
-  "attacks": 209,
+  "attacks": 210,
   "districts": 82,
   "offReward": 0,
   "defReward": 0,
@@ -138,6 +138,13 @@
     "loot": 27425
    },
    {
+    "tag": "#G0GP90YCL",
+    "name": "Boston",
+    "a": 5,
+    "lim": 6,
+    "loot": 26640
+   },
+   {
     "tag": "#PCUY9YUYU",
     "name": "OO REEBOK OO",
     "a": 6,
@@ -220,13 +227,6 @@
     "a": 6,
     "lim": 6,
     "loot": 19503
-   },
-   {
-    "tag": "#G0GP90YCL",
-    "name": "Boston",
-    "a": 4,
-    "lim": 6,
-    "loot": 19420
    },
    {
     "tag": "#PL2290CCY",
