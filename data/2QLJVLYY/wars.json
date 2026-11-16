@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 57,
-   "pct": 81.16,
-   "attacks": 28
+   "stars": 60,
+   "pct": 85.16,
+   "attacks": 29
   },
   "them": {
    "tag": "#2GQLQUU0R",
@@ -114,7 +114,19 @@
     "name": "■◇LEGENDARNIY◇■",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YCPYU80V",
+      "dn": "Epitome",
+      "dpos": 7,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 45,
+      "n": 3,
+      "dur": 108
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -652,7 +664,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T09:30:05Z"
+  "snap": "2026-11-16T09:35:05Z"
  },
  {
   "id": "war_20261112T105547Z_90YCCCP2",
