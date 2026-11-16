@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 50,
-   "pct": 71.32,
-   "attacks": 23
+   "stars": 52,
+   "pct": 75.2,
+   "attacks": 24
   },
   "them": {
    "tag": "#2GQLQUU0R",
@@ -245,7 +245,19 @@
     "name": "Azek",
     "th": 18,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QG82QU9YR",
+      "dn": "hrlmb",
+      "dpos": 12,
+      "dth": 18,
+      "s": 2,
+      "p": 97,
+      "o": 39,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -594,7 +606,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T07:10:05Z"
+  "snap": "2026-11-16T07:20:05Z"
  },
  {
   "id": "war_20261112T105547Z_90YCCCP2",
