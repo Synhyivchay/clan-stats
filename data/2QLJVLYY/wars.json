@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 41,
-   "pct": 60.12,
-   "attacks": 17
+   "stars": 44,
+   "pct": 64.2,
+   "attacks": 19
   },
   "them": {
    "tag": "#2GQLQUU0R",
@@ -270,7 +270,19 @@
     "name": "MR.KING",
     "th": 17,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9PU0CU9JG",
+      "dn": "Eleys RS",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 73,
+      "o": 34,
+      "n": 1,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -399,6 +411,17 @@
       "o": 32,
       "n": 2,
       "dur": 116
+     },
+     {
+      "d": "#8YY0R9UQQ",
+      "dn": "Papa Smurf",
+      "dpos": 24,
+      "dth": 14,
+      "s": 3,
+      "p": 100,
+      "o": 33,
+      "n": 2,
+      "dur": 83
      }
     ],
     "def": {
@@ -525,7 +548,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T05:35:05Z"
+  "snap": "2026-11-16T05:40:05Z"
  },
  {
   "id": "war_20261112T105547Z_90YCCCP2",
