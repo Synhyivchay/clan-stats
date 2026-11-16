@@ -2,7 +2,7 @@
  {
   "id": "war_20261115T213448Z_2VYU0CR",
   "type": "war",
-  "state": "preparation",
+  "state": "inWar",
   "prep": "2026-11-15T21:34:48Z",
   "start": "2026-11-16T21:22:32Z",
   "end": "2026-11-17T21:22:32Z",
@@ -22,15 +22,15 @@
    "name": "italia.1",
    "badge": "https://api-assets.clashofclans.com/badges/200/sPryR5Q5WRXSn2qa1VhdW4kmq6to2Z5QrbIVjUqbUDQ.png",
    "level": 27,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 3.33,
+   "attacks": 1
   },
   "members": [
    {
     "tag": "#LRV88C0RQ",
     "name": "Bigmac's sohn",
-    "th": 18,
+    "th": 19,
     "pos": 1,
     "attacks": [],
     "def": {
@@ -42,19 +42,19 @@
    {
     "tag": "#P9C8Q9RCR",
     "name": "Hattrickser",
-    "th": 18,
+    "th": 19,
     "pos": 2,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
     "tag": "#22L9YGQ2U",
     "name": "slory",
-    "th": 18,
+    "th": 19,
     "pos": 3,
     "attacks": [],
     "def": {
@@ -66,7 +66,7 @@
    {
     "tag": "#G29QC0G0G",
     "name": "Riesen_Stinker",
-    "th": 18,
+    "th": 19,
     "pos": 4,
     "attacks": [],
     "def": {
@@ -90,7 +90,7 @@
    {
     "tag": "#QUUCY9VYQ",
     "name": "Marc",
-    "th": 18,
+    "th": 19,
     "pos": 6,
     "attacks": [],
     "def": {
@@ -102,7 +102,7 @@
    {
     "tag": "#9090P29L9",
     "name": "Louis™️187",
-    "th": 18,
+    "th": 19,
     "pos": 7,
     "attacks": [],
     "def": {
@@ -114,7 +114,7 @@
    {
     "tag": "#2RJ9YL8Y0",
     "name": "ThomasCzika",
-    "th": 18,
+    "th": 19,
     "pos": 8,
     "attacks": [],
     "def": {
@@ -126,7 +126,7 @@
    {
     "tag": "#YQLLCGP0",
     "name": "Lennart",
-    "th": 18,
+    "th": 19,
     "pos": 9,
     "attacks": [],
     "def": {
@@ -138,7 +138,7 @@
    {
     "tag": "#LG8YC2Y92",
     "name": "Kingdingeling",
-    "th": 18,
+    "th": 19,
     "pos": 10,
     "attacks": [],
     "def": {
@@ -150,7 +150,7 @@
    {
     "tag": "#Y82GLVV9U",
     "name": "kevin",
-    "th": 18,
+    "th": 19,
     "pos": 11,
     "attacks": [],
     "def": {
@@ -162,7 +162,7 @@
    {
     "tag": "#L9P0UP28",
     "name": "Killer 2000",
-    "th": 18,
+    "th": 19,
     "pos": 12,
     "attacks": [],
     "def": {
@@ -174,7 +174,7 @@
    {
     "tag": "#2GG9VVGQJ",
     "name": "Rudi",
-    "th": 18,
+    "th": 19,
     "pos": 13,
     "attacks": [],
     "def": {
@@ -186,7 +186,7 @@
    {
     "tag": "#YL0QYGP0V",
     "name": "Bassko",
-    "th": 18,
+    "th": 19,
     "pos": 14,
     "attacks": [],
     "def": {
@@ -198,7 +198,7 @@
    {
     "tag": "#9U20UCLV2",
     "name": "LokiPhil",
-    "th": 18,
+    "th": 19,
     "pos": 15,
     "attacks": [],
     "def": {
@@ -210,7 +210,7 @@
    {
     "tag": "#QU2GPCCRJ",
     "name": "Hornbär",
-    "th": 18,
+    "th": 19,
     "pos": 16,
     "attacks": [],
     "def": {
@@ -222,7 +222,7 @@
    {
     "tag": "#9G0GVR8GQ",
     "name": "アイドル",
-    "th": 18,
+    "th": 19,
     "pos": 17,
     "attacks": [],
     "def": {
@@ -234,7 +234,7 @@
    {
     "tag": "#YU99PU9GQ",
     "name": "Luka Tate",
-    "th": 18,
+    "th": 19,
     "pos": 18,
     "attacks": [],
     "def": {
@@ -246,7 +246,7 @@
    {
     "tag": "#9J0QP2CU8",
     "name": "xXDamage",
-    "th": 18,
+    "th": 19,
     "pos": 19,
     "attacks": [],
     "def": {
@@ -258,7 +258,7 @@
    {
     "tag": "#GRYQY8Q",
     "name": "@Michi@",
-    "th": 18,
+    "th": 19,
     "pos": 20,
     "attacks": [],
     "def": {
@@ -270,7 +270,7 @@
    {
     "tag": "#J9VRQ882",
     "name": "RudiV2",
-    "th": 18,
+    "th": 19,
     "pos": 21,
     "attacks": [],
     "def": {
@@ -282,7 +282,7 @@
    {
     "tag": "#CCLJJJ80",
     "name": "受理freestyle",
-    "th": 18,
+    "th": 19,
     "pos": 22,
     "attacks": [],
     "def": {
@@ -294,7 +294,7 @@
    {
     "tag": "#80CLP9QQ0",
     "name": "hazhir ro",
-    "th": 18,
+    "th": 19,
     "pos": 23,
     "attacks": [],
     "def": {
@@ -306,7 +306,7 @@
    {
     "tag": "#J8PVCRGQ",
     "name": "lennyy1992",
-    "th": 18,
+    "th": 19,
     "pos": 24,
     "attacks": [],
     "def": {
@@ -366,7 +366,7 @@
    {
     "tag": "#2CCJVQ08V",
     "name": "Shaun Ryan",
-    "th": 18,
+    "th": 19,
     "pos": 29,
     "attacks": [],
     "def": {
@@ -378,7 +378,7 @@
    {
     "tag": "#2YRLLG9JC",
     "name": "Monkey D. Lorik",
-    "th": 18,
+    "th": 19,
     "pos": 30,
     "attacks": [],
     "def": {
@@ -388,7 +388,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T21:19:50Z"
+  "snap": "2026-11-16T21:24:50Z"
  },
  {
   "id": "war_20261113T214306Z_JRJC9JUY",
