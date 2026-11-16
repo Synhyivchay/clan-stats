@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 40,
-   "pct": 77.7,
-   "attacks": 22
+   "stars": 43,
+   "pct": 82.7,
+   "attacks": 23
   },
   "them": {
    "tag": "#U09QCQUV",
@@ -513,7 +513,19 @@
     "name": "Влад",
     "th": 16,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P820Q29CG",
+      "dn": "Angel",
+      "dpos": 20,
+      "dth": 12,
+      "s": 3,
+      "p": 100,
+      "o": 41,
+      "n": 3,
+      "dur": 130
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -521,7 +533,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T14:55:26Z"
+  "snap": "2026-11-16T15:00:25Z"
  },
  {
   "id": "war_20261112T110827Z_20CJ29U8J",
