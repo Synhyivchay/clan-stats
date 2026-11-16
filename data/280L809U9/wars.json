@@ -2,7 +2,7 @@
  {
   "id": "war_20261114T184547Z_U09QCQUV",
   "type": "war",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-14T18:45:47Z",
   "start": "2026-11-15T17:45:47Z",
   "end": "2026-11-16T18:33:16Z",
@@ -15,16 +15,16 @@
    "level": 25,
    "stars": 43,
    "pct": 82.7,
-   "attacks": 24
+   "attacks": 30
   },
   "them": {
    "tag": "#U09QCQUV",
    "name": "AVANGER",
    "badge": "https://api-assets.clashofclans.com/badges/200/k7fPg1R0gWjYi4yg9G5TuQomNV5AC4pmVQcLvRLFuTw.png",
    "level": 27,
-   "stars": 54,
-   "pct": 92.8,
-   "attacks": 21
+   "stars": 60,
+   "pct": 100.0,
+   "attacks": 34
   },
   "members": [
    {
@@ -57,7 +57,7 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 4,
      "s": 3,
      "p": 100
     }
@@ -92,7 +92,7 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 3,
      "s": 3,
      "p": 100
     }
@@ -114,7 +114,30 @@
     "name": "OO REEBOK OO",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PCP8LJVJ0",
+      "dn": "Mayank Patel",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 64,
+      "o": 56,
+      "n": 0,
+      "dur": 109
+     },
+     {
+      "d": "#2VR8U2P22",
+      "dn": "V C Patil",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 6,
+      "o": 57,
+      "n": 0,
+      "dur": 17
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -126,7 +149,30 @@
     "name": "ReTrO",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2VR8U2P22",
+      "dn": "V C Patil",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 6,
+      "o": 60,
+      "n": 0,
+      "dur": 20
+     },
+     {
+      "d": "#JVGLU9GC",
+      "dn": "kishan",
+      "dpos": 3,
+      "dth": 18,
+      "s": 1,
+      "p": 11,
+      "o": 61,
+      "n": 0,
+      "dur": 19
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -138,7 +184,30 @@
     "name": "Boston",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2VR8U2P22",
+      "dn": "V C Patil",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 6,
+      "o": 58,
+      "n": 0,
+      "dur": 8
+     },
+     {
+      "d": "#JVGLU9GC",
+      "dn": "kishan",
+      "dpos": 3,
+      "dth": 18,
+      "s": 1,
+      "p": 8,
+      "o": 59,
+      "n": 0,
+      "dur": 9
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -315,9 +384,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 96
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -374,7 +443,7 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 3,
      "p": 100
     }
@@ -386,7 +455,7 @@
     "pos": 15,
     "attacks": [],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 3,
      "p": 100
     }
@@ -421,9 +490,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -456,9 +525,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 92
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -491,9 +560,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 68
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -503,7 +572,7 @@
     "pos": 19,
     "attacks": [],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 3,
      "p": 100
     }
@@ -538,12 +607,13 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 3,
      "p": 100
     }
    }
   ],
+  "result": "lose",
   "snap": "2026-11-16T15:25:25Z"
  },
  {

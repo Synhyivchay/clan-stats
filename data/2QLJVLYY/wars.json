@@ -2,7 +2,7 @@
  {
   "id": "war_20261114T182310Z_2GQLQUU0R",
   "type": "war",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-14T18:23:10Z",
   "start": "2026-11-15T17:23:10Z",
   "end": "2026-11-16T18:11:06Z",
@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 72,
-   "pct": 99.04,
-   "attacks": 35
+   "stars": 75,
+   "pct": 100.0,
+   "attacks": 43
   },
   "them": {
    "tag": "#2GQLQUU0R",
    "name": "Umbrella Inc.",
    "badge": "https://api-assets.clashofclans.com/badges/200/Az2KTu1Fo-2eOl6555nLAbcJvV_x3iW-TjJVM8vqt0s.png",
    "level": 17,
-   "stars": 63,
-   "pct": 93.64,
-   "attacks": 31
+   "stars": 71,
+   "pct": 98.64,
+   "attacks": 39
   },
   "members": [
    {
@@ -207,7 +207,30 @@
     "name": "000Roma000",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9PU0CU9JG",
+      "dn": "Eleys RS",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 11,
+      "o": 75,
+      "n": 0,
+      "dur": 13
+     },
+     {
+      "d": "#L2V8Y88R",
+      "dn": "THRØNE",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 9,
+      "o": 76,
+      "n": 0,
+      "dur": 4
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -219,11 +242,34 @@
     "name": "000Sergey000",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QG82QU9YR",
+      "dn": "hrlmb",
+      "dpos": 12,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 74,
+      "n": 1,
+      "dur": 149
+     },
+     {
+      "d": "#9PU0CU9JG",
+      "dn": "Eleys RS",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 10,
+      "o": 77,
+      "n": 0,
+      "dur": 14
+     }
+    ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 94
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -256,9 +302,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 94
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -324,12 +370,23 @@
       "o": 36,
       "n": 2,
       "dur": 99
+     },
+     {
+      "d": "#9PU0CU9JG",
+      "dn": "Eleys RS",
+      "dpos": 1,
+      "dth": 18,
+      "s": 2,
+      "p": 54,
+      "o": 78,
+      "n": 0,
+      "dur": 53
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -348,12 +405,23 @@
       "o": 39,
       "n": 2,
       "dur": 180
+     },
+     {
+      "d": "#U0Y9Y22U",
+      "dn": "Liquified",
+      "dpos": 14,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 72,
+      "n": 1,
+      "dur": 159
      }
     ],
     "def": {
-     "n": 1,
-     "s": 1,
-     "p": 92
+     "n": 2,
+     "s": 2,
+     "p": 94
     }
    },
    {
@@ -361,7 +429,30 @@
     "name": "Relax",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RLURR2VU",
+      "dn": "RYAN",
+      "dpos": 16,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 71,
+      "n": 1,
+      "dur": 93
+     },
+     {
+      "d": "#9PU0CU9JG",
+      "dn": "Eleys RS",
+      "dpos": 1,
+      "dth": 18,
+      "s": 1,
+      "p": 8,
+      "o": 73,
+      "n": 0,
+      "dur": 14
+     }
+    ],
     "def": {
      "n": 1,
      "s": 1,
@@ -398,7 +489,7 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 3,
      "s": 2,
      "p": 99
     }
@@ -480,9 +571,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 1,
-     "p": 89
+     "n": 3,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -732,6 +823,7 @@
     }
    }
   ],
+  "result": "win",
   "snap": "2026-11-16T15:25:25Z"
  },
  {
