@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 929558,
+  "loot": 942364,
   "raids": 11,
-  "attacks": 220,
-  "districts": 82,
+  "attacks": 222,
+  "districts": 83,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -236,6 +236,13 @@
     "loot": 18759
    },
    {
+    "tag": "#QU0QU0Q80",
+    "name": "Dream®",
+    "a": 3,
+    "lim": 6,
+    "loot": 18646
+   },
+   {
     "tag": "#8GGC8UY08",
     "name": "Super Men",
     "a": 6,
@@ -269,13 +276,6 @@
     "a": 5,
     "lim": 5,
     "loot": 12820
-   },
-   {
-    "tag": "#QU0QU0Q80",
-    "name": "Dream®",
-    "a": 1,
-    "lim": 5,
-    "loot": 5840
    },
    {
     "tag": "#Q2UQLVQQJ",
