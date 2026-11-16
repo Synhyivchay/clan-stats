@@ -15,16 +15,16 @@
    "level": 25,
    "stars": 43,
    "pct": 82.7,
-   "attacks": 23
+   "attacks": 24
   },
   "them": {
    "tag": "#U09QCQUV",
    "name": "AVANGER",
    "badge": "https://api-assets.clashofclans.com/badges/200/k7fPg1R0gWjYi4yg9G5TuQomNV5AC4pmVQcLvRLFuTw.png",
    "level": 27,
-   "stars": 48,
-   "pct": 83.05,
-   "attacks": 18
+   "stars": 49,
+   "pct": 83.2,
+   "attacks": 19
   },
   "members": [
    {
@@ -245,9 +245,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 97
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -524,6 +524,17 @@
       "o": 41,
       "n": 3,
       "dur": 130
+     },
+     {
+      "d": "#PYLVCQJGP",
+      "dn": "AISHA",
+      "dpos": 14,
+      "dth": 16,
+      "s": 1,
+      "p": 54,
+      "o": 42,
+      "n": 0,
+      "dur": 113
      }
     ],
     "def": {
@@ -533,7 +544,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T15:00:25Z"
+  "snap": "2026-11-16T15:05:25Z"
  },
  {
   "id": "war_20261112T110827Z_20CJ29U8J",
