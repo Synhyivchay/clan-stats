@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 20,
-   "pct": 25.33,
-   "attacks": 8
+   "stars": 23,
+   "pct": 28.67,
+   "attacks": 9
   },
   "them": {
    "tag": "#2VYU0CR",
@@ -175,7 +175,19 @@
     "name": "Kingdingeling",
     "th": 19,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y8LJRVJGG",
+      "dn": "Serpico",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 23,
+      "n": 3,
+      "dur": 165
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -481,7 +493,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T23:19:50Z"
+  "snap": "2026-11-16T23:24:50Z"
  },
  {
   "id": "war_20261113T214306Z_JRJC9JUY",
