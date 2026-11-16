@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 9,
+   "pct": 10.0,
+   "attacks": 3
   },
   "them": {
    "tag": "#2VYU0CR",
    "name": "italia.1",
    "badge": "https://api-assets.clashofclans.com/badges/200/sPryR5Q5WRXSn2qa1VhdW4kmq6to2Z5QrbIVjUqbUDQ.png",
    "level": 27,
-   "stars": 12,
-   "pct": 13.33,
-   "attacks": 4
+   "stars": 15,
+   "pct": 16.67,
+   "attacks": 5
   },
   "members": [
    {
@@ -58,9 +58,9 @@
     "pos": 3,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -236,7 +236,19 @@
     "name": "Luka Tate",
     "th": 19,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L0GJQGQ",
+      "dn": "milleVonHakak",
+      "dpos": 2,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 7,
+      "n": 3,
+      "dur": 124
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -284,7 +296,30 @@
     "name": "受理freestyle",
     "th": 19,
     "pos": 22,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QQRQ2CYG",
+      "dn": "SUBA⚜️KaYaK",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 6,
+      "n": 3,
+      "dur": 118
+     },
+     {
+      "d": "#P0QVQCVJC",
+      "dn": "Black ✦ Mask",
+      "dpos": 3,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 8,
+      "n": 3,
+      "dur": 146
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -388,7 +423,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T21:29:50Z"
+  "snap": "2026-11-16T21:34:50Z"
  },
  {
   "id": "war_20261113T214306Z_JRJC9JUY",
