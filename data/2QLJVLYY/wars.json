@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 48,
-   "pct": 70.24,
-   "attacks": 21
+   "stars": 50,
+   "pct": 71.32,
+   "attacks": 22
   },
   "them": {
    "tag": "#2GQLQUU0R",
@@ -55,6 +55,17 @@
       "o": 3,
       "n": 3,
       "dur": 158
+     },
+     {
+      "d": "#9PU0CU9JG",
+      "dn": "Eleys RS",
+      "dpos": 1,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 37,
+      "n": 2,
+      "dur": 166
      }
     ],
     "def": {
@@ -571,7 +582,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T06:30:05Z"
+  "snap": "2026-11-16T06:35:05Z"
  },
  {
   "id": "war_20261112T105547Z_90YCCCP2",
