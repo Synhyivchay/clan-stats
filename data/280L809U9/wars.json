@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 34,
-   "pct": 65.9,
-   "attacks": 16
+   "pct": 66.7,
+   "attacks": 17
   },
   "them": {
    "tag": "#U09QCQUV",
@@ -245,7 +245,19 @@
     "name": "чёрт",
     "th": 17,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2JURVUUCJ",
+      "dn": "LeahkimSenoj",
+      "dpos": 11,
+      "dth": 17,
+      "s": 2,
+      "p": 96,
+      "o": 28,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -453,7 +465,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T06:15:05Z"
+  "snap": "2026-11-16T06:20:05Z"
  },
  {
   "id": "war_20261112T110827Z_20CJ29U8J",
