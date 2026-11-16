@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-13T07:00:00Z",
   "end": "2026-11-16T07:00:00Z",
-  "loot": 906740,
+  "loot": 911850,
   "raids": 10,
-  "attacks": 204,
+  "attacks": 205,
   "districts": 80,
   "offReward": 0,
   "defReward": 0,
@@ -138,6 +138,13 @@
     "loot": 27425
    },
    {
+    "tag": "#PCUY9YUYU",
+    "name": "OO REEBOK OO",
+    "a": 6,
+    "lim": 6,
+    "loot": 26251
+   },
+   {
     "tag": "#QQ90VV9L2",
     "name": "Aviasales",
     "a": 6,
@@ -199,13 +206,6 @@
     "a": 6,
     "lim": 6,
     "loot": 23938
-   },
-   {
-    "tag": "#PCUY9YUYU",
-    "name": "OO REEBOK OO",
-    "a": 5,
-    "lim": 6,
-    "loot": 21141
    },
    {
     "tag": "#2P0JQ09CY",
