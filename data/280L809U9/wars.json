@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 34,
-   "pct": 66.7,
-   "attacks": 17
+   "stars": 35,
+   "pct": 70.75,
+   "attacks": 18
   },
   "them": {
    "tag": "#U09QCQUV",
@@ -43,6 +43,17 @@
       "o": 23,
       "n": 1,
       "dur": 180
+     },
+     {
+      "d": "#2VR8U2P22",
+      "dn": "V C Patil",
+      "dpos": 2,
+      "dth": 18,
+      "s": 1,
+      "p": 81,
+      "o": 31,
+      "n": 1,
+      "dur": 158
      }
     ],
     "def": {
@@ -465,7 +476,7 @@
     }
    }
   ],
-  "snap": "2026-11-16T07:30:05Z"
+  "snap": "2026-11-16T07:40:05Z"
  },
  {
   "id": "war_20261112T110827Z_20CJ29U8J",
