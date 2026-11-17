@@ -22,9 +22,9 @@
    "name": "italia.1",
    "badge": "https://api-assets.clashofclans.com/badges/200/sPryR5Q5WRXSn2qa1VhdW4kmq6to2Z5QrbIVjUqbUDQ.png",
    "level": 27,
-   "stars": 73,
-   "pct": 82.2,
-   "attacks": 33
+   "stars": 76,
+   "pct": 85.53,
+   "attacks": 34
   },
   "members": [
    {
@@ -621,9 +621,9 @@
     "pos": 24,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -768,7 +768,7 @@
     }
    }
   ],
-  "snap": "2026-11-17T13:17:46Z"
+  "snap": "2026-11-17T13:22:46Z"
  },
  {
   "id": "war_20261113T214306Z_JRJC9JUY",
