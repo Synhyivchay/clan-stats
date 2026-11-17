@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 86,
-   "pct": 98.63,
-   "attacks": 35
+   "stars": 87,
+   "pct": 98.93,
+   "attacks": 36
   },
   "them": {
    "tag": "#2VYU0CR",
@@ -642,7 +642,19 @@
     "name": "lennyy1992",
     "th": 19,
     "pos": 24,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9RLG9RU9",
+      "dn": "erichc7771",
+      "dpos": 7,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 81,
+      "n": 1,
+      "dur": 108
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -791,7 +803,7 @@
     }
    }
   ],
-  "snap": "2026-11-17T18:17:46Z"
+  "snap": "2026-11-17T18:32:46Z"
  },
  {
   "id": "war_20261113T214306Z_JRJC9JUY",
