@@ -2,7 +2,7 @@
  {
   "id": "war_20261116T214052Z_2LP0G9C8R",
   "type": "war",
-  "state": "preparation",
+  "state": "inWar",
   "prep": "2026-11-16T21:40:52Z",
   "start": "2026-11-17T20:40:52Z",
   "end": "2026-11-18T20:40:52Z",
@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 5,
+   "pct": 7.68,
+   "attacks": 2
   },
   "them": {
    "tag": "#2LP0G9C8R",
    "name": "Bozkurt Yuvası",
    "badge": "https://api-assets.clashofclans.com/badges/200/oaygM0AU0VupNHITpoIcnWW9a6YMG-houO7GUmuYGlg.png",
    "level": 17,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 23,
+   "pct": 31.92,
+   "attacks": 8
   },
   "members": [
    {
@@ -34,9 +34,9 @@
     "pos": 1,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -46,9 +46,9 @@
     "pos": 2,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -70,9 +70,9 @@
     "pos": 4,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 98
     }
    },
    {
@@ -82,9 +82,9 @@
     "pos": 5,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -150,7 +150,7 @@
    {
     "tag": "#2LCGCPR80",
     "name": "NumTorum",
-    "th": 18,
+    "th": 19,
     "pos": 11,
     "attacks": [],
     "def": {
@@ -166,9 +166,9 @@
     "pos": 12,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -178,9 +178,9 @@
     "pos": 13,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -198,7 +198,7 @@
    {
     "tag": "#QUULVGRYQ",
     "name": "MR.KING",
-    "th": 17,
+    "th": 18,
     "pos": 15,
     "attacks": [],
     "def": {
@@ -272,7 +272,19 @@
     "name": "Потик_YT",
     "th": 14,
     "pos": 21,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P9LQ80R0J",
+      "dn": "Luviaa",
+      "dpos": 24,
+      "dth": 14,
+      "s": 2,
+      "p": 92,
+      "o": 6,
+      "n": 2,
+      "dur": 136
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -284,7 +296,19 @@
     "name": "Денис",
     "th": 14,
     "pos": 22,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L9JL00V8G",
+      "dn": "İSMAİL",
+      "dpos": 22,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 10,
+      "n": 3,
+      "dur": 116
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -298,9 +322,9 @@
     "pos": 23,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -310,9 +334,9 @@
     "pos": 24,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -328,7 +352,7 @@
     }
    }
   ],
-  "snap": "2026-11-17T18:52:46Z"
+  "snap": "2026-11-17T22:17:41Z"
  },
  {
   "id": "war_20261114T182310Z_2GQLQUU0R",
