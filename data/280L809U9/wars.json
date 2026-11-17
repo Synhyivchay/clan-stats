@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 8,
-   "pct": 18.35,
-   "attacks": 4
+   "stars": 10,
+   "pct": 23.05,
+   "attacks": 6
   },
   "them": {
    "tag": "#YL0CYJPV",
@@ -187,7 +187,30 @@
     "name": "чёрт",
     "th": 17,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GJRRC9RQQ",
+      "dn": "امیرعلی خدایی",
+      "dpos": 12,
+      "dth": 17,
+      "s": 1,
+      "p": 87,
+      "o": 13,
+      "n": 1,
+      "dur": 163
+     },
+     {
+      "d": "#9VYRC2LGV",
+      "dn": "A.R.S.H.A*",
+      "dpos": 14,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 14,
+      "n": 1,
+      "dur": 132
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -314,7 +337,7 @@
     }
    }
   ],
-  "snap": "2026-11-17T22:32:41Z"
+  "snap": "2026-11-17T22:42:41Z"
  },
  {
   "id": "war_20261114T184547Z_U09QCQUV",
