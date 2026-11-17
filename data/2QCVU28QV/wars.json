@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 47,
-   "pct": 55.37,
-   "attacks": 19
+   "stars": 50,
+   "pct": 58.7,
+   "attacks": 20
   },
   "them": {
    "tag": "#2VYU0CR",
@@ -43,6 +43,17 @@
       "o": 36,
       "n": 1,
       "dur": 170
+     },
+     {
+      "d": "#LGQ9LGPVL",
+      "dn": "耀眼的黎波里",
+      "dpos": 15,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 38,
+      "n": 3,
+      "dur": 151
      }
     ],
     "def": {
@@ -609,7 +620,7 @@
     }
    }
   ],
-  "snap": "2026-11-17T07:12:54Z"
+  "snap": "2026-11-17T07:17:54Z"
  },
  {
   "id": "war_20261113T214306Z_JRJC9JUY",
