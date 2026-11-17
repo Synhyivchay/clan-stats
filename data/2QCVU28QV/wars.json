@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 84,
-   "pct": 98.0,
-   "attacks": 34
+   "stars": 86,
+   "pct": 98.63,
+   "attacks": 35
   },
   "them": {
    "tag": "#2VYU0CR",
    "name": "italia.1",
    "badge": "https://api-assets.clashofclans.com/badges/200/sPryR5Q5WRXSn2qa1VhdW4kmq6to2Z5QrbIVjUqbUDQ.png",
    "level": 27,
-   "stars": 89,
-   "pct": 99.8,
-   "attacks": 44
+   "stars": 90,
+   "pct": 100.0,
+   "attacks": 45
   },
   "members": [
    {
@@ -536,6 +536,17 @@
       "o": 78,
       "n": 3,
       "dur": 105
+     },
+     {
+      "d": "#YRGU0GR9",
+      "dn": "bepiii",
+      "dpos": 28,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 80,
+      "n": 2,
+      "dur": 101
      }
     ],
     "def": {
@@ -704,9 +715,9 @@
      }
     ],
     "def": {
-     "n": 4,
-     "s": 2,
-     "p": 94
+     "n": 5,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -780,7 +791,7 @@
     }
    }
   ],
-  "snap": "2026-11-17T17:07:46Z"
+  "snap": "2026-11-17T17:17:46Z"
  },
  {
   "id": "war_20261113T214306Z_JRJC9JUY",
