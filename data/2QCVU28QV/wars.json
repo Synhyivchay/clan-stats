@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 73,
-   "pct": 84.8,
-   "attacks": 29
+   "stars": 81,
+   "pct": 94.67,
+   "attacks": 33
   },
   "them": {
    "tag": "#2VYU0CR",
    "name": "italia.1",
    "badge": "https://api-assets.clashofclans.com/badges/200/sPryR5Q5WRXSn2qa1VhdW4kmq6to2Z5QrbIVjUqbUDQ.png",
    "level": 27,
-   "stars": 51,
-   "pct": 58.73,
-   "attacks": 19
+   "stars": 73,
+   "pct": 82.2,
+   "attacks": 33
   },
   "members": [
    {
@@ -336,11 +336,34 @@
     "name": "kevin",
     "th": 19,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#CG0YQQ8Q",
+      "dn": "peppe",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 56,
+      "n": 3,
+      "dur": 168
+     },
+     {
+      "d": "#9URVPUULP",
+      "dn": "⚜️Fulminato⚜️",
+      "dpos": 13,
+      "dth": 19,
+      "s": 2,
+      "p": 84,
+      "o": 57,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -362,9 +385,9 @@
     "pos": 13,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -397,9 +420,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 96
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -409,9 +432,9 @@
     "pos": 15,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -480,9 +503,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -492,9 +515,9 @@
     "pos": 19,
     "attacks": [],
     "def": {
-     "n": 1,
+     "n": 4,
      "s": 2,
-     "p": 79
+     "p": 89
     }
    },
    {
@@ -516,9 +539,9 @@
     "pos": 21,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -551,9 +574,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 77
     }
    },
    {
@@ -586,9 +609,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -622,9 +645,9 @@
     "pos": 26,
     "attacks": [],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 87
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -655,6 +678,17 @@
       "o": 14,
       "n": 1,
       "dur": 132
+     },
+     {
+      "d": "#QLP89YQYQ",
+      "dn": "Joi",
+      "dpos": 16,
+      "dth": 18,
+      "s": 2,
+      "p": 96,
+      "o": 58,
+      "n": 2,
+      "dur": 180
      }
     ],
     "def": {
@@ -679,6 +713,17 @@
       "o": 25,
       "n": 3,
       "dur": 159
+     },
+     {
+      "d": "#2CJYV8L",
+      "dn": "soxx19",
+      "dpos": 17,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 62,
+      "n": 3,
+      "dur": 152
      }
     ],
     "def": {
@@ -723,7 +768,7 @@
     }
    }
   ],
-  "snap": "2026-11-17T09:22:54Z"
+  "snap": "2026-11-17T13:17:46Z"
  },
  {
   "id": "war_20261113T214306Z_JRJC9JUY",
