@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 41,
-   "pct": 48.67,
-   "attacks": 15
+   "stars": 42,
+   "pct": 51.83,
+   "attacks": 16
   },
   "them": {
    "tag": "#2VYU0CR",
    "name": "italia.1",
    "badge": "https://api-assets.clashofclans.com/badges/200/sPryR5Q5WRXSn2qa1VhdW4kmq6to2Z5QrbIVjUqbUDQ.png",
    "level": 27,
-   "stars": 45,
-   "pct": 52.07,
-   "attacks": 17
+   "stars": 48,
+   "pct": 55.4,
+   "attacks": 18
   },
   "members": [
    {
@@ -293,7 +293,19 @@
     "name": "Hornbär",
     "th": 19,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9URVPUULP",
+      "dn": "⚜️Fulminato⚜️",
+      "dpos": 13,
+      "dth": 19,
+      "s": 1,
+      "p": 95,
+      "o": 34,
+      "n": 1,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -366,9 +378,9 @@
     "pos": 20,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -562,7 +574,7 @@
     }
    }
   ],
-  "snap": "2026-11-17T06:57:54Z"
+  "snap": "2026-11-17T07:02:54Z"
  },
  {
   "id": "war_20261113T214306Z_JRJC9JUY",
