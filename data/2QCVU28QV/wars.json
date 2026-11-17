@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 42,
-   "pct": 51.83,
-   "attacks": 16
+   "stars": 47,
+   "pct": 55.37,
+   "attacks": 19
   },
   "them": {
    "tag": "#2VYU0CR",
@@ -32,7 +32,19 @@
     "name": "Bigmac's sohn",
     "th": 19,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PCY099J0",
+      "dn": "Peak_Arrow",
+      "dpos": 5,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 36,
+      "n": 1,
+      "dur": 170
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -44,7 +56,30 @@
     "name": "Hattrickser",
     "th": 19,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2PP8J0Y0G",
+      "dn": "DARK",
+      "dpos": 10,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 35,
+      "n": 3,
+      "dur": 141
+     },
+     {
+      "d": "#9URVPUULP",
+      "dn": "⚜️Fulminato⚜️",
+      "dpos": 13,
+      "dth": 19,
+      "s": 2,
+      "p": 89,
+      "o": 37,
+      "n": 1,
+      "dur": 122
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -574,7 +609,7 @@
     }
    }
   ],
-  "snap": "2026-11-17T07:02:54Z"
+  "snap": "2026-11-17T07:12:54Z"
  },
  {
   "id": "war_20261113T214306Z_JRJC9JUY",
