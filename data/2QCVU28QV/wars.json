@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 38,
-   "pct": 45.33,
-   "attacks": 14
+   "stars": 41,
+   "pct": 48.67,
+   "attacks": 15
   },
   "them": {
    "tag": "#2VYU0CR",
@@ -103,6 +103,17 @@
       "o": 30,
       "n": 3,
       "dur": 132
+     },
+     {
+      "d": "#PGVG8JPG",
+      "dn": "PIZZO",
+      "dpos": 12,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 31,
+      "n": 3,
+      "dur": 129
      }
     ],
     "def": {
@@ -551,7 +562,7 @@
     }
    }
   ],
-  "snap": "2026-11-17T05:57:54Z"
+  "snap": "2026-11-17T06:02:54Z"
  },
  {
   "id": "war_20261113T214306Z_JRJC9JUY",
