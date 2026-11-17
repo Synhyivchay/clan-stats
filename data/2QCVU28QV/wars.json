@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 50,
-   "pct": 58.7,
-   "attacks": 20
+   "stars": 51,
+   "pct": 61.57,
+   "attacks": 21
   },
   "them": {
    "tag": "#2VYU0CR",
@@ -219,6 +219,17 @@
       "o": 16,
       "n": 2,
       "dur": 109
+     },
+     {
+      "d": "#8RRYLJUL",
+      "dn": "VixeD",
+      "dpos": 23,
+      "dth": 18,
+      "s": 1,
+      "p": 86,
+      "o": 39,
+      "n": 1,
+      "dur": 115
      }
     ],
     "def": {
@@ -620,7 +631,7 @@
     }
    }
   ],
-  "snap": "2026-11-17T07:37:54Z"
+  "snap": "2026-11-17T07:47:54Z"
  },
  {
   "id": "war_20261113T214306Z_JRJC9JUY",
