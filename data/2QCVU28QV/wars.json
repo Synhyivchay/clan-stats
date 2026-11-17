@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 57,
-   "pct": 68.23,
-   "attacks": 23
+   "stars": 63,
+   "pct": 74.9,
+   "attacks": 25
   },
   "them": {
    "tag": "#2VYU0CR",
@@ -113,6 +113,17 @@
       "o": 41,
       "n": 3,
       "dur": 138
+     },
+     {
+      "d": "#80GCQ9QGU",
+      "dn": "Lucatabs",
+      "dpos": 21,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 42,
+      "n": 3,
+      "dur": 136
      }
     ],
     "def": {
@@ -349,6 +360,17 @@
       "o": 40,
       "n": 3,
       "dur": 132
+     },
+     {
+      "d": "#PPUCYUL09",
+      "dn": "Ryu",
+      "dpos": 26,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 43,
+      "n": 3,
+      "dur": 120
      }
     ],
     "def": {
@@ -655,7 +677,7 @@
     }
    }
   ],
-  "snap": "2026-11-17T07:57:54Z"
+  "snap": "2026-11-17T08:02:54Z"
  },
  {
   "id": "war_20261113T214306Z_JRJC9JUY",
