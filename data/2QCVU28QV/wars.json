@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 81,
-   "pct": 94.67,
-   "attacks": 33
+   "stars": 84,
+   "pct": 98.0,
+   "attacks": 34
   },
   "them": {
    "tag": "#2VYU0CR",
@@ -525,7 +525,19 @@
     "name": "@Michi@",
     "th": 19,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PLVCVRQJ",
+      "dn": "MatteMelle",
+      "dpos": 25,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 78,
+      "n": 3,
+      "dur": 105
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -768,7 +780,7 @@
     }
    }
   ],
-  "snap": "2026-11-17T16:52:46Z"
+  "snap": "2026-11-17T16:57:46Z"
  },
  {
   "id": "war_20261113T214306Z_JRJC9JUY",
