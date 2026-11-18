@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 49,
-   "pct": 69.32,
-   "attacks": 24
+   "stars": 52,
+   "pct": 73.32,
+   "attacks": 25
   },
   "them": {
    "tag": "#2LP0G9C8R",
    "name": "Bozkurt Yuvası",
    "badge": "https://api-assets.clashofclans.com/badges/200/oaygM0AU0VupNHITpoIcnWW9a6YMG-houO7GUmuYGlg.png",
    "level": 17,
-   "stars": 65,
-   "pct": 90.8,
-   "attacks": 25
+   "stars": 68,
+   "pct": 94.8,
+   "attacks": 26
   },
   "members": [
    {
@@ -419,7 +419,19 @@
     "name": "SAMURAY",
     "th": 16,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2GJ8Q9VLV",
+      "dn": "kerem",
+      "dpos": 16,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 51,
+      "n": 3,
+      "dur": 142
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -528,9 +540,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -605,7 +617,7 @@
     }
    }
   ],
-  "snap": "2026-11-18T09:45:19Z"
+  "snap": "2026-11-18T09:50:19Z"
  },
  {
   "id": "war_20261114T182310Z_2GQLQUU0R",
