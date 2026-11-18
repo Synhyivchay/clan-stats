@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 10,
-   "pct": 15.16,
-   "attacks": 5
+   "stars": 12,
+   "pct": 18.48,
+   "attacks": 6
   },
   "them": {
    "tag": "#2LP0G9C8R",
@@ -56,7 +56,19 @@
     "name": "Melata",
     "th": 19,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P0UUJ2Q8G",
+      "dn": "ahmet21",
+      "dpos": 2,
+      "dth": 19,
+      "s": 2,
+      "p": 83,
+      "o": 18,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -386,7 +398,7 @@
     }
    }
   ],
-  "snap": "2026-11-18T03:02:41Z"
+  "snap": "2026-11-18T03:12:41Z"
  },
  {
   "id": "war_20261114T182310Z_2GQLQUU0R",
