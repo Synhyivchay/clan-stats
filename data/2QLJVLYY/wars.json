@@ -22,9 +22,9 @@
    "name": "Bozkurt Yuvası",
    "badge": "https://api-assets.clashofclans.com/badges/200/oaygM0AU0VupNHITpoIcnWW9a6YMG-houO7GUmuYGlg.png",
    "level": 17,
-   "stars": 47,
-   "pct": 70.24,
-   "attacks": 18
+   "stars": 50,
+   "pct": 74.24,
+   "attacks": 19
   },
   "members": [
    {
@@ -188,9 +188,9 @@
     "pos": 9,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -456,7 +456,7 @@
     }
    }
   ],
-  "snap": "2026-11-18T07:40:19Z"
+  "snap": "2026-11-18T07:45:19Z"
  },
  {
   "id": "war_20261114T182310Z_2GQLQUU0R",
