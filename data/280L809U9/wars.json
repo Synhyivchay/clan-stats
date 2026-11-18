@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 47,
-   "pct": 89.65,
-   "attacks": 23
+   "stars": 50,
+   "pct": 94.65,
+   "attacks": 24
   },
   "them": {
    "tag": "#YL0CYJPV",
@@ -114,7 +114,19 @@
     "name": "ReTrO",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#290JCGRGQ",
+      "dn": "آرسین",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 51,
+      "n": 3,
+      "dur": 101
+     }
+    ],
     "def": {
      "n": 2,
      "s": 2,
@@ -533,7 +545,7 @@
     }
    }
   ],
-  "snap": "2026-11-18T18:18:43Z"
+  "snap": "2026-11-18T18:28:43Z"
  },
  {
   "id": "war_20261114T184547Z_U09QCQUV",
