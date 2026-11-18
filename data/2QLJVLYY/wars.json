@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
    "stars": 49,
-   "pct": 69.2,
-   "attacks": 23
+   "pct": 69.32,
+   "attacks": 24
   },
   "them": {
    "tag": "#2LP0G9C8R",
@@ -289,6 +289,17 @@
       "o": 47,
       "n": 1,
       "dur": 143
+     },
+     {
+      "d": "#G9G02CUR8",
+      "dn": "Alper",
+      "dpos": 12,
+      "dth": 18,
+      "s": 2,
+      "p": 98,
+      "o": 48,
+      "n": 0,
+      "dur": 180
      }
     ],
     "def": {
@@ -594,7 +605,7 @@
     }
    }
   ],
-  "snap": "2026-11-18T09:35:19Z"
+  "snap": "2026-11-18T09:40:19Z"
  },
  {
   "id": "war_20261114T182310Z_2GQLQUU0R",
