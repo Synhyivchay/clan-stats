@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 5,
-   "pct": 7.68,
-   "attacks": 2
+   "stars": 8,
+   "pct": 11.68,
+   "attacks": 3
   },
   "them": {
    "tag": "#2LP0G9C8R",
@@ -307,6 +307,17 @@
       "o": 10,
       "n": 3,
       "dur": 116
+     },
+     {
+      "d": "#QV0JLGGVV",
+      "dn": "X Son Dezzly X",
+      "dpos": 23,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 14,
+      "n": 3,
+      "dur": 110
      }
     ],
     "def": {
@@ -352,7 +363,7 @@
     }
    }
   ],
-  "snap": "2026-11-18T00:42:41Z"
+  "snap": "2026-11-18T00:52:41Z"
  },
  {
   "id": "war_20261114T182310Z_2GQLQUU0R",
