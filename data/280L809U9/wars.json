@@ -22,9 +22,9 @@
    "name": "Omid",
    "badge": "https://api-assets.clashofclans.com/badges/200/4jiDS_vfBKI8K7wUL7ApXV5qnguCUu7RkAA9X4uNOC0.png",
    "level": 21,
-   "stars": 51,
-   "pct": 86.6,
-   "attacks": 21
+   "stars": 53,
+   "pct": 90.8,
+   "attacks": 22
   },
   "members": [
    {
@@ -212,9 +212,9 @@
     "pos": 10,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 84
     }
    },
    {
@@ -453,7 +453,7 @@
     }
    }
   ],
-  "snap": "2026-11-18T09:20:19Z"
+  "snap": "2026-11-18T09:30:19Z"
  },
  {
   "id": "war_20261114T184547Z_U09QCQUV",
