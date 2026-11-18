@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 40,
-   "pct": 55.16,
-   "attacks": 18
+   "stars": 44,
+   "pct": 61.4,
+   "attacks": 20
   },
   "them": {
    "tag": "#2LP0G9C8R",
@@ -161,7 +161,19 @@
     "name": "Super Men",
     "th": 19,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LUCJCGVYV",
+      "dn": "ƁOȤƘƲRƬ EmƦE",
+      "dpos": 10,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 40,
+      "n": 3,
+      "dur": 88
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -326,7 +338,19 @@
     "name": "Адик",
     "th": 17,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PVCYVPURR",
+      "dn": "Simoon",
+      "dpos": 14,
+      "dth": 18,
+      "s": 1,
+      "p": 56,
+      "o": 39,
+      "n": 1,
+      "dur": 134
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -536,7 +560,7 @@
     }
    }
   ],
-  "snap": "2026-11-18T08:20:19Z"
+  "snap": "2026-11-18T08:25:19Z"
  },
  {
   "id": "war_20261114T182310Z_2GQLQUU0R",
