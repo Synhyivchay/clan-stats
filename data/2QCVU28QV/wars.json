@@ -22,9 +22,9 @@
    "name": "MAU$ ELEMENTO$",
    "badge": "https://api-assets.clashofclans.com/badges/200/xrxVq0qnNm25EY8b4-Vy5JGIVNFZq0NgS8yinRehn5U.png",
    "level": 26,
-   "stars": 14,
-   "pct": 19.6,
-   "attacks": 5
+   "stars": 17,
+   "pct": 23.6,
+   "attacks": 6
   },
   "members": [
    {
@@ -368,13 +368,13 @@
     "pos": 25,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    }
   ],
-  "snap": "2026-11-18T22:08:46Z"
+  "snap": "2026-11-18T22:13:46Z"
  },
  {
   "id": "war_20261115T213448Z_2VYU0CR",
