@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 8,
-   "pct": 11.08,
-   "attacks": 3
+   "stars": 11,
+   "pct": 15.08,
+   "attacks": 4
   },
   "them": {
    "tag": "#8VY0RY8V",
@@ -306,6 +306,17 @@
       "o": 8,
       "n": 2,
       "dur": 146
+     },
+     {
+      "d": "#2Y2LY8VG0",
+      "dn": "zehzito",
+      "dpos": 3,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 9,
+      "n": 3,
+      "dur": 93
      }
     ],
     "def": {
@@ -363,7 +374,7 @@
     }
    }
   ],
-  "snap": "2026-11-18T21:58:46Z"
+  "snap": "2026-11-18T22:03:46Z"
  },
  {
   "id": "war_20261115T213448Z_2VYU0CR",
