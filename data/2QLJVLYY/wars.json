@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 28,
-   "pct": 39.16,
-   "attacks": 12
+   "stars": 38,
+   "pct": 54.36,
+   "attacks": 16
   },
   "them": {
    "tag": "#2LP0G9C8R",
@@ -32,7 +32,30 @@
     "name": "■◇LEGENDARNIY◇■",
     "th": 19,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LJ0YVGP88",
+      "dn": "halil",
+      "dpos": 6,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 34,
+      "n": 3,
+      "dur": 90
+     },
+     {
+      "d": "#Q8RQPV2LU",
+      "dn": "TC_AKİF_TC",
+      "dpos": 7,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 35,
+      "n": 3,
+      "dur": 110
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -185,7 +208,30 @@
     "name": "~LuciFer~",
     "th": 19,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#UYYR9CG2",
+      "dn": "NEXANTESS",
+      "dpos": 8,
+      "dth": 19,
+      "s": 2,
+      "p": 96,
+      "o": 33,
+      "n": 2,
+      "dur": 163
+     },
+     {
+      "d": "#L0L8QU8LC",
+      "dn": "GAMGAZ",
+      "dpos": 9,
+      "dth": 18,
+      "s": 2,
+      "p": 84,
+      "o": 36,
+      "n": 2,
+      "dur": 152
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -467,7 +513,7 @@
     }
    }
   ],
-  "snap": "2026-11-18T08:05:19Z"
+  "snap": "2026-11-18T08:10:19Z"
  },
  {
   "id": "war_20261114T182310Z_2GQLQUU0R",
