@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 11,
-   "pct": 15.08,
-   "attacks": 4
+   "stars": 14,
+   "pct": 19.08,
+   "attacks": 5
   },
   "them": {
    "tag": "#8VY0RY8V",
    "name": "MAU$ ELEMENTO$",
    "badge": "https://api-assets.clashofclans.com/badges/200/xrxVq0qnNm25EY8b4-Vy5JGIVNFZq0NgS8yinRehn5U.png",
    "level": 26,
-   "stars": 19,
-   "pct": 27.08,
-   "attacks": 7
+   "stars": 22,
+   "pct": 31.08,
+   "attacks": 8
   },
   "members": [
    {
@@ -175,7 +175,19 @@
     "name": "Luka Tate",
     "th": 19,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9JUVYJJG",
+      "dn": "Filipe G.",
+      "dpos": 5,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 13,
+      "n": 3,
+      "dur": 119
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -332,9 +344,9 @@
     "pos": 22,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -374,7 +386,7 @@
     }
    }
   ],
-  "snap": "2026-11-18T22:18:46Z"
+  "snap": "2026-11-18T22:23:46Z"
  },
  {
   "id": "war_20261115T213448Z_2VYU0CR",
