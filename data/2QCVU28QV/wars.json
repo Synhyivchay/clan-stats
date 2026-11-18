@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 15,
-   "pct": 20.0,
-   "attacks": 6
+   "stars": 21,
+   "pct": 28.0,
+   "attacks": 8
   },
   "them": {
    "tag": "#8VY0RY8V",
@@ -222,7 +222,30 @@
     "name": "David",
     "th": 19,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#C9CQUYLU",
+      "dn": "Piranha",
+      "dpos": 6,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 15,
+      "n": 3,
+      "dur": 107
+     },
+     {
+      "d": "#PPJVL0YG",
+      "dn": "《DimitriGOD》",
+      "dpos": 7,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 16,
+      "n": 3,
+      "dur": 95
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -397,7 +420,7 @@
     }
    }
   ],
-  "snap": "2026-11-18T22:48:46Z"
+  "snap": "2026-11-18T22:53:46Z"
  },
  {
   "id": "war_20261115T213448Z_2VYU0CR",
