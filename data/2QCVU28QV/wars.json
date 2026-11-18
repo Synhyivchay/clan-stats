@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 6,
-   "pct": 8.0,
-   "attacks": 2
+   "stars": 8,
+   "pct": 11.08,
+   "attacks": 3
   },
   "them": {
    "tag": "#8VY0RY8V",
@@ -295,7 +295,19 @@
     "name": "受理freestyle",
     "th": 19,
     "pos": 21,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#20JP8JCYR",
+      "dn": "☬Mσrnιngѕтαr☬",
+      "dpos": 2,
+      "dth": 19,
+      "s": 2,
+      "p": 77,
+      "o": 8,
+      "n": 2,
+      "dur": 146
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -351,7 +363,7 @@
     }
    }
   ],
-  "snap": "2026-11-18T21:53:46Z"
+  "snap": "2026-11-18T21:58:46Z"
  },
  {
   "id": "war_20261115T213448Z_2VYU0CR",
