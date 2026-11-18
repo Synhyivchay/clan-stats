@@ -2,7 +2,7 @@
  {
   "id": "war_20261116T214052Z_2LP0G9C8R",
   "type": "war",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-16T21:40:52Z",
   "start": "2026-11-17T20:40:52Z",
   "end": "2026-11-18T21:09:55Z",
@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 57,
-   "pct": 78.16,
-   "attacks": 28
+   "stars": 72,
+   "pct": 96.0,
+   "attacks": 34
   },
   "them": {
    "tag": "#2LP0G9C8R",
@@ -24,7 +24,7 @@
    "level": 17,
    "stars": 75,
    "pct": 100.0,
-   "attacks": 37
+   "attacks": 43
   },
   "members": [
    {
@@ -57,7 +57,7 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 3,
      "s": 3,
      "p": 100
     }
@@ -67,9 +67,32 @@
     "name": "000Sergey000",
     "th": 19,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G9G02CUR8",
+      "dn": "Alper",
+      "dpos": 12,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 67,
+      "n": 1,
+      "dur": 179
+     },
+     {
+      "d": "#QUUVPCC2Q",
+      "dn": "Lucian",
+      "dpos": 19,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 74,
+      "n": 3,
+      "dur": 114
+     }
+    ],
     "def": {
-     "n": 1,
+     "n": 3,
      "s": 3,
      "p": 100
     }
@@ -149,7 +172,30 @@
     "name": "000Roma000",
     "th": 19,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PVCYVPURR",
+      "dn": "Simoon",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 68,
+      "n": 2,
+      "dur": 143
+     },
+     {
+      "d": "#2GGGLPLYP",
+      "dn": "Berkay~™",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 70,
+      "n": 3,
+      "dur": 151
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -221,7 +267,7 @@
      }
     ],
     "def": {
-     "n": 2,
+     "n": 3,
      "s": 3,
      "p": 100
     }
@@ -326,7 +372,7 @@
      }
     ],
     "def": {
-     "n": 2,
+     "n": 3,
      "s": 3,
      "p": 100
     }
@@ -383,7 +429,30 @@
     "name": "Relax",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2RUCP80P0",
+      "dn": "03 -N.E.Ç- 1997",
+      "dpos": 15,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 69,
+      "n": 3,
+      "dur": 129
+     },
+     {
+      "d": "#8CGGPU889",
+      "dn": "Garen",
+      "dpos": 18,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 73,
+      "n": 3,
+      "dur": 116
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -651,6 +720,7 @@
     }
    }
   ],
+  "result": "lose",
   "snap": "2026-11-18T18:38:43Z"
  },
  {

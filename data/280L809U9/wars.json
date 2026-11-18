@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 50,
-   "pct": 94.65,
-   "attacks": 24
+   "stars": 58,
+   "pct": 98.7,
+   "attacks": 29
   },
   "them": {
    "tag": "#YL0CYJPV",
@@ -24,7 +24,7 @@
    "level": 21,
    "stars": 56,
    "pct": 96.5,
-   "attacks": 28
+   "attacks": 29
   },
   "members": [
    {
@@ -102,7 +102,30 @@
     "name": "OO REEBOK OO",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GQ2CUGVPG",
+      "dn": "arad",
+      "dpos": 7,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 53,
+      "n": 1,
+      "dur": 120
+     },
+     {
+      "d": "#GUCUR0922",
+      "dn": "آراد لطفی",
+      "dpos": 20,
+      "dth": 13,
+      "s": 3,
+      "p": 100,
+      "o": 57,
+      "n": 2,
+      "dur": 70
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -125,6 +148,17 @@
       "o": 51,
       "n": 3,
       "dur": 101
+     },
+     {
+      "d": "#LVUR8LC09",
+      "dn": "امیر‌ علی",
+      "dpos": 13,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 54,
+      "n": 1,
+      "dur": 110
      }
     ],
     "def": {
@@ -138,7 +172,30 @@
     "name": "Boston",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#R0YQ8QCYU",
+      "dn": "بنیامین",
+      "dpos": 17,
+      "dth": 14,
+      "s": 3,
+      "p": 100,
+      "o": 55,
+      "n": 2,
+      "dur": 74
+     },
+     {
+      "d": "#GJPGRR0YV",
+      "dn": "سحر",
+      "dpos": 19,
+      "dth": 14,
+      "s": 3,
+      "p": 100,
+      "o": 56,
+      "n": 2,
+      "dur": 72
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -175,7 +232,7 @@
      }
     ],
     "def": {
-     "n": 4,
+     "n": 5,
      "s": 2,
      "p": 98
     }
@@ -511,7 +568,7 @@
    },
    {
     "tag": "#GUPG2L9RL",
-    "name": "寒士coc1238",
+    "name": "Х҉А҉О҉С҉",
     "th": 17,
     "pos": 20,
     "attacks": [
@@ -545,7 +602,7 @@
     }
    }
   ],
-  "snap": "2026-11-18T18:38:43Z"
+  "snap": "2026-11-18T21:23:46Z"
  },
  {
   "id": "war_20261114T184547Z_U09QCQUV",
