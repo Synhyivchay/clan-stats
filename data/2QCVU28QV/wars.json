@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 66,
-   "pct": 91.0,
-   "attacks": 26
+   "stars": 68,
+   "pct": 94.76,
+   "attacks": 27
   },
   "them": {
    "tag": "#8VY0RY8V",
@@ -231,7 +231,19 @@
     "name": "@Michi@",
     "th": 19,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RYCQPC2U",
+      "dn": "ART Montanha!",
+      "dpos": 21,
+      "dth": 19,
+      "s": 2,
+      "p": 94,
+      "o": 61,
+      "n": 2,
+      "dur": 150
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -627,7 +639,7 @@
     }
    }
   ],
-  "snap": "2026-11-19T16:42:55Z"
+  "snap": "2026-11-19T16:47:55Z"
  },
  {
   "id": "war_20261115T213448Z_2VYU0CR",
