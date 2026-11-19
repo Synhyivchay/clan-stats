@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 3,
-   "pct": 5.0,
-   "attacks": 1
+   "stars": 6,
+   "pct": 10.0,
+   "attacks": 2
   },
   "them": {
    "tag": "#2CYL2V9R8",
    "name": "TRAINING NIGHT",
    "badge": "https://api-assets.clashofclans.com/badges/200/CXchlSUZjdRq34EbSSP2PN3GZkqulHMMVRHWGbxE134.png",
    "level": 10,
-   "stars": 9,
-   "pct": 15.0,
-   "attacks": 3
+   "stars": 12,
+   "pct": 20.0,
+   "attacks": 4
   },
   "members": [
    {
@@ -34,9 +34,9 @@
     "pos": 1,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -139,6 +139,17 @@
       "o": 4,
       "n": 3,
       "dur": 136
+     },
+     {
+      "d": "#CQPQJVUU",
+      "dn": "gabriello",
+      "dpos": 1,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 152
      }
     ],
     "def": {
@@ -280,7 +291,7 @@
     }
    }
   ],
-  "snap": "2026-11-19T21:38:10Z"
+  "snap": "2026-11-19T21:43:10Z"
  },
  {
   "id": "war_20261116T214052Z_2LP0G9C8R",
