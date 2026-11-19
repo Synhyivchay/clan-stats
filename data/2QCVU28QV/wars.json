@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 28,
-   "pct": 39.0,
-   "attacks": 11
+   "stars": 31,
+   "pct": 43.0,
+   "attacks": 12
   },
   "them": {
    "tag": "#8VY0RY8V",
@@ -150,7 +150,19 @@
     "name": "slory",
     "th": 19,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GQUJJLQ0",
+      "dn": "ｄａｒｏｏｓａ_",
+      "dpos": 15,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 33,
+      "n": 3,
+      "dur": 151
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -455,7 +467,7 @@
     }
    }
   ],
-  "snap": "2026-11-19T07:26:22Z"
+  "snap": "2026-11-19T07:41:22Z"
  },
  {
   "id": "war_20261115T213448Z_2VYU0CR",
