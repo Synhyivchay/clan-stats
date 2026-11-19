@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 22,
-   "pct": 31.0,
-   "attacks": 9
+   "stars": 25,
+   "pct": 35.0,
+   "attacks": 10
   },
   "them": {
    "tag": "#8VY0RY8V",
@@ -126,6 +126,17 @@
       "o": 26,
       "n": 1,
       "dur": 116
+     },
+     {
+      "d": "#999GYUY2J",
+      "dn": "Karma (⁠〒⁠﹏⁠〒⁠)",
+      "dpos": 11,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 27,
+      "n": 3,
+      "dur": 129
      }
     ],
     "def": {
@@ -432,7 +443,7 @@
     }
    }
   ],
-  "snap": "2026-11-19T04:16:22Z"
+  "snap": "2026-11-19T04:21:22Z"
  },
  {
   "id": "war_20261115T213448Z_2VYU0CR",
