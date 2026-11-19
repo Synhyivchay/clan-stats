@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 60,
-   "pct": 83.0,
-   "attacks": 24
+   "stars": 63,
+   "pct": 87.0,
+   "attacks": 25
   },
   "them": {
    "tag": "#8VY0RY8V",
@@ -537,7 +537,19 @@
     "name": "Hornbär",
     "th": 19,
     "pos": 22,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JUQ09PVJ",
+      "dn": "wil",
+      "dpos": 14,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 59,
+      "n": 3,
+      "dur": 155
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -604,7 +616,7 @@
     }
    }
   ],
-  "snap": "2026-11-19T16:07:55Z"
+  "snap": "2026-11-19T16:17:55Z"
  },
  {
   "id": "war_20261115T213448Z_2VYU0CR",
