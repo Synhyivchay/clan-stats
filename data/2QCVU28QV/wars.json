@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 68,
-   "pct": 94.76,
-   "attacks": 27
+   "stars": 71,
+   "pct": 98.76,
+   "attacks": 28
   },
   "them": {
    "tag": "#8VY0RY8V",
@@ -24,7 +24,7 @@
    "level": 26,
    "stars": 75,
    "pct": 100.0,
-   "attacks": 35
+   "attacks": 36
   },
   "members": [
    {
@@ -57,7 +57,7 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 3,
      "p": 100
     }
@@ -242,6 +242,17 @@
       "o": 61,
       "n": 2,
       "dur": 150
+     },
+     {
+      "d": "#GU0QYRL9",
+      "dn": "Cleitin Borges",
+      "dpos": 16,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 64,
+      "n": 3,
+      "dur": 145
      }
     ],
     "def": {
@@ -639,7 +650,7 @@
     }
    }
   ],
-  "snap": "2026-11-19T16:57:55Z"
+  "snap": "2026-11-19T17:02:55Z"
  },
  {
   "id": "war_20261115T213448Z_2VYU0CR",
