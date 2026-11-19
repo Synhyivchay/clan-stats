@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 9,
-   "pct": 15.0,
-   "attacks": 3
+   "stars": 14,
+   "pct": 24.0,
+   "attacks": 5
   },
   "them": {
    "tag": "#PRUYQV2R",
@@ -128,7 +128,30 @@
     "name": "Partizan",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LLPU8YJ9Q",
+      "dn": "This Hosein",
+      "dpos": 11,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 139
+     },
+     {
+      "d": "#29R2YJQC2",
+      "dn": "HeARse",
+      "dpos": 12,
+      "dth": 17,
+      "s": 2,
+      "p": 80,
+      "o": 6,
+      "n": 2,
+      "dur": 112
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -303,7 +326,7 @@
     }
    }
   ],
-  "snap": "2026-11-19T22:38:10Z"
+  "snap": "2026-11-19T22:43:10Z"
  },
  {
   "id": "war_20261116T220208Z_YL0CYJPV",
