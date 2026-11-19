@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 37,
-   "pct": 51.0,
-   "attacks": 14
+   "stars": 40,
+   "pct": 55.0,
+   "attacks": 15
   },
   "them": {
    "tag": "#8VY0RY8V",
@@ -326,6 +326,17 @@
       "o": 34,
       "n": 3,
       "dur": 139
+     },
+     {
+      "d": "#99CQPQJVC",
+      "dn": "Vinicius",
+      "dpos": 18,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 36,
+      "n": 3,
+      "dur": 140
      }
     ],
     "def": {
@@ -490,7 +501,7 @@
     }
    }
   ],
-  "snap": "2026-11-19T08:26:22Z"
+  "snap": "2026-11-19T08:31:22Z"
  },
  {
   "id": "war_20261115T213448Z_2VYU0CR",
