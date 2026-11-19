@@ -2,7 +2,7 @@
  {
   "id": "war_20261118T220842Z_PRUYQV2R",
   "type": "war",
-  "state": "preparation",
+  "state": "inWar",
   "prep": "2026-11-18T22:08:42Z",
   "start": "2026-11-19T21:08:42Z",
   "end": "2026-11-20T21:08:42Z",
@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 6,
+   "pct": 10.0,
+   "attacks": 2
   },
   "them": {
    "tag": "#PRUYQV2R",
@@ -140,7 +140,30 @@
     "name": "ed_sans_123",
     "th": 17,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LGPUP29GL",
+      "dn": "♥Anthony♥",
+      "dpos": 10,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 1,
+      "n": 3,
+      "dur": 124
+     },
+     {
+      "d": "#9UGCYGC8Q",
+      "dn": "محسن خان",
+      "dpos": 9,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 2,
+      "n": 3,
+      "dur": 172
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -268,7 +291,7 @@
     }
    }
   ],
-  "snap": "2026-11-19T18:32:55Z"
+  "snap": "2026-11-19T21:28:10Z"
  },
  {
   "id": "war_20261116T220208Z_YL0CYJPV",
