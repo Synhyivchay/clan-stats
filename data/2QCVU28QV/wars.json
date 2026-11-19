@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 21,
-   "pct": 28.0,
-   "attacks": 8
+   "stars": 22,
+   "pct": 31.0,
+   "attacks": 9
   },
   "them": {
    "tag": "#8VY0RY8V",
@@ -115,7 +115,19 @@
     "name": "Marc",
     "th": 19,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G8QPQP2P",
+      "dn": "totemal",
+      "dpos": 10,
+      "dth": 19,
+      "s": 1,
+      "p": 75,
+      "o": 26,
+      "n": 1,
+      "dur": 116
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -420,7 +432,7 @@
     }
    }
   ],
-  "snap": "2026-11-19T04:11:22Z"
+  "snap": "2026-11-19T04:16:22Z"
  },
  {
   "id": "war_20261115T213448Z_2VYU0CR",
