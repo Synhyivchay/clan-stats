@@ -22,9 +22,9 @@
    "name": "TRAINING NIGHT",
    "badge": "https://api-assets.clashofclans.com/badges/200/CXchlSUZjdRq34EbSSP2PN3GZkqulHMMVRHWGbxE134.png",
    "level": 10,
-   "stars": 18,
-   "pct": 30.0,
-   "attacks": 6
+   "stars": 24,
+   "pct": 40.0,
+   "attacks": 8
   },
   "members": [
    {
@@ -94,9 +94,9 @@
     "pos": 6,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -213,9 +213,9 @@
     "pos": 14,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -291,7 +291,7 @@
     }
    }
   ],
-  "snap": "2026-11-19T23:18:10Z"
+  "snap": "2026-11-19T23:23:10Z"
  },
  {
   "id": "war_20261116T214052Z_2LP0G9C8R",
