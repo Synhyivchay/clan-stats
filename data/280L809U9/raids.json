@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 62650,
+  "loot": 74469,
   "raids": 0,
-  "attacks": 15,
-  "districts": 5,
+  "attacks": 18,
+  "districts": 6,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -31,6 +31,13 @@
     "a": 3,
     "lim": 6,
     "loot": 14871
+   },
+   {
+    "tag": "#LRR9VR0CY",
+    "name": "Begbus",
+    "a": 3,
+    "lim": 6,
+    "loot": 11819
    }
   ]
  },
