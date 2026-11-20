@@ -4,19 +4,19 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 3675,
+  "loot": 14698,
   "raids": 0,
-  "attacks": 1,
-  "districts": 0,
+  "attacks": 3,
+  "districts": 1,
   "offReward": 0,
   "defReward": 0,
   "members": [
    {
     "tag": "#9J02VCC8J",
     "name": "Денис",
-    "a": 1,
-    "lim": 5,
-    "loot": 3675
+    "a": 3,
+    "lim": 6,
+    "loot": 14698
    }
   ]
  },
