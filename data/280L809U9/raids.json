@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 189159,
+  "loot": 198114,
   "raids": 1,
-  "attacks": 48,
+  "attacks": 50,
   "districts": 16,
   "offReward": 0,
   "defReward": 0,
@@ -54,6 +54,13 @@
     "loot": 22463
    },
    {
+    "tag": "#2Q8JLJGCJ",
+    "name": "Kaktyc",
+    "a": 4,
+    "lim": 6,
+    "loot": 19896
+   },
+   {
     "tag": "#LCRPUCU2V",
     "name": "Хранитель",
     "a": 6,
@@ -66,13 +73,6 @@
     "a": 3,
     "lim": 6,
     "loot": 14871
-   },
-   {
-    "tag": "#2Q8JLJGCJ",
-    "name": "Kaktyc",
-    "a": 2,
-    "lim": 6,
-    "loot": 10941
    },
    {
     "tag": "#GJ8PJY2PJ",
