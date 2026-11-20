@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 289283,
+  "loot": 294848,
   "raids": 2,
-  "attacks": 70,
+  "attacks": 71,
   "districts": 24,
   "offReward": 0,
   "defReward": 0,
@@ -94,6 +94,13 @@
     "a": 3,
     "lim": 6,
     "loot": 14871
+   },
+   {
+    "tag": "#PLGRC9Q0V",
+    "name": "ZEUS",
+    "a": 1,
+    "lim": 5,
+    "loot": 5565
    },
    {
     "tag": "#G8QR2CCL2",

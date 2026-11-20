@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 48,
-   "pct": 84.45,
-   "attacks": 19
+   "stars": 49,
+   "pct": 85.95,
+   "attacks": 20
   },
   "them": {
    "tag": "#PRUYQV2R",
@@ -479,6 +479,17 @@
       "o": 10,
       "n": 3,
       "dur": 91
+     },
+     {
+      "d": "#9L0GP9GCG",
+      "dn": "Amir pahlavan",
+      "dpos": 19,
+      "dth": 16,
+      "s": 1,
+      "p": 69,
+      "o": 39,
+      "n": 1,
+      "dur": 92
      }
     ],
     "def": {
@@ -488,7 +499,7 @@
     }
    }
   ],
-  "snap": "2026-11-20T14:44:15Z"
+  "snap": "2026-11-20T14:49:15Z"
  },
  {
   "id": "war_20261116T220208Z_YL0CYJPV",
