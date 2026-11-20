@@ -4,19 +4,19 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 20680,
+  "loot": 24173,
   "raids": 0,
-  "attacks": 4,
-  "districts": 0,
+  "attacks": 6,
+  "districts": 2,
   "offReward": 0,
   "defReward": 0,
   "members": [
    {
     "tag": "#LV9VQJ8GP",
     "name": "Фалирит",
-    "a": 4,
-    "lim": 5,
-    "loot": 20680
+    "a": 6,
+    "lim": 6,
+    "loot": 24173
    }
   ]
  },
