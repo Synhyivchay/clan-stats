@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 331319,
+  "loot": 343174,
   "raids": 3,
-  "attacks": 82,
-  "districts": 28,
+  "attacks": 85,
+  "districts": 29,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -89,6 +89,13 @@
     "loot": 20609
    },
    {
+    "tag": "#J8PVCRGQ",
+    "name": "lennyy1992",
+    "a": 5,
+    "lim": 6,
+    "loot": 17945
+   },
+   {
     "tag": "#LYVCYUQCR",
     "name": "Jeffrey_Chicken",
     "a": 6,
@@ -115,13 +122,6 @@
     "a": 2,
     "lim": 6,
     "loot": 11124
-   },
-   {
-    "tag": "#J8PVCRGQ",
-    "name": "lennyy1992",
-    "a": 2,
-    "lim": 5,
-    "loot": 6090
    }
   ]
  },
