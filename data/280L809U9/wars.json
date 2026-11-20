@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 31,
-   "pct": 57.5,
-   "attacks": 13
+   "stars": 34,
+   "pct": 62.5,
+   "attacks": 14
   },
   "them": {
    "tag": "#PRUYQV2R",
@@ -233,7 +233,19 @@
     "name": "prime",
     "th": 18,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8RVLQ9GJ9",
+      "dn": "sasuke",
+      "dpos": 4,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 33,
+      "n": 3,
+      "dur": 119
+     }
+    ],
     "def": {
      "n": 3,
      "s": 3,
@@ -419,7 +431,7 @@
     }
    }
   ],
-  "snap": "2026-11-20T11:29:15Z"
+  "snap": "2026-11-20T11:34:15Z"
  },
  {
   "id": "war_20261116T220208Z_YL0CYJPV",
