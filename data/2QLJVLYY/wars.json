@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 49,
-   "pct": 84.25,
-   "attacks": 23
+   "stars": 53,
+   "pct": 91.35,
+   "attacks": 26
   },
   "them": {
    "tag": "#2CYL2V9R8",
    "name": "TRAINING NIGHT",
    "badge": "https://api-assets.clashofclans.com/badges/200/CXchlSUZjdRq34EbSSP2PN3GZkqulHMMVRHWGbxE134.png",
    "level": 10,
-   "stars": 30,
-   "pct": 50.0,
-   "attacks": 10
+   "stars": 36,
+   "pct": 60.0,
+   "attacks": 12
   },
   "members": [
    {
@@ -221,9 +221,9 @@
     "pos": 7,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -291,9 +291,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -301,7 +301,30 @@
     "name": "~LuciFer~",
     "th": 19,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8Q00UJUR0",
+      "dn": "VITTO♣️alloggio",
+      "dpos": 12,
+      "dth": 19,
+      "s": 2,
+      "p": 70,
+      "o": 34,
+      "n": 2,
+      "dur": 94
+     },
+     {
+      "d": "#9GQCR90L",
+      "dn": "Bonnio",
+      "dpos": 13,
+      "dth": 18,
+      "s": 2,
+      "p": 72,
+      "o": 35,
+      "n": 2,
+      "dur": 86
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -454,6 +477,17 @@
       "o": 11,
       "n": 3,
       "dur": 152
+     },
+     {
+      "d": "#809Q8GLV",
+      "dn": "Maxi_92",
+      "dpos": 17,
+      "dth": 17,
+      "s": 2,
+      "p": 90,
+      "o": 36,
+      "n": 0,
+      "dur": 170
      }
     ],
     "def": {
@@ -533,7 +567,7 @@
     }
    }
   ],
-  "snap": "2026-11-20T08:43:08Z"
+  "snap": "2026-11-20T11:29:15Z"
  },
  {
   "id": "war_20261116T214052Z_2LP0G9C8R",

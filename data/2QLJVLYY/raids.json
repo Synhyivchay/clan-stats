@@ -4,19 +4,54 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 34584,
-  "raids": 0,
-  "attacks": 7,
-  "districts": 3,
+  "loot": 169233,
+  "raids": 2,
+  "attacks": 38,
+  "districts": 14,
   "offReward": 0,
   "defReward": 0,
   "members": [
    {
+    "tag": "#89RL09YL9",
+    "name": "Разрушитель",
+    "a": 6,
+    "lim": 6,
+    "loot": 32126
+   },
+   {
+    "tag": "#LQGGPPC92",
+    "name": "~LuciFer~",
+    "a": 6,
+    "lim": 6,
+    "loot": 28468
+   },
+   {
     "tag": "#9J02VCC8J",
     "name": "Денис",
-    "a": 4,
+    "a": 6,
     "lim": 6,
-    "loot": 19686
+    "loot": 27636
+   },
+   {
+    "tag": "#Q89CLY00Y",
+    "name": "JOVI",
+    "a": 6,
+    "lim": 6,
+    "loot": 24599
+   },
+   {
+    "tag": "#QG0URUJ0Y",
+    "name": "SAMURAY",
+    "a": 6,
+    "lim": 6,
+    "loot": 23666
+   },
+   {
+    "tag": "#PUCPRP9YV",
+    "name": "малько",
+    "a": 6,
+    "lim": 6,
+    "loot": 22045
    },
    {
     "tag": "#9P28CV0L0",
@@ -24,13 +59,6 @@
     "a": 2,
     "lim": 6,
     "loot": 10693
-   },
-   {
-    "tag": "#PUCPRP9YV",
-    "name": "малько",
-    "a": 1,
-    "lim": 5,
-    "loot": 4205
    }
   ]
  },

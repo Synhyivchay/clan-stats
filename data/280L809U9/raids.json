@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 155355,
+  "loot": 178218,
   "raids": 1,
-  "attacks": 39,
-  "districts": 13,
+  "attacks": 46,
+  "districts": 15,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -40,6 +40,13 @@
     "loot": 23606
    },
    {
+    "tag": "#GRULLYL0L",
+    "name": "alijon",
+    "a": 6,
+    "lim": 6,
+    "loot": 22863
+   },
+   {
     "tag": "#LRR9VR0CY",
     "name": "Begbus",
     "a": 6,
@@ -59,6 +66,13 @@
     "a": 3,
     "lim": 6,
     "loot": 14871
+   },
+   {
+    "tag": "#GJ8PJY2PJ",
+    "name": "RECORD",
+    "a": 1,
+    "lim": 5,
+    "loot": 0
    }
   ]
  },

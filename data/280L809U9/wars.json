@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 28,
-   "pct": 52.5,
-   "attacks": 12
+   "stars": 31,
+   "pct": 57.5,
+   "attacks": 13
   },
   "them": {
    "tag": "#PRUYQV2R",
    "name": "jiroft",
    "badge": "https://api-assets.clashofclans.com/badges/200/xXro3-How4UeBogChbE8uiFRM8iCM1jAQEKbGKKGhmU.png",
    "level": 21,
-   "stars": 35,
-   "pct": 61.2,
-   "attacks": 17
+   "stars": 41,
+   "pct": 71.2,
+   "attacks": 19
   },
   "members": [
    {
@@ -127,7 +127,19 @@
     "name": "DimagFM",
     "th": 19,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LULQUJ92",
+      "dn": "fox",
+      "dpos": 6,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 30,
+      "n": 3,
+      "dur": 86
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -271,9 +283,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -330,9 +342,9 @@
     "pos": 17,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -407,7 +419,7 @@
     }
    }
   ],
-  "snap": "2026-11-20T08:43:08Z"
+  "snap": "2026-11-20T11:29:15Z"
  },
  {
   "id": "war_20261116T220208Z_YL0CYJPV",

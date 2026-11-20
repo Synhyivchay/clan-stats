@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 95043,
-  "raids": 0,
-  "attacks": 24,
-  "districts": 8,
+  "loot": 205193,
+  "raids": 1,
+  "attacks": 51,
+  "districts": 17,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -19,11 +19,32 @@
     "loot": 32207
    },
    {
+    "tag": "#P9C8Q9RCR",
+    "name": "Hattrickser",
+    "a": 6,
+    "lim": 6,
+    "loot": 30731
+   },
+   {
     "tag": "#29GQQY0R8",
     "name": "Noah",
     "a": 6,
     "lim": 6,
     "loot": 27369
+   },
+   {
+    "tag": "#9090P29L9",
+    "name": "Louis™️187",
+    "a": 6,
+    "lim": 6,
+    "loot": 23273
+   },
+   {
+    "tag": "#GLPYJCYCY",
+    "name": "RyanGosling",
+    "a": 6,
+    "lim": 6,
+    "loot": 22831
    },
    {
     "tag": "#LRV88C0RQ",
@@ -33,11 +54,32 @@
     "loot": 20609
    },
    {
+    "tag": "#8LCP8GR2L",
+    "name": "Leon",
+    "a": 5,
+    "lim": 6,
+    "loot": 15729
+   },
+   {
     "tag": "#LYVCYUQCR",
     "name": "Jeffrey_Chicken",
     "a": 6,
     "lim": 6,
     "loot": 14858
+   },
+   {
+    "tag": "#9G0GVR8GQ",
+    "name": "アイドル",
+    "a": 2,
+    "lim": 6,
+    "loot": 11496
+   },
+   {
+    "tag": "#J8PVCRGQ",
+    "name": "lennyy1992",
+    "a": 2,
+    "lim": 5,
+    "loot": 6090
    }
   ]
  },
