@@ -22,9 +22,9 @@
    "name": "jiroft",
    "badge": "https://api-assets.clashofclans.com/badges/200/xXro3-How4UeBogChbE8uiFRM8iCM1jAQEKbGKKGhmU.png",
    "level": 21,
-   "stars": 4,
-   "pct": 7.5,
-   "attacks": 2
+   "stars": 6,
+   "pct": 11.1,
+   "attacks": 3
   },
   "members": [
    {
@@ -188,9 +188,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 72
     }
    },
    {
@@ -338,7 +338,7 @@
     }
    }
   ],
-  "snap": "2026-11-20T00:18:10Z"
+  "snap": "2026-11-20T00:23:10Z"
  },
  {
   "id": "war_20261116T220208Z_YL0CYJPV",
