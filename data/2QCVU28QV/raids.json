@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 376229,
+  "loot": 379564,
   "raids": 3,
-  "attacks": 93,
+  "attacks": 94,
   "districts": 31,
   "offReward": 0,
   "defReward": 0,
@@ -110,18 +110,18 @@
     "loot": 14858
    },
    {
+    "tag": "#9G0GVR8GQ",
+    "name": "アイドル",
+    "a": 3,
+    "lim": 6,
+    "loot": 14831
+   },
+   {
     "tag": "#2JCQPL89R",
     "name": "؞۩׀ＰＲ０Ｔ０ＴＹＰＥ׀۩؞",
     "a": 4,
     "lim": 6,
     "loot": 14735
-   },
-   {
-    "tag": "#9G0GVR8GQ",
-    "name": "アイドル",
-    "a": 2,
-    "lim": 6,
-    "loot": 11496
    },
    {
     "tag": "#PYYCP9JY",
