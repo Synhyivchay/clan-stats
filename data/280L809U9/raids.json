@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 225846,
+  "loot": 230001,
   "raids": 2,
-  "attacks": 58,
+  "attacks": 59,
   "districts": 19,
   "offReward": 0,
   "defReward": 0,
@@ -84,9 +84,9 @@
    {
     "tag": "#GJ8PJY2PJ",
     "name": "RECORD",
-    "a": 1,
+    "a": 2,
     "lim": 5,
-    "loot": 0
+    "loot": 4155
    }
   ]
  },
