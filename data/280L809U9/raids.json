@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 326323,
+  "loot": 329714,
   "raids": 3,
-  "attacks": 80,
-  "districts": 27,
+  "attacks": 81,
+  "districts": 28,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -89,18 +89,18 @@
     "loot": 22358
    },
    {
+    "tag": "#G8QR2CCL2",
+    "name": "|===}=======>",
+    "a": 6,
+    "lim": 6,
+    "loot": 21209
+   },
+   {
     "tag": "#LCRPUCU2V",
     "name": "Хранитель",
     "a": 6,
     "lim": 6,
     "loot": 19437
-   },
-   {
-    "tag": "#G8QR2CCL2",
-    "name": "|===}=======>",
-    "a": 5,
-    "lim": 6,
-    "loot": 17818
    },
    {
     "tag": "#GVYYYUG29",
