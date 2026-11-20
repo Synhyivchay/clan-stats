@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 52740,
+  "loot": 77754,
   "raids": 0,
-  "attacks": 13,
-  "districts": 4,
+  "attacks": 19,
+  "districts": 6,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -19,6 +19,13 @@
     "loot": 32207
    },
    {
+    "tag": "#29GQQY0R8",
+    "name": "Noah",
+    "a": 6,
+    "lim": 6,
+    "loot": 27369
+   },
+   {
     "tag": "#LYVCYUQCR",
     "name": "Jeffrey_Chicken",
     "a": 6,
@@ -26,11 +33,11 @@
     "loot": 14858
    },
    {
-    "tag": "#29GQQY0R8",
-    "name": "Noah",
+    "tag": "#LRV88C0RQ",
+    "name": "Bigmac's sohn",
     "a": 1,
     "lim": 5,
-    "loot": 5675
+    "loot": 3320
    }
   ]
  },
