@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 40,
-   "pct": 68.55,
-   "attacks": 18
+   "stars": 42,
+   "pct": 73.2,
+   "attacks": 19
   },
   "them": {
    "tag": "#2CYL2V9R8",
@@ -338,7 +338,19 @@
     "name": "Разрушитель",
     "th": 18,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QGUR9Y9P2",
+      "dn": "TD♦️Sasuke",
+      "dpos": 14,
+      "dth": 18,
+      "s": 2,
+      "p": 93,
+      "o": 28,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -476,7 +488,7 @@
     }
    }
   ],
-  "snap": "2026-11-20T06:33:08Z"
+  "snap": "2026-11-20T06:38:08Z"
  },
  {
   "id": "war_20261116T214052Z_2LP0G9C8R",
