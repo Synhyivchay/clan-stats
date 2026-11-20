@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 47065,
+  "loot": 52740,
   "raids": 0,
-  "attacks": 12,
+  "attacks": 13,
   "districts": 4,
   "offReward": 0,
   "defReward": 0,
@@ -24,6 +24,13 @@
     "a": 6,
     "lim": 6,
     "loot": 14858
+   },
+   {
+    "tag": "#29GQQY0R8",
+    "name": "Noah",
+    "a": 1,
+    "lim": 5,
+    "loot": 5675
    }
   ]
  },
