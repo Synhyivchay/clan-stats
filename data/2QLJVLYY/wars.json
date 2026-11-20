@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 20,
-   "pct": 37.45,
-   "attacks": 9
+   "stars": 23,
+   "pct": 41.65,
+   "attacks": 11
   },
   "them": {
    "tag": "#2CYL2V9R8",
@@ -198,7 +198,30 @@
     "name": "ebobo",
     "th": 19,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2JC0YR9QL",
+      "dn": "_EspoZz_",
+      "dpos": 10,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 19,
+      "n": 2,
+      "dur": 139
+     },
+     {
+      "d": "#QYPJ98G",
+      "dn": "Dario",
+      "dpos": 3,
+      "dth": 19,
+      "s": 1,
+      "p": 62,
+      "o": 20,
+      "n": 1,
+      "dur": 120
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -372,7 +395,7 @@
     }
    }
   ],
-  "snap": "2026-11-20T04:08:08Z"
+  "snap": "2026-11-20T04:18:08Z"
  },
  {
   "id": "war_20261116T214052Z_2LP0G9C8R",
