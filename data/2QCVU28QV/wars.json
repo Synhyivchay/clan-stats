@@ -22,9 +22,9 @@
    "name": "I-stem",
    "badge": "https://api-assets.clashofclans.com/badges/200/kdsbEwbmttwYzCL7DEeZjhwbaSQKXCyGKERsKNQv_BM.png",
    "level": 37,
-   "stars": 10,
-   "pct": 12.07,
-   "attacks": 5
+   "stars": 13,
+   "pct": 15.4,
+   "attacks": 6
   },
   "members": [
    {
@@ -394,13 +394,13 @@
     "pos": 30,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    }
   ],
-  "snap": "2026-11-20T22:08:15Z"
+  "snap": "2026-11-20T22:23:15Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",
