@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 284215,
-  "raids": 3,
-  "attacks": 69,
-  "districts": 25,
+  "loot": 301439,
+  "raids": 4,
+  "attacks": 75,
+  "districts": 27,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -40,6 +40,13 @@
     "loot": 27636
    },
    {
+    "tag": "#LPQJQ2RJP",
+    "name": "Denton",
+    "a": 6,
+    "lim": 6,
+    "loot": 24658
+   },
+   {
     "tag": "#Q89CLY00Y",
     "name": "JOVI",
     "a": 6,
@@ -52,13 +59,6 @@
     "a": 6,
     "lim": 6,
     "loot": 23666
-   },
-   {
-    "tag": "#LPQJQ2RJP",
-    "name": "Denton",
-    "a": 5,
-    "lim": 6,
-    "loot": 22268
    },
    {
     "tag": "#PUCPRP9YV",
@@ -89,6 +89,13 @@
     "loot": 15428
    },
    {
+    "tag": "#YRQQ80QQ",
+    "name": "nurik",
+    "a": 4,
+    "lim": 6,
+    "loot": 13499
+   },
+   {
     "tag": "#9P28CV0L0",
     "name": "0777",
     "a": 2,
@@ -101,6 +108,13 @@
     "a": 2,
     "lim": 6,
     "loot": 8728
+   },
+   {
+    "tag": "#GRLLYQQLV",
+    "name": "WOLF",
+    "a": 1,
+    "lim": 6,
+    "loot": 1335
    }
   ]
  },

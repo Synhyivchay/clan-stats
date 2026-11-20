@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 58,
-   "pct": 98.25,
-   "attacks": 32
+   "stars": 60,
+   "pct": 100.0,
+   "attacks": 36
   },
   "them": {
    "tag": "#2CYL2V9R8",
    "name": "TRAINING NIGHT",
    "badge": "https://api-assets.clashofclans.com/badges/200/CXchlSUZjdRq34EbSSP2PN3GZkqulHMMVRHWGbxE134.png",
    "level": 10,
-   "stars": 42,
-   "pct": 70.0,
-   "attacks": 14
+   "stars": 60,
+   "pct": 100.0,
+   "attacks": 26
   },
   "members": [
    {
@@ -57,7 +57,7 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 3,
      "p": 100
     }
@@ -219,7 +219,19 @@
     "name": "000Sergey000",
     "th": 19,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QYPJ98G",
+      "dn": "Dario",
+      "dpos": 3,
+      "dth": 19,
+      "s": 1,
+      "p": 25,
+      "o": 62,
+      "n": 0,
+      "dur": 41
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -256,9 +268,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -291,7 +303,7 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 4,
      "s": 3,
      "p": 100
     }
@@ -326,9 +338,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -406,9 +418,32 @@
     "name": "Mi4man",
     "th": 19,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9GQCR90L",
+      "dn": "Bonnio",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 59,
+      "n": 1,
+      "dur": 131
+     },
+     {
+      "d": "#QGUR9Y9P2",
+      "dn": "TD♦️Sasuke",
+      "dpos": 14,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 60,
+      "n": 1,
+      "dur": 109
+     }
+    ],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 3,
      "p": 100
     }
@@ -443,7 +478,7 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 3,
      "p": 100
     }
@@ -453,11 +488,23 @@
     "name": "Relax",
     "th": 18,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QGUR9Y9P2",
+      "dn": "TD♦️Sasuke",
+      "dpos": 14,
+      "dth": 18,
+      "s": 2,
+      "p": 93,
+      "o": 58,
+      "n": 0,
+      "dur": 149
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -560,9 +607,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -595,9 +642,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -630,13 +677,13 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    }
   ],
-  "snap": "2026-11-20T17:04:15Z"
+  "snap": "2026-11-20T20:08:15Z"
  },
  {
   "id": "war_20261116T214052Z_2LP0G9C8R",

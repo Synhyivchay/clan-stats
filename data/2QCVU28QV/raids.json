@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 289556,
-  "raids": 2,
-  "attacks": 72,
-  "districts": 24,
+  "loot": 320195,
+  "raids": 3,
+  "attacks": 80,
+  "districts": 27,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -68,6 +68,13 @@
     "loot": 22831
    },
    {
+    "tag": "#2CCJVQ08V",
+    "name": "Shaun Ryan",
+    "a": 6,
+    "lim": 6,
+    "loot": 21630
+   },
+   {
     "tag": "#8LCP8GR2L",
     "name": "Leon",
     "a": 6,
@@ -89,6 +96,13 @@
     "loot": 14858
    },
    {
+    "tag": "#2JCQPL89R",
+    "name": "؞۩׀ＰＲ０Ｔ０ＴＹＰＥ׀۩؞",
+    "a": 4,
+    "lim": 6,
+    "loot": 14735
+   },
+   {
     "tag": "#9G0GVR8GQ",
     "name": "アイドル",
     "a": 2,
@@ -101,13 +115,6 @@
     "a": 2,
     "lim": 5,
     "loot": 6090
-   },
-   {
-    "tag": "#2JCQPL89R",
-    "name": "؞۩׀ＰＲ０Ｔ０ＴＹＰＥ׀۩؞",
-    "a": 2,
-    "lim": 6,
-    "loot": 5726
    }
   ]
  },

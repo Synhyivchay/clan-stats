@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 364551,
-  "raids": 3,
-  "attacks": 87,
-  "districts": 31,
+  "loot": 446834,
+  "raids": 4,
+  "attacks": 109,
+  "districts": 37,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -24,6 +24,13 @@
     "a": 6,
     "lim": 6,
     "loot": 31139
+   },
+   {
+    "tag": "#LVVCQ82L0",
+    "name": "uchiha_obito",
+    "a": 6,
+    "lim": 6,
+    "loot": 30179
    },
    {
     "tag": "#GJ8PJY2PJ",
@@ -96,6 +103,13 @@
     "loot": 22358
    },
    {
+    "tag": "#2P0JQ09CY",
+    "name": "grootich",
+    "a": 6,
+    "lim": 6,
+    "loot": 22049
+   },
+   {
     "tag": "#G8QR2CCL2",
     "name": "|===}=======>",
     "a": 6,
@@ -110,11 +124,25 @@
     "loot": 19437
    },
    {
+    "tag": "#GUPG2L9RL",
+    "name": "Х҉А҉О҉С҉",
+    "a": 6,
+    "lim": 6,
+    "loot": 16574
+   },
+   {
     "tag": "#GVYYYUG29",
     "name": "kin",
     "a": 3,
     "lim": 6,
     "loot": 14871
+   },
+   {
+    "tag": "#YJ9UPVQ2G",
+    "name": "over_lord",
+    "a": 4,
+    "lim": 6,
+    "loot": 13481
    }
   ]
  },

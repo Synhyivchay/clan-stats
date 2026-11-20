@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 49,
-   "pct": 85.95,
-   "attacks": 20
+   "stars": 59,
+   "pct": 99.35,
+   "attacks": 32
   },
   "them": {
    "tag": "#PRUYQV2R",
@@ -126,7 +126,30 @@
     "name": "OO REEBOK OO",
     "th": 18,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8UCPCRCL9",
+      "dn": "mohsen",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 53,
+      "n": 1,
+      "dur": 114
+     },
+     {
+      "d": "#2VVV8890U",
+      "dn": "amin :)",
+      "dpos": 7,
+      "dth": 18,
+      "s": 1,
+      "p": 73,
+      "o": 54,
+      "n": 0,
+      "dur": 141
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -138,7 +161,30 @@
     "name": "ReTrO",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2VVV8890U",
+      "dn": "amin :)",
+      "dpos": 7,
+      "dth": 18,
+      "s": 2,
+      "p": 87,
+      "o": 55,
+      "n": 0,
+      "dur": 155
+     },
+     {
+      "d": "#80CP8RJRL",
+      "dn": "Infinity",
+      "dpos": 1,
+      "dth": 19,
+      "s": 1,
+      "p": 23,
+      "o": 56,
+      "n": 0,
+      "dur": 26
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -174,7 +220,30 @@
     "name": "Boston",
     "th": 18,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2L2UVC0VG",
+      "dn": "unforgiven",
+      "dpos": 13,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 51,
+      "n": 1,
+      "dur": 101
+     },
+     {
+      "d": "#29R2YJQC2",
+      "dn": "HeARse",
+      "dpos": 12,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 52,
+      "n": 1,
+      "dur": 145
+     }
+    ],
     "def": {
      "n": 3,
      "s": 2,
@@ -291,7 +360,30 @@
     "name": "Jamshid",
     "th": 17,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8UCPCRCL9",
+      "dn": "mohsen",
+      "dpos": 8,
+      "dth": 18,
+      "s": 2,
+      "p": 81,
+      "o": 47,
+      "n": 2,
+      "dur": 88
+     },
+     {
+      "d": "#28QG00U8",
+      "dn": "mmd amin",
+      "dpos": 14,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 48,
+      "n": 1,
+      "dur": 93
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -303,7 +395,30 @@
     "name": "grootich",
     "th": 16,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9L0GP9GCG",
+      "dn": "Amir pahlavan",
+      "dpos": 19,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 45,
+      "n": 2,
+      "dur": 102
+     },
+     {
+      "d": "#2L2UVC0VG",
+      "dn": "unforgiven",
+      "dpos": 13,
+      "dth": 17,
+      "s": 2,
+      "p": 71,
+      "o": 46,
+      "n": 2,
+      "dur": 87
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -421,7 +536,30 @@
     "name": "uchiha_obito",
     "th": 15,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2L2UVC0VG",
+      "dn": "unforgiven",
+      "dpos": 13,
+      "dth": 17,
+      "s": 2,
+      "p": 80,
+      "o": 49,
+      "n": 0,
+      "dur": 167
+     },
+     {
+      "d": "#29R2YJQC2",
+      "dn": "HeARse",
+      "dpos": 12,
+      "dth": 17,
+      "s": 2,
+      "p": 81,
+      "o": 50,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -499,7 +637,7 @@
     }
    }
   ],
-  "snap": "2026-11-20T17:04:15Z"
+  "snap": "2026-11-20T20:08:15Z"
  },
  {
   "id": "war_20261116T220208Z_YL0CYJPV",
