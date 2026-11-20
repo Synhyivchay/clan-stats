@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 19686,
+  "loot": 24631,
   "raids": 0,
-  "attacks": 4,
+  "attacks": 5,
   "districts": 2,
   "offReward": 0,
   "defReward": 0,
@@ -17,6 +17,13 @@
     "a": 4,
     "lim": 6,
     "loot": 19686
+   },
+   {
+    "tag": "#9P28CV0L0",
+    "name": "0777",
+    "a": 1,
+    "lim": 5,
+    "loot": 4945
    }
   ]
  },
