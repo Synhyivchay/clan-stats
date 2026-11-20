@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 342877,
+  "loot": 348565,
   "raids": 4,
-  "attacks": 86,
-  "districts": 30,
+  "attacks": 87,
+  "districts": 31,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -68,6 +68,13 @@
     "loot": 23652
    },
    {
+    "tag": "#8J09CQQQQ",
+    "name": "о000оо00",
+    "a": 6,
+    "lim": 6,
+    "loot": 23474
+   },
+   {
     "tag": "#PUCPRP9YV",
     "name": "малько",
     "a": 6,
@@ -87,13 +94,6 @@
     "a": 6,
     "lim": 6,
     "loot": 19122
-   },
-   {
-    "tag": "#8J09CQQQQ",
-    "name": "о000оо00",
-    "a": 5,
-    "lim": 6,
-    "loot": 17786
    },
    {
     "tag": "#GJY0R0JCJ",
