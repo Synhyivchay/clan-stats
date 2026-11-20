@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 34,
-   "pct": 62.5,
-   "attacks": 14
+   "stars": 40,
+   "pct": 72.5,
+   "attacks": 16
   },
   "them": {
    "tag": "#PRUYQV2R",
@@ -244,6 +244,17 @@
       "o": 33,
       "n": 3,
       "dur": 119
+     },
+     {
+      "d": "#9029PGRLL",
+      "dn": "V P",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 34,
+      "n": 3,
+      "dur": 119
      }
     ],
     "def": {
@@ -305,7 +316,19 @@
     "name": "Johan",
     "th": 16,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GGJRQYPUU",
+      "dn": "mehrshad.MF",
+      "dpos": 17,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 35,
+      "n": 3,
+      "dur": 82
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -431,7 +454,7 @@
     }
    }
   ],
-  "snap": "2026-11-20T12:09:15Z"
+  "snap": "2026-11-20T12:14:15Z"
  },
  {
   "id": "war_20261116T220208Z_YL0CYJPV",
