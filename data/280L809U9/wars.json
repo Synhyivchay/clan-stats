@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 25,
-   "pct": 43.25,
-   "attacks": 9
+   "pct": 45.2,
+   "attacks": 10
   },
   "them": {
    "tag": "#PRUYQV2R",
@@ -341,7 +341,19 @@
     "name": "Х҉А҉О҉С҉",
     "th": 17,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9L0GP9GCG",
+      "dn": "Amir pahlavan",
+      "dpos": 19,
+      "dth": 16,
+      "s": 0,
+      "p": 39,
+      "o": 19,
+      "n": 0,
+      "dur": 73
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -373,7 +385,7 @@
     }
    }
   ],
-  "snap": "2026-11-20T05:43:08Z"
+  "snap": "2026-11-20T05:48:08Z"
  },
  {
   "id": "war_20261116T220208Z_YL0CYJPV",
