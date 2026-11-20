@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 178197,
+  "loot": 187002,
   "raids": 2,
-  "attacks": 41,
-  "districts": 16,
+  "attacks": 43,
+  "districts": 17,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -66,6 +66,13 @@
     "a": 3,
     "lim": 6,
     "loot": 8964
+   },
+   {
+    "tag": "#LPQJQ2RJP",
+    "name": "Denton",
+    "a": 2,
+    "lim": 6,
+    "loot": 8805
    }
   ]
  },
