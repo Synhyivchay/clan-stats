@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 3.33,
+   "attacks": 1
   },
   "them": {
    "tag": "#9CLY9V2R",
    "name": "I-stem",
    "badge": "https://api-assets.clashofclans.com/badges/200/kdsbEwbmttwYzCL7DEeZjhwbaSQKXCyGKERsKNQv_BM.png",
    "level": 37,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 4,
+   "pct": 5.3,
+   "attacks": 2
   },
   "members": [
    {
@@ -80,7 +80,19 @@
     "name": "Kingdingeling",
     "th": 19,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2P9V2YU2C",
+      "dn": "Spynosaurus",
+      "dpos": 1,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 1,
+      "n": 3,
+      "dur": 95
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -106,9 +118,9 @@
     "pos": 7,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -226,9 +238,9 @@
     "pos": 17,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 59
     }
    },
    {
@@ -388,7 +400,7 @@
     }
    }
   ],
-  "snap": "2026-11-20T21:18:15Z"
+  "snap": "2026-11-20T21:23:15Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",
