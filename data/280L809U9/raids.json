@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 74469,
+  "loot": 93380,
   "raids": 0,
-  "attacks": 18,
-  "districts": 6,
+  "attacks": 23,
+  "districts": 8,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -26,6 +26,13 @@
     "loot": 23606
    },
    {
+    "tag": "#LRR9VR0CY",
+    "name": "Begbus",
+    "a": 6,
+    "lim": 6,
+    "loot": 22463
+   },
+   {
     "tag": "#GVYYYUG29",
     "name": "kin",
     "a": 3,
@@ -33,11 +40,11 @@
     "loot": 14871
    },
    {
-    "tag": "#LRR9VR0CY",
-    "name": "Begbus",
-    "a": 3,
+    "tag": "#LCRPUCU2V",
+    "name": "Хранитель",
+    "a": 2,
     "lim": 6,
-    "loot": 11819
+    "loot": 8267
    }
   ]
  },
