@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 25,
-   "pct": 45.2,
-   "attacks": 10
+   "pct": 47.5,
+   "attacks": 11
   },
   "them": {
    "tag": "#PRUYQV2R",
@@ -352,6 +352,17 @@
       "o": 19,
       "n": 0,
       "dur": 73
+     },
+     {
+      "d": "#YGLCPRGYG",
+      "dn": ".AMIR.",
+      "dpos": 3,
+      "dth": 19,
+      "s": 0,
+      "p": 46,
+      "o": 20,
+      "n": 0,
+      "dur": 146
      }
     ],
     "def": {
@@ -385,7 +396,7 @@
     }
    }
   ],
-  "snap": "2026-11-20T05:48:08Z"
+  "snap": "2026-11-20T05:53:08Z"
  },
  {
   "id": "war_20261116T220208Z_YL0CYJPV",
