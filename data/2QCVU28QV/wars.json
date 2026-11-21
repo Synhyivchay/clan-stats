@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 17,
-   "pct": 19.47,
-   "attacks": 7
+   "stars": 19,
+   "pct": 22.73,
+   "attacks": 8
   },
   "them": {
    "tag": "#9CLY9V2R",
@@ -115,7 +115,19 @@
     "name": "slory",
     "th": 19,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JV0CCU2U",
+      "dn": "TinkyWinky",
+      "dpos": 7,
+      "dth": 19,
+      "s": 2,
+      "p": 98,
+      "o": 27,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -470,7 +482,7 @@
     }
    }
   ],
-  "snap": "2026-11-21T06:38:26Z"
+  "snap": "2026-11-21T06:43:26Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",

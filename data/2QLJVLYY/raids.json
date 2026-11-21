@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 369222,
+  "loot": 380004,
   "raids": 4,
-  "attacks": 94,
-  "districts": 32,
+  "attacks": 97,
+  "districts": 33,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -103,6 +103,13 @@
     "loot": 15972
    },
    {
+    "tag": "#8GGC8UY08",
+    "name": "Super Men",
+    "a": 4,
+    "lim": 6,
+    "loot": 15467
+   },
+   {
     "tag": "#GJY0R0JCJ",
     "name": "denchik",
     "a": 6,
@@ -129,13 +136,6 @@
     "a": 2,
     "lim": 6,
     "loot": 8728
-   },
-   {
-    "tag": "#8GGC8UY08",
-    "name": "Super Men",
-    "a": 1,
-    "lim": 5,
-    "loot": 4685
    },
    {
     "tag": "#GRLLYQQLV",
