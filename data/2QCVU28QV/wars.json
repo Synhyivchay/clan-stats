@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 11,
-   "pct": 12.8,
-   "attacks": 4
+   "stars": 14,
+   "pct": 16.13,
+   "attacks": 6
   },
   "them": {
    "tag": "#9CLY9V2R",
@@ -247,7 +247,19 @@
     "name": "Luka Tate",
     "th": 19,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YCV8CYJ0",
+      "dn": "Fofo",
+      "dpos": 3,
+      "dth": 19,
+      "s": 2,
+      "p": 77,
+      "o": 17,
+      "n": 0,
+      "dur": 105
+     }
+    ],
     "def": {
      "n": 2,
      "s": 2,
@@ -378,7 +390,19 @@
     "name": "Monkey D. Lorik",
     "th": 19,
     "pos": 26,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JJCU89JL",
+      "dn": "Lugiale",
+      "dpos": 26,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 16,
+      "n": 3,
+      "dur": 162
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -434,7 +458,7 @@
     }
    }
   ],
-  "snap": "2026-11-21T00:23:15Z"
+  "snap": "2026-11-21T00:33:15Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",
