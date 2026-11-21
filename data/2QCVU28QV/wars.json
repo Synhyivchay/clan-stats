@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 56,
-   "pct": 65.9,
-   "attacks": 22
+   "stars": 58,
+   "pct": 69.2,
+   "attacks": 23
   },
   "them": {
    "tag": "#9CLY9V2R",
@@ -562,6 +562,17 @@
       "o": 16,
       "n": 3,
       "dur": 162
+     },
+     {
+      "d": "#YYU2UU28",
+      "dn": "painkiler delux",
+      "dpos": 25,
+      "dth": 19,
+      "s": 2,
+      "p": 99,
+      "o": 58,
+      "n": 2,
+      "dur": 180
      }
     ],
     "def": {
@@ -642,7 +653,7 @@
     }
    }
   ],
-  "snap": "2026-11-21T10:43:46Z"
+  "snap": "2026-11-21T10:48:46Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",
