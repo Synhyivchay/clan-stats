@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 43,
-   "pct": 49.4,
-   "attacks": 16
+   "stars": 52,
+   "pct": 59.4,
+   "attacks": 19
   },
   "them": {
    "tag": "#9CLY9V2R",
    "name": "I-stem",
    "badge": "https://api-assets.clashofclans.com/badges/200/kdsbEwbmttwYzCL7DEeZjhwbaSQKXCyGKERsKNQv_BM.png",
    "level": 37,
-   "stars": 73,
-   "pct": 86.1,
-   "attacks": 32
+   "stars": 76,
+   "pct": 89.43,
+   "attacks": 33
   },
   "members": [
    {
@@ -56,7 +56,19 @@
     "name": "Louis™️187",
     "th": 19,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2RJV090RP",
+      "dn": "hardcore",
+      "dpos": 8,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 51,
+      "n": 3,
+      "dur": 141
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -235,9 +247,9 @@
     "pos": 12,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -340,7 +352,30 @@
     "name": "Lennart",
     "th": 19,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#UUR088P2",
+      "dn": "TOPRO",
+      "dpos": 18,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 49,
+      "n": 3,
+      "dur": 139
+     },
+     {
+      "d": "#LJL920LY",
+      "dn": "FERRIGNO",
+      "dpos": 17,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 52,
+      "n": 3,
+      "dur": 129
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -573,7 +608,7 @@
     }
    }
   ],
-  "snap": "2026-11-21T09:43:46Z"
+  "snap": "2026-11-21T09:58:46Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",
