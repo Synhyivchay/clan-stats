@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 426243,
+  "loot": 430153,
   "raids": 5,
-  "attacks": 107,
+  "attacks": 108,
   "districts": 36,
   "offReward": 0,
   "defReward": 0,
@@ -150,6 +150,13 @@
     "a": 1,
     "lim": 6,
     "loot": 5907
+   },
+   {
+    "tag": "#2RJ9YL8Y0",
+    "name": "ThomasCzika",
+    "a": 1,
+    "lim": 5,
+    "loot": 3910
    }
   ]
  },
