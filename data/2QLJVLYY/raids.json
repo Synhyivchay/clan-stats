@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 518018,
+  "loot": 530398,
   "raids": 6,
-  "attacks": 128,
+  "attacks": 130,
   "districts": 46,
   "offReward": 0,
   "defReward": 0,
@@ -103,6 +103,13 @@
     "loot": 23474
    },
    {
+    "tag": "#2LCGCPR80",
+    "name": "NumTorum",
+    "a": 4,
+    "lim": 6,
+    "loot": 23005
+   },
+   {
     "tag": "#9P28CV0L0",
     "name": "0777",
     "a": 4,
@@ -164,13 +171,6 @@
     "a": 3,
     "lim": 6,
     "loot": 12690
-   },
-   {
-    "tag": "#2LCGCPR80",
-    "name": "NumTorum",
-    "a": 2,
-    "lim": 6,
-    "loot": 10625
    },
    {
     "tag": "#GRLLYQQLV",
