@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 362407,
+  "loot": 364537,
   "raids": 4,
-  "attacks": 92,
+  "attacks": 93,
   "districts": 32,
   "offReward": 0,
   "defReward": 0,
@@ -96,18 +96,18 @@
     "loot": 19122
    },
    {
+    "tag": "#QUGLJVJP9",
+    "name": "ТЕЛЕПУЗИК",
+    "a": 6,
+    "lim": 6,
+    "loot": 15972
+   },
+   {
     "tag": "#GJY0R0JCJ",
     "name": "denchik",
     "a": 6,
     "lim": 6,
     "loot": 15428
-   },
-   {
-    "tag": "#QUGLJVJP9",
-    "name": "ТЕЛЕПУЗИК",
-    "a": 5,
-    "lim": 6,
-    "loot": 13842
    },
    {
     "tag": "#YRQQ80QQ",
