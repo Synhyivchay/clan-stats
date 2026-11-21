@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 548976,
+  "loot": 557505,
   "raids": 6,
-  "attacks": 142,
-  "districts": 48,
+  "attacks": 144,
+  "districts": 49,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -166,6 +166,13 @@
     "loot": 16574
    },
    {
+    "tag": "#CUQYLPU",
+    "name": "ФЕРЗЬ",
+    "a": 3,
+    "lim": 6,
+    "loot": 11919
+   },
+   {
     "tag": "#GC0V2V2Y0",
     "name": "sgrassi",
     "a": 3,
@@ -178,13 +185,6 @@
     "a": 6,
     "lim": 6,
     "loot": 7509
-   },
-   {
-    "tag": "#CUQYLPU",
-    "name": "ФЕРЗЬ",
-    "a": 1,
-    "lim": 5,
-    "loot": 3390
    }
   ]
  },
