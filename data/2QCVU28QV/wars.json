@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 61,
-   "pct": 74.5,
-   "attacks": 25
+   "stars": 63,
+   "pct": 77.2,
+   "attacks": 26
   },
   "them": {
    "tag": "#9CLY9V2R",
@@ -562,7 +562,19 @@
     "name": "受理freestyle",
     "th": 19,
     "pos": 25,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2VQ020J0U",
+      "dn": "Wismerhill",
+      "dpos": 10,
+      "dth": 19,
+      "s": 2,
+      "p": 81,
+      "o": 66,
+      "n": 2,
+      "dur": 132
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -676,7 +688,7 @@
     }
    }
   ],
-  "snap": "2026-11-21T12:33:46Z"
+  "snap": "2026-11-21T12:38:46Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",
