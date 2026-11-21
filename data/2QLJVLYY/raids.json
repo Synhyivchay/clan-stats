@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 493851,
+  "loot": 497151,
   "raids": 5,
-  "attacks": 123,
+  "attacks": 124,
   "districts": 44,
   "offReward": 0,
   "defReward": 0,
@@ -117,18 +117,18 @@
     "loot": 19856
    },
    {
+    "tag": "#YRVR292UG",
+    "name": "Адик",
+    "a": 5,
+    "lim": 6,
+    "loot": 19544
+   },
+   {
     "tag": "#GRCQ8J2JC",
     "name": "Денис",
     "a": 6,
     "lim": 6,
     "loot": 19122
-   },
-   {
-    "tag": "#YRVR292UG",
-    "name": "Адик",
-    "a": 4,
-    "lim": 6,
-    "loot": 16244
    },
    {
     "tag": "#QUGLJVJP9",
