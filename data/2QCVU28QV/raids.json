@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 505816,
+  "loot": 515106,
   "raids": 5,
-  "attacks": 127,
+  "attacks": 130,
   "districts": 42,
   "offReward": 0,
   "defReward": 0,
@@ -166,18 +166,18 @@
     "loot": 11124
    },
    {
+    "tag": "#QU2GPCCRJ",
+    "name": "Hornbär",
+    "a": 3,
+    "lim": 5,
+    "loot": 9290
+   },
+   {
     "tag": "#LG8YC2Y92",
     "name": "Kingdingeling",
     "a": 1,
     "lim": 6,
     "loot": 5907
-   },
-   {
-    "tag": "#QU2GPCCRJ",
-    "name": "Hornbär",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
    }
   ]
  },

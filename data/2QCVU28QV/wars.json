@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 88,
-   "pct": 99.57,
-   "attacks": 42
+   "stars": 89,
+   "pct": 99.63,
+   "attacks": 44
   },
   "them": {
    "tag": "#9CLY9V2R",
@@ -55,6 +55,17 @@
       "o": 97,
       "n": 0,
       "dur": 76
+     },
+     {
+      "d": "#L022R9R2",
+      "dn": "kami",
+      "dpos": 4,
+      "dth": 19,
+      "s": 1,
+      "p": 11,
+      "o": 99,
+      "n": 0,
+      "dur": 15
      }
     ],
     "def": {
@@ -114,6 +125,17 @@
       "o": 96,
       "n": 1,
       "dur": 128
+     },
+     {
+      "d": "#RLQY9QYU",
+      "dn": "Krystof",
+      "dpos": 24,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 98,
+      "n": 1,
+      "dur": 129
      }
     ],
     "def": {
@@ -872,7 +894,7 @@
     }
    }
   ],
-  "snap": "2026-11-21T19:17:16Z"
+  "snap": "2026-11-21T19:22:16Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",
