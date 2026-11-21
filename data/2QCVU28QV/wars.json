@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 66,
-   "pct": 80.53,
-   "attacks": 27
+   "stars": 79,
+   "pct": 91.5,
+   "attacks": 34
   },
   "them": {
    "tag": "#9CLY9V2R",
    "name": "I-stem",
    "badge": "https://api-assets.clashofclans.com/badges/200/kdsbEwbmttwYzCL7DEeZjhwbaSQKXCyGKERsKNQv_BM.png",
    "level": 37,
-   "stars": 85,
-   "pct": 98.1,
-   "attacks": 45
+   "stars": 88,
+   "pct": 99.2,
+   "attacks": 52
   },
   "members": [
    {
@@ -34,9 +34,9 @@
     "pos": 1,
     "attacks": [],
     "def": {
-     "n": 4,
-     "s": 2,
-     "p": 98
+     "n": 5,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -128,9 +128,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 75
+     "n": 3,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -233,7 +233,7 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 2,
      "p": 99
     }
@@ -245,9 +245,9 @@
     "pos": 9,
     "attacks": [],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 94
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -338,9 +338,32 @@
     "name": "LokiPhil",
     "th": 19,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PP08ULV8",
+      "dn": "⚡⚡HOCINE⚡⚡",
+      "dpos": 23,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 73,
+      "n": 3,
+      "dur": 131
+     },
+     {
+      "d": "#YYU2UU28",
+      "dn": "painkiler delux",
+      "dpos": 25,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 76,
+      "n": 1,
+      "dur": 135
+     }
+    ],
     "def": {
-     "n": 2,
+     "n": 4,
      "s": 2,
      "p": 77
     }
@@ -373,6 +396,17 @@
       "o": 17,
       "n": 0,
       "dur": 105
+     },
+     {
+      "d": "#L9U0VGLQ9",
+      "dn": "p'tit bidoo",
+      "dpos": 27,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 84,
+      "n": 3,
+      "dur": 110
      }
     ],
     "def": {
@@ -421,7 +455,30 @@
     "name": "RudiV3",
     "th": 19,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q0L0RU0CL",
+      "dn": "Fabien 1er",
+      "dpos": 12,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 82,
+      "n": 3,
+      "dur": 143
+     },
+     {
+      "d": "#L8YCL2VP0",
+      "dn": "T1TUS92",
+      "dpos": 16,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 83,
+      "n": 1,
+      "dur": 135
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -445,7 +502,30 @@
     "name": "RudiV4",
     "th": 19,
     "pos": 21,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JV0CCU2U",
+      "dn": "TinkyWinky",
+      "dpos": 7,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 80,
+      "n": 1,
+      "dur": 165
+     },
+     {
+      "d": "#2VQ020J0U",
+      "dn": "Wismerhill",
+      "dpos": 10,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 81,
+      "n": 1,
+      "dur": 146
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -699,7 +779,7 @@
     }
    }
   ],
-  "snap": "2026-11-21T15:13:46Z"
+  "snap": "2026-11-21T17:27:16Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",

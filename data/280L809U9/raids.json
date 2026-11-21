@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 599634,
-  "raids": 6,
-  "attacks": 152,
-  "districts": 53,
+  "loot": 613142,
+  "raids": 7,
+  "attacks": 157,
+  "districts": 54,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -178,6 +178,13 @@
     "a": 6,
     "lim": 6,
     "loot": 16574
+   },
+   {
+    "tag": "#QPG999QV0",
+    "name": "Dipper Painz",
+    "a": 5,
+    "lim": 6,
+    "loot": 13508
    },
    {
     "tag": "#GC0V2V2Y0",
