@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 89,
-   "pct": 99.63,
-   "attacks": 44
+   "stars": 90,
+   "pct": 100.0,
+   "attacks": 45
   },
   "them": {
    "tag": "#9CLY9V2R",
@@ -395,7 +395,19 @@
     "name": "Evil Kruemel",
     "th": 19,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YCV8CYJ0",
+      "dn": "Fofo",
+      "dpos": 3,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 100,
+      "n": 1,
+      "dur": 165
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -894,7 +906,7 @@
     }
    }
   ],
-  "snap": "2026-11-21T19:22:16Z"
+  "snap": "2026-11-21T19:27:16Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",
