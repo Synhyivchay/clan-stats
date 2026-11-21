@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 85,
-   "pct": 98.17,
-   "attacks": 36
+   "stars": 87,
+   "pct": 99.3,
+   "attacks": 38
   },
   "them": {
    "tag": "#9CLY9V2R",
@@ -513,7 +513,19 @@
     "name": "RyanGosling",
     "th": 19,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RLQY9QYU",
+      "dn": "Krystof",
+      "dpos": 24,
+      "dth": 19,
+      "s": 1,
+      "p": 79,
+      "o": 91,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -735,7 +747,19 @@
     "name": "Hattrickser",
     "th": 19,
     "pos": 27,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QJRGG022",
+      "dn": "Pépé le-Putoi",
+      "dpos": 9,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 92,
+      "n": 2,
+      "dur": 111
+     }
+    ],
     "def": {
      "n": 5,
      "s": 3,
@@ -802,7 +826,7 @@
     }
    }
   ],
-  "snap": "2026-11-21T18:32:16Z"
+  "snap": "2026-11-21T18:37:16Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",
