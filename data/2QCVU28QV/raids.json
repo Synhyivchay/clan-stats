@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 500521,
+  "loot": 505816,
   "raids": 5,
-  "attacks": 126,
+  "attacks": 127,
   "districts": 42,
   "offReward": 0,
   "defReward": 0,
@@ -96,6 +96,13 @@
     "loot": 22831
    },
    {
+    "tag": "#G29QC0G0G",
+    "name": "Riesen_Stinker",
+    "a": 6,
+    "lim": 6,
+    "loot": 21969
+   },
+   {
     "tag": "#2CCJVQ08V",
     "name": "Shaun Ryan",
     "a": 6,
@@ -136,13 +143,6 @@
     "a": 6,
     "lim": 6,
     "loot": 19602
-   },
-   {
-    "tag": "#G29QC0G0G",
-    "name": "Riesen_Stinker",
-    "a": 5,
-    "lim": 6,
-    "loot": 16674
    },
    {
     "tag": "#LYVCYUQCR",

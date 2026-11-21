@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
    "stars": 87,
-   "pct": 99.3,
-   "attacks": 38
+   "pct": 99.47,
+   "attacks": 40
   },
   "them": {
    "tag": "#9CLY9V2R",
@@ -24,7 +24,7 @@
    "level": 37,
    "stars": 89,
    "pct": 99.97,
-   "attacks": 54
+   "attacks": 55
   },
   "members": [
    {
@@ -233,7 +233,7 @@
      }
     ],
     "def": {
-     "n": 3,
+     "n": 4,
      "s": 2,
      "p": 99
     }
@@ -524,6 +524,17 @@
       "o": 91,
       "n": 0,
       "dur": 180
+     },
+     {
+      "d": "#YCV8CYJ0",
+      "dn": "Fofo",
+      "dpos": 3,
+      "dth": 19,
+      "s": 1,
+      "p": 73,
+      "o": 93,
+      "n": 0,
+      "dur": 129
      }
     ],
     "def": {
@@ -758,6 +769,17 @@
       "o": 92,
       "n": 2,
       "dur": 111
+     },
+     {
+      "d": "#YCV8CYJ0",
+      "dn": "Fofo",
+      "dpos": 3,
+      "dth": 19,
+      "s": 2,
+      "p": 89,
+      "o": 95,
+      "n": 0,
+      "dur": 116
      }
     ],
     "def": {
@@ -826,7 +848,7 @@
     }
    }
   ],
-  "snap": "2026-11-21T18:37:16Z"
+  "snap": "2026-11-21T18:42:16Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",
