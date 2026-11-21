@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 393467,
-  "raids": 4,
-  "attacks": 101,
-  "districts": 35,
+  "loot": 404403,
+  "raids": 5,
+  "attacks": 105,
+  "districts": 36,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -117,6 +117,13 @@
     "loot": 15428
    },
    {
+    "tag": "#GU9UY0L98",
+    "name": "Alinyaa",
+    "a": 6,
+    "lim": 6,
+    "loot": 15400
+   },
+   {
     "tag": "#YRQQ80QQ",
     "name": "nurik",
     "a": 4,
@@ -136,13 +143,6 @@
     "a": 2,
     "lim": 6,
     "loot": 8728
-   },
-   {
-    "tag": "#GU9UY0L98",
-    "name": "Alinyaa",
-    "a": 2,
-    "lim": 6,
-    "loot": 4464
    },
    {
     "tag": "#GRLLYQQLV",

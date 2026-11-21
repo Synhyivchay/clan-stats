@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 19,
-   "pct": 22.73,
-   "attacks": 8
+   "stars": 28,
+   "pct": 32.73,
+   "attacks": 11
   },
   "them": {
    "tag": "#9CLY9V2R",
    "name": "I-stem",
    "badge": "https://api-assets.clashofclans.com/badges/200/kdsbEwbmttwYzCL7DEeZjhwbaSQKXCyGKERsKNQv_BM.png",
    "level": 37,
-   "stars": 45,
-   "pct": 54.2,
-   "attacks": 20
+   "stars": 48,
+   "pct": 57.53,
+   "attacks": 21
   },
   "members": [
    {
@@ -162,6 +162,17 @@
       "o": 26,
       "n": 3,
       "dur": 132
+     },
+     {
+      "d": "#2GGRV8002",
+      "dn": "ansb",
+      "dpos": 5,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 31,
+      "n": 3,
+      "dur": 139
      }
     ],
     "def": {
@@ -223,7 +234,19 @@
     "name": "@Michi@",
     "th": 19,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RL22L9RV",
+      "dn": "Saian",
+      "dpos": 14,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 29,
+      "n": 3,
+      "dur": 118
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -355,7 +378,19 @@
     "name": "Bassko",
     "th": 19,
     "pos": 23,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2Q9L88LLL",
+      "dn": "geopy",
+      "dpos": 22,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 32,
+      "n": 3,
+      "dur": 149
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -428,9 +463,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -482,7 +517,7 @@
     }
    }
   ],
-  "snap": "2026-11-21T06:48:26Z"
+  "snap": "2026-11-21T06:53:26Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",
