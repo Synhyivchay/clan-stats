@@ -6,7 +6,7 @@
   "end": "2026-11-23T07:00:00Z",
   "loot": 451902,
   "raids": 4,
-  "attacks": 111,
+  "attacks": 112,
   "districts": 38,
   "offReward": 0,
   "defReward": 0,
@@ -143,6 +143,13 @@
     "a": 3,
     "lim": 6,
     "loot": 14871
+   },
+   {
+    "tag": "#Y2PQ000UC",
+    "name": "kartik",
+    "a": 1,
+    "lim": 5,
+    "loot": 0
    }
   ]
  },
