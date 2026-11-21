@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 448453,
+  "loot": 450093,
   "raids": 5,
-  "attacks": 112,
-  "districts": 37,
+  "attacks": 113,
+  "districts": 38,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -47,6 +47,13 @@
     "loot": 23942
    },
    {
+    "tag": "#2RJ9YL8Y0",
+    "name": "ThomasCzika",
+    "a": 6,
+    "lim": 6,
+    "loot": 23850
+   },
+   {
     "tag": "#J8PVCRGQ",
     "name": "lennyy1992",
     "a": 6,
@@ -73,13 +80,6 @@
     "a": 6,
     "lim": 6,
     "loot": 22831
-   },
-   {
-    "tag": "#2RJ9YL8Y0",
-    "name": "ThomasCzika",
-    "a": 5,
-    "lim": 6,
-    "loot": 22210
    },
    {
     "tag": "#2CCJVQ08V",
