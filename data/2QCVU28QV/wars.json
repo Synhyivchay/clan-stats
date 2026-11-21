@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 28,
-   "pct": 32.73,
-   "attacks": 11
+   "stars": 31,
+   "pct": 36.07,
+   "attacks": 12
   },
   "them": {
    "tag": "#9CLY9V2R",
@@ -389,6 +389,17 @@
       "o": 32,
       "n": 3,
       "dur": 149
+     },
+     {
+      "d": "#2JLGJ2G8C",
+      "dn": "Barmout !!!",
+      "dpos": 21,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 33,
+      "n": 3,
+      "dur": 141
      }
     ],
     "def": {
@@ -517,7 +528,7 @@
     }
    }
   ],
-  "snap": "2026-11-21T06:53:26Z"
+  "snap": "2026-11-21T06:58:26Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",
