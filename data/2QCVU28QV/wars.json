@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 50
+   "attacks": 51
   },
   "them": {
    "tag": "#9CLY9V2R",
@@ -511,7 +511,19 @@
     "name": "xXDamage",
     "th": 19,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2P9V2YU2C",
+      "dn": "Spynosaurus",
+      "dpos": 1,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 108,
+      "n": 0,
+      "dur": 155
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -963,7 +975,7 @@
     }
    }
   ],
-  "snap": "2026-11-21T20:47:16Z"
+  "snap": "2026-11-21T20:57:16Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",
