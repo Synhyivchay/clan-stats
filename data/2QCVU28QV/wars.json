@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 14,
-   "pct": 16.13,
-   "attacks": 6
+   "stars": 17,
+   "pct": 19.47,
+   "attacks": 7
   },
   "them": {
    "tag": "#9CLY9V2R",
@@ -139,7 +139,19 @@
     "name": "Bigmac's sohn",
     "th": 19,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L022R9R2",
+      "dn": "kami",
+      "dpos": 4,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 26,
+      "n": 3,
+      "dur": 132
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -458,7 +470,7 @@
     }
    }
   ],
-  "snap": "2026-11-21T06:23:26Z"
+  "snap": "2026-11-21T06:28:26Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",
