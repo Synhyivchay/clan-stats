@@ -2,7 +2,7 @@
  {
   "id": "war_20261119T221645Z_9CLY9V2R",
   "type": "war",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-19T22:16:45Z",
   "start": "2026-11-20T21:16:45Z",
   "end": "2026-11-21T21:16:45Z",
@@ -1009,7 +1009,9 @@
     }
    }
   ],
-  "snap": "2026-11-21T21:12:16Z"
+  "snap": "2026-11-21T21:17:16Z",
+  "partial": true,
+  "result": "win"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",
