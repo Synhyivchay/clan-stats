@@ -1,5 +1,336 @@
 [
  {
+  "id": "war_20261121T101533Z_JU2GUYY9",
+  "type": "war",
+  "state": "preparation",
+  "prep": "2026-11-21T10:15:33Z",
+  "start": "2026-11-22T09:15:33Z",
+  "end": "2026-11-23T09:15:33Z",
+  "teamSize": 25,
+  "apm": 2,
+  "us": {
+   "tag": "#2QLJVLYY",
+   "name": "slivki sow",
+   "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
+   "level": 34,
+   "stars": 0,
+   "pct": 0.0,
+   "attacks": 0
+  },
+  "them": {
+   "tag": "#JU2GUYY9",
+   "name": "风雷大殿",
+   "badge": "https://api-assets.clashofclans.com/badges/200/tU0036BHnB_mE-Twrhv-GstcHrOU5Bxut09vIrPz26Y.png",
+   "level": 34,
+   "stars": 0,
+   "pct": 0.0,
+   "attacks": 0
+  },
+  "members": [
+   {
+    "tag": "#PUCPRP9YV",
+    "name": "малько",
+    "th": 19,
+    "pos": 1,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YRYYYGY90",
+    "name": "naik",
+    "th": 19,
+    "pos": 2,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#9GV90LCR8",
+    "name": "■◇LEGENDARNIY◇■",
+    "th": 19,
+    "pos": 3,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#2LCGCPR80",
+    "name": "NumTorum",
+    "th": 19,
+    "pos": 4,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#QL0J0RY8Q",
+    "name": "ebobo",
+    "th": 19,
+    "pos": 5,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#8GGC8UY08",
+    "name": "Super Men",
+    "th": 19,
+    "pos": 6,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#PVCPGJL9R",
+    "name": "000Roma000",
+    "th": 19,
+    "pos": 7,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#P2GULCL8G",
+    "name": "000Sergey000",
+    "th": 19,
+    "pos": 8,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#28Q8J0RYG",
+    "name": "Mi4man",
+    "th": 19,
+    "pos": 9,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#Q9JRVCUYY",
+    "name": "Melata",
+    "th": 19,
+    "pos": 10,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LLUP8P8L0",
+    "name": "sleace",
+    "th": 19,
+    "pos": 11,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LQGGPPC92",
+    "name": "~LuciFer~",
+    "th": 19,
+    "pos": 12,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YCU8JR28U",
+    "name": "SHANARA",
+    "th": 19,
+    "pos": 13,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#89RL09YL9",
+    "name": "Разрушитель",
+    "th": 18,
+    "pos": 14,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LJQU0Q0VV",
+    "name": "Azek",
+    "th": 18,
+    "pos": 15,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YVP0G0V2G",
+    "name": "Relax",
+    "th": 18,
+    "pos": 16,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#QUULVGRYQ",
+    "name": "MR.KING",
+    "th": 18,
+    "pos": 17,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YRVR292UG",
+    "name": "Адик",
+    "th": 17,
+    "pos": 18,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#QG0URUJ0Y",
+    "name": "SAMURAY",
+    "th": 16,
+    "pos": 19,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#8J09CQQQQ",
+    "name": "о000оо00",
+    "th": 16,
+    "pos": 20,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LVCQPQ822",
+    "name": "Legenda",
+    "th": 15,
+    "pos": 21,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#GRLLYQQLV",
+    "name": "WOLF",
+    "th": 17,
+    "pos": 22,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#9J02VCC8J",
+    "name": "Денис",
+    "th": 14,
+    "pos": 23,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#GU9UY0L98",
+    "name": "Alinyaa",
+    "th": 14,
+    "pos": 24,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#GJY0R0JCJ",
+    "name": "denchik",
+    "th": 14,
+    "pos": 25,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   }
+  ],
+  "snap": "2026-11-21T10:18:46Z"
+ },
+ {
   "id": "war_20261118T215702Z_2CYL2V9R8",
   "type": "war",
   "state": "warEnded",
