@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 52
+   "attacks": 53
   },
   "them": {
    "tag": "#9CLY9V2R",
@@ -359,7 +359,19 @@
     "name": "Gzuzvonnazareth",
     "th": 19,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2P9V2YU2C",
+      "dn": "Spynosaurus",
+      "dpos": 1,
+      "dth": 19,
+      "s": 2,
+      "p": 96,
+      "o": 112,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -986,7 +998,7 @@
     }
    }
   ],
-  "snap": "2026-11-21T21:02:16Z"
+  "snap": "2026-11-21T21:07:16Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",
