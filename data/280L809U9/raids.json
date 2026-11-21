@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 572859,
+  "loot": 583368,
   "raids": 6,
-  "attacks": 147,
-  "districts": 50,
+  "attacks": 149,
+  "districts": 51,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -180,18 +180,18 @@
     "loot": 11493
    },
    {
+    "tag": "#GRGRRJLR9",
+    "name": "prime",
+    "a": 2,
+    "lim": 6,
+    "loot": 10509
+   },
+   {
     "tag": "#Y2PQ000UC",
     "name": "kartik",
     "a": 6,
     "lim": 6,
     "loot": 7509
-   },
-   {
-    "tag": "#GRGRRJLR9",
-    "name": "prime",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
    }
   ]
  },
