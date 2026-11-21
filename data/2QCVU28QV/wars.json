@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 58,
-   "pct": 69.2,
-   "attacks": 23
+   "stars": 59,
+   "pct": 71.4,
+   "attacks": 24
   },
   "them": {
    "tag": "#9CLY9V2R",
@@ -173,7 +173,19 @@
     "name": "Marc",
     "th": 19,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QJRGG022",
+      "dn": "Pépé le-Putoi",
+      "dpos": 9,
+      "dth": 19,
+      "s": 1,
+      "p": 66,
+      "o": 62,
+      "n": 1,
+      "dur": 122
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -653,7 +665,7 @@
     }
    }
   ],
-  "snap": "2026-11-21T11:43:46Z"
+  "snap": "2026-11-21T11:48:46Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",
