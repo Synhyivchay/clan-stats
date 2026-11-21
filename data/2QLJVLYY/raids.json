@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 555634,
+  "loot": 560432,
   "raids": 6,
-  "attacks": 135,
-  "districts": 47,
+  "attacks": 136,
+  "districts": 48,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -131,6 +131,13 @@
     "loot": 19856
    },
    {
+    "tag": "#QL0J0RY8Q",
+    "name": "ebobo",
+    "a": 4,
+    "lim": 6,
+    "loot": 19319
+   },
+   {
     "tag": "#GRCQ8J2JC",
     "name": "Денис",
     "a": 6,
@@ -157,13 +164,6 @@
     "a": 6,
     "lim": 6,
     "loot": 15400
-   },
-   {
-    "tag": "#QL0J0RY8Q",
-    "name": "ebobo",
-    "a": 3,
-    "lim": 6,
-    "loot": 14521
    },
    {
     "tag": "#YRQQ80QQ",
