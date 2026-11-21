@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 427284,
+  "loot": 438290,
   "raids": 5,
-  "attacks": 109,
-  "districts": 38,
+  "attacks": 111,
+  "districts": 39,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#YRYYYGY90",
+    "name": "naik",
+    "a": 6,
+    "lim": 6,
+    "loot": 33887
+   },
    {
     "tag": "#89RL09YL9",
     "name": "Разрушитель",
@@ -80,13 +87,6 @@
     "a": 6,
     "lim": 6,
     "loot": 23474
-   },
-   {
-    "tag": "#YRYYYGY90",
-    "name": "naik",
-    "a": 4,
-    "lim": 6,
-    "loot": 22881
    },
    {
     "tag": "#PUCPRP9YV",
