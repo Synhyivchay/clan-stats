@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 31,
-   "pct": 36.07,
-   "attacks": 12
+   "stars": 43,
+   "pct": 49.4,
+   "attacks": 16
   },
   "them": {
    "tag": "#9CLY9V2R",
    "name": "I-stem",
    "badge": "https://api-assets.clashofclans.com/badges/200/kdsbEwbmttwYzCL7DEeZjhwbaSQKXCyGKERsKNQv_BM.png",
    "level": 37,
-   "stars": 48,
-   "pct": 57.53,
-   "attacks": 21
+   "stars": 73,
+   "pct": 86.1,
+   "attacks": 32
   },
   "members": [
    {
@@ -34,9 +34,9 @@
     "pos": 1,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 2,
+     "s": 2,
+     "p": 80
     }
    },
    {
@@ -46,9 +46,9 @@
     "pos": 2,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -58,9 +58,9 @@
     "pos": 3,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -70,9 +70,9 @@
     "pos": 4,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -126,6 +126,17 @@
       "o": 27,
       "n": 2,
       "dur": 180
+     },
+     {
+      "d": "#29QGPUY82",
+      "dn": "yoyo",
+      "dpos": 6,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 36,
+      "n": 3,
+      "dur": 142
      }
     ],
     "def": {
@@ -200,9 +211,9 @@
     "pos": 10,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -212,9 +223,9 @@
     "pos": 11,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 77
     }
    },
    {
@@ -245,6 +256,17 @@
       "o": 29,
       "n": 3,
       "dur": 118
+     },
+     {
+      "d": "#PGYGCJQUU",
+      "dn": "Leonidas",
+      "dpos": 13,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 47,
+      "n": 3,
+      "dur": 109
      }
     ],
     "def": {
@@ -272,9 +294,9 @@
     "pos": 15,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 77
     }
    },
    {
@@ -320,9 +342,9 @@
     "pos": 18,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -366,7 +388,30 @@
     "name": "GermanRuss",
     "th": 19,
     "pos": 22,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#22CCV0RG8",
+      "dn": "dna_player",
+      "dpos": 19,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 34,
+      "n": 3,
+      "dur": 127
+     },
+     {
+      "d": "#8PY9PPRGY",
+      "dn": "Tanjiro",
+      "dpos": 20,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 35,
+      "n": 3,
+      "dur": 96
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -450,9 +495,9 @@
     "pos": 25,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -510,9 +555,9 @@
     "pos": 29,
     "attacks": [],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 77
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -528,7 +573,7 @@
     }
    }
   ],
-  "snap": "2026-11-21T07:08:26Z"
+  "snap": "2026-11-21T09:43:46Z"
  },
  {
   "id": "war_20261117T215603Z_8VY0RY8V",

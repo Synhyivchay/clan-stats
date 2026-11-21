@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 386356,
+  "loot": 406641,
   "raids": 4,
-  "attacks": 95,
-  "districts": 32,
+  "attacks": 101,
+  "districts": 34,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -108,6 +108,13 @@
     "a": 6,
     "lim": 6,
     "loot": 20609
+   },
+   {
+    "tag": "#UYLJU2JQ",
+    "name": "samu",
+    "a": 6,
+    "lim": 6,
+    "loot": 20285
    },
    {
     "tag": "#LYVCYUQCR",

@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 496784,
-  "raids": 4,
-  "attacks": 126,
-  "districts": 43,
+  "loot": 545586,
+  "raids": 6,
+  "attacks": 141,
+  "districts": 48,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -131,6 +131,13 @@
     "loot": 21209
    },
    {
+    "tag": "#GUPY0JL0C",
+    "name": "салфетка",
+    "a": 6,
+    "lim": 6,
+    "loot": 20373
+   },
+   {
     "tag": "#LCRPUCU2V",
     "name": "Хранитель",
     "a": 6,
@@ -145,11 +152,25 @@
     "loot": 18549
    },
    {
+    "tag": "#GGG809VPU",
+    "name": "Ратмир",
+    "a": 6,
+    "lim": 6,
+    "loot": 16936
+   },
+   {
     "tag": "#GUPG2L9RL",
     "name": "Х҉А҉О҉С҉",
     "a": 6,
     "lim": 6,
     "loot": 16574
+   },
+   {
+    "tag": "#GC0V2V2Y0",
+    "name": "sgrassi",
+    "a": 3,
+    "lim": 6,
+    "loot": 11493
    },
    {
     "tag": "#Y2PQ000UC",
