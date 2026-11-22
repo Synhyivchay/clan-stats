@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 642179,
+  "loot": 658560,
   "raids": 7,
-  "attacks": 158,
-  "districts": 54,
+  "attacks": 161,
+  "districts": 56,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -173,6 +173,13 @@
     "loot": 19602
    },
    {
+    "tag": "#9CJ9U0LL",
+    "name": "Evil Kruemel",
+    "a": 4,
+    "lim": 6,
+    "loot": 19596
+   },
+   {
     "tag": "#QU2GPCCRJ",
     "name": "Hornbär",
     "a": 6,
@@ -206,13 +213,6 @@
     "a": 1,
     "lim": 6,
     "loot": 5907
-   },
-   {
-    "tag": "#9CJ9U0LL",
-    "name": "Evil Kruemel",
-    "a": 1,
-    "lim": 5,
-    "loot": 3215
    }
   ]
  },

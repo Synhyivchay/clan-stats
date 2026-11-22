@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 12,
-   "pct": 23.25,
-   "attacks": 5
+   "pct": 23.8,
+   "attacks": 6
   },
   "them": {
    "tag": "#2CPVLCV8J",
@@ -23,8 +23,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/4I8V6W3uShlhVFFFy4--eKymrUetJdu8KoYBHTC5eFI.png",
    "level": 8,
    "stars": 15,
-   "pct": 25.0,
-   "attacks": 5
+   "pct": 25.3,
+   "attacks": 6
   },
   "members": [
    {
@@ -34,9 +34,9 @@
     "pos": 1,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 0,
+     "p": 6
     }
    },
    {
@@ -235,6 +235,17 @@
       "o": 10,
       "n": 2,
       "dur": 156
+     },
+     {
+      "d": "#LGVGUJQRY",
+      "dn": "HÀFÈÉL7",
+      "dpos": 17,
+      "dth": 14,
+      "s": 0,
+      "p": 11,
+      "o": 11,
+      "n": 0,
+      "dur": 21
      }
     ],
     "def": {
@@ -327,7 +338,7 @@
     }
    }
   ],
-  "snap": "2026-11-22T10:05:49Z"
+  "snap": "2026-11-22T10:10:49Z"
  },
  {
   "id": "war_20261118T220842Z_PRUYQV2R",
