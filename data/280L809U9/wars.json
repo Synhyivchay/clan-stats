@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 21,
-   "pct": 38.25,
-   "attacks": 9
+   "stars": 27,
+   "pct": 48.25,
+   "attacks": 11
   },
   "them": {
    "tag": "#2CPVLCV8J",
    "name": "Extreme Mafiyas",
    "badge": "https://api-assets.clashofclans.com/badges/200/4I8V6W3uShlhVFFFy4--eKymrUetJdu8KoYBHTC5eFI.png",
    "level": 8,
-   "stars": 23,
-   "pct": 38.5,
-   "attacks": 10
+   "stars": 26,
+   "pct": 43.5,
+   "attacks": 11
   },
   "members": [
    {
@@ -32,7 +32,30 @@
     "name": "Ragnar",
     "th": 19,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PVRPJ8GVU",
+      "dn": "Mr.Reigns(JOEL)",
+      "dpos": 1,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 20,
+      "n": 3,
+      "dur": 129
+     },
+     {
+      "d": "#P0QU8PQJV",
+      "dn": "ABILASH",
+      "dpos": 2,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 22,
+      "n": 3,
+      "dur": 117
+     }
+    ],
     "def": {
      "n": 2,
      "s": 2,
@@ -70,9 +93,9 @@
     "pos": 4,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -372,7 +395,7 @@
     }
    }
   ],
-  "snap": "2026-11-22T12:54:41Z"
+  "snap": "2026-11-22T12:59:41Z"
  },
  {
   "id": "war_20261118T220842Z_PRUYQV2R",
