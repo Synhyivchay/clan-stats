@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 6,
-   "pct": 10.0,
-   "attacks": 2
+   "stars": 10,
+   "pct": 19.0,
+   "attacks": 4
   },
   "them": {
    "tag": "#2CPVLCV8J",
@@ -104,7 +104,19 @@
     "name": "Partizan",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YUPCUJJ8Y",
+      "dn": "sujin",
+      "dpos": 7,
+      "dth": 17,
+      "s": 1,
+      "p": 80,
+      "o": 9,
+      "n": 1,
+      "dur": 119
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -188,7 +200,19 @@
     "name": "Begbus",
     "th": 16,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QRUR2JGLL",
+      "dn": "AKASH CRUZH",
+      "dpos": 14,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 8,
+      "n": 3,
+      "dur": 123
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -291,7 +315,7 @@
     }
    }
   ],
-  "snap": "2026-11-22T09:55:49Z"
+  "snap": "2026-11-22T10:00:49Z"
  },
  {
   "id": "war_20261118T220842Z_PRUYQV2R",
