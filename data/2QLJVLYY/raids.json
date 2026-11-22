@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 723157,
+  "loot": 738310,
   "raids": 9,
-  "attacks": 172,
-  "districts": 65,
+  "attacks": 175,
+  "districts": 66,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -217,9 +217,9 @@
    {
     "tag": "#G0PL9VUP2",
     "name": "Vladislav",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
+    "a": 3,
+    "lim": 6,
+    "loot": 15153
    }
   ]
  },
