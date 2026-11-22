@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 2,
-   "pct": 3.44,
-   "attacks": 1
+   "stars": 7,
+   "pct": 10.36,
+   "attacks": 3
   },
   "them": {
    "tag": "#JU2GUYY9",
    "name": "风雷大殿",
    "badge": "https://api-assets.clashofclans.com/badges/200/tU0036BHnB_mE-Twrhv-GstcHrOU5Bxut09vIrPz26Y.png",
    "level": 34,
-   "stars": 2,
-   "pct": 3.76,
-   "attacks": 1
+   "stars": 5,
+   "pct": 7.76,
+   "attacks": 2
   },
   "members": [
    {
@@ -262,9 +262,9 @@
     "pos": 19,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -332,7 +332,30 @@
     "name": "denchik",
     "th": 14,
     "pos": 25,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#R0RCL020U",
+      "dn": "春节",
+      "dpos": 25,
+      "dth": 12,
+      "s": 3,
+      "p": 100,
+      "o": 3,
+      "n": 3,
+      "dur": 77
+     },
+     {
+      "d": "#GGGU88YG9",
+      "dn": "小建筑",
+      "dpos": 24,
+      "dth": 16,
+      "s": 2,
+      "p": 73,
+      "o": 5,
+      "n": 2,
+      "dur": 95
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -340,7 +363,7 @@
     }
    }
   ],
-  "snap": "2026-11-22T09:30:49Z"
+  "snap": "2026-11-22T09:35:49Z"
  },
  {
   "id": "war_20261118T215702Z_2CYL2V9R8",
