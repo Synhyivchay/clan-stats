@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 10,
-   "pct": 15.04,
-   "attacks": 5
+   "stars": 12,
+   "pct": 18.64,
+   "attacks": 6
   },
   "them": {
    "tag": "#JU2GUYY9",
    "name": "风雷大殿",
    "badge": "https://api-assets.clashofclans.com/badges/200/tU0036BHnB_mE-Twrhv-GstcHrOU5Bxut09vIrPz26Y.png",
    "level": 34,
-   "stars": 11,
-   "pct": 15.76,
-   "attacks": 4
+   "stars": 17,
+   "pct": 23.76,
+   "attacks": 6
   },
   "members": [
    {
@@ -200,11 +200,23 @@
     "name": "Разрушитель",
     "th": 18,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LV8LYV8G",
+      "dn": "凸o-o凸",
+      "dpos": 14,
+      "dth": 19,
+      "s": 2,
+      "p": 90,
+      "o": 11,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -250,9 +262,9 @@
     "pos": 18,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -386,7 +398,7 @@
     }
    }
   ],
-  "snap": "2026-11-22T10:20:49Z"
+  "snap": "2026-11-22T11:14:41Z"
  },
  {
   "id": "war_20261118T215702Z_2CYL2V9R8",

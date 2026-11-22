@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 12,
-   "pct": 23.8,
-   "attacks": 6
+   "stars": 15,
+   "pct": 28.25,
+   "attacks": 7
   },
   "them": {
    "tag": "#2CPVLCV8J",
    "name": "Extreme Mafiyas",
    "badge": "https://api-assets.clashofclans.com/badges/200/4I8V6W3uShlhVFFFy4--eKymrUetJdu8KoYBHTC5eFI.png",
    "level": 8,
-   "stars": 15,
-   "pct": 25.85,
-   "attacks": 7
+   "stars": 21,
+   "pct": 35.3,
+   "attacks": 9
   },
   "members": [
    {
@@ -211,6 +211,17 @@
       "o": 8,
       "n": 3,
       "dur": 123
+     },
+     {
+      "d": "#LGVGUJQRY",
+      "dn": "HÀFÈÉL7",
+      "dpos": 17,
+      "dth": 14,
+      "s": 3,
+      "p": 100,
+      "o": 16,
+      "n": 3,
+      "dur": 80
      }
     ],
     "def": {
@@ -320,9 +331,9 @@
     "pos": 19,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -332,13 +343,13 @@
     "pos": 20,
     "attacks": [],
     "def": {
-     "n": 1,
-     "s": 0,
-     "p": 11
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    }
   ],
-  "snap": "2026-11-22T10:20:49Z"
+  "snap": "2026-11-22T11:14:41Z"
  },
  {
   "id": "war_20261118T220842Z_PRUYQV2R",

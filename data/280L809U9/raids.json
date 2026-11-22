@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 653944,
+  "loot": 663464,
   "raids": 8,
-  "attacks": 167,
+  "attacks": 169,
   "districts": 58,
   "offReward": 0,
   "defReward": 0,
@@ -24,6 +24,13 @@
     "a": 6,
     "lim": 6,
     "loot": 31139
+   },
+   {
+    "tag": "#GRGRRJLR9",
+    "name": "prime",
+    "a": 6,
+    "lim": 6,
+    "loot": 31065
    },
    {
     "tag": "#GVYYYUG29",
@@ -59,13 +66,6 @@
     "a": 6,
     "lim": 6,
     "loot": 26784
-   },
-   {
-    "tag": "#GRGRRJLR9",
-    "name": "prime",
-    "a": 5,
-    "lim": 6,
-    "loot": 26775
    },
    {
     "tag": "#2Q8JLJGCJ",
@@ -173,6 +173,13 @@
     "loot": 19437
    },
    {
+    "tag": "#QPG999QV0",
+    "name": "Dipper Painz",
+    "a": 6,
+    "lim": 6,
+    "loot": 18738
+   },
+   {
     "tag": "#YJ9UPVQ2G",
     "name": "over_lord",
     "a": 6,
@@ -192,13 +199,6 @@
     "a": 6,
     "lim": 6,
     "loot": 16574
-   },
-   {
-    "tag": "#QPG999QV0",
-    "name": "Dipper Painz",
-    "a": 5,
-    "lim": 6,
-    "loot": 13508
    },
    {
     "tag": "#GC0V2V2Y0",
