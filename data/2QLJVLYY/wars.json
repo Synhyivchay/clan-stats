@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 15,
-   "pct": 22.64,
-   "attacks": 7
+   "stars": 18,
+   "pct": 26.64,
+   "attacks": 8
   },
   "them": {
    "tag": "#JU2GUYY9",
    "name": "风雷大殿",
    "badge": "https://api-assets.clashofclans.com/badges/200/tU0036BHnB_mE-Twrhv-GstcHrOU5Bxut09vIrPz26Y.png",
    "level": 34,
-   "stars": 20,
-   "pct": 27.76,
-   "attacks": 7
+   "stars": 29,
+   "pct": 39.76,
+   "attacks": 10
   },
   "members": [
    {
@@ -238,9 +238,9 @@
     "pos": 15,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -250,9 +250,9 @@
     "pos": 16,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -355,11 +355,23 @@
     "name": "Денис",
     "th": 14,
     "pos": 23,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GCLP0P8P9",
+      "dn": "Angga",
+      "dpos": 23,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 17,
+      "n": 3,
+      "dur": 122
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -410,7 +422,7 @@
     }
    }
   ],
-  "snap": "2026-11-22T11:19:41Z"
+  "snap": "2026-11-22T11:24:41Z"
  },
  {
   "id": "war_20261118T215702Z_2CYL2V9R8",
