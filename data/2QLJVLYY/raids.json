@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 767368,
+  "loot": 776702,
   "raids": 9,
-  "attacks": 181,
-  "districts": 70,
+  "attacks": 183,
+  "districts": 71,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -166,6 +166,13 @@
     "loot": 22045
    },
    {
+    "tag": "#P2GULCL8G",
+    "name": "000Sergey000",
+    "a": 5,
+    "lim": 6,
+    "loot": 21882
+   },
+   {
     "tag": "#YPR9QR0G8",
     "name": "hunter",
     "a": 6,
@@ -220,13 +227,6 @@
     "a": 6,
     "lim": 6,
     "loot": 15400
-   },
-   {
-    "tag": "#P2GULCL8G",
-    "name": "000Sergey000",
-    "a": 3,
-    "lim": 6,
-    "loot": 12548
    }
   ]
  },
