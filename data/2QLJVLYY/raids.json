@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 577496,
+  "loot": 580735,
   "raids": 7,
-  "attacks": 140,
-  "districts": 52,
+  "attacks": 141,
+  "districts": 53,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -145,6 +145,13 @@
     "loot": 19122
    },
    {
+    "tag": "#YRQQ80QQ",
+    "name": "nurik",
+    "a": 5,
+    "lim": 6,
+    "loot": 16738
+   },
+   {
     "tag": "#QUGLJVJP9",
     "name": "ТЕЛЕПУЗИК",
     "a": 6,
@@ -164,13 +171,6 @@
     "a": 6,
     "lim": 6,
     "loot": 15400
-   },
-   {
-    "tag": "#YRQQ80QQ",
-    "name": "nurik",
-    "a": 4,
-    "lim": 6,
-    "loot": 13499
    },
    {
     "tag": "#YCU8JR28U",
