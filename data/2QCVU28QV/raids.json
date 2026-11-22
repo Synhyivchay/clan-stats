@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 691261,
+  "loot": 700221,
   "raids": 7,
-  "attacks": 170,
-  "districts": 60,
+  "attacks": 172,
+  "districts": 61,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -208,6 +208,13 @@
     "loot": 14735
    },
    {
+    "tag": "#PJP0008CV",
+    "name": "AnoNymous",
+    "a": 3,
+    "lim": 6,
+    "loot": 14523
+   },
+   {
     "tag": "#PYYCP9JY",
     "name": "ExXtrAkkT",
     "a": 2,
@@ -220,13 +227,6 @@
     "a": 1,
     "lim": 6,
     "loot": 5907
-   },
-   {
-    "tag": "#PJP0008CV",
-    "name": "AnoNymous",
-    "a": 1,
-    "lim": 6,
-    "loot": 5563
    }
   ]
  },
