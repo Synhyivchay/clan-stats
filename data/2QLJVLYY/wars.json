@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 36,
-   "pct": 52.84,
-   "attacks": 16
+   "stars": 57,
+   "pct": 86.24,
+   "attacks": 26
   },
   "them": {
    "tag": "#JU2GUYY9",
@@ -79,7 +79,30 @@
     "name": "■◇LEGENDARNIY◇■",
     "th": 19,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2J80UVVCY",
+      "dn": "Ric1211",
+      "dpos": 1,
+      "dth": 19,
+      "s": 2,
+      "p": 98,
+      "o": 54,
+      "n": 0,
+      "dur": 114
+     },
+     {
+      "d": "#2VUG98JV",
+      "dn": "Austin-Lin",
+      "dpos": 6,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 55,
+      "n": 3,
+      "dur": 110
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -91,7 +114,30 @@
     "name": "NumTorum",
     "th": 19,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GPRCRRYLG",
+      "dn": "0233Gia",
+      "dpos": 9,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 57,
+      "n": 3,
+      "dur": 119
+     },
+     {
+      "d": "#P89LL8Q8L",
+      "dn": "苟且偷生的言宝宝",
+      "dpos": 10,
+      "dth": 19,
+      "s": 1,
+      "p": 78,
+      "o": 58,
+      "n": 1,
+      "dur": 103
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -103,7 +149,30 @@
     "name": "ebobo",
     "th": 19,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8PC28220Q",
+      "dn": "左眼微笑右眼淚",
+      "dpos": 5,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 52,
+      "n": 3,
+      "dur": 159
+     },
+     {
+      "d": "#2CRLPL9P",
+      "dn": "p&e",
+      "dpos": 4,
+      "dth": 19,
+      "s": 2,
+      "p": 88,
+      "o": 53,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -115,7 +184,30 @@
     "name": "Super Men",
     "th": 19,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P20VP8QPV",
+      "dn": "小巨人",
+      "dpos": 7,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 56,
+      "n": 3,
+      "dur": 120
+     },
+     {
+      "d": "#Q0GJ9LY9C",
+      "dn": "halin",
+      "dpos": 8,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 59,
+      "n": 3,
+      "dur": 114
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -316,7 +408,30 @@
     "name": "MR.KING",
     "th": 18,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#280LU22JG",
+      "dn": "RayXD123",
+      "dpos": 17,
+      "dth": 18,
+      "s": 1,
+      "p": 93,
+      "o": 60,
+      "n": 1,
+      "dur": 132
+     },
+     {
+      "d": "#JQCU0GVV",
+      "dn": "vét máng pro",
+      "dpos": 16,
+      "dth": 18,
+      "s": 2,
+      "p": 68,
+      "o": 61,
+      "n": 2,
+      "dur": 111
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -512,7 +627,7 @@
     }
    }
   ],
-  "snap": "2026-11-22T16:49:41Z"
+  "snap": "2026-11-22T18:30:48Z"
  },
  {
   "id": "war_20261118T215702Z_2CYL2V9R8",

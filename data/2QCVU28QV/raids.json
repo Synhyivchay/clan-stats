@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 740342,
-  "raids": 8,
-  "attacks": 181,
-  "districts": 64,
+  "loot": 787865,
+  "raids": 9,
+  "attacks": 193,
+  "districts": 67,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -96,6 +96,13 @@
     "loot": 26308
    },
    {
+    "tag": "#YL0QYGP0V",
+    "name": "Bassko",
+    "a": 6,
+    "lim": 6,
+    "loot": 24805
+   },
+   {
     "tag": "#U82JR0JC",
     "name": "KNAX ⚡卩卂ㄩㄥ",
     "a": 6,
@@ -143,6 +150,13 @@
     "a": 6,
     "lim": 6,
     "loot": 22831
+   },
+   {
+    "tag": "#9J0QP2CU8",
+    "name": "xXDamage",
+    "a": 6,
+    "lim": 6,
+    "loot": 22718
    },
    {
     "tag": "#G29QC0G0G",

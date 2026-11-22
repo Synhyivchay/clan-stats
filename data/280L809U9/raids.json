@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 715909,
+  "loot": 748635,
   "raids": 9,
-  "attacks": 181,
-  "districts": 63,
+  "attacks": 187,
+  "districts": 66,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -17,6 +17,13 @@
     "a": 6,
     "lim": 6,
     "loot": 34837
+   },
+   {
+    "tag": "#82QQ2QY0V",
+    "name": "Дракс",
+    "a": 6,
+    "lim": 6,
+    "loot": 32726
    },
    {
     "tag": "#VV02PYVV",

@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 33,
-   "pct": 55.0,
-   "attacks": 14
+   "stars": 37,
+   "pct": 63.65,
+   "attacks": 18
   },
   "them": {
    "tag": "#2CPVLCV8J",
@@ -24,7 +24,7 @@
    "level": 8,
    "stars": 55,
    "pct": 94.85,
-   "attacks": 22
+   "attacks": 24
   },
   "members": [
    {
@@ -67,7 +67,30 @@
     "name": "Patrik",
     "th": 19,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8JJCUVY8Y",
+      "dn": "♥️♠️BHARATH♠️♥️",
+      "dpos": 3,
+      "dth": 19,
+      "s": 2,
+      "p": 79,
+      "o": 39,
+      "n": 2,
+      "dur": 156
+     },
+     {
+      "d": "#9RU8JY9L2",
+      "dn": "Sabarish Siva",
+      "dpos": 6,
+      "dth": 18,
+      "s": 2,
+      "p": 94,
+      "o": 40,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -270,7 +293,7 @@
     "pos": 13,
     "attacks": [],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 2,
      "p": 98
     }
@@ -305,7 +328,7 @@
      }
     ],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 2,
      "p": 99
     }
@@ -421,7 +444,30 @@
     "name": "ZEUS",
     "th": 13,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9GQL8L9C2",
+      "dn": "REXY",
+      "dpos": 19,
+      "dth": 14,
+      "s": 0,
+      "p": 49,
+      "o": 37,
+      "n": 0,
+      "dur": 105
+     },
+     {
+      "d": "#QQLPCV0R2",
+      "dn": "Jack",
+      "dpos": 18,
+      "dth": 14,
+      "s": 1,
+      "p": 54,
+      "o": 38,
+      "n": 0,
+      "dur": 73
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -429,7 +475,7 @@
     }
    }
   ],
-  "snap": "2026-11-22T16:49:41Z"
+  "snap": "2026-11-22T18:30:48Z"
  },
  {
   "id": "war_20261118T220842Z_PRUYQV2R",
