@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 15,
-   "pct": 28.25,
-   "attacks": 7
+   "stars": 18,
+   "pct": 33.25,
+   "attacks": 8
   },
   "them": {
    "tag": "#2CPVLCV8J",
@@ -140,7 +140,19 @@
     "name": "prime",
     "th": 18,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QJRYYJP2L",
+      "dn": "vishal vichu",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 17,
+      "n": 3,
+      "dur": 103
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -349,7 +361,7 @@
     }
    }
   ],
-  "snap": "2026-11-22T12:09:41Z"
+  "snap": "2026-11-22T12:14:41Z"
  },
  {
   "id": "war_20261118T220842Z_PRUYQV2R",
