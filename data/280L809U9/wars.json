@@ -22,9 +22,9 @@
    "name": "Extreme Mafiyas",
    "badge": "https://api-assets.clashofclans.com/badges/200/4I8V6W3uShlhVFFFy4--eKymrUetJdu8KoYBHTC5eFI.png",
    "level": 8,
-   "stars": 26,
-   "pct": 43.5,
-   "attacks": 11
+   "stars": 27,
+   "pct": 45.0,
+   "attacks": 12
   },
   "members": [
    {
@@ -57,9 +57,9 @@
      }
     ],
     "def": {
-     "n": 2,
-     "s": 2,
-     "p": 70
+     "n": 3,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -395,7 +395,7 @@
     }
    }
   ],
-  "snap": "2026-11-22T13:09:41Z"
+  "snap": "2026-11-22T13:14:41Z"
  },
  {
   "id": "war_20261118T220842Z_PRUYQV2R",
