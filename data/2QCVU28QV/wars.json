@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 2,
-   "pct": 3.2,
-   "attacks": 1
+   "stars": 4,
+   "pct": 6.47,
+   "attacks": 2
   },
   "them": {
    "tag": "#2J0PCLC8U",
@@ -113,6 +113,17 @@
       "s": 2,
       "p": 96,
       "o": 1,
+      "n": 2,
+      "dur": 180
+     },
+     {
+      "d": "#80YU0Q98V",
+      "dn": "Phoenix",
+      "dpos": 8,
+      "dth": 19,
+      "s": 2,
+      "p": 98,
+      "o": 2,
       "n": 2,
       "dur": 180
      }
@@ -400,7 +411,7 @@
     }
    }
   ],
-  "snap": "2026-11-22T21:00:48Z"
+  "snap": "2026-11-22T21:05:48Z"
  },
  {
   "id": "war_20261119T221645Z_9CLY9V2R",
