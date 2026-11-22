@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 3,
-   "pct": 5.0,
-   "attacks": 1
+   "stars": 6,
+   "pct": 10.0,
+   "attacks": 2
   },
   "them": {
    "tag": "#2CPVLCV8J",
    "name": "Extreme Mafiyas",
    "badge": "https://api-assets.clashofclans.com/badges/200/4I8V6W3uShlhVFFFy4--eKymrUetJdu8KoYBHTC5eFI.png",
    "level": 8,
-   "stars": 9,
-   "pct": 15.0,
-   "attacks": 3
+   "stars": 12,
+   "pct": 20.0,
+   "attacks": 4
   },
   "members": [
    {
@@ -142,9 +142,9 @@
     "pos": 10,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -247,6 +247,17 @@
       "o": 3,
       "n": 3,
       "dur": 23
+     },
+     {
+      "d": "#9GQL8L9C2",
+      "dn": "REXY",
+      "dpos": 19,
+      "dth": 14,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 120
      }
     ],
     "def": {
@@ -280,7 +291,7 @@
     }
    }
   ],
-  "snap": "2026-11-22T09:40:49Z"
+  "snap": "2026-11-22T09:45:49Z"
  },
  {
   "id": "war_20261118T220842Z_PRUYQV2R",
