@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 775924,
+  "loot": 780970,
   "raids": 9,
-  "attacks": 193,
-  "districts": 69,
+  "attacks": 195,
+  "districts": 71,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -245,9 +245,9 @@
    {
     "tag": "#8QUG9QQ8G",
     "name": "ReTrO",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
+    "a": 2,
+    "lim": 6,
+    "loot": 5046
    }
   ]
  },
