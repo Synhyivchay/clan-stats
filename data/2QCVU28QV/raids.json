@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 824485,
+  "loot": 826555,
   "raids": 9,
-  "attacks": 204,
+  "attacks": 205,
   "districts": 71,
   "offReward": 0,
   "defReward": 0,
@@ -255,6 +255,13 @@
     "a": 2,
     "lim": 6,
     "loot": 11124
+   },
+   {
+    "tag": "#RLGUULPP",
+    "name": "Ampletrex",
+    "a": 1,
+    "lim": 5,
+    "loot": 2070
    }
   ]
  },
