@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 574443,
+  "loot": 577496,
   "raids": 6,
-  "attacks": 139,
-  "districts": 51,
+  "attacks": 140,
+  "districts": 52,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -40,6 +40,13 @@
     "loot": 29580
    },
    {
+    "tag": "#9P28CV0L0",
+    "name": "0777",
+    "a": 6,
+    "lim": 6,
+    "loot": 28582
+   },
+   {
     "tag": "#LQGGPPC92",
     "name": "~LuciFer~",
     "a": 6,
@@ -66,13 +73,6 @@
     "a": 6,
     "lim": 6,
     "loot": 25824
-   },
-   {
-    "tag": "#9P28CV0L0",
-    "name": "0777",
-    "a": 5,
-    "lim": 6,
-    "loot": 25529
    },
    {
     "tag": "#LPQJQ2RJP",
