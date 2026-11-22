@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 877266,
+  "loot": 882336,
   "raids": 10,
-  "attacks": 204,
+  "attacks": 205,
   "districts": 80,
   "offReward": 0,
   "defReward": 0,
@@ -229,6 +229,13 @@
     "loot": 17492
    },
    {
+    "tag": "#28Q8J0RYG",
+    "name": "Mi4man",
+    "a": 3,
+    "lim": 6,
+    "loot": 16608
+   },
+   {
     "tag": "#QUGLJVJP9",
     "name": "ТЕЛЕПУЗИК",
     "a": 6,
@@ -248,13 +255,6 @@
     "a": 6,
     "lim": 6,
     "loot": 15400
-   },
-   {
-    "tag": "#28Q8J0RYG",
-    "name": "Mi4man",
-    "a": 2,
-    "lim": 6,
-    "loot": 11538
    }
   ]
  },
