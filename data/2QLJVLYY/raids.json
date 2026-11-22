@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 580735,
+  "loot": 583695,
   "raids": 7,
-  "attacks": 141,
+  "attacks": 142,
   "districts": 53,
   "offReward": 0,
   "defReward": 0,
@@ -131,6 +131,13 @@
     "loot": 19856
    },
    {
+    "tag": "#YRQQ80QQ",
+    "name": "nurik",
+    "a": 6,
+    "lim": 6,
+    "loot": 19698
+   },
+   {
     "tag": "#QL0J0RY8Q",
     "name": "ebobo",
     "a": 4,
@@ -143,13 +150,6 @@
     "a": 6,
     "lim": 6,
     "loot": 19122
-   },
-   {
-    "tag": "#YRQQ80QQ",
-    "name": "nurik",
-    "a": 5,
-    "lim": 6,
-    "loot": 16738
    },
    {
     "tag": "#QUGLJVJP9",
