@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 12,
-   "pct": 18.64,
-   "attacks": 6
+   "stars": 15,
+   "pct": 22.64,
+   "attacks": 7
   },
   "them": {
    "tag": "#JU2GUYY9",
    "name": "风雷大殿",
    "badge": "https://api-assets.clashofclans.com/badges/200/tU0036BHnB_mE-Twrhv-GstcHrOU5Bxut09vIrPz26Y.png",
    "level": 34,
-   "stars": 17,
-   "pct": 23.76,
-   "attacks": 6
+   "stars": 20,
+   "pct": 27.76,
+   "attacks": 7
   },
   "members": [
    {
@@ -44,7 +44,19 @@
     "name": "naik",
     "th": 19,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q0GVGJLV",
+      "dn": "無國介",
+      "dpos": 2,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 14,
+      "n": 3,
+      "dur": 161
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -250,9 +262,9 @@
     "pos": 17,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -398,7 +410,7 @@
     }
    }
   ],
-  "snap": "2026-11-22T11:14:41Z"
+  "snap": "2026-11-22T11:19:41Z"
  },
  {
   "id": "war_20261118T215702Z_2CYL2V9R8",
