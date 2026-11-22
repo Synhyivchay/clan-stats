@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 641390,
+  "loot": 647873,
   "raids": 8,
-  "attacks": 154,
-  "districts": 58,
+  "attacks": 156,
+  "districts": 59,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -166,6 +166,13 @@
     "loot": 19122
    },
    {
+    "tag": "#GRLLYQQLV",
+    "name": "WOLF",
+    "a": 6,
+    "lim": 6,
+    "loot": 17492
+   },
+   {
     "tag": "#QUGLJVJP9",
     "name": "ТЕЛЕПУЗИК",
     "a": 6,
@@ -185,13 +192,6 @@
     "a": 6,
     "lim": 6,
     "loot": 15400
-   },
-   {
-    "tag": "#GRLLYQQLV",
-    "name": "WOLF",
-    "a": 4,
-    "lim": 6,
-    "loot": 11009
    },
    {
     "tag": "#QUULVGRYQ",
