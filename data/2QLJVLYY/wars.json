@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 2,
+   "pct": 3.44,
+   "attacks": 1
   },
   "them": {
    "tag": "#JU2GUYY9",
@@ -164,7 +164,19 @@
     "name": "~LuciFer~",
     "th": 19,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PQJ2LJRV",
+      "dn": "❤️爱❤️你❤️",
+      "dpos": 12,
+      "dth": 19,
+      "s": 2,
+      "p": 86,
+      "o": 1,
+      "n": 2,
+      "dur": 112
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -328,7 +340,7 @@
     }
    }
   ],
-  "snap": "2026-11-22T09:20:49Z"
+  "snap": "2026-11-22T09:25:49Z"
  },
  {
   "id": "war_20261118T215702Z_2CYL2V9R8",
