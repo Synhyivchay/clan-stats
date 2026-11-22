@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 58,
-   "pct": 86.64,
-   "attacks": 27
+   "stars": 60,
+   "pct": 87.52,
+   "attacks": 28
   },
   "them": {
    "tag": "#JU2GUYY9",
@@ -243,7 +243,19 @@
     "name": "Mi4man",
     "th": 19,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P89LL8Q8L",
+      "dn": "苟且偷生的言宝宝",
+      "dpos": 10,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 65,
+      "n": 2,
+      "dur": 167
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -639,7 +651,7 @@
     }
    }
   ],
-  "snap": "2026-11-22T21:05:48Z"
+  "snap": "2026-11-22T21:10:48Z"
  },
  {
   "id": "war_20261118T215702Z_2CYL2V9R8",
