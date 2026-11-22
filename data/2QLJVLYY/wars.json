@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 30,
-   "pct": 44.76,
-   "attacks": 13
+   "stars": 34,
+   "pct": 49.4,
+   "attacks": 15
   },
   "them": {
    "tag": "#JU2GUYY9",
@@ -388,7 +388,30 @@
     "name": "WOLF",
     "th": 17,
     "pos": 22,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y9JY90C8",
+      "dn": "StanleywyZ",
+      "dpos": 21,
+      "dth": 16,
+      "s": 2,
+      "p": 59,
+      "o": 45,
+      "n": 2,
+      "dur": 110
+     },
+     {
+      "d": "#2QC88GU0U",
+      "dn": "hong",
+      "dpos": 20,
+      "dth": 16,
+      "s": 2,
+      "p": 57,
+      "o": 46,
+      "n": 2,
+      "dur": 121
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -478,7 +501,7 @@
     }
    }
   ],
-  "snap": "2026-11-22T14:14:41Z"
+  "snap": "2026-11-22T14:19:41Z"
  },
  {
   "id": "war_20261118T215702Z_2CYL2V9R8",
