@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 738310,
+  "loot": 750217,
   "raids": 9,
-  "attacks": 175,
-  "districts": 66,
+  "attacks": 177,
+  "districts": 67,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -87,6 +87,13 @@
     "a": 6,
     "lim": 6,
     "loot": 27636
+   },
+   {
+    "tag": "#G0PL9VUP2",
+    "name": "Vladislav",
+    "a": 5,
+    "lim": 6,
+    "loot": 27060
    },
    {
     "tag": "#YRVR292UG",
@@ -213,13 +220,6 @@
     "a": 6,
     "lim": 6,
     "loot": 15400
-   },
-   {
-    "tag": "#G0PL9VUP2",
-    "name": "Vladislav",
-    "a": 3,
-    "lim": 6,
-    "loot": 15153
    }
   ]
  },
