@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 560432,
+  "loot": 565270,
   "raids": 6,
-  "attacks": 136,
-  "districts": 48,
+  "attacks": 137,
+  "districts": 49,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -180,18 +180,18 @@
     "loot": 12690
    },
    {
+    "tag": "#QUULVGRYQ",
+    "name": "MR.KING",
+    "a": 1,
+    "lim": 6,
+    "loot": 4838
+   },
+   {
     "tag": "#GRLLYQQLV",
     "name": "WOLF",
     "a": 1,
     "lim": 6,
     "loot": 1335
-   },
-   {
-    "tag": "#QUULVGRYQ",
-    "name": "MR.KING",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
    }
   ]
  },
