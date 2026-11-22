@@ -22,9 +22,9 @@
    "name": "风雷大殿",
    "badge": "https://api-assets.clashofclans.com/badges/200/tU0036BHnB_mE-Twrhv-GstcHrOU5Bxut09vIrPz26Y.png",
    "level": 34,
-   "stars": 49,
-   "pct": 67.24,
-   "attacks": 19
+   "stars": 50,
+   "pct": 67.44,
+   "attacks": 20
   },
   "members": [
    {
@@ -367,9 +367,9 @@
     "pos": 22,
     "attacks": [],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 95
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -455,7 +455,7 @@
     }
    }
   ],
-  "snap": "2026-11-22T13:24:41Z"
+  "snap": "2026-11-22T13:29:41Z"
  },
  {
   "id": "war_20261118T215702Z_2CYL2V9R8",
