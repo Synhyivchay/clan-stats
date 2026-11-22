@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 27,
-   "pct": 48.25,
-   "attacks": 11
+   "stars": 28,
+   "pct": 49.0,
+   "attacks": 12
   },
   "them": {
    "tag": "#2CPVLCV8J",
@@ -138,6 +138,17 @@
       "o": 9,
       "n": 1,
       "dur": 119
+     },
+     {
+      "d": "#QQLPCV0R2",
+      "dn": "Jack",
+      "dpos": 18,
+      "dth": 14,
+      "s": 3,
+      "p": 100,
+      "o": 26,
+      "n": 1,
+      "dur": 76
      }
     ],
     "def": {
@@ -395,7 +406,7 @@
     }
    }
   ],
-  "snap": "2026-11-22T14:19:41Z"
+  "snap": "2026-11-22T14:24:41Z"
  },
  {
   "id": "war_20261118T220842Z_PRUYQV2R",
