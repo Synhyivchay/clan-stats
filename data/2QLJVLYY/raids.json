@@ -255,6 +255,13 @@
     "a": 6,
     "lim": 6,
     "loot": 15400
+   },
+   {
+    "tag": "#8LVR2JGU",
+    "name": "ELITE",
+    "a": 0,
+    "lim": 5,
+    "loot": 0
    }
   ]
  },
