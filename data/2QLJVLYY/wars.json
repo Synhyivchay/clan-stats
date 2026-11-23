@@ -15,7 +15,7 @@
    "level": 34,
    "stars": 66,
    "pct": 96.96,
-   "attacks": 41
+   "attacks": 43
   },
   "them": {
    "tag": "#JU2GUYY9",
@@ -277,7 +277,30 @@
     "name": "000Sergey000",
     "th": 19,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8CL0LCLL",
+      "dn": "kimfatt_lai",
+      "dpos": 3,
+      "dth": 19,
+      "s": 1,
+      "p": 9,
+      "o": 89,
+      "n": 0,
+      "dur": 12
+     },
+     {
+      "d": "#2VUG98JV",
+      "dn": "Austin-Lin",
+      "dpos": 6,
+      "dth": 19,
+      "s": 1,
+      "p": 13,
+      "o": 90,
+      "n": 0,
+      "dur": 14
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -800,7 +823,7 @@
     }
    }
   ],
-  "snap": "2026-11-23T08:07:54Z"
+  "snap": "2026-11-23T08:12:54Z"
  },
  {
   "id": "war_20261118T215702Z_2CYL2V9R8",

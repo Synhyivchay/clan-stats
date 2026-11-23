@@ -15,7 +15,7 @@
    "level": 25,
    "stars": 49,
    "pct": 83.65,
-   "attacks": 22
+   "attacks": 25
   },
   "them": {
    "tag": "#2CPVLCV8J",
@@ -102,7 +102,30 @@
     "name": "OO REEBOK OO",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8JJCUVY8Y",
+      "dn": "♥️♠️BHARATH♠️♥️",
+      "dpos": 3,
+      "dth": 19,
+      "s": 2,
+      "p": 72,
+      "o": 51,
+      "n": 0,
+      "dur": 133
+     },
+     {
+      "d": "#PVRPJ8GVU",
+      "dn": "Mr.Reigns(JOEL)",
+      "dpos": 1,
+      "dth": 19,
+      "s": 1,
+      "p": 12,
+      "o": 52,
+      "n": 0,
+      "dur": 14
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -161,7 +184,19 @@
     "name": "Boston",
     "th": 18,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PVRPJ8GVU",
+      "dn": "Mr.Reigns(JOEL)",
+      "dpos": 1,
+      "dth": 19,
+      "s": 1,
+      "p": 14,
+      "o": 53,
+      "n": 0,
+      "dur": 13
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -521,7 +556,7 @@
     }
    }
   ],
-  "snap": "2026-11-23T08:07:54Z"
+  "snap": "2026-11-23T08:12:54Z"
  },
  {
   "id": "war_20261118T220842Z_PRUYQV2R",
