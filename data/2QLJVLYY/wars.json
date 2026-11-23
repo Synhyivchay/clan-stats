@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
    "stars": 64,
-   "pct": 91.44,
-   "attacks": 32
+   "pct": 91.56,
+   "attacks": 33
   },
   "them": {
    "tag": "#JU2GUYY9",
@@ -43,6 +43,17 @@
       "o": 77,
       "n": 1,
       "dur": 137
+     },
+     {
+      "d": "#PQJ2LJRV",
+      "dn": "❤️爱❤️你❤️",
+      "dpos": 12,
+      "dth": 19,
+      "s": 2,
+      "p": 89,
+      "o": 78,
+      "n": 0,
+      "dur": 180
      }
     ],
     "def": {
@@ -697,7 +708,7 @@
     }
    }
   ],
-  "snap": "2026-11-23T04:51:29Z"
+  "snap": "2026-11-23T04:56:29Z"
  },
  {
   "id": "war_20261118T215702Z_2CYL2V9R8",
