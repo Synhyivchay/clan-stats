@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 803604,
+  "loot": 805734,
   "raids": 10,
-  "attacks": 200,
+  "attacks": 201,
   "districts": 73,
   "offReward": 0,
   "defReward": 0,
@@ -243,18 +243,18 @@
     "loot": 11493
    },
    {
+    "tag": "#G0GP90YCL",
+    "name": "Boston",
+    "a": 2,
+    "lim": 6,
+    "loot": 8485
+   },
+   {
     "tag": "#Y2PQ000UC",
     "name": "kartik",
     "a": 6,
     "lim": 6,
     "loot": 7509
-   },
-   {
-    "tag": "#G0GP90YCL",
-    "name": "Boston",
-    "a": 1,
-    "lim": 6,
-    "loot": 6355
    }
   ]
  },
