@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 864517,
+  "loot": 879732,
   "raids": 10,
-  "attacks": 213,
-  "districts": 74,
+  "attacks": 217,
+  "districts": 75,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -243,6 +243,13 @@
     "loot": 15262
    },
    {
+    "tag": "#G2YP2GP90",
+    "name": "Ensar",
+    "a": 4,
+    "lim": 6,
+    "loot": 15215
+   },
+   {
     "tag": "#LYVCYUQCR",
     "name": "Jeffrey_Chicken",
     "a": 6,
@@ -269,13 +276,6 @@
     "a": 3,
     "lim": 6,
     "loot": 11031
-   },
-   {
-    "tag": "#G2YP2GP90",
-    "name": "Ensar",
-    "a": 0,
-    "lim": 5,
-    "loot": 0
    }
   ]
  },
