@@ -1,15 +1,15 @@
 [
  {
   "id": "2026-11-20",
-  "state": "ongoing",
+  "state": "ended",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 823413,
+  "loot": 872778,
   "raids": 10,
-  "attacks": 205,
-  "districts": 75,
-  "offReward": 0,
-  "defReward": 0,
+  "attacks": 217,
+  "districts": 79,
+  "offReward": 194,
+  "defReward": 253,
   "members": [
    {
     "tag": "#G298UUQQL",
@@ -96,6 +96,13 @@
     "loot": 26164
    },
    {
+    "tag": "#PCUY9YUYU",
+    "name": "OO REEBOK OO",
+    "a": 6,
+    "lim": 6,
+    "loot": 25278
+   },
+   {
     "tag": "#2Q8JLJGCJ",
     "name": "Kaktyc",
     "a": 6,
@@ -115,6 +122,13 @@
     "a": 6,
     "lim": 6,
     "loot": 24173
+   },
+   {
+    "tag": "#GLL20U2Q9",
+    "name": "ㅤㅤㅤㅤ",
+    "a": 6,
+    "lim": 6,
+    "loot": 24087
    },
    {
     "tag": "#GRQC2829L",
