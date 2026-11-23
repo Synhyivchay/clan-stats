@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-20T07:00:00Z",
   "end": "2026-11-23T07:00:00Z",
-  "loot": 879732,
+  "loot": 886341,
   "raids": 10,
-  "attacks": 217,
-  "districts": 75,
+  "attacks": 219,
+  "districts": 76,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -173,6 +173,13 @@
     "loot": 21969
    },
    {
+    "tag": "#G2YP2GP90",
+    "name": "Ensar",
+    "a": 6,
+    "lim": 6,
+    "loot": 21824
+   },
+   {
     "tag": "#YU99PU9GQ",
     "name": "Luka Tate",
     "a": 6,
@@ -241,13 +248,6 @@
     "a": 6,
     "lim": 6,
     "loot": 15262
-   },
-   {
-    "tag": "#G2YP2GP90",
-    "name": "Ensar",
-    "a": 4,
-    "lim": 6,
-    "loot": 15215
    },
    {
     "tag": "#LYVCYUQCR",
