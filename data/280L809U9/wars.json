@@ -15,7 +15,7 @@
    "level": 25,
    "stars": 49,
    "pct": 83.65,
-   "attacks": 26
+   "attacks": 28
   },
   "them": {
    "tag": "#2CPVLCV8J",
@@ -137,7 +137,30 @@
     "name": "ReTrO",
     "th": 18,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PVRPJ8GVU",
+      "dn": "Mr.Reigns(JOEL)",
+      "dpos": 1,
+      "dth": 19,
+      "s": 1,
+      "p": 12,
+      "o": 55,
+      "n": 0,
+      "dur": 16
+     },
+     {
+      "d": "#GPRQQR9RV",
+      "dn": "♦♠ ABINAVE ♠♦",
+      "dpos": 4,
+      "dth": 18,
+      "s": 1,
+      "p": 8,
+      "o": 56,
+      "n": 0,
+      "dur": 22
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -567,7 +590,7 @@
     }
    }
   ],
-  "snap": "2026-11-23T08:22:54Z"
+  "snap": "2026-11-23T08:27:54Z"
  },
  {
   "id": "war_20261118T220842Z_PRUYQV2R",
