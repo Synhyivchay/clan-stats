@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 55,
-   "pct": 64.87,
-   "attacks": 21
+   "stars": 56,
+   "pct": 65.53,
+   "attacks": 23
   },
   "them": {
    "tag": "#2J0PCLC8U",
@@ -32,7 +32,19 @@
     "name": "Rudi",
     "th": 19,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2CLUVYJJR",
+      "dn": "Ʉ₦฿⚡₴₵ⱧɆⱤⱤ",
+      "dpos": 5,
+      "dth": 19,
+      "s": 2,
+      "p": 97,
+      "o": 65,
+      "n": 1,
+      "dur": 151
+     }
+    ],
     "def": {
      "n": 4,
      "s": 3,
@@ -56,7 +68,19 @@
     "name": "RudiV2",
     "th": 19,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2YL0PJ82Q",
+      "dn": "TRTaner",
+      "dpos": 9,
+      "dth": 19,
+      "s": 1,
+      "p": 88,
+      "o": 66,
+      "n": 0,
+      "dur": 100
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -630,7 +654,7 @@
     }
    }
   ],
-  "snap": "2026-11-23T10:07:54Z"
+  "snap": "2026-11-23T10:12:54Z"
  },
  {
   "id": "war_20261119T221645Z_9CLY9V2R",
