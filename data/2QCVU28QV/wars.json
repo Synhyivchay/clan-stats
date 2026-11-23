@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 41,
-   "pct": 49.03,
-   "attacks": 15
+   "stars": 47,
+   "pct": 55.3,
+   "attacks": 18
   },
   "them": {
    "tag": "#2J0PCLC8U",
@@ -80,7 +80,30 @@
     "name": "Louis™️187",
     "th": 19,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2YL0PJ82Q",
+      "dn": "TRTaner",
+      "dpos": 9,
+      "dth": 19,
+      "s": 2,
+      "p": 86,
+      "o": 51,
+      "n": 2,
+      "dur": 180
+     },
+     {
+      "d": "#80YU0Q98V",
+      "dn": "Phoenix",
+      "dpos": 8,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 52,
+      "n": 1,
+      "dur": 162
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -234,7 +257,19 @@
     "name": "Riesen_Stinker",
     "th": 19,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8PQQCCYVL",
+      "dn": "Ʉ₦฿ ✨️ ฿₳ɎⱤ₳₥",
+      "dpos": 11,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 53,
+      "n": 3,
+      "dur": 128
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -561,7 +596,7 @@
     }
    }
   ],
-  "snap": "2026-11-23T09:07:54Z"
+  "snap": "2026-11-23T09:12:54Z"
  },
  {
   "id": "war_20261119T221645Z_9CLY9V2R",
