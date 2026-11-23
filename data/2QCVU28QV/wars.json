@@ -22,9 +22,9 @@
    "name": "UnbaLancedS",
    "badge": "https://api-assets.clashofclans.com/badges/200/14Y3MP3K15jV2ILtl5KnXjKscuTj99XnaG8bIug1jbA.png",
    "level": 19,
-   "stars": 74,
-   "pct": 84.6,
-   "attacks": 26
+   "stars": 78,
+   "pct": 88.63,
+   "attacks": 28
   },
   "members": [
    {
@@ -284,9 +284,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 79
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -367,9 +367,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -515,7 +515,7 @@
     }
    }
   ],
-  "snap": "2026-11-23T08:27:54Z"
+  "snap": "2026-11-23T08:32:54Z"
  },
  {
   "id": "war_20261119T221645Z_9CLY9V2R",
