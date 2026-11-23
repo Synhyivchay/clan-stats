@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 31,
-   "pct": 36.47,
-   "attacks": 11
+   "stars": 32,
+   "pct": 39.03,
+   "attacks": 12
   },
   "them": {
    "tag": "#2J0PCLC8U",
    "name": "UnbaLancedS",
    "badge": "https://api-assets.clashofclans.com/badges/200/14Y3MP3K15jV2ILtl5KnXjKscuTj99XnaG8bIug1jbA.png",
    "level": 19,
-   "stars": 87,
-   "pct": 98.63,
-   "attacks": 31
+   "stars": 88,
+   "pct": 99.07,
+   "attacks": 32
   },
   "members": [
    {
@@ -151,7 +151,19 @@
     "name": "Bigmac's sohn",
     "th": 19,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2CLUVYJJR",
+      "dn": "Ʉ₦฿⚡₴₵ⱧɆⱤⱤ",
+      "dpos": 5,
+      "dth": 19,
+      "s": 1,
+      "p": 77,
+      "o": 44,
+      "n": 1,
+      "dur": 142
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -402,9 +414,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 87
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -515,7 +527,7 @@
     }
    }
   ],
-  "snap": "2026-11-23T08:42:54Z"
+  "snap": "2026-11-23T08:47:54Z"
  },
  {
   "id": "war_20261119T221645Z_9CLY9V2R",
