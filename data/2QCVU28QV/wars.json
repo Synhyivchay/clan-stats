@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 22,
-   "pct": 26.47,
-   "attacks": 8
+   "stars": 28,
+   "pct": 33.13,
+   "attacks": 10
   },
   "them": {
    "tag": "#2J0PCLC8U",
@@ -353,6 +353,17 @@
       "o": 26,
       "n": 3,
       "dur": 139
+     },
+     {
+      "d": "#RL0V2202",
+      "dn": "Ʉ₦฿ ✨ の乙ムひ尺尺乇ﾉ丂",
+      "dpos": 14,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 28,
+      "n": 3,
+      "dur": 146
      }
     ],
     "def": {
@@ -413,7 +424,19 @@
     "name": "Bassko",
     "th": 19,
     "pos": 25,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2L2LQGVG8",
+      "dn": "61 NET 61",
+      "dpos": 13,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 27,
+      "n": 3,
+      "dur": 100
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -481,7 +504,7 @@
     }
    }
   ],
-  "snap": "2026-11-23T07:47:54Z"
+  "snap": "2026-11-23T07:52:54Z"
  },
  {
   "id": "war_20261119T221645Z_9CLY9V2R",
