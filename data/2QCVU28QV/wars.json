@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 50,
-   "pct": 58.63,
-   "attacks": 19
+   "stars": 53,
+   "pct": 61.97,
+   "attacks": 20
   },
   "them": {
    "tag": "#2J0PCLC8U",
@@ -24,7 +24,7 @@
    "level": 19,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 37
+   "attacks": 38
   },
   "members": [
    {
@@ -46,7 +46,7 @@
     "pos": 2,
     "attacks": [],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 3,
      "p": 100
     }
@@ -551,7 +551,19 @@
     "name": "Hattrickser",
     "th": 19,
     "pos": 26,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#28VRQ2PUL",
+      "dn": "Oktay",
+      "dpos": 23,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 58,
+      "n": 3,
+      "dur": 112
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -607,7 +619,7 @@
     }
    }
   ],
-  "snap": "2026-11-23T09:47:54Z"
+  "snap": "2026-11-23T09:52:54Z"
  },
  {
   "id": "war_20261119T221645Z_9CLY9V2R",
