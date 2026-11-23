@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
    "stars": 66,
-   "pct": 96.88,
-   "attacks": 38
+   "pct": 96.96,
+   "attacks": 41
   },
   "them": {
    "tag": "#JU2GUYY9",
@@ -253,6 +253,17 @@
       "o": 85,
       "n": 0,
       "dur": 180
+     },
+     {
+      "d": "#CVUUCCUC",
+      "dn": "win",
+      "dpos": 13,
+      "dth": 19,
+      "s": 2,
+      "p": 88,
+      "o": 86,
+      "n": 0,
+      "dur": 168
      }
     ],
     "def": {
@@ -477,7 +488,30 @@
     "name": "Relax",
     "th": 18,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8CL0LCLL",
+      "dn": "kimfatt_lai",
+      "dpos": 3,
+      "dth": 19,
+      "s": 1,
+      "p": 11,
+      "o": 87,
+      "n": 0,
+      "dur": 14
+     },
+     {
+      "d": "#2VUG98JV",
+      "dn": "Austin-Lin",
+      "dpos": 6,
+      "dth": 19,
+      "s": 1,
+      "p": 7,
+      "o": 88,
+      "n": 0,
+      "dur": 10
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -766,7 +800,7 @@
     }
    }
   ],
-  "snap": "2026-11-23T08:02:54Z"
+  "snap": "2026-11-23T08:07:54Z"
  },
  {
   "id": "war_20261118T215702Z_2CYL2V9R8",
