@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 10,
-   "pct": 12.37,
-   "attacks": 4
+   "stars": 12,
+   "pct": 15.63,
+   "attacks": 5
   },
   "them": {
    "tag": "#22GVV2RY",
    "name": "KURD POWERS",
    "badge": "https://api-assets.clashofclans.com/badges/200/sE23M9MD0Lm_75K3QeVeRF5Idpj6eAI53cVsQirxXOs.png",
    "level": 34,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 3,
+   "pct": 3.33,
+   "attacks": 1
   },
   "members": [
    {
@@ -34,9 +34,9 @@
     "pos": 1,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -128,7 +128,19 @@
     "name": "slory",
     "th": 19,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QGJLL8VJL",
+      "dn": "SHADOW KURD",
+      "dpos": 14,
+      "dth": 19,
+      "s": 2,
+      "p": 98,
+      "o": 5,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -435,7 +447,7 @@
     }
    }
   ],
-  "snap": "2026-11-24T20:45:04Z"
+  "snap": "2026-11-24T20:50:04Z"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",
