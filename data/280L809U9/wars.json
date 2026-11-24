@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 16,
-   "pct": 25.75,
-   "attacks": 6
+   "stars": 20,
+   "pct": 33.0,
+   "attacks": 8
   },
   "them": {
    "tag": "#9C9Y2LQ",
@@ -56,7 +56,30 @@
     "name": "SanixX",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2LYCGYYY2",
+      "dn": "☆♤NI$H@TH♤☆",
+      "dpos": 3,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 7,
+      "n": 3,
+      "dur": 140
+     },
+     {
+      "d": "#LVV9LP0RR",
+      "dn": "BÁttè",
+      "dpos": 17,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 8,
+      "n": 1,
+      "dur": 79
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -337,7 +360,7 @@
     }
    }
   ],
-  "snap": "2026-11-24T20:40:04Z"
+  "snap": "2026-11-24T20:45:04Z"
  },
  {
   "id": "war_20261121T102450Z_2CPVLCV8J",

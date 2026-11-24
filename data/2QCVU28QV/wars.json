@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 2,
-   "pct": 2.67,
-   "attacks": 1
+   "stars": 10,
+   "pct": 12.37,
+   "attacks": 4
   },
   "them": {
    "tag": "#22GVV2RY",
@@ -164,7 +164,19 @@
     "name": "Lennart",
     "th": 19,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9Y2YLRJVP",
+      "dn": "H.A.W.B.I.R",
+      "dpos": 12,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 2,
+      "n": 3,
+      "dur": 134
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -319,6 +331,17 @@
       "o": 1,
       "n": 2,
       "dur": 147
+     },
+     {
+      "d": "#QCQRG9LVJ",
+      "dn": "⚡KRD⚡ A҈ R҈A҈m✌",
+      "dpos": 25,
+      "dth": 19,
+      "s": 2,
+      "p": 91,
+      "o": 3,
+      "n": 2,
+      "dur": 173
      }
     ],
     "def": {
@@ -332,7 +355,19 @@
     "name": "Noah",
     "th": 19,
     "pos": 25,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P8PC8RQCY",
+      "dn": "~Ganaral~kaefey",
+      "dpos": 1,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 3,
+      "dur": 78
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -400,7 +435,7 @@
     }
    }
   ],
-  "snap": "2026-11-24T20:40:04Z"
+  "snap": "2026-11-24T20:45:04Z"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",
