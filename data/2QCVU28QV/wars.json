@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 2,
+   "pct": 2.67,
+   "attacks": 1
   },
   "them": {
    "tag": "#22GVV2RY",
@@ -308,7 +308,19 @@
     "name": "Bassko",
     "th": 19,
     "pos": 24,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8JYYRPVL8",
+      "dn": "⚡️ REBAZ⚔️ REY",
+      "dpos": 24,
+      "dth": 19,
+      "s": 2,
+      "p": 80,
+      "o": 1,
+      "n": 2,
+      "dur": 147
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -388,7 +400,7 @@
     }
    }
   ],
-  "snap": "2026-11-24T20:35:05Z"
+  "snap": "2026-11-24T20:40:04Z"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",
