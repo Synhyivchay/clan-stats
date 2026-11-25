@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
    "stars": 49,
-   "pct": 84.0,
-   "attacks": 19
+   "pct": 86.25,
+   "attacks": 20
   },
   "them": {
    "tag": "#9C9Y2LQ",
@@ -444,7 +444,19 @@
     "name": "over_lord",
     "th": 13,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YQQGGRQVP",
+      "dn": "HINYEY",
+      "dpos": 7,
+      "dth": 18,
+      "s": 0,
+      "p": 45,
+      "o": 27,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -488,7 +500,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T12:09:14Z"
+  "snap": "2026-11-25T12:14:14Z"
  },
  {
   "id": "war_20261121T102450Z_2CPVLCV8J",
