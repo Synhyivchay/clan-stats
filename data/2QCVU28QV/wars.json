@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 42,
-   "pct": 53.9,
-   "attacks": 19
+   "stars": 45,
+   "pct": 57.53,
+   "attacks": 22
   },
   "them": {
    "tag": "#22GVV2RY",
    "name": "KURD POWERS",
    "badge": "https://api-assets.clashofclans.com/badges/200/sE23M9MD0Lm_75K3QeVeRF5Idpj6eAI53cVsQirxXOs.png",
    "level": 34,
-   "stars": 48,
-   "pct": 55.47,
-   "attacks": 23
+   "stars": 67,
+   "pct": 75.47,
+   "attacks": 30
   },
   "members": [
    {
@@ -269,9 +269,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -293,9 +293,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -317,9 +317,9 @@
     "pos": 14,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 71
     }
    },
    {
@@ -339,7 +339,30 @@
     "name": "Evil Kruemel",
     "th": 19,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2RQPRJQ8G",
+      "dn": "Muhammed",
+      "dpos": 7,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 48,
+      "n": 1,
+      "dur": 145
+     },
+     {
+      "d": "#UG98QRRJ",
+      "dn": "Farman",
+      "dpos": 8,
+      "dth": 19,
+      "s": 2,
+      "p": 98,
+      "o": 49,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -401,9 +424,9 @@
     "pos": 21,
     "attacks": [],
     "def": {
-     "n": 1,
-     "s": 1,
-     "p": 71
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -436,9 +459,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -471,9 +494,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -506,9 +529,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -563,7 +586,19 @@
     "name": "hazhir ro",
     "th": 19,
     "pos": 27,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#UG98QRRJ",
+      "dn": "Farman",
+      "dpos": 8,
+      "dth": 19,
+      "s": 2,
+      "p": 73,
+      "o": 47,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -607,7 +642,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T06:14:37Z"
+  "snap": "2026-11-25T09:49:14Z"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",

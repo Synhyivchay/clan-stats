@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 37,
-   "pct": 58.68,
-   "attacks": 18
+   "stars": 43,
+   "pct": 66.68,
+   "attacks": 22
   },
   "them": {
    "tag": "#P2PL2GPJ",
    "name": "Mada's Soldiers",
    "badge": "https://api-assets.clashofclans.com/badges/200/bqm1FO49pieBpHJGD8D_hSiexQarD9YaSlDUjzaTj-M.png",
    "level": 29,
-   "stars": 27,
-   "pct": 36.0,
-   "attacks": 11
+   "stars": 30,
+   "pct": 40.0,
+   "attacks": 12
   },
   "members": [
    {
@@ -32,7 +32,30 @@
     "name": "малько",
     "th": 19,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#89UPPCY82",
+      "dn": "Rя Legend",
+      "dpos": 3,
+      "dth": 19,
+      "s": 1,
+      "p": 77,
+      "o": 33,
+      "n": 0,
+      "dur": 118
+     },
+     {
+      "d": "#YYVQ9UUQP",
+      "dn": "ghOst",
+      "dpos": 5,
+      "dth": 19,
+      "s": 2,
+      "p": 94,
+      "o": 34,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -245,7 +268,30 @@
     "name": "Разрушитель",
     "th": 18,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QL9V0VPGU",
+      "dn": "LaLAINA",
+      "dpos": 15,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 31,
+      "n": 3,
+      "dur": 151
+     },
+     {
+      "d": "#LRQY0P9LV",
+      "dn": "mah✨",
+      "dpos": 16,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 32,
+      "n": 3,
+      "dur": 173
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -365,9 +411,9 @@
     "pos": 19,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -536,7 +582,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T06:14:37Z"
+  "snap": "2026-11-25T09:49:14Z"
  },
  {
   "id": "war_20261121T101533Z_JU2GUYY9",

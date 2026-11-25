@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 37,
-   "pct": 64.0,
-   "attacks": 15
+   "stars": 43,
+   "pct": 74.0,
+   "attacks": 17
   },
   "them": {
    "tag": "#9C9Y2LQ",
    "name": "⭐️BURU SAHARA⭐️",
    "badge": "https://api-assets.clashofclans.com/badges/200/iEySYZr-TD6XUUTgZXsb9V8wPKWLhlL5sKxn1o-SrOw.png",
    "level": 20,
-   "stars": 9,
-   "pct": 15.0,
-   "attacks": 3
+   "stars": 13,
+   "pct": 21.55,
+   "attacks": 5
   },
   "members": [
    {
@@ -138,7 +138,19 @@
     "name": "DimagFM",
     "th": 19,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G20L8PQ8U",
+      "dn": "Ritte11",
+      "dpos": 6,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 19,
+      "n": 3,
+      "dur": 100
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -281,9 +293,9 @@
     "pos": 12,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 63
     }
    },
    {
@@ -291,7 +303,19 @@
     "name": "sgrassi",
     "th": 16,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2YVJPYJPJ",
+      "dn": "GaxXan",
+      "dpos": 19,
+      "dth": 14,
+      "s": 3,
+      "p": 100,
+      "o": 22,
+      "n": 3,
+      "dur": 130
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -328,9 +352,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 68
     }
    },
    {
@@ -441,7 +465,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T06:14:37Z"
+  "snap": "2026-11-25T09:49:14Z"
  },
  {
   "id": "war_20261121T102450Z_2CPVLCV8J",
