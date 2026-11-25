@@ -22,9 +22,9 @@
    "name": "KURD POWERS",
    "badge": "https://api-assets.clashofclans.com/badges/200/sE23M9MD0Lm_75K3QeVeRF5Idpj6eAI53cVsQirxXOs.png",
    "level": 34,
-   "stars": 87,
-   "pct": 98.3,
-   "attacks": 43
+   "stars": 88,
+   "pct": 99.3,
+   "attacks": 45
   },
   "members": [
    {
@@ -489,9 +489,9 @@
      }
     ],
     "def": {
-     "n": 2,
+     "n": 3,
      "s": 2,
-     "p": 71
+     "p": 99
     }
    },
    {
@@ -536,9 +536,9 @@
      }
     ],
     "def": {
-     "n": 2,
-     "s": 2,
-     "p": 98
+     "n": 3,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -1010,9 +1010,8 @@
     }
    }
   ],
-  "snap": "2026-11-25T20:34:54Z",
-  "partial": true,
-  "result": "win"
+  "result": "lose",
+  "snap": "2026-11-25T20:34:54Z"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",

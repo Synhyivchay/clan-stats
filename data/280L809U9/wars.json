@@ -1,5 +1,216 @@
 [
  {
+  "id": "war_20261125T203445Z_2GV0VLL2J",
+  "type": "war",
+  "state": "preparation",
+  "prep": "2026-11-25T20:34:45Z",
+  "start": "2026-11-26T19:34:45Z",
+  "end": "2026-11-27T19:34:45Z",
+  "teamSize": 15,
+  "apm": 2,
+  "us": {
+   "tag": "#280L809U9",
+   "name": "Badboys",
+   "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
+   "level": 25,
+   "stars": 0,
+   "pct": 0.0,
+   "attacks": 0
+  },
+  "them": {
+   "tag": "#2GV0VLL2J",
+   "name": "9 EYLÜL DEÜ",
+   "badge": "https://api-assets.clashofclans.com/badges/200/nGcvxSiUHlcBml12Bp9TJagpvsIh-Zlg_LJBMrftXEc.png",
+   "level": 13,
+   "stars": 0,
+   "pct": 0.0,
+   "attacks": 0
+  },
+  "members": [
+   {
+    "tag": "#GLCVPCCQ2",
+    "name": "Ragnar",
+    "th": 19,
+    "pos": 1,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#YUUQCGL2J",
+    "name": "SanixX",
+    "th": 18,
+    "pos": 2,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#PCUY9YUYU",
+    "name": "OO REEBOK OO",
+    "th": 18,
+    "pos": 3,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#8QUG9QQ8G",
+    "name": "ReTrO",
+    "th": 18,
+    "pos": 4,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#QJYVP0JJU",
+    "name": "Partizan",
+    "th": 19,
+    "pos": 5,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LGRVJULJJ",
+    "name": "DimagFM",
+    "th": 19,
+    "pos": 6,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#G0GP90YCL",
+    "name": "Boston",
+    "th": 18,
+    "pos": 7,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#GRQC2829L",
+    "name": "ed_sans_123",
+    "th": 17,
+    "pos": 8,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#GRGRRJLR9",
+    "name": "prime",
+    "th": 18,
+    "pos": 9,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#GUPY0JL0C",
+    "name": "салфетка",
+    "th": 16,
+    "pos": 10,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#2P0JQ09CY",
+    "name": "grootich",
+    "th": 16,
+    "pos": 11,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LRR9VR0CY",
+    "name": "Begbus",
+    "th": 16,
+    "pos": 12,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#LV9VQJ8GP",
+    "name": "Фалирит",
+    "th": 16,
+    "pos": 13,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#GUPG2L9RL",
+    "name": "Х҉А҉О҉С҉",
+    "th": 17,
+    "pos": 14,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   },
+   {
+    "tag": "#PLGRC9Q0V",
+    "name": "ZEUS",
+    "th": 13,
+    "pos": 15,
+    "attacks": [],
+    "def": {
+     "n": 0,
+     "s": null,
+     "p": null
+    }
+   }
+  ],
+  "snap": "2026-11-25T20:39:54Z"
+ },
+ {
   "id": "war_20261123T193130Z_9C9Y2LQ",
   "type": "war",
   "state": "warEnded",
