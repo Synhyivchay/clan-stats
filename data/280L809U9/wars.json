@@ -22,9 +22,9 @@
    "name": "⭐️BURU SAHARA⭐️",
    "badge": "https://api-assets.clashofclans.com/badges/200/iEySYZr-TD6XUUTgZXsb9V8wPKWLhlL5sKxn1o-SrOw.png",
    "level": 20,
-   "stars": 16,
-   "pct": 26.55,
-   "attacks": 6
+   "stars": 19,
+   "pct": 31.55,
+   "attacks": 7
   },
   "members": [
    {
@@ -164,9 +164,9 @@
     "pos": 7,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -465,7 +465,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T10:14:14Z"
+  "snap": "2026-11-25T10:19:14Z"
  },
  {
   "id": "war_20261121T102450Z_2CPVLCV8J",
