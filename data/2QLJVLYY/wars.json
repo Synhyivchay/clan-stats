@@ -22,9 +22,9 @@
    "name": "Mada's Soldiers",
    "badge": "https://api-assets.clashofclans.com/badges/200/bqm1FO49pieBpHJGD8D_hSiexQarD9YaSlDUjzaTj-M.png",
    "level": 29,
-   "stars": 36,
-   "pct": 48.0,
-   "attacks": 14
+   "stars": 39,
+   "pct": 52.0,
+   "attacks": 15
   },
   "members": [
    {
@@ -199,9 +199,9 @@
     "pos": 9,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -594,7 +594,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T11:04:14Z"
+  "snap": "2026-11-25T11:09:14Z"
  },
  {
   "id": "war_20261121T101533Z_JU2GUYY9",
