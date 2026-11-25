@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 83,
-   "pct": 97.37,
-   "attacks": 48
+   "stars": 86,
+   "pct": 98.27,
+   "attacks": 50
   },
   "them": {
    "tag": "#22GVV2RY",
@@ -324,6 +324,17 @@
       "o": 90,
       "n": 0,
       "dur": 112
+     },
+     {
+      "d": "#QYPCQ0Q2R",
+      "dn": "RawezH",
+      "dpos": 22,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 93,
+      "n": 1,
+      "dur": 134
      }
     ],
     "def": {
@@ -419,7 +430,19 @@
     "name": "Riesen_Stinker",
     "th": 19,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8YP8G9LVR",
+      "dn": "ahmad aoa",
+      "dpos": 28,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 92,
+      "n": 2,
+      "dur": 140
+     }
+    ],
     "def": {
      "n": 2,
      "s": 2,
@@ -942,7 +965,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T20:09:54Z"
+  "snap": "2026-11-25T20:14:54Z"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",
