@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 30,
-   "pct": 45.44,
-   "attacks": 13
+   "stars": 33,
+   "pct": 49.44,
+   "attacks": 14
   },
   "them": {
    "tag": "#P2PL2GPJ",
@@ -55,6 +55,17 @@
       "o": 1,
       "n": 3,
       "dur": 151
+     },
+     {
+      "d": "#LYVPV8J0Y",
+      "dn": "Maheri",
+      "dpos": 4,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 22,
+      "n": 3,
+      "dur": 165
      }
     ],
     "def": {
@@ -478,7 +489,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T03:24:37Z"
+  "snap": "2026-11-25T03:29:37Z"
  },
  {
   "id": "war_20261121T101533Z_JU2GUYY9",
