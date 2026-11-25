@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 49,
-   "pct": 61.03,
-   "attacks": 25
+   "stars": 51,
+   "pct": 64.1,
+   "attacks": 26
   },
   "them": {
    "tag": "#22GVV2RY",
@@ -43,6 +43,17 @@
       "o": 55,
       "n": 0,
       "dur": 150
+     },
+     {
+      "d": "#PGQG98CQR",
+      "dn": "الشیخ",
+      "dpos": 16,
+      "dth": 19,
+      "s": 2,
+      "p": 92,
+      "o": 56,
+      "n": 2,
+      "dur": 109
      }
     ],
     "def": {
@@ -677,7 +688,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T11:24:14Z"
+  "snap": "2026-11-25T11:29:14Z"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",
