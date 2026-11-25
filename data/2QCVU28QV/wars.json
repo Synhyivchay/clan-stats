@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 87,
-   "pct": 98.7,
-   "attacks": 52
+   "stars": 88,
+   "pct": 99.0,
+   "attacks": 53
   },
   "them": {
    "tag": "#22GVV2RY",
@@ -183,6 +183,17 @@
       "o": 89,
       "n": 1,
       "dur": 133
+     },
+     {
+      "d": "#88RC8LJYP",
+      "dn": "PIRAN",
+      "dpos": 20,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 96,
+      "n": 1,
+      "dur": 115
      }
     ],
     "def": {
@@ -988,7 +999,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T20:24:54Z"
+  "snap": "2026-11-25T20:29:54Z"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",
