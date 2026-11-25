@@ -2,7 +2,7 @@
  {
   "id": "war_20261123T213331Z_22GVV2RY",
   "type": "war",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-23T21:33:31Z",
   "start": "2026-11-24T20:33:31Z",
   "end": "2026-11-25T20:33:31Z",
@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
    "stars": 88,
-   "pct": 99.0,
-   "attacks": 53
+   "pct": 99.03,
+   "attacks": 54
   },
   "them": {
    "tag": "#22GVV2RY",
@@ -438,6 +438,17 @@
       "s": 2,
       "p": 91,
       "o": 95,
+      "n": 0,
+      "dur": 166
+     },
+     {
+      "d": "#P20R22VP",
+      "dn": "✨safa✨",
+      "dpos": 30,
+      "dth": 19,
+      "s": 2,
+      "p": 94,
+      "o": 97,
       "n": 0,
       "dur": 166
      }
@@ -999,7 +1010,9 @@
     }
    }
   ],
-  "snap": "2026-11-25T20:29:54Z"
+  "snap": "2026-11-25T20:34:54Z",
+  "partial": true,
+  "result": "win"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",
