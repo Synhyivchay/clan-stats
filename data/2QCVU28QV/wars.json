@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 35,
-   "pct": 44.7,
-   "attacks": 15
+   "stars": 38,
+   "pct": 48.03,
+   "attacks": 16
   },
   "them": {
    "tag": "#22GVV2RY",
    "name": "KURD POWERS",
    "badge": "https://api-assets.clashofclans.com/badges/200/sE23M9MD0Lm_75K3QeVeRF5Idpj6eAI53cVsQirxXOs.png",
    "level": 34,
-   "stars": 43,
-   "pct": 51.3,
-   "attacks": 21
+   "stars": 48,
+   "pct": 55.47,
+   "attacks": 23
   },
   "members": [
    {
@@ -150,7 +150,19 @@
     "name": "Marc",
     "th": 19,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8UULYLUY2",
+      "dn": "×͜×ＦＯＲＥＶＥＲ ×͜×",
+      "dpos": 15,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 38,
+      "n": 3,
+      "dur": 119
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -199,9 +211,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 1,
-     "p": 75
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -211,9 +223,9 @@
     "pos": 10,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -561,7 +573,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T04:14:37Z"
+  "snap": "2026-11-25T04:19:37Z"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",
