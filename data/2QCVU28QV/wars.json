@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 82,
-   "pct": 97.3,
-   "attacks": 46
+   "stars": 83,
+   "pct": 97.37,
+   "attacks": 48
   },
   "them": {
    "tag": "#22GVV2RY",
    "name": "KURD POWERS",
    "badge": "https://api-assets.clashofclans.com/badges/200/sE23M9MD0Lm_75K3QeVeRF5Idpj6eAI53cVsQirxXOs.png",
    "level": 34,
-   "stars": 86,
-   "pct": 97.8,
-   "attacks": 42
+   "stars": 87,
+   "pct": 98.3,
+   "attacks": 43
   },
   "members": [
    {
@@ -172,7 +172,19 @@
     "name": "Kingdingeling",
     "th": 19,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QGJLL8VJL",
+      "dn": "SHADOW KURD",
+      "dpos": 14,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 89,
+      "n": 1,
+      "dur": 133
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -301,7 +313,19 @@
     "name": "RudiV3",
     "th": 19,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#88RC8LJYP",
+      "dn": "PIRAN",
+      "dpos": 20,
+      "dth": 19,
+      "s": 2,
+      "p": 81,
+      "o": 90,
+      "n": 0,
+      "dur": 112
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -829,9 +853,9 @@
      }
     ],
     "def": {
-     "n": 2,
-     "s": 2,
-     "p": 85
+     "n": 3,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -918,7 +942,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T20:04:54Z"
+  "snap": "2026-11-25T20:09:54Z"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",
