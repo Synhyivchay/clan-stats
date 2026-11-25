@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 58,
-   "pct": 73.57,
-   "attacks": 29
+   "stars": 61,
+   "pct": 76.9,
+   "attacks": 30
   },
   "them": {
    "tag": "#22GVV2RY",
@@ -702,6 +702,17 @@
       "o": 59,
       "n": 2,
       "dur": 180
+     },
+     {
+      "d": "#JGC2JPQJ",
+      "dn": "*KP*[AhMaD]",
+      "dpos": 29,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 60,
+      "n": 3,
+      "dur": 133
      }
     ],
     "def": {
@@ -723,7 +734,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T11:59:14Z"
+  "snap": "2026-11-25T12:04:14Z"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",
