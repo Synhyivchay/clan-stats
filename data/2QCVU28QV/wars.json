@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 65,
-   "pct": 80.3,
-   "attacks": 32
+   "stars": 82,
+   "pct": 97.3,
+   "attacks": 46
   },
   "them": {
    "tag": "#22GVV2RY",
    "name": "KURD POWERS",
    "badge": "https://api-assets.clashofclans.com/badges/200/sE23M9MD0Lm_75K3QeVeRF5Idpj6eAI53cVsQirxXOs.png",
    "level": 34,
-   "stars": 69,
-   "pct": 78.57,
-   "attacks": 31
+   "stars": 86,
+   "pct": 97.8,
+   "attacks": 42
   },
   "members": [
    {
@@ -359,6 +359,17 @@
       "o": 2,
       "n": 3,
       "dur": 134
+     },
+     {
+      "d": "#PGQG98CQR",
+      "dn": "الشیخ",
+      "dpos": 16,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 86,
+      "n": 1,
+      "dur": 121
      }
     ],
     "def": {
@@ -386,7 +397,7 @@
     "pos": 14,
     "attacks": [],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 2,
      "p": 71
     }
@@ -433,9 +444,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 2,
+     "s": 2,
+     "p": 98
     }
    },
    {
@@ -478,7 +489,30 @@
     "name": "LokiPhil",
     "th": 19,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#88RC8LJYP",
+      "dn": "PIRAN",
+      "dpos": 20,
+      "dth": 19,
+      "s": 2,
+      "p": 86,
+      "o": 87,
+      "n": 0,
+      "dur": 154
+     },
+     {
+      "d": "#290VRYP0Q",
+      "dn": "SAMAN",
+      "dpos": 27,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 88,
+      "n": 3,
+      "dur": 150
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -490,11 +524,34 @@
     "name": "RudiV4",
     "th": 19,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QCQRG9LVJ",
+      "dn": "⚡KRD⚡ A҈ R҈A҈m✌",
+      "dpos": 25,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 81,
+      "n": 1,
+      "dur": 114
+     },
+     {
+      "d": "#8JYYRPVL8",
+      "dn": "⚡️ REBAZ⚔️ REY",
+      "dpos": 24,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 83,
+      "n": 1,
+      "dur": 140
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -502,7 +559,30 @@
     "name": "Leon",
     "th": 19,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#202YYCJUC",
+      "dn": "⚡️sebar⚡️",
+      "dpos": 19,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 69,
+      "n": 3,
+      "dur": 103
+     },
+     {
+      "d": "#LQ80JJVPC",
+      "dn": "Ｋ.Ｇ⚡️ＭＡＭＯ",
+      "dpos": 21,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 79,
+      "n": 2,
+      "dur": 111
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -514,7 +594,30 @@
     "name": "AnoNymous",
     "th": 19,
     "pos": 21,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JGRY08QP",
+      "dn": "✨TOP⚡️RAWAND✨",
+      "dpos": 10,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 78,
+      "n": 1,
+      "dur": 85
+     },
+     {
+      "d": "#PQJ0YCCR",
+      "dn": "HOKAR",
+      "dpos": 13,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 80,
+      "n": 1,
+      "dur": 119
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -656,9 +759,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 0,
-     "p": 13
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -666,11 +769,34 @@
     "name": "Hattrickser",
     "th": 19,
     "pos": 26,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QGJLL8VJL",
+      "dn": "SHADOW KURD",
+      "dpos": 14,
+      "dth": 19,
+      "s": 2,
+      "p": 92,
+      "o": 84,
+      "n": 0,
+      "dur": 139
+     },
+     {
+      "d": "#PGQG98CQR",
+      "dn": "الشیخ",
+      "dpos": 16,
+      "dth": 19,
+      "s": 1,
+      "p": 89,
+      "o": 85,
+      "n": 0,
+      "dur": 137
+     }
+    ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 93
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -689,12 +815,23 @@
       "o": 47,
       "n": 2,
       "dur": 180
+     },
+     {
+      "d": "#QYRQY89P9",
+      "dn": "ANg",
+      "dpos": 26,
+      "dth": 19,
+      "s": 2,
+      "p": 77,
+      "o": 70,
+      "n": 2,
+      "dur": 132
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 2,
+     "s": 2,
+     "p": 85
     }
    },
    {
@@ -702,7 +839,19 @@
     "name": "lennyy1992",
     "th": 19,
     "pos": 28,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8YP8G9LVR",
+      "dn": "ahmad aoa",
+      "dpos": 28,
+      "dth": 19,
+      "s": 1,
+      "p": 77,
+      "o": 82,
+      "n": 1,
+      "dur": 141
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -739,9 +888,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -749,15 +898,27 @@
     "name": "Cnyse",
     "th": 18,
     "pos": 30,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LQ80JJVPC",
+      "dn": "Ｋ.Ｇ⚡️ＭＡＭＯ",
+      "dpos": 21,
+      "dth": 19,
+      "s": 1,
+      "p": 69,
+      "o": 68,
+      "n": 1,
+      "dur": 103
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    }
   ],
-  "snap": "2026-11-25T15:19:14Z"
+  "snap": "2026-11-25T19:54:54Z"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",

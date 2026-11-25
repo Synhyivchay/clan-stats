@@ -2,7 +2,7 @@
  {
   "id": "war_20261123T191342Z_P2PL2GPJ",
   "type": "war",
-  "state": "inWar",
+  "state": "warEnded",
   "prep": "2026-11-23T19:13:42Z",
   "start": "2026-11-24T18:13:42Z",
   "end": "2026-11-25T18:13:42Z",
@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 51,
-   "pct": 73.64,
-   "attacks": 28
+   "stars": 72,
+   "pct": 99.56,
+   "attacks": 46
   },
   "them": {
    "tag": "#P2PL2GPJ",
    "name": "Mada's Soldiers",
    "badge": "https://api-assets.clashofclans.com/badges/200/bqm1FO49pieBpHJGD8D_hSiexQarD9YaSlDUjzaTj-M.png",
    "level": 29,
-   "stars": 57,
-   "pct": 76.0,
-   "attacks": 22
+   "stars": 75,
+   "pct": 100.0,
+   "attacks": 34
   },
   "members": [
    {
@@ -57,9 +57,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 3,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -102,11 +102,34 @@
     "name": "■◇LEGENDARNIY◇■",
     "th": 19,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#89UPPCY82",
+      "dn": "Rя Legend",
+      "dpos": 3,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 72,
+      "n": 1,
+      "dur": 99
+     },
+     {
+      "d": "#YYVQ9UUQP",
+      "dn": "ghOst",
+      "dpos": 5,
+      "dth": 19,
+      "s": 2,
+      "p": 99,
+      "o": 77,
+      "n": 0,
+      "dur": 106
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 3,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -114,7 +137,30 @@
     "name": "NumTorum",
     "th": 19,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YYQCQQ88Y",
+      "dn": "MADAGASIKARA",
+      "dpos": 6,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 75,
+      "n": 1,
+      "dur": 87
+     },
+     {
+      "d": "#2U0QQ9VGU",
+      "dn": "⚠️☢️Dahalo☢️⚠️",
+      "dpos": 7,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 78,
+      "n": 1,
+      "dur": 78
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -161,7 +207,30 @@
     "name": "Super Men",
     "th": 19,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PL909UYUR",
+      "dn": "⚡TonTon JR⚡",
+      "dpos": 9,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 76,
+      "n": 1,
+      "dur": 87
+     },
+     {
+      "d": "#YYVQ9UUQP",
+      "dn": "ghOst",
+      "dpos": 5,
+      "dth": 19,
+      "s": 1,
+      "p": 82,
+      "o": 79,
+      "n": 0,
+      "dur": 85
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -173,11 +242,34 @@
     "name": "~LuciFer~",
     "th": 19,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2U0QQ9VGU",
+      "dn": "⚠️☢️Dahalo☢️⚠️",
+      "dpos": 7,
+      "dth": 19,
+      "s": 2,
+      "p": 77,
+      "o": 55,
+      "n": 2,
+      "dur": 87
+     },
+     {
+      "d": "#2JR2V2VR0",
+      "dn": "Tony Mahefa",
+      "dpos": 10,
+      "dth": 19,
+      "s": 2,
+      "p": 81,
+      "o": 56,
+      "n": 2,
+      "dur": 106
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -185,11 +277,34 @@
     "name": "000Roma000",
     "th": 19,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8CC0JP0GY",
+      "dn": "dragon blanc",
+      "dpos": 8,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 62,
+      "n": 3,
+      "dur": 165
+     },
+     {
+      "d": "#LGVGGCVGY",
+      "dn": "Reliany",
+      "dpos": 12,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 63,
+      "n": 3,
+      "dur": 126
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -197,7 +312,30 @@
     "name": "000Sergey000",
     "th": 19,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L290QCC9P",
+      "dn": "Le coc sportif",
+      "dpos": 13,
+      "dth": 19,
+      "s": 2,
+      "p": 80,
+      "o": 64,
+      "n": 2,
+      "dur": 180
+     },
+     {
+      "d": "#2JR2V2VR0",
+      "dn": "Tony Mahefa",
+      "dpos": 10,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 65,
+      "n": 1,
+      "dur": 137
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -246,9 +384,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 3,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -256,7 +394,30 @@
     "name": "SHANARA",
     "th": 19,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QR8Y0CY0G",
+      "dn": "King♣️Micka",
+      "dpos": 23,
+      "dth": 16,
+      "s": 2,
+      "p": 97,
+      "o": 73,
+      "n": 0,
+      "dur": 98
+     },
+     {
+      "d": "#QGJLLCV8Q",
+      "dn": "MAD JACK",
+      "dpos": 21,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 74,
+      "n": 1,
+      "dur": 80
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -303,7 +464,30 @@
     "name": "Артем",
     "th": 18,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L290QCC9P",
+      "dn": "Le coc sportif",
+      "dpos": 13,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 70,
+      "n": 1,
+      "dur": 110
+     },
+     {
+      "d": "#PL909UYUR",
+      "dn": "⚡TonTon JR⚡",
+      "dpos": 9,
+      "dth": 19,
+      "s": 2,
+      "p": 60,
+      "o": 71,
+      "n": 0,
+      "dur": 79
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -315,7 +499,30 @@
     "name": "Relax",
     "th": 18,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PL909UYUR",
+      "dn": "⚡TonTon JR⚡",
+      "dpos": 9,
+      "dth": 19,
+      "s": 2,
+      "p": 59,
+      "o": 68,
+      "n": 2,
+      "dur": 89
+     },
+     {
+      "d": "#89UPPCY82",
+      "dn": "Rя Legend",
+      "dpos": 3,
+      "dth": 19,
+      "s": 1,
+      "p": 5,
+      "o": 69,
+      "n": 0,
+      "dur": 8
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -527,9 +734,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -651,6 +858,7 @@
     }
    }
   ],
+  "result": "lose",
   "snap": "2026-11-25T15:19:14Z"
  },
  {
