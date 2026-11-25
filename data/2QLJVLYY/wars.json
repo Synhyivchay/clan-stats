@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 21,
-   "pct": 31.8,
-   "attacks": 9
+   "stars": 30,
+   "pct": 45.44,
+   "attacks": 13
   },
   "them": {
    "tag": "#P2PL2GPJ",
    "name": "Mada's Soldiers",
    "badge": "https://api-assets.clashofclans.com/badges/200/bqm1FO49pieBpHJGD8D_hSiexQarD9YaSlDUjzaTj-M.png",
    "level": 29,
-   "stars": 13,
-   "pct": 19.12,
-   "attacks": 5
+   "stars": 20,
+   "pct": 27.52,
+   "attacks": 8
   },
   "members": [
    {
@@ -82,9 +82,9 @@
     "pos": 4,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 88
     }
    },
    {
@@ -341,7 +341,30 @@
     "name": "о000оо00",
     "th": 16,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#88R988CPQ",
+      "dn": "Xx_War Titan",
+      "dpos": 20,
+      "dth": 17,
+      "s": 2,
+      "p": 89,
+      "o": 20,
+      "n": 2,
+      "dur": 123
+     },
+     {
+      "d": "#PJULG2QQC",
+      "dn": "le meilleur",
+      "dpos": 22,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 21,
+      "n": 3,
+      "dur": 112
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -390,9 +413,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -400,7 +423,30 @@
     "name": "Денис",
     "th": 14,
     "pos": 23,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QR8Y0CY0G",
+      "dn": "King♣️Micka",
+      "dpos": 23,
+      "dth": 16,
+      "s": 2,
+      "p": 82,
+      "o": 16,
+      "n": 2,
+      "dur": 180
+     },
+     {
+      "d": "#QGJLLCV8Q",
+      "dn": "MAD JACK",
+      "dpos": 21,
+      "dth": 16,
+      "s": 2,
+      "p": 70,
+      "o": 17,
+      "n": 2,
+      "dur": 128
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -414,9 +460,9 @@
     "pos": 24,
     "attacks": [],
     "def": {
-     "n": 1,
-     "s": 1,
-     "p": 78
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -432,7 +478,7 @@
     }
    }
   ],
-  "snap": "2026-11-24T21:25:04Z"
+  "snap": "2026-11-25T00:39:37Z"
  },
  {
   "id": "war_20261121T101533Z_JU2GUYY9",

@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 20,
-   "pct": 33.0,
-   "attacks": 8
+   "stars": 31,
+   "pct": 54.0,
+   "attacks": 13
   },
   "them": {
    "tag": "#9C9Y2LQ",
@@ -139,7 +139,30 @@
     "name": "Partizan",
     "th": 18,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#29C8RG8QQ",
+      "dn": "♥︎♡︎micky♡︎♥︎",
+      "dpos": 18,
+      "dth": 14,
+      "s": 3,
+      "p": 100,
+      "o": 9,
+      "n": 1,
+      "dur": 85
+     },
+     {
+      "d": "#98RQLY9J9",
+      "dn": "BoogeyMan",
+      "dpos": 10,
+      "dth": 19,
+      "s": 2,
+      "p": 86,
+      "o": 11,
+      "n": 2,
+      "dur": 140
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -198,7 +221,30 @@
     "name": "grootich",
     "th": 16,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#20R8GVRLQ",
+      "dn": "Sotti",
+      "dpos": 15,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 12,
+      "n": 3,
+      "dur": 109
+     },
+     {
+      "d": "#8CUJGJU9C",
+      "dn": "Hassan",
+      "dpos": 16,
+      "dth": 17,
+      "s": 2,
+      "p": 94,
+      "o": 13,
+      "n": 2,
+      "dur": 144
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -340,7 +386,19 @@
     "name": "ZEUS",
     "th": 13,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y2LJJU8GR",
+      "dn": "montey",
+      "dpos": 20,
+      "dth": 12,
+      "s": 3,
+      "p": 100,
+      "o": 10,
+      "n": 3,
+      "dur": 128
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -360,7 +418,7 @@
     }
    }
   ],
-  "snap": "2026-11-24T21:25:04Z"
+  "snap": "2026-11-25T00:39:37Z"
  },
  {
   "id": "war_20261121T102450Z_2CPVLCV8J",

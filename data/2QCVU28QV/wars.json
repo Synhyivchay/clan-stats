@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 24,
-   "pct": 31.73,
-   "attacks": 10
+   "stars": 35,
+   "pct": 44.7,
+   "attacks": 15
   },
   "them": {
    "tag": "#22GVV2RY",
    "name": "KURD POWERS",
    "badge": "https://api-assets.clashofclans.com/badges/200/sE23M9MD0Lm_75K3QeVeRF5Idpj6eAI53cVsQirxXOs.png",
    "level": 34,
-   "stars": 21,
-   "pct": 23.33,
-   "attacks": 10
+   "stars": 41,
+   "pct": 48.23,
+   "attacks": 19
   },
   "members": [
    {
@@ -68,7 +68,30 @@
     "name": "Louis™️187",
     "th": 19,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L2L0QR2GG",
+      "dn": "68m.k",
+      "dpos": 4,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 21,
+      "n": 3,
+      "dur": 88
+     },
+     {
+      "d": "#9UL08RJL0",
+      "dn": "Dark",
+      "dpos": 5,
+      "dth": 19,
+      "s": 1,
+      "p": 92,
+      "o": 22,
+      "n": 1,
+      "dur": 156
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -103,12 +126,23 @@
       "o": 18,
       "n": 3,
       "dur": 135
+     },
+     {
+      "d": "#2RQPRJQ8G",
+      "dn": "Muhammed",
+      "dpos": 7,
+      "dth": 19,
+      "s": 2,
+      "p": 89,
+      "o": 23,
+      "n": 2,
+      "dur": 151
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -118,9 +152,9 @@
     "pos": 7,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -130,9 +164,9 @@
     "pos": 8,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 83
     }
    },
    {
@@ -225,9 +259,9 @@
     "pos": 13,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -249,9 +283,9 @@
     "pos": 15,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 80
     }
    },
    {
@@ -273,9 +307,9 @@
     "pos": 17,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -321,9 +355,9 @@
     "pos": 21,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 71
     }
    },
    {
@@ -331,7 +365,30 @@
     "name": "受理freestyle",
     "th": 19,
     "pos": 22,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9CRL0P2UR",
+      "dn": "⭐ＫＩＮＧ⭐",
+      "dpos": 6,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 28,
+      "n": 3,
+      "dur": 138
+     },
+     {
+      "d": "#9UL08RJL0",
+      "dn": "Dark",
+      "dpos": 5,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 29,
+      "n": 2,
+      "dur": 101
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -438,9 +495,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 0,
+     "p": 13
     }
    },
    {
@@ -474,9 +531,9 @@
     "pos": 28,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -504,7 +561,7 @@
     }
    }
   ],
-  "snap": "2026-11-24T21:25:04Z"
+  "snap": "2026-11-25T00:39:37Z"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",
