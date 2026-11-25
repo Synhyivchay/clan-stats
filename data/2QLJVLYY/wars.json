@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
    "stars": 43,
-   "pct": 66.68,
-   "attacks": 22
+   "pct": 66.88,
+   "attacks": 23
   },
   "them": {
    "tag": "#P2PL2GPJ",
@@ -574,7 +574,19 @@
     "name": "Денис",
     "th": 9,
     "pos": 25,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2PVLCYYCY",
+      "dn": "Brissot",
+      "dpos": 19,
+      "dth": 18,
+      "s": 0,
+      "p": 5,
+      "o": 35,
+      "n": 0,
+      "dur": 26
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -582,7 +594,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T10:29:14Z"
+  "snap": "2026-11-25T10:34:14Z"
  },
  {
   "id": "war_20261121T101533Z_JU2GUYY9",
