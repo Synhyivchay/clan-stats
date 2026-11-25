@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 40,
-   "pct": 50.6,
-   "attacks": 18
+   "stars": 42,
+   "pct": 53.9,
+   "attacks": 19
   },
   "them": {
    "tag": "#22GVV2RY",
@@ -255,6 +255,17 @@
       "o": 41,
       "n": 2,
       "dur": 124
+     },
+     {
+      "d": "#PQJ0YCCR",
+      "dn": "HOKAR",
+      "dpos": 13,
+      "dth": 19,
+      "s": 2,
+      "p": 99,
+      "o": 42,
+      "n": 2,
+      "dur": 157
      }
     ],
     "def": {
@@ -596,7 +607,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T04:39:37Z"
+  "snap": "2026-11-25T04:44:37Z"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",
