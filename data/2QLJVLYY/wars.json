@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
    "stars": 37,
-   "pct": 57.12,
-   "attacks": 17
+   "pct": 58.68,
+   "attacks": 18
   },
   "them": {
    "tag": "#P2PL2GPJ",
@@ -504,7 +504,19 @@
     "name": "denchik",
     "th": 14,
     "pos": 24,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P82Q08VLP",
+      "dn": "Flash JR",
+      "dpos": 18,
+      "dth": 17,
+      "s": 0,
+      "p": 39,
+      "o": 28,
+      "n": 0,
+      "dur": 64
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -524,7 +536,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T05:34:37Z"
+  "snap": "2026-11-25T05:39:37Z"
  },
  {
   "id": "war_20261121T101533Z_JU2GUYY9",
