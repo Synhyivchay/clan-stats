@@ -15,7 +15,7 @@
    "level": 34,
    "stars": 33,
    "pct": 49.44,
-   "attacks": 14
+   "attacks": 15
   },
   "them": {
    "tag": "#P2PL2GPJ",
@@ -387,7 +387,19 @@
     "name": "JOVI",
     "th": 15,
     "pos": 21,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QGJLLCV8Q",
+      "dn": "MAD JACK",
+      "dpos": 21,
+      "dth": 16,
+      "s": 1,
+      "p": 77,
+      "o": 24,
+      "n": 0,
+      "dur": 157
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -489,7 +501,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T04:24:37Z"
+  "snap": "2026-11-25T04:29:37Z"
  },
  {
   "id": "war_20261121T101533Z_JU2GUYY9",
