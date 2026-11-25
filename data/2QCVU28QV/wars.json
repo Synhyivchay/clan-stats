@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 49,
    "pct": 61.03,
-   "attacks": 24
+   "attacks": 25
   },
   "them": {
    "tag": "#22GVV2RY",
@@ -32,7 +32,19 @@
     "name": "Rudi",
     "th": 19,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#PQJ0YCCR",
+      "dn": "HOKAR",
+      "dpos": 13,
+      "dth": 19,
+      "s": 2,
+      "p": 96,
+      "o": 55,
+      "n": 0,
+      "dur": 150
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -665,7 +677,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T11:09:14Z"
+  "snap": "2026-11-25T11:19:14Z"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",
