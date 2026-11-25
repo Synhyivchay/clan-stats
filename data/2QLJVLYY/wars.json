@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
    "stars": 46,
-   "pct": 70.68,
-   "attacks": 24
+   "pct": 70.84,
+   "attacks": 25
   },
   "them": {
    "tag": "#P2PL2GPJ",
@@ -420,6 +420,17 @@
       "o": 39,
       "n": 3,
       "dur": 154
+     },
+     {
+      "d": "#88R988CPQ",
+      "dn": "Xx_War Titan",
+      "dpos": 20,
+      "dth": 17,
+      "s": 2,
+      "p": 93,
+      "o": 40,
+      "n": 0,
+      "dur": 167
      }
     ],
     "def": {
@@ -606,7 +617,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T11:19:14Z"
+  "snap": "2026-11-25T11:24:14Z"
  },
  {
   "id": "war_20261121T101533Z_JU2GUYY9",
