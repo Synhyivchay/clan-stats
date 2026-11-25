@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 51,
-   "pct": 64.1,
-   "attacks": 26
+   "stars": 56,
+   "pct": 70.47,
+   "attacks": 28
   },
   "them": {
    "tag": "#22GVV2RY",
@@ -67,7 +67,30 @@
     "name": "アイドル",
     "th": 19,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JGRY08QP",
+      "dn": "✨TOP⚡️RAWAND✨",
+      "dpos": 10,
+      "dth": 19,
+      "s": 2,
+      "p": 91,
+      "o": 57,
+      "n": 2,
+      "dur": 123
+     },
+     {
+      "d": "#88V8GVVPL",
+      "dn": "ALGENERAL",
+      "dpos": 18,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 58,
+      "n": 3,
+      "dur": 113
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -688,7 +711,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T11:44:14Z"
+  "snap": "2026-11-25T11:54:14Z"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",
