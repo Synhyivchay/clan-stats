@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 43,
-   "pct": 74.0,
-   "attacks": 17
+   "stars": 46,
+   "pct": 79.0,
+   "attacks": 18
   },
   "them": {
    "tag": "#9C9Y2LQ",
@@ -244,7 +244,19 @@
     "name": "prime",
     "th": 18,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#20VY82VU0",
+      "dn": "BoFFaN",
+      "dpos": 12,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 25,
+      "n": 3,
+      "dur": 77
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -465,7 +477,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T11:29:14Z"
+  "snap": "2026-11-25T11:39:14Z"
  },
  {
   "id": "war_20261121T102450Z_2CPVLCV8J",
