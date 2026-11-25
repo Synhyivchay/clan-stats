@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 61,
-   "pct": 76.9,
-   "attacks": 30
+   "stars": 62,
+   "pct": 76.97,
+   "attacks": 31
   },
   "them": {
    "tag": "#22GVV2RY",
@@ -443,7 +443,19 @@
     "name": "Luka Tate",
     "th": 19,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#UG98QRRJ",
+      "dn": "Farman",
+      "dpos": 8,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 62,
+      "n": 1,
+      "dur": 110
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -734,7 +746,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T13:54:14Z"
+  "snap": "2026-11-25T13:59:14Z"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",
