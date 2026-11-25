@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
    "stars": 46,
-   "pct": 70.84,
-   "attacks": 25
+   "pct": 71.04,
+   "attacks": 26
   },
   "them": {
    "tag": "#P2PL2GPJ",
@@ -490,6 +490,17 @@
       "o": 24,
       "n": 0,
       "dur": 157
+     },
+     {
+      "d": "#QR8Y0CY0G",
+      "dn": "King♣️Micka",
+      "dpos": 23,
+      "dth": 16,
+      "s": 2,
+      "p": 87,
+      "o": 42,
+      "n": 0,
+      "dur": 180
      }
     ],
     "def": {
@@ -617,7 +628,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T12:39:14Z"
+  "snap": "2026-11-25T12:49:14Z"
  },
  {
   "id": "war_20261121T101533Z_JU2GUYY9",
