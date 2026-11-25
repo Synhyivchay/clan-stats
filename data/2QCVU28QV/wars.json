@@ -14,8 +14,8 @@
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
    "stars": 87,
-   "pct": 98.53,
-   "attacks": 51
+   "pct": 98.7,
+   "attacks": 52
   },
   "them": {
    "tag": "#22GVV2RY",
@@ -418,7 +418,19 @@
     "name": "xXDamage",
     "th": 19,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#88RC8LJYP",
+      "dn": "PIRAN",
+      "dpos": 20,
+      "dth": 19,
+      "s": 2,
+      "p": 91,
+      "o": 95,
+      "n": 0,
+      "dur": 166
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -976,7 +988,7 @@
     }
    }
   ],
-  "snap": "2026-11-25T20:19:54Z"
+  "snap": "2026-11-25T20:24:54Z"
  },
  {
   "id": "war_20261121T214802Z_2J0PCLC8U",
