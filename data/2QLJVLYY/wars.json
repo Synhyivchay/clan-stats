@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 9,
-   "pct": 15.0,
-   "attacks": 3
+   "stars": 12,
+   "pct": 20.0,
+   "attacks": 4
   },
   "them": {
    "tag": "#YYQRUV0P",
@@ -271,7 +271,19 @@
     "name": "SAMURAY",
     "th": 16,
     "pos": 18,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2UPQQUJP",
+      "dn": "mohamad.H",
+      "dpos": 17,
+      "dth": 15,
+      "s": 3,
+      "p": 100,
+      "o": 12,
+      "n": 3,
+      "dur": 149
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -303,7 +315,7 @@
     }
    }
   ],
-  "snap": "2026-11-26T22:43:13Z"
+  "snap": "2026-11-26T22:53:13Z"
  },
  {
   "id": "war_20261123T191342Z_P2PL2GPJ",
