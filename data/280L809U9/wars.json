@@ -2,7 +2,7 @@
  {
   "id": "war_20261125T203445Z_2GV0VLL2J",
   "type": "war",
-  "state": "preparation",
+  "state": "inWar",
   "prep": "2026-11-25T20:34:45Z",
   "start": "2026-11-26T19:34:45Z",
   "end": "2026-11-27T19:34:45Z",
@@ -13,18 +13,18 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 22,
+   "pct": 50.6,
+   "attacks": 9
   },
   "them": {
    "tag": "#2GV0VLL2J",
    "name": "9 EYLÜL DEÜ",
    "badge": "https://api-assets.clashofclans.com/badges/200/nGcvxSiUHlcBml12Bp9TJagpvsIh-Zlg_LJBMrftXEc.png",
    "level": 13,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 6,
+   "pct": 13.33,
+   "attacks": 2
   },
   "members": [
    {
@@ -80,7 +80,19 @@
     "name": "Partizan",
     "th": 19,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y08PQ9LU",
+      "dn": "serhat che'lik",
+      "dpos": 6,
+      "dth": 19,
+      "s": 1,
+      "p": 74,
+      "o": 11,
+      "n": 1,
+      "dur": 97
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -116,7 +128,30 @@
     "name": "ed_sans_123",
     "th": 17,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YY8LR8220",
+      "dn": "legends",
+      "dpos": 8,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 1,
+      "n": 3,
+      "dur": 122
+     },
+     {
+      "d": "#QUVLYLU0U",
+      "dn": "GÜLTEN Ş.",
+      "dpos": 7,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 2,
+      "n": 3,
+      "dur": 143
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -142,9 +177,9 @@
     "pos": 10,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -152,11 +187,34 @@
     "name": "grootich",
     "th": 16,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2PVGQ9RRR",
+      "dn": "İsmail Ç.7",
+      "dpos": 10,
+      "dth": 16,
+      "s": 2,
+      "p": 67,
+      "o": 9,
+      "n": 2,
+      "dur": 103
+     },
+     {
+      "d": "#LR0JYY2P2",
+      "dn": "Réferee",
+      "dpos": 9,
+      "dth": 17,
+      "s": 2,
+      "p": 53,
+      "o": 10,
+      "n": 2,
+      "dur": 90
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -164,7 +222,30 @@
     "name": "Begbus",
     "th": 16,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q008Q2RPV",
+      "dn": "BoDYGu4RDs2",
+      "dpos": 12,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 3,
+      "n": 3,
+      "dur": 73
+     },
+     {
+      "d": "#8LUQCPV8",
+      "dn": "Tuğrul Bey",
+      "dpos": 11,
+      "dth": 16,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 81
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -188,7 +269,30 @@
     "name": "Х҉А҉О҉С҉",
     "th": 17,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GCY8Q0CUP",
+      "dn": "ADANA01",
+      "dpos": 14,
+      "dth": 10,
+      "s": 3,
+      "p": 100,
+      "o": 4,
+      "n": 3,
+      "dur": 75
+     },
+     {
+      "d": "#LCJ9JG20",
+      "dn": "EGE SEN",
+      "dpos": 13,
+      "dth": 14,
+      "s": 2,
+      "p": 65,
+      "o": 6,
+      "n": 2,
+      "dur": 105
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -208,7 +312,7 @@
     }
    }
   ],
-  "snap": "2026-11-26T17:52:18Z"
+  "snap": "2026-11-26T22:18:13Z"
  },
  {
   "id": "war_20261123T193130Z_9C9Y2LQ",

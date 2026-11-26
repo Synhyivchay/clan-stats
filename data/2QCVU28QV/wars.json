@@ -2,7 +2,7 @@
  {
   "id": "war_20261125T215151Z_2P8LYQJL9",
   "type": "war",
-  "state": "preparation",
+  "state": "inWar",
   "prep": "2026-11-25T21:51:51Z",
   "start": "2026-11-26T20:51:51Z",
   "end": "2026-11-27T20:51:51Z",
@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 22,
+   "pct": 28.77,
+   "attacks": 10
   },
   "them": {
    "tag": "#2P8LYQJL9",
    "name": "TEAM NL",
    "badge": "https://api-assets.clashofclans.com/badges/200/0-VmBogQPysWx9rE7rG1ts1eEwStSjE6TlI_Jw3E7fg.png",
    "level": 31,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 37,
+   "pct": 42.37,
+   "attacks": 15
   },
   "members": [
    {
@@ -34,9 +34,9 @@
     "pos": 1,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -46,9 +46,9 @@
     "pos": 2,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -58,9 +58,9 @@
     "pos": 3,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -70,9 +70,9 @@
     "pos": 4,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -118,9 +118,9 @@
     "pos": 8,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 78
     }
    },
    {
@@ -130,9 +130,9 @@
     "pos": 9,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 63
     }
    },
    {
@@ -140,11 +140,34 @@
     "name": "slory",
     "th": 19,
     "pos": 10,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RQ0Y0PV8",
+      "dn": "Lady Liberty",
+      "dpos": 20,
+      "dth": 19,
+      "s": 2,
+      "p": 99,
+      "o": 1,
+      "n": 2,
+      "dur": 180
+     },
+     {
+      "d": "#LQVJ99C",
+      "dn": "Detonator",
+      "dpos": 23,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 2,
+      "n": 3,
+      "dur": 163
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -152,7 +175,30 @@
     "name": "Bigmac's sohn",
     "th": 19,
     "pos": 11,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2YJCQGUJ",
+      "dn": "DutchMaestro",
+      "dpos": 2,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 5,
+      "n": 3,
+      "dur": 106
+     },
+     {
+      "d": "#GC9GGPJL",
+      "dn": "Westerink",
+      "dpos": 3,
+      "dth": 19,
+      "s": 1,
+      "p": 60,
+      "o": 8,
+      "n": 1,
+      "dur": 75
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -212,7 +258,30 @@
     "name": "Ｍ Λ Ｘ",
     "th": 19,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#99G2QP82J",
+      "dn": "Mr.Cave-Man",
+      "dpos": 4,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 20,
+      "n": 3,
+      "dur": 168
+     },
+     {
+      "d": "#2Q9RP99Y8",
+      "dn": "IDavidG",
+      "dpos": 10,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 22,
+      "n": 3,
+      "dur": 140
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -298,9 +367,9 @@
     "pos": 23,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -310,9 +379,9 @@
     "pos": 24,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 85
     }
    },
    {
@@ -320,11 +389,34 @@
     "name": "受理freestyle",
     "th": 19,
     "pos": 25,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RJL9UV02",
+      "dn": "[ECL] Alieh",
+      "dpos": 1,
+      "dth": 19,
+      "s": 1,
+      "p": 79,
+      "o": 16,
+      "n": 1,
+      "dur": 135
+     },
+     {
+      "d": "#GC9GGPJL",
+      "dn": "Westerink",
+      "dpos": 3,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 18,
+      "n": 2,
+      "dur": 176
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -334,9 +426,9 @@
     "pos": 26,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -346,9 +438,9 @@
     "pos": 27,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -358,9 +450,9 @@
     "pos": 28,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -368,11 +460,34 @@
     "name": "Bassko",
     "th": 19,
     "pos": 29,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#8UC2G0CCR",
+      "dn": "tonas",
+      "dpos": 25,
+      "dth": 19,
+      "s": 2,
+      "p": 92,
+      "o": 4,
+      "n": 2,
+      "dur": 131
+     },
+     {
+      "d": "#L9LJ9L8QU",
+      "dn": "kevin",
+      "dpos": 26,
+      "dth": 19,
+      "s": 2,
+      "p": 93,
+      "o": 7,
+      "n": 2,
+      "dur": 163
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 45
     }
    },
    {
@@ -388,7 +503,7 @@
     }
    }
   ],
-  "snap": "2026-11-26T17:52:18Z"
+  "snap": "2026-11-26T22:18:13Z"
  },
  {
   "id": "war_20261123T213331Z_22GVV2RY",

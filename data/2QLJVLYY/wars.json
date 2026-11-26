@@ -2,7 +2,7 @@
  {
   "id": "war_20261125T203120Z_YYQRUV0P",
   "type": "war",
-  "state": "preparation",
+  "state": "inWar",
   "prep": "2026-11-25T20:31:20Z",
   "start": "2026-11-26T19:31:20Z",
   "end": "2026-11-27T19:31:20Z",
@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 9,
+   "pct": 15.0,
+   "attacks": 3
   },
   "them": {
    "tag": "#YYQRUV0P",
    "name": "تاج و تخت",
    "badge": "https://api-assets.clashofclans.com/badges/200/fSKz2qECyLbULUnIRVBi4hq23FLhiJib7U3MFYFDTYI.png",
    "level": 29,
-   "stars": 0,
-   "pct": 0.0,
-   "attacks": 0
+   "stars": 20,
+   "pct": 36.7,
+   "attacks": 8
   },
   "members": [
    {
@@ -34,9 +34,9 @@
     "pos": 1,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 67
     }
    },
    {
@@ -154,9 +154,9 @@
     "pos": 11,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 89
     }
    },
    {
@@ -164,11 +164,23 @@
     "name": "sleace",
     "th": 19,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q0QC2YYPQ",
+      "dn": "سید علی",
+      "dpos": 11,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 3,
+      "n": 3,
+      "dur": 99
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -178,9 +190,9 @@
     "pos": 13,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -188,11 +200,34 @@
     "name": "Разрушитель",
     "th": 18,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2GVVUYJLU",
+      "dn": "hamidreza_nr",
+      "dpos": 14,
+      "dth": 17,
+      "s": 3,
+      "p": 100,
+      "o": 1,
+      "n": 3,
+      "dur": 127
+     },
+     {
+      "d": "#GGQQVUJYG",
+      "dn": "hsnfarokhi",
+      "dpos": 13,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 2,
+      "n": 3,
+      "dur": 127
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -202,9 +237,9 @@
     "pos": 15,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -250,9 +285,9 @@
     "pos": 19,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 78
     }
    },
    {
@@ -262,13 +297,13 @@
     "pos": 20,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    }
   ],
-  "snap": "2026-11-26T17:52:18Z"
+  "snap": "2026-11-26T22:18:13Z"
  },
  {
   "id": "war_20261123T191342Z_P2PL2GPJ",
