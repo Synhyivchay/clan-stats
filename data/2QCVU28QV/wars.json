@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 55
+   "attacks": 57
   },
   "them": {
    "tag": "#2P8LYQJL9",
@@ -651,7 +651,30 @@
     "name": "RudiV4",
     "th": 19,
     "pos": 19,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RJL9UV02",
+      "dn": "[ECL] Alieh",
+      "dpos": 1,
+      "dth": 19,
+      "s": 1,
+      "p": 31,
+      "o": 115,
+      "n": 0,
+      "dur": 180
+     },
+     {
+      "d": "#2YJCQGUJ",
+      "dn": "DutchMaestro",
+      "dpos": 2,
+      "dth": 19,
+      "s": 2,
+      "p": 56,
+      "o": 116,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -1021,7 +1044,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T20:24:51Z"
+  "snap": "2026-11-27T20:34:51Z"
  },
  {
   "id": "war_20261123T213331Z_22GVV2RY",
