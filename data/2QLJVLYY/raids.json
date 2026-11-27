@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 329308,
+  "loot": 340537,
   "raids": 4,
-  "attacks": 88,
-  "districts": 30,
+  "attacks": 91,
+  "districts": 31,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -89,6 +89,13 @@
     "loot": 17795
    },
    {
+    "tag": "#YCU8JR28U",
+    "name": "SHANARA",
+    "a": 5,
+    "lim": 6,
+    "loot": 17612
+   },
+   {
     "tag": "#89RL09YL9",
     "name": "Разрушитель",
     "a": 6,
@@ -115,13 +122,6 @@
     "a": 3,
     "lim": 6,
     "loot": 8671
-   },
-   {
-    "tag": "#YCU8JR28U",
-    "name": "SHANARA",
-    "a": 2,
-    "lim": 6,
-    "loot": 6383
    }
   ]
  },
