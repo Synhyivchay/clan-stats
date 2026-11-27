@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 89,
-   "pct": 99.77,
-   "attacks": 43
+   "stars": 90,
+   "pct": 100.0,
+   "attacks": 44
   },
   "them": {
    "tag": "#2P8LYQJL9",
@@ -67,7 +67,19 @@
     "name": "アイドル",
     "th": 19,
     "pos": 2,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#L9LJ9L8QU",
+      "dn": "kevin",
+      "dpos": 26,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 86,
+      "n": 1,
+      "dur": 98
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -883,7 +895,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T17:14:51Z"
+  "snap": "2026-11-27T17:19:51Z"
  },
  {
   "id": "war_20261123T213331Z_22GVV2RY",
