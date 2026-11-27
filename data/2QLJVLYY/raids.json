@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 9781,
+  "loot": 12466,
   "raids": 0,
-  "attacks": 2,
+  "attacks": 3,
   "districts": 1,
   "offReward": 0,
   "defReward": 0,
@@ -17,6 +17,13 @@
     "a": 2,
     "lim": 6,
     "loot": 9781
+   },
+   {
+    "tag": "#QL0J0RY8Q",
+    "name": "ebobo",
+    "a": 1,
+    "lim": 5,
+    "loot": 2685
    }
   ]
  },

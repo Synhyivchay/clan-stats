@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 13992,
+  "loot": 22502,
   "raids": 0,
-  "attacks": 6,
+  "attacks": 9,
   "districts": 1,
   "offReward": 0,
   "defReward": 0,
@@ -21,9 +21,16 @@
    {
     "tag": "#GRULLYL0L",
     "name": "alijon",
-    "a": 0,
+    "a": 2,
     "lim": 5,
-    "loot": 0
+    "loot": 5865
+   },
+   {
+    "tag": "#2P0JQ09CY",
+    "name": "grootich",
+    "a": 1,
+    "lim": 5,
+    "loot": 2645
    }
   ]
  },
