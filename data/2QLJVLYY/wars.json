@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 50,
-   "pct": 84.2,
-   "attacks": 21
+   "stars": 57,
+   "pct": 95.0,
+   "attacks": 24
   },
   "them": {
    "tag": "#YYQRUV0P",
@@ -148,6 +148,17 @@
       "o": 38,
       "n": 3,
       "dur": 92
+     },
+     {
+      "d": "#29JYJC0YV",
+      "dn": "j-teck",
+      "dpos": 9,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 41,
+      "n": 1,
+      "dur": 105
      }
     ],
     "def": {
@@ -185,7 +196,19 @@
     "name": "NumTorum",
     "th": 19,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#YQQVLGQ0U",
+      "dn": "Sobhan",
+      "dpos": 10,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 40,
+      "n": 3,
+      "dur": 105
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -456,6 +479,17 @@
       "o": 12,
       "n": 3,
       "dur": 149
+     },
+     {
+      "d": "#R208GYY8Q",
+      "dn": "hsnfarokhim2",
+      "dpos": 20,
+      "dth": 9,
+      "s": 3,
+      "p": 100,
+      "o": 42,
+      "n": 3,
+      "dur": 66
      }
     ],
     "def": {
@@ -512,7 +546,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T09:39:53Z"
+  "snap": "2026-11-27T09:44:53Z"
  },
  {
   "id": "war_20261123T191342Z_P2PL2GPJ",
