@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 369727,
+  "loot": 377910,
   "raids": 3,
-  "attacks": 93,
-  "districts": 34,
+  "attacks": 96,
+  "districts": 35,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -124,6 +124,13 @@
     "loot": 11526
    },
    {
+    "tag": "#YJ9UPVQ2G",
+    "name": "over_lord",
+    "a": 4,
+    "lim": 6,
+    "loot": 11223
+   },
+   {
     "tag": "#GRULLYL0L",
     "name": "alijon",
     "a": 3,
@@ -143,13 +150,6 @@
     "a": 1,
     "lim": 6,
     "loot": 5906
-   },
-   {
-    "tag": "#YJ9UPVQ2G",
-    "name": "over_lord",
-    "a": 1,
-    "lim": 5,
-    "loot": 3040
    }
   ]
  },
