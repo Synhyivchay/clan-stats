@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 47
+   "attacks": 49
   },
   "them": {
    "tag": "#2P8LYQJL9",
@@ -24,7 +24,7 @@
    "level": 31,
    "stars": 89,
    "pct": 99.87,
-   "attacks": 50
+   "attacks": 51
   },
   "members": [
    {
@@ -394,7 +394,19 @@
     "name": "@Michi@",
     "th": 19,
     "pos": 12,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JYJJYY22",
+      "dn": "Will",
+      "dpos": 16,
+      "dth": 19,
+      "s": 1,
+      "p": 80,
+      "o": 100,
+      "n": 0,
+      "dur": 108
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -455,7 +467,7 @@
      }
     ],
     "def": {
-     "n": 2,
+     "n": 3,
      "s": 2,
      "p": 96
     }
@@ -465,7 +477,19 @@
     "name": "Lennart",
     "th": 19,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RJL9UV02",
+      "dn": "[ECL] Alieh",
+      "dpos": 1,
+      "dth": 19,
+      "s": 2,
+      "p": 80,
+      "o": 99,
+      "n": 0,
+      "dur": 160
+     }
+    ],
     "def": {
      "n": 3,
      "s": 3,
@@ -929,7 +953,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T18:54:51Z"
+  "snap": "2026-11-27T18:59:51Z"
  },
  {
   "id": "war_20261123T213331Z_22GVV2RY",
