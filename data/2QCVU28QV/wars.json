@@ -22,9 +22,9 @@
    "name": "TEAM NL",
    "badge": "https://api-assets.clashofclans.com/badges/200/0-VmBogQPysWx9rE7rG1ts1eEwStSjE6TlI_Jw3E7fg.png",
    "level": 31,
-   "stars": 64,
-   "pct": 74.33,
-   "attacks": 26
+   "stars": 66,
+   "pct": 76.97,
+   "attacks": 27
   },
   "members": [
    {
@@ -317,9 +317,9 @@
     "pos": 14,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 79
     }
    },
    {
@@ -665,7 +665,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T09:24:53Z"
+  "snap": "2026-11-27T09:29:53Z"
  },
  {
   "id": "war_20261123T213331Z_22GVV2RY",
