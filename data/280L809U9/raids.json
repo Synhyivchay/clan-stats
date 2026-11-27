@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 2980,
+  "loot": 6490,
   "raids": 0,
-  "attacks": 1,
+  "attacks": 3,
   "districts": 0,
   "offReward": 0,
   "defReward": 0,
@@ -14,9 +14,9 @@
    {
     "tag": "#GUPG2L9RL",
     "name": "Х҉А҉О҉С҉",
-    "a": 1,
+    "a": 3,
     "lim": 5,
-    "loot": 2980
+    "loot": 6490
    }
   ]
  },
