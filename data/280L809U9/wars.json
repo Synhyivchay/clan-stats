@@ -22,9 +22,9 @@
    "name": "9 EYLÜL DEÜ",
    "badge": "https://api-assets.clashofclans.com/badges/200/nGcvxSiUHlcBml12Bp9TJagpvsIh-Zlg_LJBMrftXEc.png",
    "level": 13,
-   "stars": 12,
-   "pct": 26.67,
-   "attacks": 4
+   "stars": 18,
+   "pct": 40.0,
+   "attacks": 6
   },
   "members": [
    {
@@ -387,9 +387,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -422,13 +422,13 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    }
   ],
-  "snap": "2026-11-27T08:59:53Z"
+  "snap": "2026-11-27T09:09:53Z"
  },
  {
   "id": "war_20261123T193130Z_9C9Y2LQ",
