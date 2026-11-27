@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 24,
-   "pct": 29.47,
-   "attacks": 11
+   "stars": 27,
+   "pct": 32.8,
+   "attacks": 12
   },
   "them": {
    "tag": "#2P8LYQJL9",
@@ -104,7 +104,19 @@
     "name": "Kingdingeling",
     "th": 19,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LLLCU8QL",
+      "dn": "Clijmart",
+      "dpos": 5,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 28,
+      "n": 3,
+      "dur": 124
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -515,7 +527,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T02:38:13Z"
+  "snap": "2026-11-27T02:48:13Z"
  },
  {
   "id": "war_20261123T213331Z_22GVV2RY",

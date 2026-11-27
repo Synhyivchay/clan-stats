@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 18,
-   "pct": 30.0,
-   "attacks": 6
+   "stars": 21,
+   "pct": 35.0,
+   "attacks": 7
   },
   "them": {
    "tag": "#YYQRUV0P",
@@ -247,7 +247,19 @@
     "name": "MR.KING",
     "th": 18,
     "pos": 16,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y0LL20QV",
+      "dn": "☆KARTAL☆",
+      "dpos": 1,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 21,
+      "n": 3,
+      "dur": 152
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -338,7 +350,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T02:38:13Z"
+  "snap": "2026-11-27T02:48:13Z"
  },
  {
   "id": "war_20261123T191342Z_P2PL2GPJ",
