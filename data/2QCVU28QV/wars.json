@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 45
+   "attacks": 46
   },
   "them": {
    "tag": "#2P8LYQJL9",
@@ -828,7 +828,19 @@
     "name": "Noah",
     "th": 19,
     "pos": 28,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LQVJ99C",
+      "dn": "Detonator",
+      "dpos": 23,
+      "dth": 19,
+      "s": 2,
+      "p": 82,
+      "o": 88,
+      "n": 0,
+      "dur": 104
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -906,7 +918,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T17:39:51Z"
+  "snap": "2026-11-27T17:44:51Z"
  },
  {
   "id": "war_20261123T213331Z_22GVV2RY",
