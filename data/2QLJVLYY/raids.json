@@ -4,19 +4,26 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 19936,
+  "loot": 30676,
   "raids": 0,
-  "attacks": 5,
-  "districts": 2,
+  "attacks": 7,
+  "districts": 3,
   "offReward": 0,
   "defReward": 0,
   "members": [
    {
     "tag": "#9J02VCC8J",
     "name": "Денис",
-    "a": 4,
+    "a": 5,
     "lim": 6,
-    "loot": 17251
+    "loot": 21401
+   },
+   {
+    "tag": "#9GV90LCR8",
+    "name": "■◇LEGENDARNIY◇■",
+    "a": 1,
+    "lim": 6,
+    "loot": 6590
    },
    {
     "tag": "#QL0J0RY8Q",
