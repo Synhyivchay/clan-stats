@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 25,
-   "pct": 57.27,
-   "attacks": 11
+   "stars": 27,
+   "pct": 63.27,
+   "attacks": 12
   },
   "them": {
    "tag": "#2GV0VLL2J",
@@ -32,7 +32,19 @@
     "name": "Ragnar",
     "th": 19,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#P2VC82RJ",
+      "dn": "başbuğ Atatürk",
+      "dpos": 1,
+      "dth": 19,
+      "s": 2,
+      "p": 90,
+      "o": 16,
+      "n": 2,
+      "dur": 165
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -335,7 +347,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T02:58:13Z"
+  "snap": "2026-11-27T03:03:13Z"
  },
  {
   "id": "war_20261123T193130Z_9C9Y2LQ",
