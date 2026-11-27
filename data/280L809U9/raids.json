@@ -4,19 +4,47 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 122808,
-  "raids": 1,
-  "attacks": 34,
-  "districts": 11,
+  "loot": 292064,
+  "raids": 2,
+  "attacks": 75,
+  "districts": 26,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#LRR9VR0CY",
+    "name": "Begbus",
+    "a": 6,
+    "lim": 6,
+    "loot": 30287
+   },
    {
     "tag": "#GRQC2829L",
     "name": "ed_sans_123",
     "a": 6,
     "lim": 6,
     "loot": 30110
+   },
+   {
+    "tag": "#QQ90VV9L2",
+    "name": "Aviasales",
+    "a": 6,
+    "lim": 6,
+    "loot": 24574
+   },
+   {
+    "tag": "#9LLUUULPG",
+    "name": "F.A.N.T.O.M",
+    "a": 6,
+    "lim": 6,
+    "loot": 24484
+   },
+   {
+    "tag": "#2Q8JLJGCJ",
+    "name": "Kaktyc",
+    "a": 6,
+    "lim": 6,
+    "loot": 22849
    },
    {
     "tag": "#Y9YQV8CUR",
@@ -40,11 +68,39 @@
     "loot": 20463
    },
    {
+    "tag": "#LQUJ90PRU",
+    "name": "Champ",
+    "a": 5,
+    "lim": 6,
+    "loot": 20263
+   },
+   {
+    "tag": "#QG29GRYJR",
+    "name": "★K1T04KA★",
+    "a": 6,
+    "lim": 6,
+    "loot": 17653
+   },
+   {
     "tag": "#GUPG2L9RL",
     "name": "Х҉А҉О҉С҉",
     "a": 6,
     "lim": 6,
     "loot": 13992
+   },
+   {
+    "tag": "#GC0V2V2Y0",
+    "name": "sgrassi",
+    "a": 3,
+    "lim": 6,
+    "loot": 11678
+   },
+   {
+    "tag": "#G298UUQQL",
+    "name": "Қыран) •_•",
+    "a": 2,
+    "lim": 6,
+    "loot": 11562
    },
    {
     "tag": "#GRULLYL0L",
@@ -59,6 +115,13 @@
     "a": 1,
     "lim": 5,
     "loot": 6925
+   },
+   {
+    "tag": "#QPG999QV0",
+    "name": "Dipper Painz",
+    "a": 1,
+    "lim": 6,
+    "loot": 5906
    }
   ]
  },

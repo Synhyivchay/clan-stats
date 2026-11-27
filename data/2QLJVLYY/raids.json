@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 173887,
-  "raids": 1,
-  "attacks": 46,
-  "districts": 17,
+  "loot": 280020,
+  "raids": 3,
+  "attacks": 75,
+  "districts": 26,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -26,11 +26,25 @@
     "loot": 29087
    },
    {
+    "tag": "#LLUP8P8L0",
+    "name": "sleace",
+    "a": 6,
+    "lim": 6,
+    "loot": 27202
+   },
+   {
     "tag": "#9J02VCC8J",
     "name": "Денис",
     "a": 6,
     "lim": 6,
     "loot": 25501
+   },
+   {
+    "tag": "#YPR9QR0G8",
+    "name": "hunter",
+    "a": 6,
+    "lim": 6,
+    "loot": 24977
    },
    {
     "tag": "#2LCGCPR80",
@@ -40,11 +54,25 @@
     "loot": 24003
    },
    {
+    "tag": "#LPQJQ2RJP",
+    "name": "Denton",
+    "a": 6,
+    "lim": 6,
+    "loot": 22202
+   },
+   {
     "tag": "#QL0J0RY8Q",
     "name": "ebobo",
     "a": 6,
     "lim": 6,
     "loot": 21047
+   },
+   {
+    "tag": "#G0PL9VUP2",
+    "name": "Vladislav",
+    "a": 5,
+    "lim": 5,
+    "loot": 17795
    },
    {
     "tag": "#89RL09YL9",
@@ -54,6 +82,13 @@
     "loot": 17065
    },
    {
+    "tag": "#YRQQ80QQ",
+    "name": "nurik",
+    "a": 6,
+    "lim": 6,
+    "loot": 15040
+   },
+   {
     "tag": "#QUULVGRYQ",
     "name": "MR.KING",
     "a": 6,
@@ -61,11 +96,18 @@
     "loot": 14318
    },
    {
-    "tag": "#YRQQ80QQ",
-    "name": "nurik",
-    "a": 4,
+    "tag": "#GRCQ8J2JC",
+    "name": "Денис",
+    "a": 3,
     "lim": 6,
-    "loot": 11120
+    "loot": 8671
+   },
+   {
+    "tag": "#QUGLJVJP9",
+    "name": "ТЕЛЕПУЗИК",
+    "a": 1,
+    "lim": 6,
+    "loot": 1366
    }
   ]
  },

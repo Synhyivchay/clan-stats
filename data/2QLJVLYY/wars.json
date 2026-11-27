@@ -15,16 +15,16 @@
    "level": 34,
    "stars": 60,
    "pct": 100.0,
-   "attacks": 26
+   "attacks": 35
   },
   "them": {
    "tag": "#YYQRUV0P",
    "name": "تاج و تخت",
    "badge": "https://api-assets.clashofclans.com/badges/200/fSKz2qECyLbULUnIRVBi4hq23FLhiJib7U3MFYFDTYI.png",
    "level": 29,
-   "stars": 39,
-   "pct": 70.8,
-   "attacks": 18
+   "stars": 47,
+   "pct": 82.25,
+   "attacks": 23
   },
   "members": [
    {
@@ -57,7 +57,7 @@
      }
     ],
     "def": {
-     "n": 2,
+     "n": 3,
      "s": 2,
      "p": 92
     }
@@ -162,9 +162,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 70
     }
    },
    {
@@ -172,7 +172,30 @@
     "name": "000Roma000",
     "th": 19,
     "pos": 5,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y0LL20QV",
+      "dn": "☆KARTAL☆",
+      "dpos": 1,
+      "dth": 19,
+      "s": 1,
+      "p": 10,
+      "o": 53,
+      "n": 0,
+      "dur": 6
+     },
+     {
+      "d": "#CYP2RRJ9",
+      "dn": "*KRAL*",
+      "dpos": 2,
+      "dth": 19,
+      "s": 1,
+      "p": 10,
+      "o": 54,
+      "n": 0,
+      "dur": 19
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -184,7 +207,30 @@
     "name": "000Sergey000",
     "th": 19,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y0LL20QV",
+      "dn": "☆KARTAL☆",
+      "dpos": 1,
+      "dth": 19,
+      "s": 1,
+      "p": 10,
+      "o": 49,
+      "n": 0,
+      "dur": 8
+     },
+     {
+      "d": "#CYP2RRJ9",
+      "dn": "*KRAL*",
+      "dpos": 2,
+      "dth": 19,
+      "s": 1,
+      "p": 11,
+      "o": 50,
+      "n": 0,
+      "dur": 8
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -221,9 +267,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 94
     }
    },
    {
@@ -348,6 +394,17 @@
       "o": 3,
       "n": 3,
       "dur": 99
+     },
+     {
+      "d": "#90V2G92V2",
+      "dn": "IR ⚡️ AMIR",
+      "dpos": 12,
+      "dth": 18,
+      "s": 1,
+      "p": 53,
+      "o": 45,
+      "n": 0,
+      "dur": 15
      }
     ],
     "def": {
@@ -361,7 +418,30 @@
     "name": "SHANARA",
     "th": 19,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y0LL20QV",
+      "dn": "☆KARTAL☆",
+      "dpos": 1,
+      "dth": 19,
+      "s": 1,
+      "p": 9,
+      "o": 46,
+      "n": 0,
+      "dur": 14
+     },
+     {
+      "d": "#CYP2RRJ9",
+      "dn": "*KRAL*",
+      "dpos": 2,
+      "dth": 19,
+      "s": 1,
+      "p": 7,
+      "o": 47,
+      "n": 0,
+      "dur": 15
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -408,7 +488,30 @@
     "name": "Relax",
     "th": 18,
     "pos": 15,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y0LL20QV",
+      "dn": "☆KARTAL☆",
+      "dpos": 1,
+      "dth": 19,
+      "s": 1,
+      "p": 9,
+      "o": 51,
+      "n": 0,
+      "dur": 15
+     },
+     {
+      "d": "#CYP2RRJ9",
+      "dn": "*KRAL*",
+      "dpos": 2,
+      "dth": 19,
+      "s": 1,
+      "p": 8,
+      "o": 52,
+      "n": 0,
+      "dur": 15
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -515,9 +618,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 1,
-     "p": 57
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -550,9 +653,9 @@
      }
     ],
     "def": {
-     "n": 2,
-     "s": 1,
-     "p": 78
+     "n": 3,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -568,7 +671,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T10:34:53Z"
+  "snap": "2026-11-27T14:59:51Z"
  },
  {
   "id": "war_20261123T191342Z_P2PL2GPJ",

@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 64,
-   "pct": 77.77,
-   "attacks": 27
+   "stars": 85,
+   "pct": 96.17,
+   "attacks": 40
   },
   "them": {
    "tag": "#2P8LYQJL9",
    "name": "TEAM NL",
    "badge": "https://api-assets.clashofclans.com/badges/200/0-VmBogQPysWx9rE7rG1ts1eEwStSjE6TlI_Jw3E7fg.png",
    "level": 31,
-   "stars": 69,
-   "pct": 80.3,
-   "attacks": 28
+   "stars": 82,
+   "pct": 92.87,
+   "attacks": 38
   },
   "members": [
    {
@@ -32,7 +32,30 @@
     "name": "Rudi",
     "th": 19,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GYYUL9YG2",
+      "dn": "Maximum GII",
+      "dpos": 17,
+      "dth": 19,
+      "s": 2,
+      "p": 98,
+      "o": 60,
+      "n": 2,
+      "dur": 180
+     },
+     {
+      "d": "#LQ0CLVQU",
+      "dn": "bigboss",
+      "dpos": 8,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 66,
+      "n": 1,
+      "dur": 136
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -56,7 +79,19 @@
     "name": "RudiV2",
     "th": 19,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QGL22PRR",
+      "dn": "Redbull",
+      "dpos": 7,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 62,
+      "n": 1,
+      "dur": 97
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -68,7 +103,19 @@
     "name": "RudiV3",
     "th": 19,
     "pos": 4,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#GYYUL9YG2",
+      "dn": "Maximum GII",
+      "dpos": 17,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 63,
+      "n": 1,
+      "dur": 112
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -82,9 +129,9 @@
     "pos": 5,
     "attacks": [],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 89
+     "n": 3,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -103,6 +150,17 @@
       "o": 47,
       "n": 2,
       "dur": 147
+     },
+     {
+      "d": "#QJVRCCVL",
+      "dn": "JB076",
+      "dpos": 11,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 56,
+      "n": 1,
+      "dur": 89
      }
     ],
     "def": {
@@ -176,9 +234,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 78
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -211,9 +269,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 63
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -281,9 +339,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 85
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -303,11 +361,34 @@
     "name": "xXDamage",
     "th": 19,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#9PPG82YQ",
+      "dn": "Stefan",
+      "dpos": 9,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 76,
+      "n": 1,
+      "dur": 94
+     },
+     {
+      "d": "#JYJJYY22",
+      "dn": "Will",
+      "dpos": 16,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 78,
+      "n": 1,
+      "dur": 84
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 2,
+     "s": 2,
+     "p": 87
     }
    },
    {
@@ -315,7 +396,19 @@
     "name": "Killer 2000",
     "th": 19,
     "pos": 14,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#CULYP8UG",
+      "dn": "JimboJambo",
+      "dpos": 18,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 77,
+      "n": 1,
+      "dur": 168
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -364,9 +457,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -374,11 +467,34 @@
     "name": "Hattrickser",
     "th": 19,
     "pos": 17,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#CULYP8UG",
+      "dn": "JimboJambo",
+      "dpos": 18,
+      "dth": 19,
+      "s": 2,
+      "p": 94,
+      "o": 71,
+      "n": 2,
+      "dur": 180
+     },
+     {
+      "d": "#RQ0Y0PV8",
+      "dn": "Lady Liberty",
+      "dpos": 20,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 73,
+      "n": 1,
+      "dur": 113
+     }
+    ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -468,7 +584,30 @@
     "name": "LokiPhil",
     "th": 19,
     "pos": 21,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JUGPP9JG",
+      "dn": "Kooremaestro",
+      "dpos": 22,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 67,
+      "n": 3,
+      "dur": 125
+     },
+     {
+      "d": "#QR2YRL00V",
+      "dn": "ㄒ卂尺丨ﾌ卂Ҝ丨",
+      "dpos": 19,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 72,
+      "n": 3,
+      "dur": 145
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -620,6 +759,17 @@
       "o": 53,
       "n": 3,
       "dur": 114
+     },
+     {
+      "d": "#G08G8GCYJ",
+      "dn": "Remko G",
+      "dpos": 24,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 57,
+      "n": 3,
+      "dur": 116
      }
     ],
     "def": {
@@ -694,13 +844,13 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 2,
-     "p": 95
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    }
   ],
-  "snap": "2026-11-27T10:34:53Z"
+  "snap": "2026-11-27T14:59:51Z"
  },
  {
   "id": "war_20261123T213331Z_22GVV2RY",
