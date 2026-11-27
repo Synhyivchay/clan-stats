@@ -4,19 +4,26 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 6490,
+  "loot": 13992,
   "raids": 0,
-  "attacks": 3,
-  "districts": 0,
+  "attacks": 6,
+  "districts": 1,
   "offReward": 0,
   "defReward": 0,
   "members": [
    {
     "tag": "#GUPG2L9RL",
     "name": "Х҉А҉О҉С҉",
-    "a": 3,
+    "a": 6,
+    "lim": 6,
+    "loot": 13992
+   },
+   {
+    "tag": "#GRULLYL0L",
+    "name": "alijon",
+    "a": 0,
     "lim": 5,
-    "loot": 6490
+    "loot": 0
    }
   ]
  },
