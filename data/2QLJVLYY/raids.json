@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 307460,
+  "loot": 316430,
   "raids": 4,
-  "attacks": 82,
+  "attacks": 84,
   "districts": 28,
   "offReward": 0,
   "defReward": 0,
@@ -103,18 +103,18 @@
     "loot": 14318
    },
    {
+    "tag": "#QUGLJVJP9",
+    "name": "ТЕЛЕПУЗИК",
+    "a": 4,
+    "lim": 6,
+    "loot": 12046
+   },
+   {
     "tag": "#GRCQ8J2JC",
     "name": "Денис",
     "a": 3,
     "lim": 6,
     "loot": 8671
-   },
-   {
-    "tag": "#QUGLJVJP9",
-    "name": "ТЕЛЕПУЗИК",
-    "a": 2,
-    "lim": 6,
-    "loot": 3076
    }
   ]
  },
