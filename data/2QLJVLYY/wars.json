@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 37,
-   "pct": 63.7,
-   "attacks": 15
+   "stars": 40,
+   "pct": 68.7,
+   "attacks": 16
   },
   "them": {
    "tag": "#YYQRUV0P",
@@ -162,6 +162,17 @@
       "o": 33,
       "n": 0,
       "dur": 123
+     },
+     {
+      "d": "#2V9LVG2YL",
+      "dn": "dayi hasanw.b",
+      "dpos": 5,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 34,
+      "n": 3,
+      "dur": 113
      }
     ],
     "def": {
@@ -443,7 +454,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T04:59:53Z"
+  "snap": "2026-11-27T05:04:53Z"
  },
  {
   "id": "war_20261123T191342Z_P2PL2GPJ",
