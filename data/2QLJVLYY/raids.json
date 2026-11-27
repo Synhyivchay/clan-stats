@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 81160,
-  "raids": 0,
-  "attacks": 19,
-  "districts": 8,
+  "loot": 101130,
+  "raids": 1,
+  "attacks": 25,
+  "districts": 9,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -35,9 +35,16 @@
    {
     "tag": "#2LCGCPR80",
     "name": "NumTorum",
-    "a": 1,
+    "a": 4,
+    "lim": 6,
+    "loot": 16230
+   },
+   {
+    "tag": "#89RL09YL9",
+    "name": "Разрушитель",
+    "a": 3,
     "lim": 5,
-    "loot": 5525
+    "loot": 9265
    }
   ]
  },
