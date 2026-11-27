@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 92698,
+  "loot": 98388,
   "raids": 0,
-  "attacks": 28,
+  "attacks": 29,
   "districts": 8,
   "offReward": 0,
   "defReward": 0,
@@ -52,6 +52,13 @@
     "a": 1,
     "lim": 5,
     "loot": 6925
+   },
+   {
+    "tag": "#GRQC2829L",
+    "name": "ed_sans_123",
+    "a": 1,
+    "lim": 5,
+    "loot": 5690
    }
   ]
  },
