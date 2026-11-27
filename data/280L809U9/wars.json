@@ -15,7 +15,7 @@
    "level": 25,
    "stars": 44,
    "pct": 99.33,
-   "attacks": 23
+   "attacks": 25
   },
   "them": {
    "tag": "#2GV0VLL2J",
@@ -209,7 +209,30 @@
     "name": "Boston",
     "th": 18,
     "pos": 7,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#G9U02U2QP",
+      "dn": "Herz",
+      "dpos": 2,
+      "dth": 19,
+      "s": 1,
+      "p": 19,
+      "o": 30,
+      "n": 0,
+      "dur": 13
+     },
+     {
+      "d": "#9LYJPV2UR",
+      "dn": "SON NEFES",
+      "dpos": 4,
+      "dth": 18,
+      "s": 1,
+      "p": 36,
+      "o": 31,
+      "n": 0,
+      "dur": 29
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -474,7 +497,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T16:39:51Z"
+  "snap": "2026-11-27T16:44:51Z"
  },
  {
   "id": "war_20261123T193130Z_9C9Y2LQ",
