@@ -15,7 +15,7 @@
    "level": 27,
    "stars": 90,
    "pct": 100.0,
-   "attacks": 51
+   "attacks": 53
   },
   "them": {
    "tag": "#2P8LYQJL9",
@@ -24,7 +24,7 @@
    "level": 31,
    "stars": 89,
    "pct": 99.87,
-   "attacks": 51
+   "attacks": 53
   },
   "members": [
    {
@@ -478,7 +478,7 @@
      }
     ],
     "def": {
-     "n": 3,
+     "n": 5,
      "s": 2,
      "p": 96
     }
@@ -757,7 +757,30 @@
     "name": "Leon",
     "th": 19,
     "pos": 24,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RJL9UV02",
+      "dn": "[ECL] Alieh",
+      "dpos": 1,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 104,
+      "n": 0,
+      "dur": 123
+     },
+     {
+      "d": "#2YJCQGUJ",
+      "dn": "DutchMaestro",
+      "dpos": 2,
+      "dth": 19,
+      "s": 2,
+      "p": 99,
+      "o": 105,
+      "n": 0,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 4,
      "s": 3,
@@ -975,7 +998,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T19:09:51Z"
+  "snap": "2026-11-27T19:19:51Z"
  },
  {
   "id": "war_20261123T213331Z_22GVV2RY",
