@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 43,
-   "pct": 97.53,
-   "attacks": 21
+   "stars": 44,
+   "pct": 99.33,
+   "attacks": 22
   },
   "them": {
    "tag": "#2GV0VLL2J",
@@ -102,7 +102,19 @@
     "name": "OO REEBOK OO",
     "th": 18,
     "pos": 3,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Y08PQ9LU",
+      "dn": "serhat che'lik",
+      "dpos": 6,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 28,
+      "n": 1,
+      "dur": 138
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -451,7 +463,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T16:24:51Z"
+  "snap": "2026-11-27T16:29:51Z"
  },
  {
   "id": "war_20261123T193130Z_9C9Y2LQ",
