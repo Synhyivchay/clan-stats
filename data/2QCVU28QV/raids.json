@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 220958,
+  "loot": 251020,
   "raids": 2,
-  "attacks": 54,
-  "districts": 19,
+  "attacks": 60,
+  "districts": 21,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#29GQQY0R8",
+    "name": "Noah",
+    "a": 6,
+    "lim": 6,
+    "loot": 30062
+   },
    {
     "tag": "#G2LR2QVLQ",
     "name": "Terciero36",
