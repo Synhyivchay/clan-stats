@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 328815,
+  "loot": 351430,
   "raids": 3,
-  "attacks": 84,
-  "districts": 30,
+  "attacks": 88,
+  "districts": 31,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#GJ8PJY2PJ",
+    "name": "RECORD",
+    "a": 6,
+    "lim": 6,
+    "loot": 37175
+   },
    {
     "tag": "#LRR9VR0CY",
     "name": "Begbus",
@@ -59,13 +66,6 @@
     "a": 6,
     "lim": 6,
     "loot": 22167
-   },
-   {
-    "tag": "#GJ8PJY2PJ",
-    "name": "RECORD",
-    "a": 4,
-    "lim": 6,
-    "loot": 20825
    },
    {
     "tag": "#2P0JQ09CY",
@@ -129,6 +129,13 @@
     "a": 1,
     "lim": 5,
     "loot": 6925
+   },
+   {
+    "tag": "#PLGRC9Q0V",
+    "name": "ZEUS",
+    "a": 2,
+    "lim": 5,
+    "loot": 6265
    },
    {
     "tag": "#QPG999QV0",
