@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 46,
-   "pct": 55.13,
-   "attacks": 19
+   "stars": 49,
+   "pct": 58.47,
+   "attacks": 20
   },
   "them": {
    "tag": "#2P8LYQJL9",
@@ -139,7 +139,19 @@
     "name": "Riesen_Stinker",
     "th": 19,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#Q0Y8PVL8",
+      "dn": "evertmunnikk",
+      "dpos": 14,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 42,
+      "n": 3,
+      "dur": 141
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -607,7 +619,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T07:14:53Z"
+  "snap": "2026-11-27T07:19:53Z"
  },
  {
   "id": "war_20261123T213331Z_22GVV2RY",
