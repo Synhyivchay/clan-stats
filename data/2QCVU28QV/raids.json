@@ -4,26 +4,26 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 194412,
+  "loot": 195682,
   "raids": 1,
-  "attacks": 47,
+  "attacks": 48,
   "districts": 17,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#G2LR2QVLQ",
+    "name": "Terciero36",
+    "a": 6,
+    "lim": 6,
+    "loot": 27933
+   },
    {
     "tag": "#9G0GVR8GQ",
     "name": "アイドル",
     "a": 6,
     "lim": 6,
     "loot": 27589
-   },
-   {
-    "tag": "#G2LR2QVLQ",
-    "name": "Terciero36",
-    "a": 5,
-    "lim": 6,
-    "loot": 26663
    },
    {
     "tag": "#UYLJU2JQ",
