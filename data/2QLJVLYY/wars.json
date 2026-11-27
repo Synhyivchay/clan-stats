@@ -22,9 +22,9 @@
    "name": "تاج و تخت",
    "badge": "https://api-assets.clashofclans.com/badges/200/fSKz2qECyLbULUnIRVBi4hq23FLhiJib7U3MFYFDTYI.png",
    "level": 29,
-   "stars": 26,
-   "pct": 46.7,
-   "attacks": 10
+   "stars": 32,
+   "pct": 56.7,
+   "attacks": 12
   },
   "members": [
    {
@@ -58,9 +58,9 @@
     "pos": 3,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -82,9 +82,9 @@
     "pos": 5,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -315,7 +315,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T00:48:13Z"
+  "snap": "2026-11-27T00:53:13Z"
  },
  {
   "id": "war_20261123T191342Z_P2PL2GPJ",
