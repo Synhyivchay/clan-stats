@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 43143,
+  "loot": 51715,
   "raids": 0,
-  "attacks": 15,
-  "districts": 3,
+  "attacks": 17,
+  "districts": 4,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -35,9 +35,16 @@
    {
     "tag": "#GRGRRJLR9",
     "name": "prime",
-    "a": 0,
+    "a": 1,
     "lim": 5,
-    "loot": 0
+    "loot": 6925
+   },
+   {
+    "tag": "#Y9YQV8CUR",
+    "name": "GURU RANDHAWA",
+    "a": 1,
+    "lim": 6,
+    "loot": 1647
    }
   ]
  },
