@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 251020,
-  "raids": 2,
-  "attacks": 60,
-  "districts": 21,
+  "loot": 289946,
+  "raids": 3,
+  "attacks": 70,
+  "districts": 24,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -47,11 +47,25 @@
     "loot": 24571
    },
    {
+    "tag": "#9090P29L9",
+    "name": "Louis™️187",
+    "a": 6,
+    "lim": 6,
+    "loot": 24334
+   },
+   {
     "tag": "#2YRLLG9JC",
     "name": "Monkey D. Lorik",
     "a": 6,
     "lim": 6,
     "loot": 23780
+   },
+   {
+    "tag": "#2JCQPL89R",
+    "name": "؞۩׀ＰＲ０Ｔ０ＴＹＰＥ׀۩؞",
+    "a": 6,
+    "lim": 6,
+    "loot": 22597
    },
    {
     "tag": "#8LCP8GR2L",
@@ -87,13 +101,6 @@
     "a": 2,
     "lim": 5,
     "loot": 10795
-   },
-   {
-    "tag": "#2JCQPL89R",
-    "name": "؞۩׀ＰＲ０Ｔ０ＴＹＰＥ׀۩؞",
-    "a": 2,
-    "lim": 5,
-    "loot": 8005
    }
   ]
  },
