@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 22,
-   "pct": 28.77,
-   "attacks": 10
+   "stars": 24,
+   "pct": 29.47,
+   "attacks": 11
   },
   "them": {
    "tag": "#2P8LYQJL9",
@@ -329,7 +329,19 @@
     "name": "Luka Tate",
     "th": 19,
     "pos": 20,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#RJL9UV02",
+      "dn": "[ECL] Alieh",
+      "dpos": 1,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 27,
+      "n": 2,
+      "dur": 156
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -503,7 +515,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T01:03:13Z"
+  "snap": "2026-11-27T01:08:13Z"
  },
  {
   "id": "war_20261123T213331Z_22GVV2RY",
