@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 377910,
+  "loot": 383545,
   "raids": 3,
-  "attacks": 96,
+  "attacks": 98,
   "districts": 35,
   "offReward": 0,
   "defReward": 0,
@@ -96,6 +96,13 @@
     "loot": 17653
    },
    {
+    "tag": "#YJ9UPVQ2G",
+    "name": "over_lord",
+    "a": 6,
+    "lim": 6,
+    "loot": 16858
+   },
+   {
     "tag": "#GUPG2L9RL",
     "name": "Х҉А҉О҉С҉",
     "a": 6,
@@ -122,13 +129,6 @@
     "a": 4,
     "lim": 6,
     "loot": 11526
-   },
-   {
-    "tag": "#YJ9UPVQ2G",
-    "name": "over_lord",
-    "a": 4,
-    "lim": 6,
-    "loot": 11223
    },
    {
     "tag": "#GRULLYL0L",
