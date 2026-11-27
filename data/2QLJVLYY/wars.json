@@ -13,9 +13,9 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 24,
-   "pct": 40.0,
-   "attacks": 9
+   "stars": 29,
+   "pct": 49.5,
+   "attacks": 11
   },
   "them": {
    "tag": "#YYQRUV0P",
@@ -32,7 +32,30 @@
     "name": "Melata",
     "th": 19,
     "pos": 1,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2R280JUP0",
+      "dn": "arash",
+      "dpos": 3,
+      "dth": 19,
+      "s": 2,
+      "p": 90,
+      "o": 24,
+      "n": 2,
+      "dur": 169
+     },
+     {
+      "d": "#90G02222",
+      "dn": "IR ⚡ Mehran",
+      "dpos": 4,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 25,
+      "n": 3,
+      "dur": 135
+     }
+    ],
     "def": {
      "n": 2,
      "s": 2,
@@ -373,7 +396,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T03:03:13Z"
+  "snap": "2026-11-27T03:08:13Z"
  },
  {
   "id": "war_20261123T191342Z_P2PL2GPJ",
