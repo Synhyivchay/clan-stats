@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 303590,
+  "loot": 307990,
   "raids": 3,
-  "attacks": 79,
+  "attacks": 80,
   "districts": 27,
   "offReward": 0,
   "defReward": 0,
@@ -24,6 +24,13 @@
     "a": 6,
     "lim": 6,
     "loot": 30110
+   },
+   {
+    "tag": "#LQUJ90PRU",
+    "name": "Champ",
+    "a": 6,
+    "lim": 6,
+    "loot": 24663
    },
    {
     "tag": "#QQ90VV9L2",
@@ -66,13 +73,6 @@
     "a": 6,
     "lim": 6,
     "loot": 20463
-   },
-   {
-    "tag": "#LQUJ90PRU",
-    "name": "Champ",
-    "a": 5,
-    "lim": 6,
-    "loot": 20263
    },
    {
     "tag": "#QG29GRYJR",
@@ -129,6 +129,13 @@
     "a": 1,
     "lim": 6,
     "loot": 5906
+   },
+   {
+    "tag": "#GJ8PJY2PJ",
+    "name": "RECORD",
+    "a": 0,
+    "lim": 5,
+    "loot": 0
    }
   ]
  },
