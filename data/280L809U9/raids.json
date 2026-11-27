@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 51715,
+  "loot": 61882,
   "raids": 0,
-  "attacks": 17,
-  "districts": 4,
+  "attacks": 19,
+  "districts": 5,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -26,6 +26,13 @@
     "loot": 13992
    },
    {
+    "tag": "#Y9YQV8CUR",
+    "name": "GURU RANDHAWA",
+    "a": 3,
+    "lim": 6,
+    "loot": 11814
+   },
+   {
     "tag": "#GRULLYL0L",
     "name": "alijon",
     "a": 3,
@@ -38,13 +45,6 @@
     "a": 1,
     "lim": 5,
     "loot": 6925
-   },
-   {
-    "tag": "#Y9YQV8CUR",
-    "name": "GURU RANDHAWA",
-    "a": 1,
-    "lim": 6,
-    "loot": 1647
    }
   ]
  },
