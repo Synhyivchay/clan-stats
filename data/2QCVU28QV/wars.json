@@ -13,18 +13,18 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 30,
-   "pct": 36.13,
-   "attacks": 13
+   "stars": 35,
+   "pct": 41.97,
+   "attacks": 15
   },
   "them": {
    "tag": "#2P8LYQJL9",
    "name": "TEAM NL",
    "badge": "https://api-assets.clashofclans.com/badges/200/0-VmBogQPysWx9rE7rG1ts1eEwStSjE6TlI_Jw3E7fg.png",
    "level": 31,
-   "stars": 39,
-   "pct": 45.33,
-   "attacks": 16
+   "stars": 46,
+   "pct": 53.67,
+   "attacks": 19
   },
   "members": [
    {
@@ -151,7 +151,30 @@
     "name": "Marc",
     "th": 19,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#QJVRCCVL",
+      "dn": "JB076",
+      "dpos": 11,
+      "dth": 19,
+      "s": 2,
+      "p": 75,
+      "o": 30,
+      "n": 2,
+      "dur": 141
+     },
+     {
+      "d": "#Y908U2YV",
+      "dn": "badaromarra",
+      "dpos": 13,
+      "dth": 19,
+      "s": 3,
+      "p": 100,
+      "o": 31,
+      "n": 3,
+      "dur": 128
+     }
+    ],
     "def": {
      "n": 1,
      "s": 2,
@@ -390,9 +413,9 @@
     "pos": 22,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -520,9 +543,9 @@
      }
     ],
     "def": {
-     "n": 1,
-     "s": 1,
-     "p": 45
+     "n": 2,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -532,13 +555,13 @@
     "pos": 30,
     "attacks": [],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 2,
+     "p": 95
     }
    }
   ],
-  "snap": "2026-11-27T03:53:13Z"
+  "snap": "2026-11-27T04:59:53Z"
  },
  {
   "id": "war_20261123T213331Z_22GVV2RY",

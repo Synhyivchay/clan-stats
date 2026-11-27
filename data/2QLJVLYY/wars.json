@@ -13,18 +13,18 @@
    "name": "slivki sow",
    "badge": "https://api-assets.clashofclans.com/badges/200/JBh_y1H7L0m9kuF31lrYrBUFZkA0doq28Qj6rZb2n5Y.png",
    "level": 34,
-   "stars": 35,
-   "pct": 59.5,
-   "attacks": 13
+   "stars": 37,
+   "pct": 63.7,
+   "attacks": 15
   },
   "them": {
    "tag": "#YYQRUV0P",
    "name": "تاج و تخت",
    "badge": "https://api-assets.clashofclans.com/badges/200/fSKz2qECyLbULUnIRVBi4hq23FLhiJib7U3MFYFDTYI.png",
    "level": 29,
-   "stars": 35,
-   "pct": 62.95,
-   "attacks": 15
+   "stars": 39,
+   "pct": 70.8,
+   "attacks": 18
   },
   "members": [
    {
@@ -151,7 +151,19 @@
     "name": "ebobo",
     "th": 19,
     "pos": 8,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#2R280JUP0",
+      "dn": "arash",
+      "dpos": 3,
+      "dth": 19,
+      "s": 1,
+      "p": 68,
+      "o": 33,
+      "n": 0,
+      "dur": 123
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -163,7 +175,19 @@
     "name": "~LuciFer~",
     "th": 19,
     "pos": 9,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#29JYJC0YV",
+      "dn": "j-teck",
+      "dpos": 9,
+      "dth": 19,
+      "s": 2,
+      "p": 84,
+      "o": 32,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -189,7 +213,7 @@
     "pos": 11,
     "attacks": [],
     "def": {
-     "n": 1,
+     "n": 2,
      "s": 2,
      "p": 89
     }
@@ -342,9 +366,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 3,
+     "p": 100
     }
    },
    {
@@ -366,9 +390,9 @@
      }
     ],
     "def": {
-     "n": 0,
-     "s": null,
-     "p": null
+     "n": 1,
+     "s": 1,
+     "p": 57
     }
    },
    {
@@ -419,7 +443,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T03:53:13Z"
+  "snap": "2026-11-27T04:59:53Z"
  },
  {
   "id": "war_20261123T191342Z_P2PL2GPJ",

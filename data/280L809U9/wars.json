@@ -13,9 +13,9 @@
    "name": "Badboys",
    "badge": "https://api-assets.clashofclans.com/badges/200/Cyh5YIZhc-KbrC9TcW7kkawp_4NbLSE8kjhmCoigDEA.png",
    "level": 25,
-   "stars": 30,
-   "pct": 69.93,
-   "attacks": 13
+   "stars": 34,
+   "pct": 79.6,
+   "attacks": 16
   },
   "them": {
    "tag": "#2GV0VLL2J",
@@ -127,7 +127,19 @@
     "name": "DimagFM",
     "th": 19,
     "pos": 6,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#28P920C2R",
+      "dn": "Pascal21",
+      "dpos": 5,
+      "dth": 18,
+      "s": 3,
+      "p": 100,
+      "o": 18,
+      "n": 3,
+      "dur": 167
+     }
+    ],
     "def": {
      "n": 0,
      "s": null,
@@ -280,7 +292,30 @@
     "name": "Фалирит",
     "th": 16,
     "pos": 13,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#LCJ9JG20",
+      "dn": "EGE SEN",
+      "dpos": 13,
+      "dth": 14,
+      "s": 3,
+      "p": 100,
+      "o": 19,
+      "n": 1,
+      "dur": 109
+     },
+     {
+      "d": "#2PVGQ9RRR",
+      "dn": "İsmail Ç.7",
+      "dpos": 10,
+      "dth": 16,
+      "s": 2,
+      "p": 77,
+      "o": 20,
+      "n": 0,
+      "dur": 140
+     }
+    ],
     "def": {
      "n": 1,
      "s": 3,
@@ -358,7 +393,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T03:53:13Z"
+  "snap": "2026-11-27T04:59:53Z"
  },
  {
   "id": "war_20261123T193130Z_9C9Y2LQ",
