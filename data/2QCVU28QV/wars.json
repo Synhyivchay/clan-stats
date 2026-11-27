@@ -13,9 +13,9 @@
    "name": "! ELITE !",
    "badge": "https://api-assets.clashofclans.com/badges/200/1bheGiyfJRhqIiwh72SrvOrun7IsnUGc18xPrNVVNHI.png",
    "level": 27,
-   "stars": 62,
-   "pct": 74.63,
-   "attacks": 25
+   "stars": 64,
+   "pct": 77.77,
+   "attacks": 26
   },
   "them": {
    "tag": "#2P8LYQJL9",
@@ -574,7 +574,19 @@
     "name": "Terciero36",
     "th": 19,
     "pos": 26,
-    "attacks": [],
+    "attacks": [
+     {
+      "d": "#JYJJYY22",
+      "dn": "Will",
+      "dpos": 16,
+      "dth": 19,
+      "s": 2,
+      "p": 94,
+      "o": 54,
+      "n": 2,
+      "dur": 180
+     }
+    ],
     "def": {
      "n": 2,
      "s": 3,
@@ -677,7 +689,7 @@
     }
    }
   ],
-  "snap": "2026-11-27T10:19:53Z"
+  "snap": "2026-11-27T10:29:53Z"
  },
  {
   "id": "war_20261123T213331Z_22GVV2RY",
