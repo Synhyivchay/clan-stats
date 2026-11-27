@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 305750,
+  "loot": 307460,
   "raids": 4,
-  "attacks": 81,
+  "attacks": 82,
   "districts": 28,
   "offReward": 0,
   "defReward": 0,
@@ -112,9 +112,9 @@
    {
     "tag": "#QUGLJVJP9",
     "name": "ТЕЛЕПУЗИК",
-    "a": 1,
+    "a": 2,
     "lim": 6,
-    "loot": 1366
+    "loot": 3076
    }
   ]
  },
