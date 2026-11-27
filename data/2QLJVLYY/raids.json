@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 101130,
+  "loot": 123023,
   "raids": 1,
-  "attacks": 25,
-  "districts": 9,
+  "attacks": 32,
+  "districts": 11,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -26,6 +26,13 @@
     "loot": 25501
    },
    {
+    "tag": "#2LCGCPR80",
+    "name": "NumTorum",
+    "a": 6,
+    "lim": 6,
+    "loot": 24003
+   },
+   {
     "tag": "#QL0J0RY8Q",
     "name": "ebobo",
     "a": 6,
@@ -33,18 +40,18 @@
     "loot": 21047
    },
    {
-    "tag": "#2LCGCPR80",
-    "name": "NumTorum",
-    "a": 4,
-    "lim": 6,
-    "loot": 16230
-   },
-   {
     "tag": "#89RL09YL9",
     "name": "Разрушитель",
-    "a": 3,
+    "a": 6,
+    "lim": 6,
+    "loot": 17065
+   },
+   {
+    "tag": "#YRQQ80QQ",
+    "name": "nurik",
+    "a": 2,
     "lim": 5,
-    "loot": 9265
+    "loot": 6320
    }
   ]
  },
