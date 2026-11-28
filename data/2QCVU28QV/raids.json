@@ -4,9 +4,9 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 342745,
+  "loot": 352825,
   "raids": 4,
-  "attacks": 88,
+  "attacks": 92,
   "districts": 29,
   "offReward": 0,
   "defReward": 0,
@@ -110,6 +110,13 @@
     "loot": 16525
    },
    {
+    "tag": "#QUUCY9VYQ",
+    "name": "Marc",
+    "a": 6,
+    "lim": 6,
+    "loot": 16274
+   },
+   {
     "tag": "#22L9YGQ2U",
     "name": "slory",
     "a": 2,
@@ -117,11 +124,11 @@
     "loot": 11546
    },
    {
-    "tag": "#QUUCY9VYQ",
-    "name": "Marc",
-    "a": 3,
-    "lim": 6,
-    "loot": 10904
+    "tag": "#CCLJJJ80",
+    "name": "受理freestyle",
+    "a": 1,
+    "lim": 5,
+    "loot": 4710
    }
   ]
  },
