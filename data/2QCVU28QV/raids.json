@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 318706,
+  "loot": 331841,
   "raids": 4,
-  "attacks": 81,
-  "districts": 27,
+  "attacks": 85,
+  "districts": 28,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -82,6 +82,13 @@
     "loot": 21365
    },
    {
+    "tag": "#P9C8Q9RCR",
+    "name": "Hattrickser",
+    "a": 6,
+    "lim": 6,
+    "loot": 18390
+   },
+   {
     "tag": "#LYVCYUQCR",
     "name": "Jeffrey_Chicken",
     "a": 6,
@@ -108,13 +115,6 @@
     "a": 2,
     "lim": 6,
     "loot": 11546
-   },
-   {
-    "tag": "#P9C8Q9RCR",
-    "name": "Hattrickser",
-    "a": 2,
-    "lim": 5,
-    "loot": 5255
    }
   ]
  },
