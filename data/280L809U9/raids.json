@@ -4,13 +4,20 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 398658,
+  "loot": 430778,
   "raids": 5,
-  "attacks": 102,
-  "districts": 36,
+  "attacks": 107,
+  "districts": 37,
   "offReward": 0,
   "defReward": 0,
   "members": [
+   {
+    "tag": "#G298UUQQL",
+    "name": "Қыран) •_•",
+    "a": 6,
+    "lim": 6,
+    "loot": 37432
+   },
    {
     "tag": "#GJ8PJY2PJ",
     "name": "RECORD",
@@ -117,18 +124,18 @@
     "loot": 13992
    },
    {
+    "tag": "#QPG999QV0",
+    "name": "Dipper Painz",
+    "a": 2,
+    "lim": 6,
+    "loot": 12156
+   },
+   {
     "tag": "#GC0V2V2Y0",
     "name": "sgrassi",
     "a": 3,
     "lim": 6,
     "loot": 11678
-   },
-   {
-    "tag": "#G298UUQQL",
-    "name": "Қыран) •_•",
-    "a": 2,
-    "lim": 6,
-    "loot": 11562
    },
    {
     "tag": "#GRULLYL0L",
@@ -150,13 +157,6 @@
     "a": 1,
     "lim": 5,
     "loot": 6925
-   },
-   {
-    "tag": "#QPG999QV0",
-    "name": "Dipper Painz",
-    "a": 1,
-    "lim": 6,
-    "loot": 5906
    }
   ]
  },

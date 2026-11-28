@@ -4,10 +4,10 @@
   "state": "ongoing",
   "start": "2026-11-27T07:00:00Z",
   "end": "2026-11-30T07:00:00Z",
-  "loot": 375131,
-  "raids": 4,
-  "attacks": 100,
-  "districts": 34,
+  "loot": 409950,
+  "raids": 5,
+  "attacks": 109,
+  "districts": 37,
   "offReward": 0,
   "defReward": 0,
   "members": [
@@ -68,6 +68,13 @@
     "loot": 23597
    },
    {
+    "tag": "#LYQL2PCL0",
+    "name": "Родион",
+    "a": 6,
+    "lim": 6,
+    "loot": 23294
+   },
+   {
     "tag": "#LPQJQ2RJP",
     "name": "Denton",
     "a": 6,
@@ -87,6 +94,13 @@
     "a": 6,
     "lim": 6,
     "loot": 21047
+   },
+   {
+    "tag": "#GRCQ8J2JC",
+    "name": "Денис",
+    "a": 6,
+    "lim": 6,
+    "loot": 20196
    },
    {
     "tag": "#QUGLJVJP9",
@@ -122,13 +136,6 @@
     "a": 6,
     "lim": 6,
     "loot": 14318
-   },
-   {
-    "tag": "#GRCQ8J2JC",
-    "name": "Денис",
-    "a": 3,
-    "lim": 6,
-    "loot": 8671
    },
    {
     "tag": "#8J09CQQQQ",
